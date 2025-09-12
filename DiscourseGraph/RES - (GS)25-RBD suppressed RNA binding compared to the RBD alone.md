@@ -6,7 +6,7 @@ rel_5nnUOb6wBzlAwAF2Wk-ts:
 ## Data / Plots
 ![[CleanShot 2025-09-11 at 16.55.46.png]]
 
-<img width="600" height="351" alt="image" src="https://github.com/user-attachments/assets/ced25da7-bb2d-4089-b134-b8dd4a0c4e08" />
+<img width="1192" height="904" alt="image" src="https://github.com/user-attachments/assets/10e5c777-6a3c-401f-aa8d-c302c1180954" />
 
 
 ## Methods
