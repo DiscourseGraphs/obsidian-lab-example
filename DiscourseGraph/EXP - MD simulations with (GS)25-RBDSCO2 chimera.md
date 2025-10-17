@@ -4,6 +4,7 @@ targetQuestionOrHyp: "[[QUE - How do inert IDRs affect binding affinity?]]"
 rel_5nnUOb6wBzlAwAF2Wk-ts:
   - "[[RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md]]"
   - "[[RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md]]"
+  - "[[RES - maybe later we can follow up on this with another chimera variant.md]]"
 project: "[[PRJ - Molecular determinants of evolutionary conservation in disordered protein regions]]"
 status: Completed
 lead: "[[Esther Lederberg]]"
@@ -29,7 +30,7 @@ path includes {{query.file.path}}
 ## 9/22/22
 
 New result! Discussed with team, looks like [[RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone]]
-- [ ] maybe later we can follow up on this with another chimera variant
+- [ ] [[RES - maybe later we can follow up on this with another chimera variant]]
 
 ![[CleanShot 2025-09-11 at 16.55.46.png]]
 

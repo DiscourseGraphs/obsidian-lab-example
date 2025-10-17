@@ -119,6 +119,8 @@
       "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0"
     }
   ],
-  "showIdsInFrontmatter": false,
-  "nodesFolderPath": "DiscourseGraph"
+  "showIdsInFrontmatter": true,
+  "nodesFolderPath": "DiscourseGraph",
+  "canvasFolderPath": "Discourse Canvas",
+  "canvasAttachmentsFolderPath": "attachments"
 }

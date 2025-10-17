@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EXP - MD simulations with (GS)25-RBDSCO2 chimera"
+            }
+          },
+          {
+            "id": "23b79ea7d7f8643b",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-dg-preview",
+              "state": {
+                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md"
+              },
+              "icon": "lucide-file",
+              "title": "Canvas-2025-10-08-1533"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Canvas-2025-10-08-1533"
             }
           }
         ]
@@ -166,19 +179,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "806360f26703ea6b",
-            "type": "leaf",
-            "state": {
-              "type": "discourse-context-view",
-              "state": {},
-              "icon": "telescope",
-              "title": "Discourse Context"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,35 +200,39 @@
       "discourse-graphs:Toggle Discourse Context": false
     }
   },
-  "active": "4ff6877ba1245243",
+  "active": "23b79ea7d7f8643b",
   "lastOpenFiles": [
-    "Projects/My awseome new projects.canvas",
+    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
+    "Discourse Canvas/Canvas-2025-10-08-1533.md",
+    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
+    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+    "attachments",
+    "Discourse Canvas",
+    "nal canvas.json",
+    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
+    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
+    "DiscourseGraph/RES - maybe later we can follow up on this with another chimera variant.md",
+    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
     "README.md",
+    "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Home.md",
     "Joshua Lederberg.md",
     "Esther Lederberg.md",
     "Rosalind Franklin.md",
     "Lab Meeting Notes 2025.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
     "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
     "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
     "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
     "DiscourseGraph/QUE - How does the cell know to breathe?.md",
     "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
     "Projects/PRJ - my awesome new project.md",
     "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
     "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
     "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
     "DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md",
     "Meta/Templates/Project.md",
     "Projects/PRJ - my shiny new project.md",
-    "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "Meta/Templates/Personal Home Page.md",
     "Bases/Projects.base",
     "Bases/Questions.base",
     "Bases/Results.base",
@@ -233,10 +240,7 @@
     "Bases/Experiments.base",
     "Meta",
     "Templates/Untitled",
-    "Meta/Templates",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "Projects",
-    "Bases",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
   ]
