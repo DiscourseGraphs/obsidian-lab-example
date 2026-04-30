@@ -17,4 +17,15 @@ views:
     order:
       - file.name
   - type: table
+    name: Issues in this Page
+    filters:
+      and:
+        - template == "[[Issue]]"
+        - this.file.hasLink(file.name)
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
     name: View

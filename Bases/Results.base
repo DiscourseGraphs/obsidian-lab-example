@@ -17,9 +17,7 @@ views:
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
         - file.hasLink(this.file.name)
         - template == "[[Result]]"
-    sort:
-      - property: file.name
-        direction: DESC
+    sort: []
   - type: table
     name: Results and Conclusions in this Project
     filters:

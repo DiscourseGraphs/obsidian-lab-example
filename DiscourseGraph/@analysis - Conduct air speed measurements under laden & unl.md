@@ -16,6 +16,7 @@ keywords: ""
 rating: 3
 citekey: analysis - Conduct air speed measurements under laden & unl
 ---
+
 > [!Note]-
 > This is a Source describing an experimental observation. This example graph uses the same naming convention ("@Source") for both literature and experimental Sources. You might choose to differentiate the two, for ex. by using "EXP" as the prefix for your own experiments, for searchability.
  
@@ -35,7 +36,7 @@ Github: ==link to relevant repos==
 
 ![[Results.base#Results from this Experiment]]
 
-![[Issues.base#Issues from this Experiment]]
+![[Issues.base#Issues in this Page ]]
 # Todos
 
 ```tasks
@@ -47,8 +48,11 @@ not done
 
 >[!info]-
 >For experiments taking place over several days/weeks, moths, you can log your observations here. 
+
+### 2026-04-30
+- 
 ### 2026-04-24
--  
+-  new Question from [[that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
 - [ ] #task when you add ToDos to your Experimental log they show up in this query 📅 2026-05-05 
 ### 2026-02-06
 - [[ISS - better weather measurements needed]]
@@ -57,7 +61,7 @@ not done
 - coconut shape highly variable #iss-candidate 
 - European swallows are more  homogeneous in size & speed #res-candidate 
 - African swallows seem a bit faster #res-candidate 
-- 
+
 
 
 

@@ -4,6 +4,7 @@ targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE -
 lead:
 contributors:
 template: "[[Project]]"
+
 ---
 ## Resources
 
@@ -49,6 +50,7 @@ return function CanvasButton() {
 
 ## Aims
 
+Determine by a combination of empirical and mathematical means 
 
 [[QUE - Can a 5 ounce bird carry a one-pound coconut]]
 
@@ -66,7 +68,7 @@ return function CanvasButton() {
 
 # Todos
 
-- [ ] #task 📅 
+- [ ]  📅 
 
 ```datacorejsx
 return function ProjectTodos() {
@@ -165,7 +167,7 @@ return function AddLogEntry() {
     }
 
     const sep = "\n---\n";
-    const sepIdx = content.indexOf(sep);
+    const sepIdx = content.lastIndexOf(sep);
     const insertAt = sepIdx !== -1 ? sepIdx : content.length;
     const newEntry = `\n\n## ${today}\n\n`;
     await app.vault.modify(file, content.slice(0, insertAt) + newEntry + content.slice(insertAt));
@@ -180,6 +182,12 @@ return function AddLogEntry() {
   );
 }
 ```
+
+
+## 2026-04-30
+- need more coconuts #iss-candidate 
+	- ![[SwallowMontyPython.PNG|300]]
+
 
 ---
 > [!log] From daily notes

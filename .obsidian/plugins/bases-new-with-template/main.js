@@ -165,9 +165,23 @@ var BasesTemplatePlugin = class extends import_obsidian3.Plugin {
               );
               await new Promise((resolve) => setTimeout(resolve, 100));
             } else if (templaterEnabled && templaterFolder && path.startsWith(templaterFolder)) {
+              const newNoteFolder = this.app.metadataCache.getFileCache(templateFile)?.frontmatter?.newNoteFolder;
               const processed = await processTemplate(this.app, templateFile);
               if (processed) {
                 await this.app.vault.modify(file, processed);
+              }
+              if (newNoteFolder) {
+                const targetFolder = this.app.vault.getAbstractFileByPath(newNoteFolder);
+                if (targetFolder) {
+                  const newPath = `${newNoteFolder}/${file.name}`;
+                  await this.app.fileManager.renameFile(file, newPath);
+                  const movedFile = this.app.vault.getAbstractFileByPath(newPath);
+                  if (movedFile) {
+                    await this.app.fileManager.processFrontMatter(movedFile, (fm) => {
+                      delete fm.newNoteFolder;
+                    });
+                  }
+                }
               }
             }
           }

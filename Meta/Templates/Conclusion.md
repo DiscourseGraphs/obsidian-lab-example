@@ -1,5 +1,6 @@
 ---
 template: "[[Conclusion]]"
+newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-con
 contributors:

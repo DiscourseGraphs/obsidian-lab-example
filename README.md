@@ -26,10 +26,10 @@ This is an example vault that illustrates potential usage of the [discourse grap
 
 # Overall structure of the vault (and why)
 
-The current structure of this vault parallels lab discourse graphs workflows we've developed in Roam, modified for the affordances provided by Obsidian/git yet. But little of this structure is written in stone -- we follow the Obsidian convention that your vault is your own. We've tried to support reasoning about the folder structure with some rationales and marking where the existence of certain folders is important.
+The current structure of this vault parallels lab discourse graphs workflows we've developed in Roam, modified for the affordances provided by Obsidian/git. But little of this structure is written in stone -- we follow the Obsidian convention that your vault is your own. We've tried to support our reasoning about the folder structure with rationale so that you can make informed decisions about customizing your vault.
 
-- `Bases/` Your `.base` files could also inside their respective content folders (e.g., a `Projects.base` in the Project folder). Putting them in one place allows you to see which bases you've created, which is #clm-candidate more valuable as you set up your vault and less important later.
-- `DiscourseGraph/` not a bad idea to set a default location for new discourse nodes #hyp-candidate this separation-of-concerns is especially useful for users grafting the discourse graph protocol onto an mature vault.
+- `Bases/` Your `.base` files could also inside their respective content folders (e.g., a `Projects.base` in the Project folder). Putting them in one place allows you to see which bases you've created, which is ==#clm-candidate== more valuable as you set up your vault and less important later.
+- `DiscourseGraph/` not a bad idea to set a default location for new discourse nodes ==#hyp-candidate== this separation-of-concerns is especially useful for users grafting the discourse graph protocol onto an mature vault.
 - `Meta/`
 	- `Attachments/` usually it's good set a folder for attachments to go to, but it can be anywhere
 	- `Templates/` the discourse nodes can be created based on a template. the plugin needs to be pointed to a folder that contains templates to use. Templates in these folder can also be used for other notes, not just discourse nodes
@@ -37,11 +37,36 @@ The current structure of this vault parallels lab discourse graphs workflows we'
 - `Projects/` pretty self-explanatory, and probably something you want to do to track projects. 
 - `Protocols/` optional, if you want to create and track specific protocols and link to them in your experiments, and what questions they can address
 
-## Functional Modules
+# Example Graph
+
+This vault contains an example graph demonstrating how you can use a discourse graph to 
+- plan and manage projects
+- integrate insights from the literature into your own research
+- keep track of tasks and meetings
+- design experiments and record experimental data
+-  synthesize your research into a story or new initiative
+- share your ideas and results with others
+-  build and exploit your personal knowledge base
+
+The graph is descriptive, not prescriptive, showcasing specific patterns you can adopt, discard, or adapt to your own needs.
+### Project pages
+
+**Annotated example**
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2FrNriAK2fdI.png?alt=media&token=ee7e1ebc-2bc1-48fd-b7d6-6ec65d2f078f)
+
+The structure of these pages enables you to
+- Keep the broad target question(s) close by, provide space for reflecting on what has been learned from the experiments
+- Consolidate key links/resources for the project
+- Keep a log of project notes
+
+Key actions
+- Review progress by pulling in results from each experiment alongside the literature and your questions by placing them on the project canvas
+- There is a template in the example vault that you can modify (in `Meta/Templates/Project.md`)
 
 ### Experiment pages
 
-Annotated example
+**Annotated example**
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2FYvAlbf0Gk8.png?alt=media&token=d81e673e-b65f-4d70-b5dc-95fde17c8a48)
 
@@ -56,20 +81,6 @@ Key actions
 
 There is a template in the example vault that you can modify (in `Meta/Templates/Experiment.md`)
 
-### Project pages
-
-Annotated example
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2FrNriAK2fdI.png?alt=media&token=ee7e1ebc-2bc1-48fd-b7d6-6ec65d2f078f)
-
-The structure of these pages enables you to
-- Keep the broad target question(s) close by, provide space for reflecting on what has been learned from the experiments
-- Consolidate key links/resources for the project
-- Keep a log of project notes
-
-Key actions
-- Review progress by pulling in results from each experiment alongside the literature and your questions by placing them on the project canvas
-- There is a template in the example vault that you can modify (in `Meta/Templates/Project.md`)
 
 ### Creating Discourse Nodes
 
@@ -97,9 +108,15 @@ Currently this is done using the buttons in the discourse context component (see
 
 This is new in Obsidian as of the last ~month or so. It enables you to create "databases" for your notes, which you can use to view/rank/sort projects, experiments, or other things you want to track in a live updated query. We find these queries to be quite useful in our labs so it will probably be useful here too. I've included some examples in the vault.
 
+# The Decisions and Conventions files
+
+This vault contains two notes, _DECISIONS.md_ and _Conventions.md_, that function as short guides to how this vault was designed. 
+- _DECISIONS.md_ records the design decisions involved in the creation of the vault.
+- _Conventions.md_ records certain assumptions about how a vault like this might be used.
+
 # Notes
 
-Please feel free to organize the vault's folders however you like! It sounds like Graham has very substantial Obsidian experience, + there may be organizational structure patterns that work well for your lab.
+Please feel free to organize the vault's folders  according to the organizational structure patterns that work for you.
 
 ## Suggestions for how to explore discourse graphs using this example vault
 

@@ -377,3 +377,25 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - Adding a project-picker DatacoreJSX button would work but adds template complexity; a prompt-based Templater approach would require exact name typing.]]**
 
 **[[RES - Issues are collated at project level only, using the existing Issues in this Project view already embedded in Project.md. No auto-fill mechanism and no additional button added; project: is filled manually. The base view already covers the need.]]**
+
+## 2026-04-30 — Folder placement for Base-created discourse nodes
+
+**[[QUE - Notes created from a Base land in the vault root instead of DiscourseGraph — can we fix without making DiscourseGraph the default for all new notes?]]**
+
+**[[CLM - The bases-new-with-template plugin applies template content but does not control file placement; the vault default (root) is used.]]**
+**[[CLM - A newNoteFolder property on the template file's frontmatter, read by the plugin before the template is applied, lets each template declare its own target folder.]]**
+**[[EVD - The plugin already has access to templateFile and can call app.fileManager.renameFile after vault.modify; processFrontMatter cleans the property from the created note.]]**
+
+**[[RES - Patched bases-new-with-template/main.js to read newNoteFolder from the template's frontmatter and move the new file there; added newNoteFolder: DiscourseGraph to Experiment, Issue, Hypothesis, Question, Conclusion, and Result templates.]]**
+
+---
+
+## 2026-04-30 — Bases filter syntax for outlinks from the containing page
+
+**[[QUE - How do you filter a Base to show only nodes that are linked from the page containing the Base?]]**
+
+**[[CLM - `file.hasLink(this.file.name)` checks whether the candidate file links TO the current page (inlinks direction), not whether the current page links to the candidate.]]**
+**[[CLM - `file.backlinks.contains(this.file.name)` and `file.backlinks.contains(this.file.link)` do not work — backlinks array items are not comparable to plain strings or link objects via `.contains()`.]]**
+**[[CLM - The correct syntax is `this.file.hasLink(file.name)`, calling hasLink on the containing page with the candidate's name as the argument.]]**
+
+**[[RES - Use `this.file.hasLink(file.name)` to filter for nodes that are linked from the page containing the Base (outlinks direction). Use `file.hasLink(this.file.name)` for the reverse (nodes that link back to the containing page).]]**

@@ -1,4 +1,5 @@
 ---
+nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
 template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
@@ -7,7 +8,11 @@ cssclasses: dg-que
 
 # Summary
 
+![[afr-swallow.png|200]]
+![[euro-swallow.png|200]]
 ## Related QUE/CLM/EVD
+
+[[CLM - European and African swallows are not a single species]]
 
 ## Testable Hypotheses
 

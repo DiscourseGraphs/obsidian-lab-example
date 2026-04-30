@@ -3,19 +3,31 @@ template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-que
+aliases:
+  - QUE - what is the airspeed velocity of an unladen swallow?
 ---
 
 # Summary
 
 ## Related QUE/CLM/EVD
 
+[[QUE - African or European?]]
+
 ## Testable Hypotheses
+
+[[HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically]]
+
+[[HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically]]
 
 # WorkBench
 
 ## Papers
 
+[@parkFlightKinematicsBarn2001]
+
+[@schmidt-wellenburgEnergyExpenditureWing2007]
 ## Notes
+
 
 > [!log] Log
 

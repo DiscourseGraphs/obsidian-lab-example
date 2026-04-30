@@ -6,20 +6,30 @@ cssclasses: dg-iss
 status:
 lead:
 contributors:
-targetQuestionOrHyp:
-project:
+targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
+project: "[[PRJ - Passarine Songbird Cargo Capacity]]"
 Issue Type:
 ---
+> [!Info]-
+> The Issue template is identical to the Experiment template -- when you decide to turn an issue into an experiment, you can eithe duplicate the node and change the name and metadata to use your preferred EXP syntax (e.g. "@measurement -") or simply edit in place.
 ### Description 
+
+We need to either standardize weather conditions or do this in a wind tunnel.
+
+![[bird-tunnel.png|200]]
 ### Purpose 
 
+Equalize measurement conditions between runs
 ### Hypothesis 
+> [!Tip]-
+> You can pre-register your Hypothesis about the planned Experiment here.
+
+
+Wind tunnel FTW
 
 ### Resources
 
-**Protocol:**
-**Git repo:**
-**Benchling:** 
+
 # Results
 
 ![[Results.base#Results from this Experiment]]
@@ -27,7 +37,7 @@ Issue Type:
 
 ```tasks
 not done
-(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.name}})
+path includes {{query.file.path}}
 ```
 > [!log] Log
 

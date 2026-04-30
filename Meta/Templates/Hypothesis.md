@@ -1,5 +1,6 @@
 ---
 template: "[[Hypothesis]]"
+newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-hyp
 confidence:

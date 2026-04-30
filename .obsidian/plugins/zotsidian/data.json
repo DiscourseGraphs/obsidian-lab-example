@@ -26,6 +26,61 @@
       "My Library": {
         "rows": [
           {
+            "id": "pennycuickWingbeatFrequencyBirds1996",
+            "title": "Wingbeat Frequency of Birds in Steady Cruising Flight: New Data and Improved Predictions",
+            "meta": "Pennycuick (1996)",
+            "raw": {
+              "key": "JY77FRLS",
+              "version": 963,
+              "itemType": "journalArticle",
+              "title": "Wingbeat Frequency of Birds in Steady Cruising Flight: New Data and Improved Predictions",
+              "abstractNote": "Wingbeat frequencies of 15 species of birds, observed in the field in level, cruising flight were compared with predicted frequencies, calculated according to the formula derived from an earlier sample of 32 species. All of the data were collected by the author, using the same methods throughout. The new observations were predicted well for species with low wingbeat frequencies, but were underestimated at the higher frequencies. The following revised proportionality gave the best fit of the wingbeat frequency (f) to the combined data set of 47 species:  ,where m is the body mass, g is the acceleration due to gravity, b is the wingspan, S is the wing area, I is the wing moment of inertia, and ρ is the air density. As measurements of I were not available for most species, its exponent was combined with those of m and b, by assuming that I∝mb2. The following equation was fitted to the data on this basis:  These formulae are dimensionally correct, according to the rules derived in the earlier paper, and the equation is also numerically correct as it stands, without requiring a multiplication factor. For allometric comparisons between geometrically similar species, where body mass and wing measurements vary together (including wing moment of inertia), the expected relationship is f∝m−1/6. If the mass alone varies, owing to feeding or consumption of fuel, while the wing measurements and other variables remain unchanged, the expected relationship is f∝m1/2. These relationships apply to any dimensionally correct formula and are not affected by adjusting the coefficients within the dimensional constraints.",
+              "date": "1996-07-01",
+              "DOI": "10.1242/jeb.199.7.1613",
+              "citationKey": "pennycuickWingbeatFrequencyBirds1996",
+              "url": "https://doi.org/10.1242/jeb.199.7.1613",
+              "accessDate": "2026-04-30T10:25:24Z",
+              "shortTitle": "Wingbeat Frequency of Birds in Steady Cruising Flight",
+              "libraryCatalog": "Silverchair",
+              "volume": "199",
+              "pages": "1613-1618",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "7",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "C. J.",
+                  "lastName": "Pennycuick",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-30T10:25:24Z",
+              "dateModified": "2026-04-30T10:25:24Z",
+              "id": "pennycuickWingbeatFrequencyBirds1996",
+              "citation-key": "pennycuickWingbeatFrequencyBirds1996",
+              "itemKey": "JY77FRLS",
+              "zotero": "zotero://select/library/items/JY77FRLS",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1996
+                  ]
+                ]
+              },
+              "year": "1996",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol",
+              "URL": "https://doi.org/10.1242/jeb.199.7.1613"
+            }
+          },
+          {
             "id": "bribiesca-contrerasFunctionalMorphologyForelimb2021",
             "title": "Functional morphology of the forelimb musculature reflects flight and foraging styles in aquatic birds",
             "meta": "Bribiesca-Contreras (2021)",
@@ -4358,7 +4413,7 @@
             }
           }
         ],
-        "cachedAt": 1777495953458,
+        "cachedAt": 1777553321830,
         "source": "local-api"
       }
     }

@@ -1,5 +1,6 @@
 ---
 template: "[[Issue]]"
+newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-iss
 status:
@@ -26,7 +27,7 @@ Issue Type:
 
 ```tasks
 not done
-(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.name}})
+path includes {{query.file.path}}
 ```
 > [!log] Log
 

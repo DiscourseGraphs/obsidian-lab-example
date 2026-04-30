@@ -63,7 +63,7 @@ return function CanvasButton() {
 
 # Todos
 
-- [ ] #task 📅 
+- [ ] 📅 
 
 ```datacorejsx
 return function ProjectTodos() {
@@ -162,7 +162,7 @@ return function AddLogEntry() {
     }
 
     const sep = "\n---\n";
-    const sepIdx = content.indexOf(sep);
+    const sepIdx = content.lastIndexOf(sep);
     const insertAt = sepIdx !== -1 ? sepIdx : content.length;
     const newEntry = `\n\n## ${today}\n\n`;
     await app.vault.modify(file, content.slice(0, insertAt) + newEntry + content.slice(insertAt));
