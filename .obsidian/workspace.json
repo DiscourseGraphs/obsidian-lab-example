@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@analysis - Conduct air speed measurements under laden & unl"
+              "title": "@biewenerBiomechanicsAvianFlight2022"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "DiscourseGraph/CLM - European and African swallows are not a single species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Outgoing links from CLM - European and African swallows are not a single species"
             }
           },
           {
@@ -180,9 +180,19 @@
               "icon": "graduation-cap",
               "title": "References"
             }
+          },
+          {
+            "id": "b6ce9fd05b23f404",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse context"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -204,22 +214,38 @@
   },
   "active": "e6449e7e8c03a837",
   "lastOpenFiles": [
+    "DiscourseGraph/EVD - Max lift per unit flight muscle mass ~ 54-63N-kg.md",
+    "DiscourseGraph/EVD - Molecular phylogeny places European and African barn s.md",
+    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
+    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
+    "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
+    "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
+    "DiscourseGraph/CLM - European and African swallows are not a single species.md",
+    "DiscourseGraph/@schieldPhylogenyHistoricalBiogeography2024.md",
+    "DiscourseGraph/@fake paper.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated.md",
+    "DiscourseGraph/CLM - Vertebrate fliers can lift ~6× their flight muscle mass.md",
+    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "DiscourseGraph/@analysis - determination of the European swallow's flight s.md",
+    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined.md",
+    "DiscourseGraph/CLM - test claim.md",
+    "Bases/Results.base.tmp.1239.1777555340607",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
+    "Bases/Results.base",
+    "Bases/Issues.base",
+    "DiscourseGraph/@directquote-that guy on the bridge.md",
     "DECISIONS.md.tmp.1239.1777553621177",
     "Bases/Issues.base.tmp.1239.1777553375150",
     "Bases/Issues.base.tmp.1239.1777553228090",
-    "Bases/Issues.base",
-    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
     "Bases/Experiments.base",
     "Bases/Issues.base.tmp.1239.1777552655765",
     "DiscourseGraph/ISS - Enumerate swallow species.md",
     "Bases/Issues.base.tmp.1239.1777551820089",
-    "that guy on the bridge.md",
     "DiscourseGraph/QUE - What is the airspeed velocity of an unladen swallow?.md",
     "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png:Zone.Identifier",
     "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
-    "DiscourseGraph/EVD - Molecular phylogeny places European and African barn s.md",
-    "Meta/Attachments/swallow phylo.jpg:Zone.Identifier",
     "Meta/Attachments/swallow phylo.jpg",
     "Meta/Attachments/afr-swallow.png",
     "Meta/Attachments/afr-swallow.jpg",
@@ -229,27 +255,11 @@
     "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "DiscourseGraph/CLM - European and African swallows are not a single species.md",
     "DiscourseGraph/QUE - African or European?.md",
-    "Meta/Attachments/eur-swall.png:Zone.Identifier",
-    "Meta/Attachments/afr-swallow.jpg:Zone.Identifier",
     "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow.md",
     "Meta/Templates/Project.md",
     "Meta/Templates/00 Project Log.md",
-    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of stri.md",
     "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut.md",
-    "DiscourseGraph/@analysis - determination of the European swallow's flight s.md",
-    "DiscourseGraph/EVD - Maximum lift per unit flight muscle mass measured at 5.md",
-    "Untitled 1.md",
-    "Projects/PRJ - my awesome new project.md",
-    "Daily Notes/2026-04-30.md",
-    "Daily Notes/2026-04-28.md",
-    "Meta/Templates/Daily_note_template.md",
-    "Daily Notes/2026-04-01.md",
-    "README.md",
-    "Rosalind Franklin.md",
-    "Joshua Lederberg.md",
-    "Esther Lederberg.md",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
   ]

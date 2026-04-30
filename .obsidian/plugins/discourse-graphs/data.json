@@ -150,9 +150,9 @@
       "id": "rel_M4xTO_--Zo4nsjQGab9bz",
       "label": "motivates",
       "complement": "is motivated by",
-      "color": "black",
+      "color": "violet",
       "created": 1776700922649,
-      "modified": 1776700931377
+      "modified": 1777555502990
     }
   ],
   "discourseRelations": [
@@ -259,6 +259,38 @@
       "relationshipTypeId": "rel_M4xTO_--Zo4nsjQGab9bz",
       "created": 1776701448002,
       "modified": 1776701454760
+    },
+    {
+      "id": "rel3_X37Zr8i1xw1ld59Hgquct",
+      "sourceId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+      "destinationId": "node_2unblKFUVJkOdOnT8MstZ",
+      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "created": 1777555796730,
+      "modified": 1777555806931
+    },
+    {
+      "id": "rel3_1rgdfA0X4VvNYVxbZGtoE",
+      "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
+      "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
+      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "created": 1777556184668,
+      "modified": 1777556189757
+    },
+    {
+      "id": "rel3_crmuiAFpEaMHN65ZECGT1",
+      "sourceId": "node_-PIYSmr5icSFMACYAUobE",
+      "destinationId": "node_xQmEzWQFHdHy2swhrugrF",
+      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "created": 1777557949436,
+      "modified": 1777557964261
+    },
+    {
+      "id": "rel3_01qrA2ePX4RGPfjaI4Mua",
+      "sourceId": "node_-PIYSmr5icSFMACYAUobE",
+      "destinationId": "node_i7PzyKw2NfkA8asBfxeey",
+      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "created": 1777557965263,
+      "modified": 1777557972564
     }
   ],
   "showIdsInFrontmatter": true,
@@ -266,6 +298,8 @@
   "canvasFolderPath": "Discourse Canvas",
   "canvasAttachmentsFolderPath": "attachments",
   "nodeTagHotkey": "\\",
+  "spacePassword": "61d4ad9c-62b7-4054-9849-f4bc9f2bde74",
+  "accountLocalId": "obsidianlabexampleJCHUEZ",
   "syncModeEnabled": false,
   "spaceNames": {}
 }

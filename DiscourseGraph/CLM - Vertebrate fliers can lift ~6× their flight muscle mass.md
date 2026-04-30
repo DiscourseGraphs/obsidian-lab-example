@@ -2,23 +2,31 @@
 nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
 tags:
 cssclasses: dg-clm
-confidence:
+confidence: 0.7
 aliases:
-  - CLM - "European" and "African" swallows are not a single species-level distinction; the barn swallow is a single species with multiple subspecies, while several endemic African genera &species exist in Hirundinidae.
-nodeInstanceId: 019dde98-14dc-73c5-95f9-cc15930f3058
+  - CLM - Vertebrate fliers can lift roughly 6× their flight muscle mass at takeoff.
+nodeInstanceId: 019dde99-2cf6-79da-99ce-2b18280a8497
 ---
 # Summary
-**Evidence statement:**
 
-[[EVD - Molecular phylogeny places European and African barn s]]
+> [!tip]- 
+> Here you can restate or expand upon the Claim or feframe it in a way that emphasises its relevance to your Question
+
+If these birds can lift 6X their flight muscle mass at takeoff, then a 5 ounce bird carrying 1/5X of its total mass is plausible.
+
+
 # Source of Claim
+> [!tip]-
+> If you are already aware of some Evidence supporting your Claim, link it and its Source here. It's fine to be your own source of Claims!
+![alt text](image.png)
+>  
 
-[@dorPhylogenyGenusHirundo2010]
+[[EVD - Max lift per unit flight muscle mass ~ 54-63N-kg]]
+	SupportedBy
+		 [@mardenMaximumLiftProduction1987]
+
 
 # Notes
-
-![[eur-swall.png|300]]
-![[afr-swallow.jpg|300]]
 
 > [!log] Log
 

@@ -4,33 +4,9 @@ tags:
 cssclasses: dg-evd
 aliases:
   - EVD - Avian flight musculature averages ~ 20% of total body mass
+nodeInstanceId: 019dde9a-0c94-7da3-bc76-049571535689
 ---
-```datacorejsx
-return function NodeSetup() {
-  const current = dc.useCurrentFile();
-  const aliases = current.value("aliases");
-  if (aliases && aliases.length > 0) return null;
 
-  const handleClick = async () => {
-    const full = current.$name;
-    const MAX = 60;
-    const slug = full.replace(/[/?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
-    const file = app.vault.getAbstractFileByPath(current.$path);
-    if (!file) return;
-
-    await app.fileManager.processFrontMatter(file, fm => {
-      fm.aliases = [full];
-    });
-
-    if (slug !== full) {
-      const newPath = `${file.parent.path}/${slug}.md`;
-      await app.fileManager.renameFile(file, newPath);
-    }
-  };
-
-  return <button onClick={handleClick}>Save full title as alias</button>;
-}
-```
 # Evidence Summary
 
 

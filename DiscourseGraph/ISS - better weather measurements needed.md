@@ -9,6 +9,7 @@ contributors:
 targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
 project: "[[PRJ - Passarine Songbird Cargo Capacity]]"
 Issue Type:
+nodeInstanceId: 019dde97-9185-7755-96e7-85dc173a60f6
 ---
 > [!Info]-
 > The Issue template is identical to the Experiment template -- when you decide to turn an issue into an experiment, you can eithe duplicate the node and change the name and metadata to use your preferred EXP syntax (e.g. "@measurement -") or simply edit in place.

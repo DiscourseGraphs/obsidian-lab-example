@@ -1,35 +1,19 @@
 ---
-nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
+nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
+template: "[[Hypothesis]]"
 tags:
-cssclasses: dg-clm
-confidence: 0.7
+cssclasses: dg-hyp
+confidence:
+nodeInstanceId: 019ddeb1-d64d-7eb6-a5fb-11e630810045
 aliases:
-  - CLM - Vertebrate fliers can lift roughly 6× their flight muscle mass at takeoff.
+  - HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically
 ---
-# Summary
 
-> [!tip]- 
-> Here you can restate or expand upon the Claim or feframe it in a way that emphasises its relevance to your Question
+# Rationale
 
-If these birds can lift 6X their flight muscle mass at takeoff, then a 5 ounce bird carrying 1/5X of its total mass is plausible.
+# Context
 
-
-# Source of Claim
-> [!tip]-
-> If you are already aware of some Evidence supporting your Claim, link it and its Source here. It's fine to be your own source of Claims!
-![alt text](image.png)
->  
-
-[[EVD - Maximum lift per unit flight muscle mass measured at 5]]
-	SupportedBy
-		 [@mardenMaximumLiftProduction1987]
-
-
-# Notes
-
-> [!log] Log
-
-### YYYY-MM-DD
+# Requests for Experiments
 
 ```datacorejsx
 return function NodeSetup() {
@@ -57,3 +41,4 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
+

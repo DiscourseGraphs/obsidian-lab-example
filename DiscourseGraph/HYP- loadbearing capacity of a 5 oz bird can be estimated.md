@@ -1,23 +1,19 @@
 ---
-nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
+nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
+template: "[[Hypothesis]]"
 tags:
-cssclasses: dg-clm
-confidence: 0.2
+cssclasses: dg-hyp
+confidence:
+nodeInstanceId: 019ddeb2-73c4-7350-a272-a7bb640d8e80
 aliases:
-  - CLM - It could be carried by two swallows with a bit of string between them
+  - HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically
 ---
-# Summary
 
-Anonymous castle solider posits that two strings could carry a coconut togethe,r under their dorsal guiding feathers, with a strand of creeper.
+# Rationale
 
-# Source of Claim
+# Context
 
-![[mp-soldier.png]]
-# Notes
-
-> [!log] Log
-
-### YYYY-MM-DD
+# Requests for Experiments
 
 ```datacorejsx
 return function NodeSetup() {
@@ -45,3 +41,4 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
+

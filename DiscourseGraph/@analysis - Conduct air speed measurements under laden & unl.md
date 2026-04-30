@@ -15,6 +15,7 @@ dg_type: Source
 keywords: ""
 rating: 3
 citekey: analysis - Conduct air speed measurements under laden & unl
+nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
 ---
 
 > [!Note]-
@@ -50,9 +51,11 @@ not done
 >For experiments taking place over several days/weeks, moths, you can log your observations here. 
 
 ### 2026-04-30
-- 
+-  [[RES - The airspeed velocity of an unladen swallow is 11-17 m-s]]
+- #iss-candidate turkey drop experiment failed to replicate
+	- #clm-candidate as God is my witness, I thought turkeys could fly
 ### 2026-04-24
--  new Question from [[that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+-  new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
 - [ ] #task when you add ToDos to your Experimental log they show up in this query 📅 2026-05-05 
 ### 2026-02-06
 - [[ISS - better weather measurements needed]]

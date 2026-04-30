@@ -15,7 +15,7 @@ views:
     filters:
       and:
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
-        - file.hasLink(this.file.name)
+        - this.file.hasLink(file.name)
         - template == "[[Result]]"
     sort: []
   - type: table

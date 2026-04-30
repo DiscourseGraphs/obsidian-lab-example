@@ -15,9 +15,9 @@ aliases:
 
 ## Testable Hypotheses
 
-[[HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically]]
+[[HYP- loadbearing capacity of a 5 oz bird can be determined]]
 
-[[HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically]]
+[[HYP- loadbearing capacity of a 5 oz bird can be estimated]]
 
 # WorkBench
 

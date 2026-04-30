@@ -4,6 +4,7 @@ tags:
 aliases:
   - QUE - Can a 5 ounce bird can carry a one-pound coconut?
 template: "[[Question]]"
+nodeInstanceId: 019dde99-0ced-7a88-8177-6c3f9318ba89
 ---
 >[!tip] The "save full title as alias" button at the bottom of each newly-created Question node edits the filename to shorten it and remove unsafe characters. The full title is preserved as an alias and will surface in searches and autocomplete. Press it once and it disappears
 # Summary
@@ -14,15 +15,15 @@ template: "[[Question]]"
 >[!info]- 
 >Here you can log related Claims, Questions, & Evidence as they accumulate. A Base is a good way of organizing these nodes.
 
-[[CLM - Vertebrate fliers can lift roughly 6× their flight mus]]
+[[CLM - Vertebrate fliers can lift ~6× their flight muscle mass]]
 
 ## Testable Hypotheses
 >[!info]- 
 >Alex Trebek voice: "Please restate your Question as a statement you can test"
 
-[[HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically]]
+[[HYP- loadbearing capacity of a 5 oz bird can be estimated]]
 
-[[HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically]]
+[[HYP- loadbearing capacity of a 5 oz bird can be determined]]
 
 # WorkBench
 > [!info]- 
@@ -39,7 +40,7 @@ template: "[[Question]]"
 - 
 
 ### 2026-04-28 
-- [[CLM - It could be carried by two swallows with a bit of stri]]
+- [[CLM - It could be carried by two swallows with a bit of string]]
 
 
 
