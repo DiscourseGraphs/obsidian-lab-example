@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6449e7e8c03a837",
+            "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
               },
               "icon": "lucide-file",
-              "title": "@biewenerBiomechanicsAvianFlight2022"
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           }
         ]
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Backlinks for Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           },
           {
@@ -162,16 +150,6 @@
             }
           },
           {
-            "id": "64fafbe4d1b26a1b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "1045cadb13290c48",
             "type": "leaf",
             "state": {
@@ -182,7 +160,31 @@
             }
           },
           {
-            "id": "b6ce9fd05b23f404",
+            "id": "8d14fd9faad92748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - African or European?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - African or European?"
+            }
+          },
+          {
+            "id": "116b305add5d093e",
             "type": "leaf",
             "state": {
               "type": "discourse-context-view",
@@ -190,13 +192,23 @@
               "icon": "telescope",
               "title": "Discourse context"
             }
+          },
+          {
+            "id": "d0dac6a97d235c01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,54 +224,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6449e7e8c03a837",
+  "active": "e040d77f38866ac0",
   "lastOpenFiles": [
-    "DiscourseGraph/EVD - Max lift per unit flight muscle mass ~ 54-63N-kg.md",
-    "DiscourseGraph/EVD - Molecular phylogeny places European and African barn s.md",
-    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
-    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
-    "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
-    "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
-    "DiscourseGraph/CLM - European and African swallows are not a single species.md",
-    "DiscourseGraph/@schieldPhylogenyHistoricalBiogeography2024.md",
-    "DiscourseGraph/@fake paper.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated.md",
-    "DiscourseGraph/CLM - Vertebrate fliers can lift ~6× their flight muscle mass.md",
-    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-    "DiscourseGraph/@analysis - determination of the European swallow's flight s.md",
-    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined.md",
-    "DiscourseGraph/CLM - test claim.md",
-    "Bases/Results.base.tmp.1239.1777555340607",
-    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
-    "Bases/Results.base",
-    "Bases/Issues.base",
-    "DiscourseGraph/@directquote-that guy on the bridge.md",
-    "DECISIONS.md.tmp.1239.1777553621177",
-    "Bases/Issues.base.tmp.1239.1777553375150",
-    "Bases/Issues.base.tmp.1239.1777553228090",
+    "Daily Notes/2026-04-28.md",
+    "Daily Notes/2026-05-01.md",
+    "Meta/Templates/00 Bullet Journal Log.md",
+    "DECISIONS.md",
     "Bases/Experiments.base",
-    "Bases/Issues.base.tmp.1239.1777552655765",
-    "DiscourseGraph/ISS - Enumerate swallow species.md",
-    "Bases/Issues.base.tmp.1239.1777551820089",
-    "DiscourseGraph/QUE - What is the airspeed velocity of an unladen swallow?.md",
-    "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png:Zone.Identifier",
-    "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png",
+    "Bases/Conclusions.base",
+    "Bases/Hypotheses.base",
+    "Bases/Projects.base",
+    "DiscourseGraph/CLM - Vertebrate fliers can lift ~6× their flight muscle mass.md",
+    "Bases/Project Nodes.base",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "DiscourseGraph/QUE - African or European?.md",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
+    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
+    "DiscourseGraph/CLM - European and African swallows are a single species.md",
+    "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
+    "DiscourseGraph/ISS - test issue 01.md",
+    "Meta/Attachments/bird_wind_tunnel_b-1150.jpg:Zone.Identifier",
+    "Meta/Attachments/bird_wind_tunnel_b-1150.jpg",
+    "Meta/Attachments/SfondoGalleriaFotoGR.png:Zone.Identifier",
+    "Meta/Attachments/SfondoGalleriaFotoGR.png",
+    "DiscourseGraph/RES - test result for horizontal dashboard project.md",
+    "Meta/Templates/Claim.md",
+    "DiscourseGraph/@directquote-that guy on the bridge.md.tmp.6684.1777658085048",
+    "Meta/Templates/Source.md.tmp.6684.1777658084036",
+    "Meta/Templates/Conclusion.md.tmp.6684.1777658082430",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/00 Experiment Log.md",
+    "DiscourseGraph/image.png",
+    "DiscourseGraph/@sirLancelot.md",
+    "Meta/Attachments/lancelot.png",
+    "DiscourseGraph/@sirbelvedere.md",
+    "Meta/Attachments/holygrail-arthur-bevedere3.png",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+    "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
+    "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png",
     "Meta/Attachments/swallow phylo.jpg",
     "Meta/Attachments/afr-swallow.png",
     "Meta/Attachments/afr-swallow.jpg",
     "Meta/Attachments/bird-coconut.png",
-    "Meta/Attachments/bird-tunnel.png",
-    "Meta/Attachments/BirdsOfParadise1675__83874.jpg",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "DiscourseGraph/QUE - African or European?.md",
-    "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow.md",
-    "Meta/Templates/Project.md",
-    "Meta/Templates/00 Project Log.md",
-    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut.md",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
   ]

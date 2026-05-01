@@ -15,7 +15,7 @@
   "showSourceRelatedPapers": true,
   "relatedPapersProvider": "auto",
   "citationInsertFormat": "pandoc",
-  "showCitationHoverCard": true,
+  "showCitationHoverCard": false,
   "citationHoverOpenAction": "pdf-first",
   "enableDiscourseGraphsCompatibility": true,
   "discourseGraphVisibleNodeTypeIds": [],
@@ -25,6 +25,311 @@
     "citationIndexCacheByScope": {
       "My Library": {
         "rows": [
+          {
+            "id": "hedenstromOptimalFlightSpeed1995",
+            "title": "Optimal flight speed of birds",
+            "meta": "Hedenström (1995)",
+            "raw": {
+              "key": "LHQ8CLKM",
+              "version": 979,
+              "itemType": "journalArticle",
+              "title": "Optimal flight speed of birds",
+              "abstractNote": "The speed of birds in flapping flight is a behavioural attribute that, when interpreted in the light of optimization theory, may provide important implications about the limitations in time, energy and safety that affect birds in different situations. This study is an evaluation and review of optimal flight speeds of birds, based on foraging, migration and flight mechanical theory. Flight in different ecological contexts is considered, such as foraging flight, food transportation flight, migration flight and aerial display flight. Relevant optimization criteria and immediate currencies are identified for these flight situations, permitting the derivation of optimal flight speeds. Foraging birds are expected to maximize foraging gain ratio (the ratio of gross energy intake rate to the cost of foraging in excess of the resting metabolism) when energy minimization is of imminent importance or when they are constrained by a metabolic ceiling. In other circumstances they are expected to maximize the net energy intake rate. Generally, optimal flight speeds are faster in the latter than in the former case. Thus when the foraging gain ratio is maximized the optimal flight speed between foraging patches is Vmr (speed of minimum energy cost per unit of distance flown), whereas it is faster than this, to a variable degree depending on the quality of and distance between patches, when net energy intake rate is maximized. Birds should adapt their flight speed differently when transporting food or migrating as compared with flying in pure foraging situations. Cost of transport (energy/distance) or resulting speed of transport or of migration (distance/time) are the immediate currencies relevant for predicting optimal flight speeds depending on whether birds in food transportation flights are metabolically constrained or not and whether migrating birds are energy- or time-selected. Optimal flight speeds for maximizing the resulting speed of transport or of migration exceed Vmr to an increasing degree with an increasing rate of food/energy gain. Still other optimization criteria apply to further flight situations that are reviewed, and, in addition, flight speed is expected to vary with wind, load, altitude, climb rate and flock size. Optimal flight speed theory provides a possibility to use flight speed measurements of birds in widely different situations for obtaining insights about crucial time and energy limitations.",
+              "date": "1995-06-29",
+              "DOI": "10.1098/rstb.1995.0082",
+              "citationKey": "hedenstromOptimalFlightSpeed1995",
+              "url": "https://doi.org/10.1098/rstb.1995.0082",
+              "accessDate": "2026-05-01T11:44:40Z",
+              "libraryCatalog": "Silverchair",
+              "volume": "348",
+              "pages": "471-487",
+              "publicationTitle": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+              "ISSN": "0962-8436",
+              "issue": "1326",
+              "journalAbbreviation": "Philos Trans R Soc Lond B Biol Sci",
+              "creators": [
+                {
+                  "firstName": "Anders",
+                  "lastName": "Hedenström",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Thomas",
+                  "lastName": "Alerstam",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-01T11:44:40Z",
+              "dateModified": "2026-05-01T11:44:40Z",
+              "id": "hedenstromOptimalFlightSpeed1995",
+              "citation-key": "hedenstromOptimalFlightSpeed1995",
+              "itemKey": "LHQ8CLKM",
+              "zotero": "zotero://select/library/items/LHQ8CLKM",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1995
+                  ]
+                ]
+              },
+              "year": "1995",
+              "container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+              "container-title-short": "Philos Trans R Soc Lond B Biol Sci",
+              "URL": "https://doi.org/10.1098/rstb.1995.0082"
+            }
+          },
+          {
+            "id": "bishopFlyingFastImproves2024a",
+            "title": "Flying fast improves aerodynamic economy of heavier birds",
+            "meta": "Bishop (2024)",
+            "raw": {
+              "key": "PC69TAGX",
+              "version": 976,
+              "itemType": "journalArticle",
+              "title": "Flying fast improves aerodynamic economy of heavier birds",
+              "abstractNote": "A paradox of avian long-distance migrations is that birds must greatly increase their body mass prior to departure, yet this is presumed to substantially increase their energy cost of flight. However, here we show that when homing pigeons flying in a flock are loaded with ventrally located weight, both their heart rate and estimated energy expenditure rise by a remarkably small amount. The net effect is that costs per unit time increase only slightly and per unit mass they decrease. We suggest that this is because these homing flights are relatively fast, and consequently flight costs associated with increases in body parasite drag dominate over those of weight support, leading to an improvement in mass-specific flight economy. We propose that the relatively small absolute aerodynamic penalty for carrying enlarged fuel stores and flight muscles during fast flight has helped to select for the evolution of long-distance migration.",
+              "date": "2024-03-27",
+              "DOI": "10.1038/s41598-024-56325-6",
+              "citationKey": "bishopFlyingFastImproves2024a",
+              "url": "https://www.nature.com/articles/s41598-024-56325-6",
+              "accessDate": "2026-05-01T11:41:50Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2024 The Author(s)",
+              "volume": "14",
+              "publisher": "Nature Publishing Group",
+              "pages": "7298",
+              "publicationTitle": "Scientific Reports",
+              "ISSN": "2045-2322",
+              "issue": "1",
+              "journalAbbreviation": "Sci Rep",
+              "creators": [
+                {
+                  "firstName": "Charles M.",
+                  "lastName": "Bishop",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Lewis G.",
+                  "lastName": "Halsey",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Graham N.",
+                  "lastName": "Askew",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Animal migration",
+                  "type": 1
+                },
+                {
+                  "tag": "Behavioural ecology",
+                  "type": 1
+                },
+                {
+                  "tag": "Biomechanics",
+                  "type": 1
+                },
+                {
+                  "tag": "Ecophysiology",
+                  "type": 1
+                },
+                {
+                  "tag": "Evolutionary ecology",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-01T11:41:50Z",
+              "dateModified": "2026-05-01T11:41:50Z",
+              "id": "bishopFlyingFastImproves2024a",
+              "citation-key": "bishopFlyingFastImproves2024a",
+              "itemKey": "PC69TAGX",
+              "zotero": "zotero://select/library/items/PC69TAGX",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "container-title": "Scientific Reports",
+              "container-title-short": "Sci Rep",
+              "URL": "https://www.nature.com/articles/s41598-024-56325-6"
+            }
+          },
+          {
+            "id": "tahirModellingFlyingBird2008",
+            "title": "Modelling the Flying Bird Academic Press (2008)",
+            "meta": "Tahir (2008)",
+            "raw": {
+              "key": "WC7P6CA5",
+              "version": 974,
+              "itemType": "book",
+              "title": "Modelling the Flying Bird Academic Press (2008)",
+              "abstractNote": "Being an interdisciplinary activity, computer modelling of bird flight tends to fall into the chasm between ornithology and engineering. Ornithologists mistrust calculation, while engineers think birdwatching is frivolous. It may seem obvious that",
+              "date": "2008/01/01",
+              "citationKey": "tahirModellingFlyingBird2008",
+              "url": "https://www.academia.edu/49432257/Modelling_the_Flying_Bird_Academic_Press_2008_",
+              "accessDate": "2026-05-01T11:41:29Z",
+              "libraryCatalog": "www.academia.edu",
+              "creators": [
+                {
+                  "firstName": "Raheema",
+                  "lastName": "Tahir",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-01T11:41:29Z",
+              "dateModified": "2026-05-01T11:41:29Z",
+              "id": "tahirModellingFlyingBird2008",
+              "citation-key": "tahirModellingFlyingBird2008",
+              "itemKey": "WC7P6CA5",
+              "zotero": "zotero://select/library/items/WC7P6CA5",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2008
+                  ]
+                ]
+              },
+              "year": "2008",
+              "URL": "https://www.academia.edu/49432257/Modelling_the_Flying_Bird_Academic_Press_2008_"
+            }
+          },
+          {
+            "id": "pennycuickBirdFlightPerformance1989",
+            "title": "Bird flight performance : a practical calculation manual",
+            "meta": "Pennycuick (1989)",
+            "raw": {
+              "key": "LZWQUWR8",
+              "version": 973,
+              "itemType": "book",
+              "title": "Bird flight performance : a practical calculation manual",
+              "abstractNote": "x, 153 p. : 24 cm. +; System requirements for computer disk (Version 1.0): IBM compatible computers; 360K; MS-DOS; BASIC interpreter (preferably Microsoft BASIC); printer; Includes index; Bibliography: p. [146]-148",
+              "date": "1989",
+              "citationKey": "pennycuickBirdFlightPerformance1989",
+              "url": "http://archive.org/details/birdflightperfor0000penn",
+              "accessDate": "2026-05-01T11:41:22Z",
+              "shortTitle": "Bird flight performance",
+              "language": "eng",
+              "libraryCatalog": "Internet Archive",
+              "publisher": "Oxford, [England] ; New York : Oxford University Press",
+              "ISBN": "978-0-19-857721-8",
+              "numPages": "178",
+              "creators": [
+                {
+                  "firstName": "C. J. (Colin J. )",
+                  "lastName": "Pennycuick",
+                  "creatorType": "author"
+                },
+                {
+                  "name": "Internet Archive",
+                  "creatorType": "contributor"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Birds -- Flight -- Mathematics -- Handbooks, manuals, etc",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-01T11:41:22Z",
+              "dateModified": "2026-05-01T11:41:22Z",
+              "id": "pennycuickBirdFlightPerformance1989",
+              "citation-key": "pennycuickBirdFlightPerformance1989",
+              "itemKey": "LZWQUWR8",
+              "zotero": "zotero://select/library/items/LZWQUWR8",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1989
+                  ]
+                ]
+              },
+              "year": "1989",
+              "URL": "http://archive.org/details/birdflightperfor0000penn"
+            }
+          },
+          {
+            "id": "pennycuickPowerRequirementsHorizontal1968",
+            "title": "Power Requirements for Horizontal Flight in the Pigeon Columba Livia",
+            "meta": "Pennycuick (1968)",
+            "raw": {
+              "key": "ESUD6P4N",
+              "version": 972,
+              "itemType": "journalArticle",
+              "title": "Power Requirements for Horizontal Flight in the Pigeon Columba Livia",
+              "abstractNote": "Certain measurements made on pigeons flying horizontally in a wind-tunnel are described.A method, based on helicopter theory, for calculating the power required to fly at any given speed is explained. Induced, profile and parasite power are calculated separately.It is concluded that the pigeon can fly horizontally without incurring an oxygen debt at speeds from 3 to 16 m./sec. The minimum power speed is 8 – 9 m./sec. The maximum continuous power output is estimated to be 10·5 W., and the corresponding oxygen consumption about 170 ml./min. The maximum (sprint) power is estimated to be 20·4 W., from observations of vertical climb after take-off.The estimated best lift: drag ratio in horizontal flight is 5·9, giving a range of 11·8 km./g. of fat oxidized for a 400 g. pigeon.It is argued from considerations of structural strength that the early part of the downstroke is used mainly to impart angular velocity to the wing, and that air loads are only developed after most of the angular acceleration has taken place. The tension in the pectoralis insertion may exceed 60% of the breaking tension in fast horizontal flight.The power calculation was repeated for the ruby-throated hummingbird, using published data. Estimated best range is about 900 km./g. of fat oxidized, achieved at 9 m./sec. The corresponding effective lift: drag ratio is 4 ·1.The variation of power required and power available with size is considered, and the effect on hovering and take-off performance of different birds deduced.Performance estimates for the pigeon and ruby-throated hummingbird are very poor by engineering standards, but consistent with these birds’ known abilities, and are in general agreement with estimates of effective lift: drag ratio derived from published data on other species.",
+              "date": "1968-12-01",
+              "DOI": "10.1242/jeb.49.3.527",
+              "citationKey": "pennycuickPowerRequirementsHorizontal1968",
+              "url": "https://doi.org/10.1242/jeb.49.3.527",
+              "accessDate": "2026-05-01T11:41:14Z",
+              "libraryCatalog": "Silverchair",
+              "volume": "49",
+              "pages": "527-555",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "3",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "C. J.",
+                  "lastName": "Pennycuick",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-01T11:41:14Z",
+              "dateModified": "2026-05-01T11:41:14Z",
+              "id": "pennycuickPowerRequirementsHorizontal1968",
+              "citation-key": "pennycuickPowerRequirementsHorizontal1968",
+              "itemKey": "ESUD6P4N",
+              "zotero": "zotero://select/library/items/ESUD6P4N",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1968
+                  ]
+                ]
+              },
+              "year": "1968",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol",
+              "URL": "https://doi.org/10.1242/jeb.49.3.527"
+            }
+          },
           {
             "id": "pennycuickWingbeatFrequencyBirds1996",
             "title": "Wingbeat Frequency of Birds in Steady Cruising Flight: New Data and Improved Predictions",
@@ -4413,7 +4718,7 @@
             }
           }
         ],
-        "cachedAt": 1777557820870,
+        "cachedAt": 1777667594252,
         "source": "local-api"
       }
     }

@@ -1,6 +1,6 @@
 ---
 aliases:
-nodeTypeId:
+nodeTypeId: node_-PIYSmr5icSFMACYAUobE
 dg_type: Source
 cssclasses:
   - dg-src

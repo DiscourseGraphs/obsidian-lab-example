@@ -14,32 +14,38 @@ return function CanvasButton() {
 
   const handleClick = async () => {
     const name = current.$name;
-    const folder = "Discourse Canvas";
-    const path = `${folder}/${name}.canvas`;
+    const dgPlugin = app.plugins.plugins["discourse-graphs"];
+    const folder = dgPlugin?.settings?.canvasFolderPath ?? "Discourse Canvas";
+    const targetPath = `${folder}/Canvas - ${name}.md`;
 
-    let file = app.vault.getAbstractFileByPath(path);
-    if (file) {
-      setStatus("Already exists — opening…");
-    } else {
-      try {
-        if (!app.vault.getAbstractFileByPath(folder)) {
-          await app.vault.createFolder(folder);
-        }
-        file = await app.vault.create(path, JSON.stringify({ nodes: [], edges: [] }));
-        setStatus("Canvas created!");
-      } catch (e) {
-        setStatus("Error: " + e.message);
-        return;
-      }
+    const existing = app.vault.getAbstractFileByPath(targetPath);
+    if (existing) {
+      setStatus("Opening existing canvas…");
+      const leaf = app.workspace.getLeaf(false);
+      await leaf.openFile(existing);
+      await leaf.setViewState({ type: "tldraw-dg-preview", state: { file: existing.path } });
+      setStatus("");
+      return;
     }
-    const leaf = app.workspace.getLeaf("tab");
-    await leaf.openFile(file);
+
+    const ref = app.vault.on("create", async (file) => {
+      if (file.parent?.path === folder && file.name.startsWith("Canvas-")) {
+        app.vault.offref(ref);
+        await app.fileManager.renameFile(file, targetPath);
+      }
+    });
+
+    const ok = app.commands.executeCommandById("discourse-graphs:create-discourse-graph-canvas");
+    if (!ok) {
+      app.vault.offref(ref);
+      setStatus("Command not found — is the Discourse Graph plugin enabled?");
+    }
   };
 
   return (
     <span>
       <button onClick={handleClick}>
-        🗺 Open / Create Discourse Canvas
+        🗺 Create Discourse Graph Canvas
       </button>
       {status && <span style={{ marginLeft: "0.5em", opacity: 0.7 }}>{status}</span>}
     </span>

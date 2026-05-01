@@ -1,4 +1,5 @@
 ---
+nodeTypeId: node_J9JyrRTQj6nuJs6IY83Mo
 template: "[[Conclusion]]"
 newNoteFolder: DiscourseGraph
 tags:

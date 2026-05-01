@@ -7,3 +7,4 @@ views:
         - template == "[[Hypothesis]]"
     order:
       - file.name
+      - confidence

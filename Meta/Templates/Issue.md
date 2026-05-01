@@ -1,4 +1,5 @@
 ---
+nodeTypeId: node_2unblKFUVJkOdOnT8MstZ
 template: "[[Issue]]"
 newNoteFolder: DiscourseGraph
 tags:

@@ -2,8 +2,8 @@
 nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 project: PRJ - Passarine Songbird Cargo Capacity
 template: "[[Experiment]]"
-status: seed
-targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow]]"
+status: in progress
+targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?]]"
 newNoteFolder: DiscourseGraph
 tags:
   - dg/source

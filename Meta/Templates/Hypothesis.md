@@ -1,4 +1,5 @@
 ---
+nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
 template: "[[Hypothesis]]"
 newNoteFolder: DiscourseGraph
 tags:

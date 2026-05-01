@@ -399,3 +399,26 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - The correct syntax is `this.file.hasLink(file.name)`, calling hasLink on the containing page with the candidate's name as the argument.]]**
 
 **[[RES - Use `this.file.hasLink(file.name)` to filter for nodes that are linked from the page containing the Base (outlinks direction). Use `file.hasLink(this.file.name)` for the reverse (nodes that link back to the containing page).]]**
+
+---
+
+## 2026-05-01 — Discourse Graph Canvas button: use plugin command ID
+
+**[[HYP - The "Create Project Canvas" button in the Project template should delegate to the Discourse Graph plugin's own canvas-creation command rather than manually creating a plain .canvas file.]]**
+
+**[[CLM - `app.commands.executeCommandById("discourse-graphs:create-discourse-graph-canvas")` is the correct call; using the command name string is fragile due to case sensitivity.]]**
+**[[EVD - First attempt used `"Discourse Graph: create new discourse graph canvas"` (wrong case); command was not found. The actual registered name is `"Create new Discourse Graph canvas"` and ID is `"create-discourse-graph-canvas"`, confirmed by grepping the plugin's main.js.]]**
+
+**[[RES - Replaced the manual vault.create() canvas button in Project.md template and existing PRJ notes with a one-liner calling `app.commands.executeCommandById("discourse-graphs:create-discourse-graph-canvas")`. Plugin handles all canvas-creation logic.]]**
+
+---
+
+## 2026-05-01 — Name DG canvas after project, not timestamp
+
+**[[HYP - The canvas created by the button should be named after the project (e.g. "Canvas - PRJ - name.md") rather than the plugin's default timestamp name.]]**
+
+**[[CLM - `createCanvas(plugin)` takes no name parameter and always produces `Canvas-yyyy-MM-dd-HHmm.md`; the function is module-level and not accessible from outside the plugin.]]**
+**[[CLM - Registering a `vault.on("create", ...)` listener before firing the command intercepts the new file synchronously and renames it before the user sees the timestamp name.]]**
+**[[EVD - DG canvas files are `.md` (not `.canvas`) with Tldraw JSON content; replicating `createEmptyTldrawContent` in the button would require duplicating UUID generation and plugin-version embedding, making the event-intercept approach clearly preferable.]]**
+
+**[[RES - Button registers a vault create listener filtered to files starting with "Canvas-" in the DG canvas folder, fires the command, then immediately renames the new file to `Canvas - <projectName>.md`. On repeat clicks, the named file is detected and reopened directly. Canvas folder path is read from `app.plugins.plugins["discourse-graphs"].settings.canvasFolderPath` so it stays in sync with plugin settings.]]**

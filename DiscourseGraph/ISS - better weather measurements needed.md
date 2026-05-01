@@ -6,7 +6,7 @@ cssclasses: dg-iss
 status:
 lead:
 contributors:
-targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
+targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
 project: "[[PRJ - Passarine Songbird Cargo Capacity]]"
 Issue Type:
 nodeInstanceId: 019dde97-9185-7755-96e7-85dc173a60f6

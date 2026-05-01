@@ -2,8 +2,8 @@
 nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 project: PRJ - Passarine Songbird Cargo Capacity
 template: "[[Experiment]]"
-status: seed
-targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
+status: in progress
+targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
 tags:
   - dg/source
 cssclasses: dg-exp

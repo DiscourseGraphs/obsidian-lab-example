@@ -36,9 +36,9 @@ nodeInstanceId: 019ddeb4-2099-76ef-88a7-3280173b9a57
 >[!tip]-
 >The Discourse Graph literature synthesis workflow allows you to orient your reading around a Question that's important to you, rather than the questions that drove the researchers whose work you're reading. Keep your lodestar Questions fro and center here.
 
-[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]
+[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]
 ## Quotes, Figures, Evidence
 > [!Tip]-
 > This area can be used to collect figures for your Discourse Canvas and data excerpts relevant to your projects and publications.
 
-![[1-s2.0-S0960982222010843-gr2_lrg.jpg]]
+![[1-s2.0-S0960982222010843-gr2_lrg.jpg|500]]

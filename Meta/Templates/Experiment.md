@@ -1,4 +1,5 @@
 ---
+nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 template: "[[Experiment]]"
 newNoteFolder: DiscourseGraph
 tags:

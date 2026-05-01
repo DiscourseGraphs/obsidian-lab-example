@@ -14,8 +14,8 @@ nodeInstanceId: 019dde97-f22e-780d-a5d6-89cb4a1cd106
 
 
 ## Grounding Context
-
-
+ wind tunnel measurements
+![[bird_wind_tunnel_b-1150.jpg|400]]
 ## Snippets
 
 ```datacorejsx
