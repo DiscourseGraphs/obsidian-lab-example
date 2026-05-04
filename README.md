@@ -49,13 +49,18 @@ This vault contains an example graph demonstrating how you can use a discourse g
 -  build and exploit your personal knowledge base
 
 The graph is descriptive, not prescriptive, showcasing specific patterns you can adopt, discard, or adapt to your own needs.
+
+### The Daily Notes Page
+
+
+
+
 ### Project pages
 
 **Annotated example**
+![alt text](Meta/Attachments/prj-page-a.PNG)
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2FrNriAK2fdI.png?alt=media&token=ee7e1ebc-2bc1-48fd-b7d6-6ec65d2f078f)
-
-The structure of these pages enables you to
+The structure of the Project page enables you to
 - Keep the broad target question(s) close by, provide space for reflecting on what has been learned from the experiments
 - Consolidate key links/resources for the project
 - Keep a log of project notes
@@ -67,10 +72,9 @@ Key actions
 ### Experiment pages
 
 **Annotated example**
+![alt text](Meta/Attachments/EXP-page.PNG)
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2FYvAlbf0Gk8.png?alt=media&token=d81e673e-b65f-4d70-b5dc-95fde17c8a48)
-
-The structure of these pages enables you to
+The structure of the Experiment page enables you to
 - Keep target question or hypothesis close by, to define the purpose of the experiment
 - Keep an experiment log where you can reflect on observations, and (if appropriate) formalize these into hypotheses or results you want to share with others by creating discourse nodes
 - Reflect on progress of the experiment by comparing tabulated results from the experiment against the target question
@@ -81,32 +85,15 @@ Key actions
 
 There is a template in the example vault that you can modify (in `Meta/Templates/Experiment.md`)
 
+### Meeting Notes
 
-### Creating Discourse Nodes
+### The Discourse Canvas
 
-Currently this can be done in three ways (see [docs](https://discoursegraphs.com/docs/obsidian/creating-discourse-nodes) for more details)
-- Using the command palette
-- Convert existing text to node
-	- Suspect to start with, if you're migrating over a small project, you'll mostly be doing this
-		- List out all the questions/claims/evidence/etc., maybe in an outline
-		- And convert individual ones to nodes, put figures/other info inside as needed
-- Convert existing page to node
+**Annotated Example**
+![alt text](Meta/Attachments/dg_canvas03.PNG)
 
-You can also set/create/edit templates to use for creating specific nodes (see [docs](https://discoursegraphs.com/docs/obsidian/node-types-templates#working-with-templates) for more details). For instance, you might want to ensure that a result page has a key figure and some details about the experimental method.
+The discourse graph plugin implements a tldraw canvas (distinct from the canvas feature that ships with Obsidian) that allows you to create and manipulate discourse nodes and relations visually. 
 
-### Exploring "Discourse Context" for Nodes
-
-You can toggle a sidebar "discourse context" component that shows you any discourse relations you've created between a given node to other nodes (e.g., what claims inform this question, which evidence supports/opposes this claim)
-
-See [docs](https://discoursegraphs.com/docs/obsidian/discourse-context) for more details
-
-### Linking Discourse Nodes
-
-Currently this is done using the buttons in the discourse context component (see [docs](https://discoursegraphs.com/docs/obsidian/creating-discourse-relationships) for more details)
-
-### Bases
-
-This is new in Obsidian as of the last ~month or so. It enables you to create "databases" for your notes, which you can use to view/rank/sort projects, experiments, or other things you want to track in a live updated query. We find these queries to be quite useful in our labs so it will probably be useful here too. I've included some examples in the vault.
 
 # The Decisions and Conventions files
 
@@ -114,7 +101,7 @@ This vault contains two notes, _DECISIONS.md_ and _Conventions.md_, that functio
 - _DECISIONS.md_ records the design decisions involved in the creation of the vault.
 - _Conventions.md_ records certain assumptions about how a vault like this might be used.
 
-# Notes
+# Getting Started
 
 Please feel free to organize the vault's folders  according to the organizational structure patterns that work for you.
 
@@ -127,14 +114,7 @@ Please feel free to organize the vault's folders  according to the organizationa
 	2. Map out the key questions/claims/evidence for the project
 	3. Maybe tabulate some logs for ongoing experiments in those projects
 
-Here's a quick Loom on how this might go: https://www.loom.com/share/f80799f5d0f44a51b1951bc835e4fef7
-## Some additional open questions that can be up to you and we can discuss more
 
-### Tracking different types/shades of (claims/hypotheses/conclusion, evidence/results). 
-
-Conceptually claims/hypotheses/conclusions are basically the same (generalized assertions about a phenomenon) and evidence/results are the same (contextualized descriptions of observations from a specific experiment). 
-
-If you'd like to iterate on this, we can discuss more, and/or you can explore the docs for how to define [new types of nodes](https://discoursegraphs.com/docs/obsidian/node-types-templates#adding-a-node-type) and [new types of relations](https://discoursegraphs.com/docs/obsidian/relationship-types#adding-relationship-types).
 
 ### Templates/workflows
 
@@ -146,21 +126,5 @@ Docs: https://silentvoid13.github.io/Templater/
 
 Examples: https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase
 
-### Personal home page notes
 
-In Roam in a collaborative setting, we often have personal home pages and sidebars where people can bookmark certain important pages for them and write any other unsorted notes they like. Like this:
-
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fdiscourse-graphs%2F2MC50YqgoG.png?alt=media&token=20fb476b-f534-4f6a-8d5c-25a6d303a2ab)
-
-This is a bit different from a usual single-player Obsidian pattern where you might just work in daily note pages, but might end up being useful in a lab/collaborative setting. So this isn't in the example vault in a formal way, though there is a small example in [[Rosalind Franklin]] page that could be a starting point for exploration of this pattern. 
-
-### Literature notes
-
-The example vault currently lacks an example of literature notes (e.g., a source page with associated claims or evidence).
-
-If you're interested in this use case and would like to learn more, please [reach out](https://join.slack.com/t/discoursegraphs/shared_invite/zt-37xklatti-cpEjgPQC0YyKYQWPNgAkEg) to talk more about this, especially once you've selected a couple starter projects and what the related literature is and what a useful workflow would be.
-
-### Meeting notes
-
-In a lab setting it can be useful to host meeting notes in the same vault: this allows you to structure your meetings around sharing/developing discourse nodes (e.g., hypotheses/results). The vault includes a simple example note ([[Lab Meeting Notes 2025]]) with links to experiments/results. Feel free to modify!
 

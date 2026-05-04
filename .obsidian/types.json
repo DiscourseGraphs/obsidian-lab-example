@@ -27,6 +27,7 @@
     "contributors": "multitext",
     "targetQuestionOrHyp": "text",
     "confidence": "number",
-    "centrality": "number"
+    "centrality": "number",
+    "attendees": "multitext"
   }
 }
