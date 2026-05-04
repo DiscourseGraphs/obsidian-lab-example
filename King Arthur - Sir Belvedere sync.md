@@ -12,7 +12,7 @@ attendees:
 **Next Meeting**
 
 # Agenda 
-![alt text](Meta/Attachments/arthur-belvedere.jpg)
+![alt text|696](Meta/Attachments/arthur-belvedere.jpg)
 
 
 - update on witch dousing experiment

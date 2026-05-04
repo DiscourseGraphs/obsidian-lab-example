@@ -14,7 +14,6 @@ attendees:
  - understand avian flight anatomy
 
 # Instances
-
 ```datacorejsx
 return function MeetingInstances() {
   const current = dc.useCurrentFile();

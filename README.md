@@ -87,6 +87,11 @@ There is a template in the example vault that you can modify (in `Meta/Templates
 
 ### Meeting Notes
 
+**Annotated examples**
+![](Meta/Attachments/mtg.png)
+![alt text](Meta/Attachments/mtg-series.PNG)
+
+
 ### The Discourse Canvas
 
 **Annotated Example**

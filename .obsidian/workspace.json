@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Meeting Series.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meeting Series"
+              "title": "README"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5041847229004
+    "width": 234.5
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -259,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,14 +275,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec95d21a57540ccb",
+  "active": "d65b6cdd58e84189",
   "lastOpenFiles": [
+    "King Arthur - Sir Belvedere sync.md",
+    "Meta/Templates/Meeting Series.md",
+    "Roundtable Syncs.md",
     "image.png",
     "Meta/Attachments/grail2.png:Zone.Identifier",
     "Meta/Attachments/grail2.png",
-    "DiscourseGraph/King Arthur - Sir Belvedere sync.md",
-    "Roundtable Syncs.md",
-    "Meta/Templates/Meeting Series.md",
     "Meta/Templates/Meeting.md",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
     "Daily Notes/2026-04-27.md",
@@ -303,7 +303,6 @@
     "Meta/Attachments/prj-page.PNG",
     "Meta/Attachments/EXP-page.PNG",
     "Meta/Attachments/dg_canvas02.PNG",
-    "Meta/Attachments/dg_canvas03.PNG",
     "Discourse Canvas/Canvas-Bio-PRJ-example.md",
     "CLAUDE.md",
     "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
