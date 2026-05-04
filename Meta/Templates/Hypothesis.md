@@ -5,6 +5,7 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-hyp
 confidence:
+nodeInstanceId: 019df250-5c5f-75c8-8b35-36c4e1a12a9c
 ---
 
 # Rationale

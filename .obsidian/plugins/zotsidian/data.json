@@ -128,15 +128,15 @@
               ],
               "tags": [
                 {
+                  "tag": "Biomechanics",
+                  "type": 1
+                },
+                {
                   "tag": "Animal migration",
                   "type": 1
                 },
                 {
                   "tag": "Behavioural ecology",
-                  "type": 1
-                },
-                {
-                  "tag": "Biomechanics",
                   "type": 1
                 },
                 {
@@ -4718,7 +4718,7 @@
             }
           }
         ],
-        "cachedAt": 1777667594252,
+        "cachedAt": 1777906681633,
         "source": "local-api"
       }
     }

@@ -11,6 +11,54 @@
             "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
+            }
+          },
+          {
+            "id": "d65b6cdd58e84189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
+            }
+          },
+          {
+            "id": "ec95d21a57540ccb",
+            "type": "leaf",
+            "state": {
               "type": "tldraw-dg-preview",
               "state": {
                 "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
@@ -19,7 +67,8 @@
               "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5041847229004
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -184,16 +233,6 @@
             }
           },
           {
-            "id": "116b305add5d093e",
-            "type": "leaf",
-            "state": {
-              "type": "discourse-context-view",
-              "state": {},
-              "icon": "telescope",
-              "title": "Discourse context"
-            }
-          },
-          {
             "id": "d0dac6a97d235c01",
             "type": "leaf",
             "state": {
@@ -204,11 +243,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 628.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +264,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e040d77f38866ac0",
+  "active": "ec95d21a57540ccb",
   "lastOpenFiles": [
+    "Meta/Attachments/prj-page.PNG",
+    "Meta/Attachments/EXP-page.PNG",
+    "Meta/Attachments/dg_canvas02.PNG",
+    "Meta/Attachments/dg_canvas03.PNG",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "CLAUDE.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
+    "DiscourseGraph/CLM - European and African swallows are a single species.md",
+    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+    "DiscourseGraph/@analysis - determination of the European swallow's flight s.md",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
+    "Meta/Templates/Project.md.tmp.8354.1777890507284",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md.tmp.8354.1777890236590",
+    "DiscourseGraph/@king arthur.md",
+    "Meta/Attachments/arthur.jpg:Zone.Identifier",
+    "Meta/Attachments/arthur.jpg",
+    "Joel Chan]], [[Matt Akamatsu.md",
     "Daily Notes/2026-04-28.md",
     "Daily Notes/2026-05-01.md",
     "Meta/Templates/00 Bullet Journal Log.md",
@@ -236,15 +295,10 @@
     "Bases/Projects.base",
     "DiscourseGraph/CLM - Vertebrate fliers can lift ~6× their flight muscle mass.md",
     "Bases/Project Nodes.base",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "DiscourseGraph/QUE - African or European?.md",
-    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
     "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
-    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
     "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
-    "DiscourseGraph/CLM - European and African swallows are a single species.md",
     "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
     "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
     "DiscourseGraph/ISS - test issue 01.md",
     "Meta/Attachments/bird_wind_tunnel_b-1150.jpg:Zone.Identifier",
@@ -253,26 +307,12 @@
     "Meta/Attachments/SfondoGalleriaFotoGR.png",
     "DiscourseGraph/RES - test result for horizontal dashboard project.md",
     "Meta/Templates/Claim.md",
-    "DiscourseGraph/@directquote-that guy on the bridge.md.tmp.6684.1777658085048",
-    "Meta/Templates/Source.md.tmp.6684.1777658084036",
-    "Meta/Templates/Conclusion.md.tmp.6684.1777658082430",
     "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-    "Meta/Templates/Project.md",
-    "Meta/Templates/Experiment.md",
-    "Meta/Templates/00 Experiment Log.md",
     "DiscourseGraph/image.png",
-    "DiscourseGraph/@sirLancelot.md",
     "Meta/Attachments/lancelot.png",
-    "DiscourseGraph/@sirbelvedere.md",
     "Meta/Attachments/holygrail-arthur-bevedere3.png",
-    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
-    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Meta/Attachments/Bridge_of_Death_monty_python_and_the_holy_grail_591679_800_4411271399897.png",
-    "Meta/Attachments/swallow phylo.jpg",
-    "Meta/Attachments/afr-swallow.png",
-    "Meta/Attachments/afr-swallow.jpg",
-    "Meta/Attachments/bird-coconut.png",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
   ]

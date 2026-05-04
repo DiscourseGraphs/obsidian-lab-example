@@ -4,6 +4,7 @@ nodeTypeId: node_-PIYSmr5icSFMACYAUobE
 dg_type: Source
 cssclasses:
   - dg-src
+nodeInstanceId: 019df250-5bef-7fa8-8c77-9dfb99ee6cc6
 ---
 
 >[!tip]- Remember, you can always turn a note into a discourse node after the fact by adding a node type to the frontmatter above

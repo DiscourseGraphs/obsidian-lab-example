@@ -1,8 +1,10 @@
 ---
 status: Ongoing
 targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird carry a one-pound coconut?]]"
-lead:
+lead: "[[@king arthur]]"
 contributors:
+  - "[[@sirbelvedere]]"
+  - "[[@sirLancelot]]"
 template: "[[Project]]"
 ---
 ## Resources
@@ -54,11 +56,7 @@ return function CanvasButton() {
 ```
 
 ## Aims
-
-Determine by a combination of empirical and mathematical means 
-
-[[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
-
+- Determine by a combination of empirical and mathematical means : [[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
 
 # Experiments in this Project
 
@@ -69,8 +67,6 @@ Determine by a combination of empirical and mathematical means
 # Results and Conclusions
 
 ![[Results.base#Results and Conclusions in this Project]]
-
-
 # Todos
 
 - [ ]  📅 
@@ -149,7 +145,6 @@ return function ProjectTodos() {
   );
 }
 ```
-
 # Notes
 
 > [!log] Project Log
@@ -171,10 +166,11 @@ return function AddLogEntry() {
       return;
     }
 
-    const sep = "\n---\n";
-    const sepIdx = content.lastIndexOf(sep);
-    const insertAt = sepIdx !== -1 ? sepIdx : content.length;
-    const newEntry = `\n\n## ${today}\n\n`;
+    const marker = "return function AddLogEntry()";
+    const markerIdx = content.indexOf(marker);
+    const closeBlock = content.indexOf("\n```\n", markerIdx !== -1 ? markerIdx : 0);
+    const insertAt = closeBlock !== -1 ? closeBlock + 5 : content.length;
+    const newEntry = `\n## ${today}\n\n`;
     await app.vault.modify(file, content.slice(0, insertAt) + newEntry + content.slice(insertAt));
     setMsg(`Added ${today}`);
   };
@@ -187,11 +183,16 @@ return function AddLogEntry() {
   );
 }
 ```
-
-
+## 2026-05-04
+- [[Lancelot/Arthur sync]]  #🤝MeetingLog 
+- Patsy found a coconut  🥥: now, we ride! 🐎
 ## 2026-04-30
 - need more coconuts #iss-candidate 
 	- ![[SwallowMontyPython.PNG|300]]
+
+
+
+
 
 
 ---

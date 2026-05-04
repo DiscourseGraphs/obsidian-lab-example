@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "5e457bec-4409-4999-b785-b845233a4e84",
-		"plugin-version": "1.2.0",
+		"plugin-version": "1.3.0",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -92,9 +92,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 652,
-				"y": 170.046875,
-				"lastActivityTimestamp": 1777667161920,
+				"x": 118.0583067992543,
+				"y": 391.75291442871094,
+				"lastActivityTimestamp": 1777907260183,
 				"meta": {}
 			},
 			{
@@ -186,9 +186,27 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
+				"meta": {},
+				"id": "binding:5LJ7dRAjKCV1qU05g_PY2",
+				"type": "discourse-relation",
+				"fromId": "shape:d3O6Nj2BdMnOhfd5hBAEL",
+				"toId": "shape:PGlHBzGCZSHORLF_g4_MC",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6276993868104597,
+						"y": 0.012265421205399358
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": 1167.0631531616832,
+				"y": 1177.2093048095703,
+				"z": 0.5,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -213,10 +231,10 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 1.7313759482572022,
 					"start": {
-						"x": 0,
-						"y": 0
+						"x": -487.1851806640625,
+						"y": 186.27947998046875
 					},
 					"end": {
 						"x": 100,
@@ -251,7 +269,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://0deb44f6f48fb8e72bc701e258fa937ca290/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -333,8 +351,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -1224,
-				"y": 66.046875,
+				"x": -504.68701171875,
+				"y": -192.6534423828125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -350,7 +368,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://0deb44f6f48fb8e72bc701e258fa937ca290/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -396,6 +414,44 @@ tldr-dg: true
 				}
 			},
 			{
+				"x": -345.7093933960582,
+				"y": -34.15614318847656,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:ssw_-VLDKk-NXY_ai7b5O",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "blue",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 85.181884765625,
+						"y": -378.5858154296875
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "informs",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+				},
+				"parentId": "page:page",
+				"index": "a3e2B",
+				"typeName": "shape"
+			},
+			{
 				"x": 334,
 				"y": 222.046875,
 				"rotation": 0,
@@ -436,27 +492,11 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"meta": {},
-				"id": "binding:ASsUwjkmsHDGM2gFaB0PE",
-				"type": "discourse-relation",
-				"fromId": "shape:NymJih2_JYVcjmSSwDgwN",
-				"toId": "shape:r2r9QXIO4do7ZLVhzchON",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
+				"selectedShapeIds": [
+					"shape:d3O6Nj2BdMnOhfd5hBAEL"
+				],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -467,8 +507,8 @@ tldr-dg: true
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": -670.0481813233671,
-				"y": 1061.4012343666534,
+				"x": -714.2165162843046,
+				"y": 1222.3001601479034,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -479,8 +519,8 @@ tldr-dg: true
 				"index": "aK7nb",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.4375,
-					"h": 76,
+					"w": 398.2545471191406,
+					"h": 75.12228775024414,
 					"src": "asset:obsidian.blockref.d4caf31a-9add-4161-a2e7-e30fd9c727bc",
 					"title": "@dorPhylogenyGenusHirundo2010",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
@@ -587,8 +627,26 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": -1204.048181323367,
-				"y": 899.4012343666534,
+				"meta": {},
+				"id": "binding:mLSd6xkLEAcL6Db-T-_YF",
+				"type": "discourse-relation",
+				"fromId": "shape:ssw_-VLDKk-NXY_ai7b5O",
+				"toId": "shape:bjCOX3Uhn-sj7O5ivC3nm",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.644125903676252,
+						"y": 0.4937610566801743
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -907.4893434327421,
+				"y": 596.5327040932159,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -604,7 +662,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://0deb44f6f48fb8e72bc701e258fa937ca290/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
+					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -628,8 +686,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -1152.048181323367,
-				"y": 488.4012343666534,
+				"x": -833.4052369874296,
+				"y": 330.6572158119659,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -749,10 +807,10 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": -3.2232921754004393,
 					"start": {
-						"x": 0,
-						"y": 0
+						"x": -622.8450927734375,
+						"y": 162.61785888671875
 					},
 					"end": {
 						"x": 100,
@@ -788,6 +846,44 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": -582.3254822632457,
+				"y": 331.81016540527344,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:d3O6Nj2BdMnOhfd5hBAEL",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "blue",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 208.22216796875,
+						"y": -129.35009765625
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "informs",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+				},
+				"parentId": "page:page",
+				"index": "a6bVn",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "page:page",
 				"name": "Page 1",
@@ -816,10 +912,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 356,
-					"y": 89.953125,
-					"w": 954.5,
-					"h": 684.046875
+					"x": 355.95941162109375,
+					"y": 90.99862670898438,
+					"w": 1526.5684814453125,
+					"h": 1561.7158203125
 				},
 				"insets": [
 					true,
@@ -829,13 +925,13 @@ tldr-dg: true
 				],
 				"zoomBrush": null,
 				"isGridMode": false,
-				"isPenMode": false,
+				"isPenMode": true,
 				"chatMessage": "",
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
-				"devicePixelRatio": 1,
-				"isCoarsePointer": false,
+				"devicePixelRatio": 0.6339381337165833,
+				"isCoarsePointer": true,
 				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
@@ -865,8 +961,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -1289,
-				"y": -222.953125,
+				"x": -478.1951904296875,
+				"y": -576.2999572753906,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -927,8 +1023,8 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 180,
-				"y": 872.046875,
+				"x": 135.831787109375,
+				"y": 979.31298828125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -944,14 +1040,14 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11-17 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://0deb44f6f48fb8e72bc701e258fa937ca290/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
 					"size": "m",
 					"fontFamily": "sans"
 				}
 			},
 			{
-				"x": 712,
-				"y": 996.046875,
+				"x": 831.88525390625,
+				"y": 1179.030029296875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -970,24 +1066,6 @@ tldr-dg: true
 					"size": "m",
 					"fontFamily": "sans"
 				}
-			},
-			{
-				"meta": {},
-				"id": "binding:m6ksqFjKmtzv9OnlZN4aS",
-				"type": "discourse-relation",
-				"fromId": "shape:sTiWc9W49bYdeDg2r6DB4",
-				"toId": "shape:r2r9QXIO4do7ZLVhzchON",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
 			}
 		]
 	}

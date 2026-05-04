@@ -167,10 +167,11 @@ return function AddLogEntry() {
       return;
     }
 
-    const sep = "\n---\n";
-    const sepIdx = content.lastIndexOf(sep);
-    const insertAt = sepIdx !== -1 ? sepIdx : content.length;
-    const newEntry = `\n\n## ${today}\n\n`;
+    const marker = "return function AddLogEntry()";
+    const markerIdx = content.indexOf(marker);
+    const closeBlock = content.indexOf("\n```\n", markerIdx !== -1 ? markerIdx : 0);
+    const insertAt = closeBlock !== -1 ? closeBlock + 5 : content.length;
+    const newEntry = `\n## ${today}\n\n`;
     await app.vault.modify(file, content.slice(0, insertAt) + newEntry + content.slice(insertAt));
     setMsg(`Added ${today}`);
   };

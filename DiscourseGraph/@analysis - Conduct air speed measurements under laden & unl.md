@@ -7,7 +7,7 @@ targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE 
 tags:
   - dg/source
 cssclasses: dg-exp
-lead:
+lead: "[[@sirbelvedere]]"
 contributors:
 aliases:
   - "@analysis - Conduct air speed measurements under laden & unladen conditions"
@@ -17,11 +17,9 @@ rating: 3
 citekey: analysis - Conduct air speed measurements under laden & unl
 nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
 ---
-
 > [!Note]-
 > This is a Source describing an experimental observation. This example graph uses the same naming convention ("@Source") for both literature and experimental Sources. You might choose to differentiate the two, for ex. by using "EXP" as the prefix for your own experiments, for searchability.
- 
-# Resources
+ # Resources
 > [!info]-
 > This space can be used to include any materials or context necessary to carry out or understand this experiment. 
 > You can customize the template to include fields relevevant to your research.
@@ -29,9 +27,7 @@ nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
 Benchling: ==link to a cloud platform or electronic lab notebook==
 Protocol: ==attached protocol file==
 Github: ==link to relevant repos==
-
 #  Results
-
 >[!info]-
 >This section collects Results from this Experiment in a Base. To find issue 7 result candidates, use the built-in search function on the top left menu to search for e.g. "tag:#iss-candidate @analysis - Conduct air speed measurements" to find issue candidates  linked to this  Experiment page throughout your graph
 
@@ -39,7 +35,6 @@ Github: ==link to relevant repos==
 
 ![[Issues.base#Issues in this Page ]]
 # Todos
-
 ```tasks
 not done
 (path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.filenameWithoutExtension}})
@@ -49,7 +44,6 @@ not done
 
 >[!info]-
 >For experiments taking place over several days/weeks, moths, you can log your observations here. 
-
 ### 2026-04-30
 -  [[RES - The airspeed velocity of an unladen swallow is 11-17 m-s]]
 - #iss-candidate turkey drop experiment failed to replicate

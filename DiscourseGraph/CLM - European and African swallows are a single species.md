@@ -8,9 +8,7 @@ aliases:
 nodeInstanceId: 019dde98-14dc-73c5-95f9-cc15930f3058
 ---
 # Summary
-**Evidence statement:**
-
-[[EVD - Molecular phylogeny places Eur&Afr swallows in the same species]]
+**Evidence statement:** [[EVD - Molecular phylogeny places Eur&Afr swallows in the same species]]
 # Source of Claim
 
 [@dorPhylogenyGenusHirundo2010]
