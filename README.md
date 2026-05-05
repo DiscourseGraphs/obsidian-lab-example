@@ -89,8 +89,12 @@ There is a template in the example vault that you can modify (in `Meta/Templates
 
 **Annotated examples**
 ![](Meta/Attachments/mtg.png)
+
+You can capture insights and information from regular meetings using the Meeting template...
+
 ![alt text](Meta/Attachments/mtg-series.PNG)
 
+And track recurring meetings using the Meeting Series template.
 
 ### The Discourse Canvas
 
