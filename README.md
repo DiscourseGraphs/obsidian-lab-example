@@ -7,6 +7,8 @@ This is an example vault that illustrates potential usage of the [discourse grap
 
 **Backlinks** (optional): nice to have references to a given note easily accessible at the bottom of the page
 
+**Daily Notes**: supports the one-click creation of Daily Notes
+
 ## Community
 
 ### Required
@@ -120,7 +122,6 @@ And track recurring meetings using the Meeting Series template.
 The discourse graph plugin implements a tldraw canvas (distinct from the canvas feature that ships with Obsidian) that allows you to create and manipulate discourse nodes and relations visually. 
 
 
-
 # Getting Started
 
 Please feel free to organize the vault's folders  according to the organizational structure patterns that work for you.
@@ -128,7 +129,7 @@ Please feel free to organize the vault's folders  according to the organizationa
 ## Suggestions for how to explore discourse graphs using this example vault
 
 1. Download this example vault (all plugin "batteries" are included already)
-2. Go through the [[Discourse Graph Sandbox|Welcome]] to get a quick tutorial on how to use discourse graphs to achieve different goal
+2. Go through the [[Welcome|Discourse Graph Sandbox]] to get a quick tutorial on how to use discourse graphs to achieve different goal
 3. Choose a project that you have in mind or in progress
 4. Map out the key questions/claims/evidence for the project using the provided templates
 5. Begin visually organizing your work on a discourse canvas
@@ -136,9 +137,9 @@ Please feel free to organize the vault's folders  according to the organizationa
 
 ## Templates/workflows
 
+The discourse graph plugin supports the use of **templates** when creating discourse nodes -- these are stored under **Meta/Templates.**
 
-
-Our discourse plugin supports the use of templates when creating discourse nodes, but for more advanced workflow structuring, you might experiment with the Templater plugin: 
+You can modify these templates and their use manually and with the core _Templates_ plugin, but for more advanced workflow structuring, you might experiment with the Templater plugin: 
 
 Docs: https://silentvoid13.github.io/Templater/
 

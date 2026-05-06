@@ -272,11 +272,15 @@
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
       "discourse-graphs:Toggle discourse context": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "d65b6cdd58e84189",
   "lastOpenFiles": [
+    "Meta/Templates.md",
+    "README.md",
+    "Discourse Graph Sandbox.md",
     "dnp07.PNG",
     "dnp06.PNG",
     "King Arthur - Sir Belvedere sync.md",
@@ -303,7 +307,6 @@
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/dnp01-a.PNG",
     "Meta/Attachments/prj-page.PNG",
-    "Meta/Attachments/EXP-page.PNG",
     "Discourse Canvas/Canvas-Bio-PRJ-example.md",
     "CLAUDE.md",
     "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
@@ -317,12 +320,10 @@
     "Meta/Attachments/arthur.jpg:Zone.Identifier",
     "Joel Chan]], [[Matt Akamatsu.md",
     "Meta/Templates/00 Bullet Journal Log.md",
-    "DECISIONS.md",
     "Bases/Experiments.base",
     "Bases/Conclusions.base",
     "Bases/Hypotheses.base",
     "Bases/Projects.base",
-    "DiscourseGraph/CLM - Vertebrate fliers can lift ~6× their flight muscle mass.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
