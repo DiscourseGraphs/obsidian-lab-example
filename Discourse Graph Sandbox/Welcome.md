@@ -4,7 +4,7 @@ Hi, welcome to the Discourse Graph plugin!
 
 ## Getting started
 
--> [[Users/Obsidian User|I already have an Obsidian vault]]
+-> [[Obsidian User|I already have an Obsidian vault]]
 
 -> [[Users/Blank Slate|I'm new to Obsidian]]
 

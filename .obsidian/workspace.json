@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "file": "Discourse Graph Sandbox/Users/Obsidian User.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PRJ - Passarine Songbird Cargo Capacity"
+              "title": "Obsidian User"
             }
           },
           {
             "id": "d65b6cdd58e84189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Discourse Graph Sandbox/Users/icon.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "icon"
             }
           },
           {
@@ -61,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roundtable Syncs.md",
+                "file": "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roundtable Syncs"
+              "title": "The Discourse Graph Protocol"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,54 +264,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d65b6cdd58e84189",
+  "active": "ec95d21a57540ccb",
   "lastOpenFiles": [
-    "Meta/Templates.md",
+    "Discourse Graph Sandbox/Guides/Creating Issues.md",
+    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
+    "Discourse Graph Sandbox/Guides/Project Tracking.md",
+    "Discourse Graph Sandbox/Guides/Meetings.md",
+    "Discourse Graph Sandbox/Guides/dg02.png",
+    "Discourse Graph Sandbox/Guides/image.png",
+    "Discourse Graph Sandbox/Guides/dg01.png",
+    "Discourse Graph Sandbox/Users/Obsidian User.md",
     "README.md",
-    "Discourse Graph Sandbox.md",
-    "dnp07.PNG",
+    "Roundtable Syncs.md",
+    "Discourse Graph Sandbox/Users/Blank Slate.md",
+    "Discourse Graph Sandbox/Guides/Leveling up.md",
+    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
+    "Discourse Graph Sandbox/Welcome.md",
+    "Discourse Graph Protocol.md",
+    "Users",
     "dnp06.PNG",
+    "Discourse Graph Sandbox.md",
+    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
+    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "Discourse Graph Sandbox/Workflows/Zettelkasten.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "Discourse Graph Sandbox/Users/icon.png",
+    "Discourse Graph Sandbox/Users/image-1.png",
+    "Meta/Templates.md",
+    "dnp07.PNG",
     "King Arthur - Sir Belvedere sync.md",
     "Meta/Templates/Meeting Series.md",
-    "Roundtable Syncs.md",
     "image.png",
     "Meta/Attachments/grail2.png:Zone.Identifier",
     "Meta/Attachments/grail2.png",
     "Meta/Templates/Meeting.md",
-    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
-    "Daily Notes/2026-04-27.md",
     "King Arthur",
     "Meta/Attachments/arthur-belvedere.jpg:Zone.Identifier",
     "Meta/Attachments/arthur-belvedere.jpg",
-    "Meta/Templates/00 Meeting Log.md",
-    "Daily Notes/2026-04-28.md",
-    "Daily Notes/2026-04-30.md",
-    "Daily Notes/2026-05-01.md",
-    "Untitled.md",
-    "test 002.md",
-    "Meta/Attachments/prj-page-a.PNG",
-    "Meta/Attachments/dnp07.PNG",
-    "Meta/Attachments/dnp06.PNG",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
-    "Meta/Attachments/dnp01-a.PNG",
-    "Meta/Attachments/prj-page.PNG",
-    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
-    "CLAUDE.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be determined empirically.md",
-    "DiscourseGraph/CLM - European and African swallows are a single species.md",
-    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
-    "DiscourseGraph/@analysis - determination of the European swallow's flight s.md",
-    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11-17 m-s.md",
     "Meta/Templates/Project.md.tmp.8354.1777890507284",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md.tmp.8354.1777890236590",
-    "DiscourseGraph/@king arthur.md",
     "Meta/Attachments/arthur.jpg:Zone.Identifier",
-    "Joel Chan]], [[Matt Akamatsu.md",
-    "Meta/Templates/00 Bullet Journal Log.md",
     "Bases/Experiments.base",
     "Bases/Conclusions.base",
     "Bases/Hypotheses.base",
-    "Bases/Projects.base",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
