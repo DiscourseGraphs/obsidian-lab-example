@@ -44,57 +44,72 @@ This vault contains an example graph demonstrating how you can use a discourse g
 - integrate insights from the literature into your own research
 - keep track of tasks and meetings
 - design experiments and record experimental data
--  synthesize your research into a story or new initiative
+- synthesize your research into a story or new initiative
 - share your ideas and results with others
--  build and exploit your personal knowledge base
+- build and exploit your personal knowledge base
 
 The graph is descriptive, not prescriptive, showcasing specific patterns you can adopt, discard, or adapt to your own needs.
 
 ### The Daily Notes Page
 
+This vault uses the _Daily Notes_ core plugin and the _Calendar_  and _Tasks_ community plugins to power a Daily Notes page that can be created by clicking on the appropriate date in the Calendar on the right sidebar.
 
+![alt text](dnp06.PNG)
+
+
+The Daily Notes Page is intended to serve as a landing page that gives an overview of the current state of your vault and allows short-hop journeys to the most frequented nodes in your graph. 
+
+The example in this vault demonstrates two powerful methods of searching for and interacting with your nodes and nodes: via **Datacore-powered queries** and via **Bases.**
+
+The **Daily Log** and its subcomponents --  the Bullet Journal, Media Log, Meetings Log, Project Log, and Experiment Log -- allow you to jot down simple notes and use wikilinks and hashtags to route them to Datacore queries on the appropriate pages (for example, notes in the Experiment Log linked with [[Experiment Name]] will show up in the daily log on that Experiment Page). Entries will also be sorted chronologically in their respective Log Pages. 
+
+These Datacore queries allow you to search your vault at the sub-file level, surfacing inline content and routing it to multiple destinations. Think of these as logs as a way of chronologically ordering and searching freeform prose.
+
+The **Projects**, **Experiments**, and **Research Questions** Bases display data stored as properties (frontmatter)in a tabular format to give you an overview of the status of your major research  questions and initiatives. 
+
+The _Tasks_ plugin is used to organize the tasks stored throughout your vault and present them in order or urgency.
+
+
+![alt text](dnp07.PNG)
+
+These patterns can be copied and modified: for example, the Daily Notes Page could be updated to include a "Sources" base that tracks a literature synthesis project.
 
 
 ### Project pages
 
-**Annotated example**
-![alt text](Meta/Attachments/prj-page-a.PNG)
-
-The structure of the Project page enables you to
-- Keep the broad target question(s) close by, provide space for reflecting on what has been learned from the experiments
+The Project Page is designed to
+- Keep the broad target question(s) front and center
 - Consolidate key links/resources for the project
-- Keep a log of project notes
+- Keep a log of project notes and provide space for reflecting on what has been learned from the experiments
+- link to a **Project Canvas** where you can organize your research into a visual narrative 
 
-Key actions
-- Review progress by pulling in results from each experiment alongside the literature and your questions by placing them on the project canvas
-- There is a template in the example vault that you can modify (in `Meta/Templates/Project.md`)
+**Annotated example**
+![alt text](Meta/Attachments/prj-page-a.PNG|400)
+
+
 
 ### Experiment pages
 
-**Annotated example**
-![alt text](Meta/Attachments/EXP-page.PNG)
-
-The structure of the Experiment page enables you to
-- Keep target question or hypothesis close by, to define the purpose of the experiment
+The Experiment Page is designed to
+- Forefront the target question or hypothesis, defining the purpose of the experiment
 - Keep an experiment log where you can reflect on observations, and (if appropriate) formalize these into hypotheses or results you want to share with others by creating discourse nodes
 - Reflect on progress of the experiment by comparing tabulated results from the experiment against the target question
 
-Key actions
-- Set/change the target question by changing it in the `targetQuestionOrHyp` property for the page
-- Review progress by comparing the target question to the tabulated results so far. The `.base` query will auto-update
 
-There is a template in the example vault that you can modify (in `Meta/Templates/Experiment.md`)
+**Annotated example**
+![alt text](Meta/Attachments/EXP-page.PNG|400)
+
 
 ### Meeting Notes
 
 You can capture insights and information from regular meetings using the Meeting template...
 
 **Annotated examples**
-![](Meta/Attachments/mtg.png)
+![](Meta/Attachments/mtg.png|400)
 
 And track recurring meetings using the Meeting Series template.
 
-![alt text](Meta/Attachments/mtg-series.PNG)
+![alt text](Meta/Attachments/mtg-series.PNG|400)
 
 
 ### The Discourse Canvas
@@ -105,11 +120,6 @@ And track recurring meetings using the Meeting Series template.
 The discourse graph plugin implements a tldraw canvas (distinct from the canvas feature that ships with Obsidian) that allows you to create and manipulate discourse nodes and relations visually. 
 
 
-# The Decisions and Conventions files
-
-This vault contains two notes, _DECISIONS.md_ and _Conventions.md_, that function as short guides to how this vault was designed. 
-- _DECISIONS.md_ records the design decisions involved in the creation of the vault.
-- _Conventions.md_ records certain assumptions about how a vault like this might be used.
 
 # Getting Started
 
@@ -118,17 +128,15 @@ Please feel free to organize the vault's folders  according to the organizationa
 ## Suggestions for how to explore discourse graphs using this example vault
 
 1. Download this example vault (all plugin "batteries" are included already)
-2. Choose 1-2 projects that already have some questions/claims/evidence around them, maybe some sub-experiments too
-3. For each project
-	1. Create the project and its container experiments
-	2. Map out the key questions/claims/evidence for the project
-	3. Maybe tabulate some logs for ongoing experiments in those projects
+2. Go through the [[Discourse Graph Sandbox|Welcome]] to get a quick tutorial on how to use discourse graphs to achieve different goal
+3. Choose a project that you have in mind or in progress
+4. Map out the key questions/claims/evidence for the project using the provided templates
+5. Begin visually organizing your work on a discourse canvas
 
 
+## Templates/workflows
 
-### Templates/workflows
 
-At the moment a lot of our lab processes are encoded in "smartblock" workflows and templates. For instance, we have meeting templates that focus attention on research questions, and workflows for creating new projects/experiments that encourage specification of target questions/hypotheses. You may want to start working in similar things to support sufficient (minimal) standardization and shared processes as you collaborate.
 
 Our discourse plugin supports the use of templates when creating discourse nodes, but for more advanced workflow structuring, you might experiment with the Templater plugin: 
 
@@ -137,4 +145,8 @@ Docs: https://silentvoid13.github.io/Templater/
 Examples: https://github.com/SilentVoid13/Templater/discussions/categories/templates-showcase
 
 
+## The Decisions and Conventions files
 
+This vault contains two notes, _DECISIONS.md_ and _Conventions.md_, that function as short guides to how this vault was designed. 
+- _DECISIONS.md_ records the design decisions involved in the creation of the vault.
+- _Conventions.md_ records certain assumptions about how a vault like this might be used.
