@@ -52,9 +52,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 1586.5,
-				"y": 1254.9140625,
-				"lastActivityTimestamp": 1778161487700,
+				"x": 62.5,
+				"y": 44.765625,
+				"lastActivityTimestamp": 1778161936654,
 				"meta": {}
 			},
 			{
@@ -364,9 +364,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1327.5,
-				"y": 1204.1484375,
-				"z": 0.25,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -429,7 +429,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://5355ade5a6e04f18261ca2d5e2f4fb8aa402/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -528,7 +528,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://5355ade5a6e04f18261ca2d5e2f4fb8aa402/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -619,7 +619,7 @@ tldr-dg: true
 					"w": 400,
 					"h": 94,
 					"src": "asset:obsidian.blockref.22e28eb5-a3d0-4a47-beee-9496ea1e47aa",
-					"title": "HYP- loadbearing capacity of a 5 oz bird can be determined empirically",
+					"title": "HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
 					"size": "s",
 					"fontFamily": "mono"
@@ -742,6 +742,24 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
+				"id": "binding:Jl3a0MstmK3_uXdyqVRRV",
+				"type": "discourse-relation",
+				"fromId": "shape:k8A3isKTBJPeSNR65S8qt",
+				"toId": "shape:Xb0_wLwgRihYo13_w_Zab",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.79125,
+						"y": 0.6900764627659575
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
 				"id": "binding:K26qbz5KrYwdkGqigwUBV",
 				"type": "discourse-relation",
 				"fromId": "shape:1SbNOfuJpuj2l1NFakFEe",
@@ -804,8 +822,8 @@ tldr-dg: true
 				"id": "shape:M6P0iTJAML4zVpv7SdBKj",
 				"type": "discourse-node",
 				"props": {
-					"w": 337.921875,
-					"h": 67,
+					"w": 400,
+					"h": 112,
 					"src": "asset:obsidian.blockref.62828673-6bb4-4114-8f91-b0a85d49c746",
 					"title": "RES - 5g max load at sustained cruising",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
@@ -950,7 +968,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
+					"imageSrc": "app://5355ade5a6e04f18261ca2d5e2f4fb8aa402/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1128,8 +1146,8 @@ tldr-dg: true
 						"y": 0
 					},
 					"end": {
-						"x": 292,
-						"y": -1548
+						"x": 300,
+						"y": -1444
 					},
 					"arrowheadStart": "none",
 					"arrowheadEnd": "arrow",
@@ -1392,9 +1410,7 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {
-					"tldraw:font": "mono"
-				},
+				"stylesForNextShape": {},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
@@ -1419,13 +1435,13 @@ tldr-dg: true
 				],
 				"zoomBrush": null,
 				"isGridMode": false,
-				"isPenMode": true,
+				"isPenMode": false,
 				"chatMessage": "",
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
 				"devicePixelRatio": 1,
-				"isCoarsePointer": true,
+				"isCoarsePointer": false,
 				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
@@ -1626,7 +1642,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://5355ade5a6e04f18261ca2d5e2f4fb8aa402/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
 					"size": "m",
 					"fontFamily": "mono"
 				}

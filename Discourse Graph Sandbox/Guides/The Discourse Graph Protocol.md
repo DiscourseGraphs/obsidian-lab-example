@@ -21,6 +21,13 @@ A discourse graph has 4 types of nodes : 1) Questions, 2) Claims, 3) Evidence, a
 
 - A **Source** reports/generates evidence. Examples include experiments, books, and journal article.
 
+**💡 A note about Claims and Evidence:**
+-  A **claim** is a general statement including an interpretation, while the **evidence** is the specific observation or measurement carried out by a particular study. 
+	- For example: 
+		- CLM: Split keyboards are gentler on wrists than straight keyboards. 
+			- Supported by 
+		- EVD: A laboratory study of 20 participants using an adjustable keyboard showed that wrist angle strongly correlated with carpal tunnel pressure (Rempel et al. 2008, Table 1).
+
 ![The discourse graph model](dgraph01.png|300)
 
 Some researchers prefer to make a distinction between graph nodes sources from their own work and those derived from the literature. Instead of a **Claim** they might have a **Hypothesis** (untested claim) or a **Conclusion** (tested claim), and empirical observations they make directly are termed **Results** instead of evidence. The **Source** in these cases is usually an experiment or simulation rather than a published or presented work.
@@ -56,9 +63,13 @@ For example, this graph includes **Experiment** as a particular type of source t
 
 This example graph includes a [[PRJ - Passarine Songbird Cargo Capacity|tutorial project]] that demonstrates how these nodes behave in the wild.
 
-- The **Question** [[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]   ➡  motivates the **Hypothesis** [[HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g]], which in turn motivates the **Experiment** ➡ [[@analysis - measure flight capacity of H rustica under load]], which produces the **Result** ➡  [[RES - 5g max load at sustained cruising]].
+- The **Question** [[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]   ➡  motivates the **Hypothesis** [[HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g]], which in turn motivates the **Experiment** ➡ [[@analysis - measure flight capacity of H rustica under load]], which produces the **Result** ➡  [[RES - 5g max load at sustained cruising]]. This result does not support the claim that [[CLM - It could be carried by two swallows with a bit of string]].
 
+A perusal of the [[Canvas - PRJ - Passarine Songbird Cargo Capacity|discourse canvas describing the project]] shows how discourse graphs can be used to track the claims and evidence in _ongoing, unpublished_ research: there's a second question on the Canvas, [[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]] that popped up during on of the experiments related to [[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]] and is now motivating a related research thread. The two questions partially converge at one experiment, [[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]], which may have important ramifications for the future of bridge-troll initiated fluid mechanics research.
 
+The question motivating a discourse graph is usually large enough that it take multiple experiments to address -- but it may spawn other sub-questions of its own (as you can see from [[QUE - African or European?]] ) of different scope. The tutorial project is an attempt to replicate the serendipitous nature of many research initiatives, with their various tributaries and sidequests.
+
+Now that' we've gone over the conceptual underpinnings, let's [[Creating Nodes|get started building your graph]]
 
 
 > [!info] Learn more about the discourse graph conceptual schema [here](https://github.com/DiscourseGraphs/schemas/blob/main/README.md) 

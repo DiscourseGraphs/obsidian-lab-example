@@ -85,9 +85,7 @@ return function AddLogEntry() {
 ```
 
 
-### 2026-05-07
 
-- new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
 
 ### 2026-05-04
 -  #res-candidate 10g at burst takeoff
@@ -96,6 +94,10 @@ return function AddLogEntry() {
 ### 2026-04-30
 - [[RES - 5g max load at sustained cruising]]
 
+### 2026-04-21
+
+- new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+>[!tip] This question  will eventually spawn a new research chain. Data gathered in the course of investigating this target question will bear on [[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]] - and spawn a counter-question that knocks the bridge troll off his feet
 
 ---
 > [!log] From daily notes
