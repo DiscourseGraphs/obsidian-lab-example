@@ -29,8 +29,8 @@
       "format": "EVD - {content}",
       "color": "#E8405E",
       "created": 1775758395954,
-      "modified": 1777470248198,
-      "description": "A specific empirical observation",
+      "modified": 1778148089251,
+      "description": "A specific empirical observation *or* evidence extracted from a literature-type Source",
       "template": "Evidence",
       "tag": "evd-candidate",
       "keyImage": true
@@ -52,8 +52,8 @@
       "template": "Result",
       "color": "#C0364A",
       "created": 1775758395954,
-      "modified": 1776950709595,
-      "description": "A synonym for Result, *or* a Result extracted from a literature Source ",
+      "modified": 1778148064406,
+      "description": "A synonym for Evidence, *or* a Result observed from an experiment-type Source ",
       "tag": "res-candidate",
       "keyImage": true
     },
@@ -88,8 +88,8 @@
       "tag": "con-candidate",
       "color": "#8B1A30",
       "created": 1776167647362,
-      "modified": 1776711905288,
-      "description": "This can be used as a synonym for Result, as the end of the inferential chain of multiple Results *or* to describe a Result extracted from a literature Source",
+      "modified": 1778149445047,
+      "description": "A tested Claim",
       "keyImage": true
     },
     {
