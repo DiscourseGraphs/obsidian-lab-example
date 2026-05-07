@@ -50,52 +50,30 @@ tldr-dg: true
 		},
 		"records": [
 			{
-				"x": 734,
-				"y": 269.046875,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019ddeb2-4c1a-7705-87c9-d2b0bdae9736"
-				},
-				"id": "shape:fO00CPgxAgCm2EzRLfLJS",
-				"typeName": "shape",
-				"type": "discourse-relation",
-				"index": "aDAvs",
-				"parentId": "page:page",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "violet",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 100,
-						"y": 0
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "motivates",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
-				}
-			},
-			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 118.0583067992543,
-				"y": 391.75291442871094,
-				"lastActivityTimestamp": 1777907260183,
+				"x": 1586.5,
+				"y": 1254.9140625,
+				"lastActivityTimestamp": 1778161487700,
 				"meta": {}
+			},
+			{
+				"meta": {},
+				"id": "binding:zwXTsBnOR3875ezmJ7-cE",
+				"type": "discourse-relation",
+				"fromId": "shape:9CXhDCUlsFVW4hi_YT-zy",
+				"toId": "shape:dXLXk9zbwsAeToPyPDKRx",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.48625,
+						"y": 0.02111037234042553
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -116,26 +94,40 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 1226.5,
-				"y": 540.0703125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
 				"meta": {},
-				"id": "shape:T-7RmUgy7ANkt8vrLinLJ",
-				"typeName": "shape",
-				"type": "discourse-node",
-				"index": "aIAE7",
-				"parentId": "page:page",
+				"id": "binding:ecJk07qCxSO6hyI1FnY0H",
+				"type": "discourse-relation",
+				"fromId": "shape:ZNPTNxj2a2wdSeFV1q8Cy",
+				"toId": "shape:0C3JTvuJ4SpKCQSnLF6Ba",
 				"props": {
-					"w": 400,
-					"h": 112,
-					"src": "asset:obsidian.blockref.6d5820ba-8a5f-4319-a18b-56b252da3ae0",
-					"title": "@analysis - determination of the European swallow's flight s",
-					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
-					"size": "m",
-					"fontFamily": "sans"
-				}
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6825,
+						"y": 0.6519742398648649
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:JsaQEOjFyIbpNLQ411Dte",
+				"type": "discourse-relation",
+				"fromId": "shape:dx_kRGCnEzI92azcHOIPH",
+				"toId": "shape:3kNgqvvkPz_r_JHlb3nTZ",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6,
+						"y": 0.8918918918918919
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			},
 			{
 				"x": 114.95181867663298,
@@ -168,17 +160,75 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"meta": {},
-				"id": "binding:ixlf2DagAHZDeEVP6m8jm",
+				"x": 620.5,
+				"y": 749.765625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e02ac-2f5b-752d-ab9e-8629ffa4f8f5"
+				},
+				"id": "shape:p-P3ZbMBO5AeWFPfgfQtj",
 				"type": "discourse-relation",
-				"fromId": "shape:dWWkpjBf_zC0NaYaDtx-r",
-				"toId": "shape:T-7RmUgy7ANkt8vrLinLJ",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "black",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -5,
+						"y": 149
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "produces",
+					"labelPosition": 0.5,
+					"font": "sans",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
+				},
+				"parentId": "page:page",
+				"index": "aa9V8",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:Wds0DPwUjpT8MnhtbAE8v",
+				"type": "discourse-relation",
+				"fromId": "shape:2wCWOcfo9ptZUWp2TEhsC",
+				"toId": "shape:qNYIeqnphgdFKTmH4r1CZ",
 				"props": {
 					"isPrecise": false,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
+						"x": 0.6199733585818552,
+						"y": 0.5571527899620233
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:2kc8z0jjgOitkD2k2D5y8",
+				"type": "discourse-relation",
+				"fromId": "shape:ZNPTNxj2a2wdSeFV1q8Cy",
+				"toId": "shape:3kNgqvvkPz_r_JHlb3nTZ",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.7,
+						"y": 0.40540540540540543
 					},
 					"snap": "none",
 					"terminal": "end"
@@ -187,16 +237,16 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
-				"id": "binding:5LJ7dRAjKCV1qU05g_PY2",
+				"id": "binding:noP_onCeka7Pjfld1DMZM",
 				"type": "discourse-relation",
-				"fromId": "shape:d3O6Nj2BdMnOhfd5hBAEL",
-				"toId": "shape:PGlHBzGCZSHORLF_g4_MC",
+				"fromId": "shape:9CXhDCUlsFVW4hi_YT-zy",
+				"toId": "shape:yqz2YpcOMLObcVbjJz6mf",
 				"props": {
 					"isPrecise": false,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.6276993868104597,
-						"y": 0.012265421205399358
+						"x": 0.33625,
+						"y": 0.9539780890804598
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -204,56 +254,166 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 1167.0631531616832,
-				"y": 1177.2093048095703,
-				"z": 0.5,
-				"meta": {},
-				"id": "camera:page:page",
-				"typeName": "camera"
-			},
-			{
-				"x": 950,
-				"y": 592.046875,
+				"x": -122.5,
+				"y": 626.9140625,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {
-					"relationInstanceId": "019dde97-918c-7c81-ace9-c92da16514f7"
+					"relationInstanceId": "019dde97-f234-7b74-9974-e4136542c496"
 				},
-				"id": "shape:NymJih2_JYVcjmSSwDgwN",
-				"typeName": "shape",
+				"id": "shape:dx_kRGCnEzI92azcHOIPH",
 				"type": "discourse-relation",
-				"index": "aF6kn",
-				"parentId": "page:page",
 				"props": {
 					"dash": "draw",
 					"size": "m",
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 1.7313759482572022,
+					"bend": 0,
 					"start": {
-						"x": -487.1851806640625,
-						"y": 186.27947998046875
+						"x": 0,
+						"y": 0
 					},
 					"end": {
-						"x": 100,
-						"y": 0
+						"x": 28,
+						"y": 328
 					},
 					"arrowheadStart": "none",
 					"arrowheadEnd": "arrow",
 					"text": "produces",
 					"labelPosition": 0.5,
-					"font": "draw",
+					"font": "sans",
 					"scale": 1,
 					"kind": "arc",
 					"elbowMidPoint": 0,
 					"relationTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
-				}
+				},
+				"parentId": "page:page",
+				"index": "aXBqQ",
+				"typeName": "shape"
 			},
 			{
-				"x": 514,
-				"y": -255.953125,
+				"x": 632.5,
+				"y": -57.578125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e023f-0d3e-76be-8d5a-5d98e2d572d1"
+				},
+				"id": "shape:ysICqSyA0oHNrTWGoNbAQ",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -336,
+						"y": 344
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:page",
+				"index": "a5jcV",
+				"typeName": "shape"
+			},
+			{
+				"x": 945.5,
+				"y": 337.765625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:bCTMlSmAq7Wl4J4Ig_pyZ",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 8,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aS0pk",
+				"typeName": "shape"
+			},
+			{
+				"x": 1327.5,
+				"y": 1204.1484375,
+				"z": 0.25,
+				"meta": {},
+				"id": "camera:page:page",
+				"typeName": "camera"
+			},
+			{
+				"x": -679.5,
+				"y": -137.578125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e0257-178e-7b27-a710-9654f2fa3a5e"
+				},
+				"id": "shape:VOnjGCGhR1iqK7kq43koM",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 300,
+						"y": -16
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "sans",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:page",
+				"index": "aQA5W",
+				"typeName": "shape"
+			},
+			{
+				"x": 510,
+				"y": -279.953125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -269,28 +429,10 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
-			},
-			{
-				"meta": {},
-				"id": "binding:t1SN2pRy8zcgUTis8OhSi",
-				"type": "discourse-relation",
-				"fromId": "shape:fO00CPgxAgCm2EzRLfLJS",
-				"toId": "shape:r2r9QXIO4do7ZLVhzchON",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
 			},
 			{
 				"x": 1118,
@@ -316,6 +458,24 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
+				"id": "binding:3ZxnIahjuQrOWgYVKR9PV",
+				"type": "discourse-relation",
+				"fromId": "shape:ysICqSyA0oHNrTWGoNbAQ",
+				"toId": "shape:wOXXYPb5ASWYXyQJ5PLPF",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.52,
+						"y": 0.3441655585106383
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
 				"id": "binding:OefSEL9wLHA-QEfcrVPPA",
 				"type": "discourse-relation",
 				"fromId": "shape:4WNNkvHQJpp1lYKBrfVmr",
@@ -334,16 +494,16 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
-				"id": "binding:l7oi7hb-CnVw3GsklqJf6",
+				"id": "binding:mDzj9QNOLcLQOP8hpayFG",
 				"type": "discourse-relation",
-				"fromId": "shape:sTiWc9W49bYdeDg2r6DB4",
-				"toId": "shape:QOU_Ulah1LQayYaQTttpu",
+				"fromId": "shape:p-P3ZbMBO5AeWFPfgfQtj",
+				"toId": "shape:M6P0iTJAML4zVpv7SdBKj",
 				"props": {
 					"isPrecise": false,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
+						"x": 0.5563416100245064,
+						"y": 0.13432835820895522
 					},
 					"snap": "none",
 					"terminal": "end"
@@ -351,8 +511,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -504.68701171875,
-				"y": -192.6534423828125,
+				"x": -868.68701171875,
+				"y": -276.6534423828125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -368,7 +528,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -414,46 +574,38 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": -345.7093933960582,
-				"y": -34.15614318847656,
+				"x": 1248.5,
+				"y": 670.421875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:ssw_-VLDKk-NXY_ai7b5O",
-				"type": "discourse-relation",
+				"id": "shape:CWiUvVHenZrAOmmbeVchb",
+				"type": "text",
 				"props": {
-					"dash": "draw",
+					"color": "black",
 					"size": "m",
-					"fill": "none",
-					"color": "blue",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 85.181884765625,
-						"y": -378.5858154296875
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "informs",
-					"labelPosition": 0.5,
+					"w": 8,
 					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
 					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
 				},
 				"parentId": "page:page",
-				"index": "a3e2B",
+				"index": "aMBqc",
 				"typeName": "shape"
 			},
 			{
-				"x": 334,
-				"y": 222.046875,
+				"x": 298,
+				"y": 330.046875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -474,29 +626,49 @@ tldr-dg: true
 				}
 			},
 			{
-				"meta": {},
-				"id": "binding:JAPk0G-lXrUs77OnUOSFk",
-				"type": "discourse-relation",
-				"fromId": "shape:NymJih2_JYVcjmSSwDgwN",
-				"toId": "shape:KOwmMjE0w0D2MDLeealXy",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
+				"x": 648.5,
+				"y": 76.03125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e0223-bd0f-7d03-b83a-71cad1aef881"
 				},
-				"typeName": "binding"
+				"id": "shape:9CXhDCUlsFVW4hi_YT-zy",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -112,
+						"y": 144
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:page",
+				"index": "a4kUG",
+				"typeName": "shape"
 			},
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:d3O6Nj2BdMnOhfd5hBAEL"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -507,8 +679,8 @@ tldr-dg: true
 				"typeName": "instance_page_state"
 			},
 			{
-				"x": -714.2165162843046,
-				"y": 1222.3001601479034,
+				"x": -1030.2165162843046,
+				"y": 1326.3001601479034,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -519,14 +691,90 @@ tldr-dg: true
 				"index": "aK7nb",
 				"parentId": "page:page",
 				"props": {
-					"w": 398.2545471191406,
-					"h": 75.12228775024414,
+					"w": 399.4375,
+					"h": 76,
 					"src": "asset:obsidian.blockref.d4caf31a-9add-4161-a2e7-e30fd9c727bc",
 					"title": "@dorPhylogenyGenusHirundo2010",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans"
 				}
+			},
+			{
+				"x": -78.5,
+				"y": 118.9140625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e0262-6cb8-7024-959e-00f8a0d13e80"
+				},
+				"id": "shape:ZNPTNxj2a2wdSeFV1q8Cy",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 0,
+						"y": 324
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "sans",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:page",
+				"index": "aW0aC",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:K26qbz5KrYwdkGqigwUBV",
+				"type": "discourse-relation",
+				"fromId": "shape:1SbNOfuJpuj2l1NFakFEe",
+				"toId": "shape:dXLXk9zbwsAeToPyPDKRx",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.53875,
+						"y": 0.8602892287234043
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:w16JfeilokJ-FwATdY7Oa",
+				"type": "discourse-relation",
+				"fromId": "shape:xYFLSRThus2Vmyrt125nv",
+				"toId": "shape:3kNgqvvkPz_r_JHlb3nTZ",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.84,
+						"y": 0.7837837837837838
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -545,6 +793,28 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
+			},
+			{
+				"x": 1356.5,
+				"y": 864.765625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:M6P0iTJAML4zVpv7SdBKj",
+				"type": "discourse-node",
+				"props": {
+					"w": 337.921875,
+					"h": 67,
+					"src": "asset:obsidian.blockref.62828673-6bb4-4114-8f91-b0a85d49c746",
+					"title": "RES - 5g max load at sustained cruising",
+					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:page",
+				"index": "aZ1wH",
+				"typeName": "shape"
 			},
 			{
 				"x": 311.95181867663297,
@@ -587,57 +857,57 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 1356.5,
-				"y": 221.0703125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019ddeb2-c177-79cf-8263-81deb4507637"
-				},
-				"id": "shape:dWWkpjBf_zC0NaYaDtx-r",
-				"typeName": "shape",
-				"type": "discourse-relation",
-				"index": "aJBYX",
-				"parentId": "page:page",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "violet",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 100,
-						"y": 0
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "motivates",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
-				}
-			},
-			{
 				"meta": {},
-				"id": "binding:mLSd6xkLEAcL6Db-T-_YF",
+				"id": "binding:9FgOQ0hbWIDiyh_z7EiaW",
 				"type": "discourse-relation",
-				"fromId": "shape:ssw_-VLDKk-NXY_ai7b5O",
-				"toId": "shape:bjCOX3Uhn-sj7O5ivC3nm",
+				"fromId": "shape:2wCWOcfo9ptZUWp2TEhsC",
+				"toId": "shape:0C3JTvuJ4SpKCQSnLF6Ba",
 				"props": {
 					"isPrecise": false,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.644125903676252,
-						"y": 0.4937610566801743
+						"x": 0.51,
+						"y": 0.6756756756756757
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": 421.5,
+				"y": 646.9140625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:5lw_gliswxDaYUVnMjFHe",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 112,
+					"src": "asset:obsidian.blockref.26cdbf0a-823a-404b-b7d9-2145602eeef8",
+					"title": "@analysis - measure flight capacity of H rustica under load",
+					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:page",
+				"index": "aTA5q",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:qUVVdGR6iRgjhzqPdzLpd",
+				"type": "discourse-relation",
+				"fromId": "shape:ysICqSyA0oHNrTWGoNbAQ",
+				"toId": "shape:yqz2YpcOMLObcVbjJz6mf",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.30625,
+						"y": 0.6390086206896551
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -645,8 +915,26 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -907.4893434327421,
-				"y": 596.5327040932159,
+				"meta": {},
+				"id": "binding:jaaSd0VQe4ztBV0fUsMUM",
+				"type": "discourse-relation",
+				"fromId": "shape:JvcPE5t-zGIUqt0kbFY5N",
+				"toId": "shape:0YY_r4crjfSsc0UxFZ5VV",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.1257072117017663,
+						"y": 0.8133402737704191
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -1035.489343432742,
+				"y": 624.5327040932159,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -662,10 +950,86 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
+					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
 					"size": "s",
 					"fontFamily": "mono"
 				}
+			},
+			{
+				"meta": {},
+				"id": "binding:_egyRkAu0ZOBlt1Lf-VoK",
+				"type": "discourse-relation",
+				"fromId": "shape:JvcPE5t-zGIUqt0kbFY5N",
+				"toId": "shape:bjCOX3Uhn-sj7O5ivC3nm",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.4585971722118067,
+						"y": 0.4706396180149922
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:b1x-BdC6is2p-gqXr8l4W",
+				"type": "discourse-relation",
+				"fromId": "shape:VOnjGCGhR1iqK7kq43koM",
+				"toId": "shape:bjCOX3Uhn-sj7O5ivC3nm",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.7665245974423791,
+						"y": 0.43325644044489875
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -362.5,
+				"y": 494.9140625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:3kNgqvvkPz_r_JHlb3nTZ",
+				"typeName": "shape",
+				"type": "discourse-node",
+				"index": "aV5Zc",
+				"parentId": "page:page",
+				"props": {
+					"w": 400,
+					"h": 148,
+					"src": "asset:obsidian.blockref.5470dfe1-ae88-4063-b5b7-81586a8c74b4",
+					"title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows",
+					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+					"size": "m",
+					"fontFamily": "mono"
+				}
+			},
+			{
+				"meta": {},
+				"id": "binding:_llj4dOGBuMxZAIpYJcND",
+				"type": "discourse-relation",
+				"fromId": "shape:k8A3isKTBJPeSNR65S8qt",
+				"toId": "shape:M6P0iTJAML4zVpv7SdBKj",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.775327137374578,
+						"y": 0.629081156716418
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -686,8 +1050,26 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -833.4052369874296,
-				"y": 330.6572158119659,
+				"meta": {},
+				"id": "binding:d5g8qf_d7dHWeNtX53aLw",
+				"type": "discourse-relation",
+				"fromId": "shape:dx_kRGCnEzI92azcHOIPH",
+				"toId": "shape:QOU_Ulah1LQayYaQTttpu",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6741705322265625,
+						"y": 0.4360685087943989
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -1065.4052369874296,
+				"y": 310.6572158119659,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -708,26 +1090,60 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 124,
-				"y": 574.046875,
+				"meta": {},
+				"id": "binding:F4I8CGhB472r-GSVNziKS",
+				"type": "discourse-relation",
+				"fromId": "shape:p-P3ZbMBO5AeWFPfgfQtj",
+				"toId": "shape:5lw_gliswxDaYUVnMjFHe",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.4975,
+						"y": 0.9183175223214286
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": 1138.5,
+				"y": 1030.9140625,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:r2r9QXIO4do7ZLVhzchON",
-				"typeName": "shape",
-				"type": "discourse-node",
-				"index": "aCATP",
-				"parentId": "page:page",
+				"id": "shape:k8A3isKTBJPeSNR65S8qt",
+				"type": "discourse-relation",
 				"props": {
-					"w": 400,
-					"h": 112,
-					"src": "asset:obsidian.blockref.5470dfe1-ae88-4063-b5b7-81586a8c74b4",
-					"title": "@analysis - Conduct air speed measurements under laden & unl",
-					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+					"dash": "draw",
 					"size": "m",
-					"fontFamily": "sans"
-				}
+					"fill": "none",
+					"color": "red",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 292,
+						"y": -1548
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "opposes",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9"
+				},
+				"parentId": "page:page",
+				"index": "ab5dr",
+				"typeName": "shape"
 			},
 			{
 				"meta": {},
@@ -788,57 +1204,57 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 950,
-				"y": 592.046875,
+				"x": -787.5,
+				"y": 818.421875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {
-					"relationInstanceId": "019dde97-f234-7b74-9974-e4136542c496"
+					"relationInstanceId": "019e025b-e18d-7353-80d6-b8d60ec7159e"
 				},
-				"id": "shape:sTiWc9W49bYdeDg2r6DB4",
-				"typeName": "shape",
+				"id": "shape:2wCWOcfo9ptZUWp2TEhsC",
 				"type": "discourse-relation",
-				"index": "aH3Mz",
-				"parentId": "page:page",
 				"props": {
 					"dash": "draw",
 					"size": "m",
 					"fill": "none",
-					"color": "black",
+					"color": "light-blue",
 					"labelColor": "black",
-					"bend": -3.2232921754004393,
+					"bend": 0,
 					"start": {
-						"x": -622.8450927734375,
-						"y": 162.61785888671875
+						"x": 0,
+						"y": 0
 					},
 					"end": {
-						"x": 100,
-						"y": 0
+						"x": 512,
+						"y": -820
 					},
 					"arrowheadStart": "none",
 					"arrowheadEnd": "arrow",
-					"text": "produces",
+					"text": "consistent with",
 					"labelPosition": 0.5,
-					"font": "draw",
+					"font": "sans",
 					"scale": 1,
 					"kind": "arc",
 					"elbowMidPoint": 0,
-					"relationTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
-				}
+					"relationTypeId": "rel_E2h9UFdS53YWki3-nczo0"
+				},
+				"parentId": "page:page",
+				"index": "aPidG",
+				"typeName": "shape"
 			},
 			{
 				"meta": {},
-				"id": "binding:cjwTv4bdcPv-3rgF4Xv6X",
+				"id": "binding:J5m6fAp8qemqq0VbyflJQ",
 				"type": "discourse-relation",
-				"fromId": "shape:fO00CPgxAgCm2EzRLfLJS",
-				"toId": "shape:dXLXk9zbwsAeToPyPDKRx",
+				"fromId": "shape:d3O6Nj2BdMnOhfd5hBAEL",
+				"toId": "shape:PGlHBzGCZSHORLF_g4_MC",
 				"props": {
-					"isPrecise": false,
+					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
+						"x": 0.06,
+						"y": 0.031914893617021274
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -846,8 +1262,84 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -582.3254822632457,
-				"y": 331.81016540527344,
+				"meta": {},
+				"id": "binding:c9wsikpA972-MZbrLXNio",
+				"type": "discourse-relation",
+				"fromId": "shape:VOnjGCGhR1iqK7kq43koM",
+				"toId": "shape:0C3JTvuJ4SpKCQSnLF6Ba",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.02,
+						"y": 0.4594594594594595
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:6Nvus7AEgag_6VEK-8qW6",
+				"type": "discourse-relation",
+				"fromId": "shape:xYFLSRThus2Vmyrt125nv",
+				"toId": "shape:KOwmMjE0w0D2MDLeealXy",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.244036865234375,
+						"y": 0.35610743931361605
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -26.5,
+				"y": 610.9140625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019dde97-918c-7c81-ace9-c92da16514f7"
+				},
+				"id": "shape:xYFLSRThus2Vmyrt125nv",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "black",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 280,
+						"y": 572
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "produces",
+					"labelPosition": 0.5,
+					"font": "sans",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
+				},
+				"parentId": "page:page",
+				"index": "aY8sj",
+				"typeName": "shape"
+			},
+			{
+				"x": -902.3254822632457,
+				"y": 167.81016540527344,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -862,8 +1354,8 @@ tldr-dg: true
 					"labelColor": "black",
 					"bend": 0,
 					"start": {
-						"x": 0,
-						"y": 0
+						"x": 56.920245275816114,
+						"y": 141.84705040669246
 					},
 					"end": {
 						"x": 208.22216796875,
@@ -900,7 +1392,9 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {},
+				"stylesForNextShape": {
+					"tldraw:font": "mono"
+				},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
@@ -912,10 +1406,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 355.95941162109375,
-					"y": 90.99862670898438,
-					"w": 1526.5684814453125,
-					"h": 1561.7158203125
+					"x": 290.5,
+					"y": 90.234375,
+					"w": 885,
+					"h": 802.765625
 				},
 				"insets": [
 					true,
@@ -930,7 +1424,7 @@ tldr-dg: true
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
-				"devicePixelRatio": 0.6339381337165833,
+				"devicePixelRatio": 1,
 				"isCoarsePointer": true,
 				"isHoveringCanvas": true,
 				"openMenus": [],
@@ -961,8 +1455,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": -478.1951904296875,
-				"y": -576.2999572753906,
+				"x": -586.1951904296875,
+				"y": -784.2999572753906,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -983,26 +1477,78 @@ tldr-dg: true
 				}
 			},
 			{
-				"meta": {},
-				"id": "binding:RXd0GbaSiwFHxXUSqnJrC",
-				"type": "discourse-relation",
-				"fromId": "shape:dWWkpjBf_zC0NaYaDtx-r",
-				"toId": "shape:wOXXYPb5ASWYXyQJ5PLPF",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
+				"x": -755.5,
+				"y": -125.578125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e0253-62e9-7e66-8112-2377cc9ba977"
 				},
-				"typeName": "binding"
+				"id": "shape:JvcPE5t-zGIUqt0kbFY5N",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "blue",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 180,
+						"y": -392
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "informs",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+				},
+				"parentId": "page:page",
+				"index": "a9Z38",
+				"typeName": "shape"
 			},
 			{
-				"x": 864.5,
-				"y": 234.0703125,
+				"x": 432.5,
+				"y": 322.96875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:CLktMMQMNa0ckdSnu1Cax",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 8,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aN1kM",
+				"typeName": "shape"
+			},
+			{
+				"x": 876.5,
+				"y": 310.0703125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1023,8 +1569,48 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 135.831787109375,
-				"y": 979.31298828125,
+				"x": -351.5,
+				"y": 22.421875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:0C3JTvuJ4SpKCQSnLF6Ba",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 148,
+					"src": "asset:obsidian.blockref.0e4ebd8d-3daf-492f-803e-cc54227563d5",
+					"title": "HYP- airspeed velocity will not differ significantly between EUR & AFR swallows",
+					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:page",
+				"index": "aP6LX",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:SPKQQrgSy7gTUe2g5kuPd",
+				"type": "discourse-relation",
+				"fromId": "shape:1SbNOfuJpuj2l1NFakFEe",
+				"toId": "shape:5lw_gliswxDaYUVnMjFHe",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.52,
+						"y": 0.425531914893617
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": -380.168212890625,
+				"y": 983.31298828125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1038,16 +1624,16 @@ tldr-dg: true
 					"w": 400,
 					"h": 366,
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
-					"title": "RES - The airspeed velocity of an unladen swallow is 11-17 m-s",
+					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://5b1aa8a2153bcb48d49e329e6ad68790d6d5/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://7c32961e19d436776d691454221de0c30f98/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
 					"size": "m",
-					"fontFamily": "sans"
+					"fontFamily": "mono"
 				}
 			},
 			{
-				"x": 831.88525390625,
-				"y": 1179.030029296875,
+				"x": 183.88525390625,
+				"y": 1187.030029296875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1064,8 +1650,78 @@ tldr-dg: true
 					"title": "ISS - better weather measurements needed",
 					"nodeTypeId": "node_2unblKFUVJkOdOnT8MstZ",
 					"size": "m",
-					"fontFamily": "sans"
+					"fontFamily": "mono"
 				}
+			},
+			{
+				"x": 513.5,
+				"y": 410.9140625,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e0280-3493-7cf3-bc46-88fdd8fac2f9"
+				},
+				"id": "shape:1SbNOfuJpuj2l1NFakFEe",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 16,
+						"y": 212
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:page",
+				"index": "aU4OM",
+				"typeName": "shape"
+			},
+			{
+				"x": 1264.5,
+				"y": 626.421875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:JGe9U6SCHPcpL15Geqru5",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 8,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph"
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aOAIe",
+				"typeName": "shape"
 			}
 		]
 	}
@@ -1078,13 +1734,13 @@ tldr-dg: true
 [[QUE - what is the airspeed velocity of an unladen swallow?]]
 ^6a1161a5-58cf-4829-8788-4a3d787cb09e
 
-[[RES - The airspeed velocity of an unladen swallow is 11-17 m-s]]
+[[RES - The airspeed velocity of an unladen swallow is 11 m-s]]
 ^6d3d48d1-e5ee-45b7-a12d-0db618ac629d
 
 [[QUE - African or European?]]
 ^3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6
 
-[[HYP- loadbearing capacity of a 5 oz bird can be determined empirically]]
+[[HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g]]
 ^22e28eb5-a3d0-4a47-beee-9496ea1e47aa
 
 [[HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically]]
@@ -1102,16 +1758,16 @@ tldr-dg: true
 [[CLM - It could be carried by two swallows with a bit of string]]
 ^fb0ed11b-f986-46bf-92d1-e3105bf346a0
 
-[[@analysis - determination of the European swallow's flight s]]
+[[@analysis - det Eur swallow's flight speed mathematically]]
 ^6d5820ba-8a5f-4319-a18b-56b252da3ae0
 
-[[@analysis - determination of the European swallow's flight s]]
+[[@analysis - det Eur swallow's flight speed mathematically]]
 ^164fa707-8fc7-4b85-9a00-a2df1be8d64d
 
-[[@analysis - Conduct air speed measurements under laden & unl]]
+[[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]]
 ^5470dfe1-ae88-4063-b5b7-81586a8c74b4
 
-[[@analysis - Conduct air speed measurements under laden & unl]]
+[[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]]
 ^8920f1f8-47da-431a-8aa8-700977857c98
 
 [[ISS - better weather measurements needed]]
@@ -1134,3 +1790,12 @@ tldr-dg: true
 
 [[@dorPhylogenyGenusHirundo2010]]
 ^f1169e03-2fd4-4488-84c5-21251d4e02ad
+
+[[HYP- airspeed velocity will not differ significantly between EUR & AFR swallows]]
+^0e4ebd8d-3daf-492f-803e-cc54227563d5
+
+[[@analysis - measure flight capacity of H rustica under load]]
+^26cdbf0a-823a-404b-b7d9-2145602eeef8
+
+[[RES - 5g max load at sustained cruising]]
+^62828673-6bb4-4114-8f91-b0a85d49c746

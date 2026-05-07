@@ -17,9 +17,6 @@ nodeInstanceId: 019de4d5-8e8a-78e4-967b-52eef6469e06
 
 ## Testable Hypotheses
 
-[[HYP- loadbearing capacity of a 5 oz bird can be determined empirically]]
-
-[[HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically]]
 
 # WorkBench
 

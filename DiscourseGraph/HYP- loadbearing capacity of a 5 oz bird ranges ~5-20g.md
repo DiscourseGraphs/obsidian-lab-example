@@ -6,7 +6,7 @@ cssclasses: dg-hyp
 confidence: 0.9
 nodeInstanceId: 019ddeb1-d64d-7eb6-a5fb-11e630810045
 aliases:
-  - HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically
+  - HYP- The loadbearing capacity of a 5 ounce bird ranges 5-20g at different points in flight
 ---
 
 # Rationale

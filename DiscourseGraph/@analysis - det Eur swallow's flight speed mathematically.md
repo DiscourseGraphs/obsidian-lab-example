@@ -3,7 +3,7 @@ nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 project: PRJ - Passarine Songbird Cargo Capacity
 template: "[[Experiment]]"
 status: in progress
-targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?]]"
+targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]]"
 newNoteFolder: DiscourseGraph
 tags:
   - dg/source
@@ -11,7 +11,7 @@ cssclasses: dg-exp
 lead:
 contributors:
 aliases:
-  - "@analysis - determination of the European swallow's flight speed under load from data in the literature"
+  - "@analysis - determination of the European swallow's flight speed from data in the literature"
 nodeInstanceId: 019ddeb2-6af8-7af8-aba8-587d1e23e64a
 dg_type: Source
 keywords: ""

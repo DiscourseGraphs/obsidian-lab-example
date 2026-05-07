@@ -5,17 +5,15 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-res
 contributors:
-aliases:
-  - RES - The airspeed velocity of an unladen swallow is 11-17 meters per second
-nodeInstanceId: 019dde97-f22e-780d-a5d6-89cb4a1cd106
+nodeInstanceId: 019df250-5c71-7f76-b1f7-b533bdbb69c5
 ---
 
 ## Summary
-- The first empirical result in  [[PRJ - Passarine Songbird Cargo Capacity]], from [[@analysis - Conduct air speed measurements under laden & unl]]
 
+- The first empirical result  from [[@analysis - measure flight capacity of H rustica under load]]  in [[PRJ - Passarine Songbird Cargo Capacity]], informs [[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]] negatively.
 ## Grounding Context
- wind tunnel measurements
-![[bird_wind_tunnel_b-1150.jpg|400]]
+
+
 ## Snippets
 
 ```datacorejsx

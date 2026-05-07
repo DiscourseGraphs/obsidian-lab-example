@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph Sandbox/Users/Obsidian User.md",
+                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian User"
+              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
             }
           },
           {
             "id": "d65b6cdd58e84189",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Discourse Graph Sandbox/Users/icon.png"
+                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "icon"
+              "icon": "lucide-file",
+              "title": "@analysis - measure flight capacity of H rustica under load"
             }
           },
           {
@@ -65,6 +77,18 @@
               },
               "icon": "lucide-file",
               "title": "The Discourse Graph Protocol"
+            }
+          },
+          {
+            "id": "7d23fe7c22db0b10",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-dg-preview",
+              "state": {
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
+              },
+              "icon": "lucide-file",
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           }
         ],
@@ -100,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "tag:#res-candidate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+                "file": "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Canvas - PRJ - Passarine Songbird Cargo Capacity"
+              "title": "Backlinks for The Discourse Graph Protocol"
             }
           },
           {
@@ -160,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscourseGraph/CLM - European and African swallows are not a single species.md",
+                "file": "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLM - European and African swallows are not a single species"
+              "title": "Outgoing links from The Discourse Graph Protocol"
             }
           },
           {
@@ -189,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/00 Media Log.md",
+                "file": "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 Media Log"
+              "title": "Outline of The Discourse Graph Protocol"
             }
           },
           {
@@ -241,13 +265,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "dfbae1de07428690",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse context"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,8 +300,30 @@
   },
   "active": "ec95d21a57540ccb",
   "lastOpenFiles": [
-    "Discourse Graph Sandbox/Guides/dnodes01.png",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
+    "DiscourseGraph/RES - 5g max load at sustained cruising.md",
+    "DiscourseGraph/QUE - African or European?.md",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
+    "Meta/Attachments/windtunnel.PNG",
+    "Bases/Results.base",
+    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
+    "Discourse Graph Sandbox/Users/icon.png",
+    "@analysis - determine flight capacity of H rustica under load.md",
+    "Meta/Templates/Experiment.md.tmp.29712.9ded20182357",
+    "Meta/Templates/Experiment.md.tmp.29712.858edb55b805",
+    "Meta/Templates/Experiment.md.tmp.29712.252af44b655c",
+    "DiscourseGraph/HYP- airspeed velocity will not differ significantly between EUR & AFR swallows.md",
+    "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "Discourse Graph Sandbox/Users/Obsidian User.md",
+    "Discourse Graph Sandbox/Guides/rel03.png",
     "Discourse Graph Sandbox/Guides/image.png",
+    "Discourse Graph Sandbox/Guides/dnodes01.png",
     "Discourse Graph Sandbox/Guides/rel02.png",
     "Discourse Graph Sandbox/Guides/rel01.png",
     "Discourse Graph Sandbox/Guides/dgraph01.png",
@@ -280,38 +336,16 @@
     "Discourse Graph Sandbox/Guides/Using the Canvas.md",
     "Discourse Graph Sandbox/Guides/Project Tracking.md",
     "Discourse Graph Sandbox/Guides/Meetings.md",
-    "Discourse Graph Sandbox/Guides/dg02.png",
-    "Discourse Graph Sandbox/Guides/dg01.png",
-    "Discourse Graph Sandbox/Users/Obsidian User.md",
     "README.md",
     "Roundtable Syncs.md",
     "Discourse Graph Sandbox/Users/Blank Slate.md",
     "Discourse Graph Sandbox/Guides/Leveling up.md",
-    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
-    "Discourse Graph Sandbox/Welcome.md",
-    "Discourse Graph Protocol.md",
     "Users",
-    "dnp06.PNG",
-    "Discourse Graph Sandbox.md",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Discourse Graph Sandbox/Workflows/Zettelkasten.md",
-    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
-    "Discourse Graph Sandbox/Users/icon.png",
-    "Meta/Templates.md",
-    "King Arthur - Sir Belvedere sync.md",
-    "Meta/Templates/Meeting Series.md",
     "Meta/Attachments/grail2.png:Zone.Identifier",
     "King Arthur",
     "Meta/Attachments/arthur-belvedere.jpg:Zone.Identifier",
     "Meta/Templates/Project.md.tmp.8354.1777890507284",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md.tmp.8354.1777890236590",
-    "Meta/Attachments/arthur.jpg:Zone.Identifier",
-    "Bases/Experiments.base",
-    "Bases/Conclusions.base",
-    "Bases/Hypotheses.base",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

@@ -21,7 +21,7 @@ A discourse graph has 4 types of nodes : 1) Questions, 2) Claims, 3) Evidence, a
 
 - A **Source** reports/generates evidence. Examples include experiments, books, and journal article.
 
-![The discourse graph model](dgraph01.png)
+![The discourse graph model](dgraph01.png|300)
 
 Some researchers prefer to make a distinction between graph nodes sources from their own work and those derived from the literature. Instead of a **Claim** they might have a **Hypothesis** (untested claim) or a **Conclusion** (tested claim), and empirical observations they make directly are termed **Results** instead of evidence. The **Source** in these cases is usually an experiment or simulation rather than a published or presented work.
 
@@ -31,7 +31,7 @@ These nodes can replace or coexist with the base grammar described above. The on
 
 But nodes alone don't make a graph: we also need **relations**.
 
-![relations dialogue](rel01.png|300)
+![relations dialogue](rel03.png|300)
 
 In this schema, 
 - **Sources** report/contain/generate **Evidence**/**Results**
@@ -42,6 +42,7 @@ You can also describe these relations in the passive voice (e.g. "This Claim is 
 
 ![discourse relations](rel02.png|300)
 
+
 This example vault ships with a selection of predefined nodes and relations developed for scientific research. But you can modify and define new nodes and relations in the plugin settings menu to better fit your needs.
 
 > [!info]-
@@ -51,10 +52,11 @@ For example, this graph includes **Experiment** as a particular type of source t
 
 ![discourse node types](dnodes01.png|300)
 
-## Some practil examples
+## Some practical examples
 
+This example graph includes a [[PRJ - Passarine Songbird Cargo Capacity|tutorial project]] that demonstrates how these nodes behave in the wild.
 
-
+- The **Question** [[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]   ➡  motivates the **Hypothesis** [[HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g]], which in turn motivates the **Experiment** ➡ [[@analysis - measure flight capacity of H rustica under load]], which produces the **Result** ➡  [[RES - 5g max load at sustained cruising]].
 
 
 

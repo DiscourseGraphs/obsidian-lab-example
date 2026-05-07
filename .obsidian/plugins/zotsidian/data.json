@@ -26,6 +26,251 @@
       "My Library": {
         "rows": [
           {
+            "id": "lindReducedTakeoffAbility1999",
+            "title": "Reduced take-off ability in robins (Erithacus rubecula) due to migratory fuel load",
+            "meta": "LIND (1999)",
+            "raw": {
+              "key": "9NGFNPWZ",
+              "version": 986,
+              "itemType": "journalArticle",
+              "title": "Reduced take-off ability in robins (Erithacus rubecula) due to migratory fuel load",
+              "date": "1999",
+              "citationKey": "lindReducedTakeoffAbility1999",
+              "libraryCatalog": "COinS",
+              "volume": "46",
+              "publisher": "Springer",
+              "place": "Berlin",
+              "pages": "65-70",
+              "publicationTitle": "Reduced take-off ability in robins (Erithacus rubecula) due to migratory fuel load",
+              "ISSN": "0340-5443",
+              "issue": "1",
+              "journalAbbreviation": "Behav. ecol. sociobiol. (Print)",
+              "creators": [
+                {
+                  "firstName": "J",
+                  "lastName": "LIND",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "T.",
+                  "lastName": "FRANSSON",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "S.",
+                  "lastName": "JAKOBSSON",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "C.",
+                  "lastName": "KULLBERG",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-07T12:55:08Z",
+              "dateModified": "2026-05-07T12:55:08Z",
+              "id": "lindReducedTakeoffAbility1999",
+              "citation-key": "lindReducedTakeoffAbility1999",
+              "itemKey": "9NGFNPWZ",
+              "zotero": "zotero://select/library/items/9NGFNPWZ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1999
+                  ]
+                ]
+              },
+              "year": "1999",
+              "container-title": "Reduced take-off ability in robins (Erithacus rubecula) due to migratory fuel load",
+              "container-title-short": "Behav. ecol. sociobiol. (Print)"
+            }
+          },
+          {
+            "id": "schmidt-wellenburgEnergyExpenditureWing2007a",
+            "title": "Energy expenditure and wing beat frequency in relation to body mass in free flying Barn Swallows (Hirundo rustica)",
+            "meta": "Schmidt-Wellenburg (2007)",
+            "raw": {
+              "key": "YY2TDUIH",
+              "version": 984,
+              "itemType": "journalArticle",
+              "title": "Energy expenditure and wing beat frequency in relation to body mass in free flying Barn Swallows (Hirundo rustica)",
+              "abstractNote": "Many bird species steeply increase their body mass prior to migration. These fuel stores are necessary for long flights and to overcome ecological barriers. The elevated body mass is generally thought to cause higher flight costs. The relationship between mass and costs has been investigated mostly by interspecific comparison and by aerodynamic modelling. Here, we directly measured the energy expenditure of Barn Swallows (Hirundo rustica) flying unrestrained and repeatedly for several hours in a wind tunnel with natural variations in body mass. Energy expenditure during flight (ef, in W) was found to increase with body mass (m, in g) following the equation ef = 0.38 × m0.58. The scaling exponent (0.58) is smaller than assumed in aerodynamic calculations and than observed in most interspecific allometric comparisons. Wing beat frequency (WBF, in Hz) also scales with body mass (WBF = 2.4 × m0.38), but at a smaller exponent. Hence there is no linear relationship between ef and WBF. We propose that spontaneous changes in body mass during endurance flights are accompanied by physiological changes (such as enhanced oxygen and nutrient supply of the muscles) that are not taken into consideration in standard aerodynamic calculations, and also do not appear in interspecific comparison.",
+              "date": "2007-04-01",
+              "DOI": "10.1007/s00360-006-0132-5",
+              "citationKey": "schmidt-wellenburgEnergyExpenditureWing2007a",
+              "url": "https://doi.org/10.1007/s00360-006-0132-5",
+              "accessDate": "2026-05-07T12:54:36Z",
+              "language": "en",
+              "libraryCatalog": "Springer Link",
+              "volume": "177",
+              "pages": "327-337",
+              "publicationTitle": "Journal of Comparative Physiology B",
+              "ISSN": "1432-136X",
+              "issue": "3",
+              "journalAbbreviation": "J Comp Physiol B",
+              "creators": [
+                {
+                  "firstName": "Carola A.",
+                  "lastName": "Schmidt-Wellenburg",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Herbert",
+                  "lastName": "Biebach",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Serge",
+                  "lastName": "Daan",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "G. Henk",
+                  "lastName": "Visser",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Bird flight",
+                  "type": 1
+                },
+                {
+                  "tag": "Body mass",
+                  "type": 1
+                },
+                {
+                  "tag": "Energy expenditure",
+                  "type": 1
+                },
+                {
+                  "tag": "Migration",
+                  "type": 1
+                },
+                {
+                  "tag": "Wing beat frequency",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-07T12:54:36Z",
+              "dateModified": "2026-05-07T12:54:36Z",
+              "id": "schmidt-wellenburgEnergyExpenditureWing2007a",
+              "citation-key": "schmidt-wellenburgEnergyExpenditureWing2007a",
+              "itemKey": "YY2TDUIH",
+              "zotero": "zotero://select/library/items/YY2TDUIH",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2007
+                  ]
+                ]
+              },
+              "year": "2007",
+              "container-title": "Journal of Comparative Physiology B",
+              "container-title-short": "J Comp Physiol B",
+              "URL": "https://doi.org/10.1007/s00360-006-0132-5"
+            }
+          },
+          {
+            "id": "kvistCarryingLargeFuel2001a",
+            "title": "Carrying large fuel loads during sustained bird flight is cheaper than expected",
+            "meta": "Kvist (2001)",
+            "raw": {
+              "key": "BHJ6II49",
+              "version": 983,
+              "itemType": "journalArticle",
+              "title": "Carrying large fuel loads during sustained bird flight is cheaper than expected",
+              "abstractNote": "Birds on migration alternate between consuming fuel stores during flights and accumulating fuel stores during stopovers. The optimal timing and length of flights and stopovers for successful migration depend heavily on the extra metabolic power input (fuel use) required to carry the fuel stores during flight1,2. The effect of large fuel loads on metabolic power input has never been empirically determined. We measured the total metabolic power input of a long-distance migrant, the red knot (Calidris canutus), flying for 6 to 10 h in a wind tunnel, using the doubly labelled water technique3. Here we show that total metabolic power input increased with fuel load, but proportionally less than the predicted mechanical power output from the flight muscles. The most likely explanation is that the efficiency with which metabolic power input is converted into mechanical output by the flight muscles increases with fuel load. This will influence current models of bird flight and bird migration. It may also help to explain why some shorebirds, despite the high metabolic power input required to fly, routinely make nonstop flights of 4,000 km longer4.",
+              "date": "2001-10",
+              "DOI": "10.1038/35099556",
+              "citationKey": "kvistCarryingLargeFuel2001a",
+              "url": "https://www.nature.com/articles/35099556",
+              "accessDate": "2026-05-07T12:54:23Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2001 Macmillan Magazines Ltd.",
+              "volume": "413",
+              "publisher": "Nature Publishing Group",
+              "pages": "730-732",
+              "publicationTitle": "Nature",
+              "ISSN": "1476-4687",
+              "issue": "6857",
+              "creators": [
+                {
+                  "firstName": "Anders",
+                  "lastName": "Kvist",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Åke",
+                  "lastName": "Lindström",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Martin",
+                  "lastName": "Green",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Theunis",
+                  "lastName": "Piersma",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "G. Henk",
+                  "lastName": "Visser",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Humanities and Social Sciences",
+                  "type": 1
+                },
+                {
+                  "tag": "multidisciplinary",
+                  "type": 1
+                },
+                {
+                  "tag": "Science",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-07T12:54:23Z",
+              "dateModified": "2026-05-07T12:54:23Z",
+              "id": "kvistCarryingLargeFuel2001a",
+              "citation-key": "kvistCarryingLargeFuel2001a",
+              "itemKey": "BHJ6II49",
+              "zotero": "zotero://select/library/items/BHJ6II49",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2001
+                  ]
+                ]
+              },
+              "year": "2001",
+              "container-title": "Nature",
+              "URL": "https://www.nature.com/articles/35099556"
+            }
+          },
+          {
             "id": "hedenstromOptimalFlightSpeed1995",
             "title": "Optimal flight speed of birds",
             "meta": "Hedenström (1995)",
@@ -4718,7 +4963,7 @@
             }
           }
         ],
-        "cachedAt": 1778151808782,
+        "cachedAt": 1778161708047,
         "source": "local-api"
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastModified": 1777558314603,
+  "lastModified": 1778161299292,
   "relations": {
     "019d7372-cae5-7f83-a4dd-9394fac7757a": {
       "id": "019d7372-cae5-7f83-a4dd-9394fac7757a",
@@ -129,6 +129,62 @@
       "destination": "019dde9a-0c94-7da3-bc76-049571535689",
       "created": 1777558314603,
       "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019e0223-bd0f-7d03-b83a-71cad1aef881": {
+      "id": "019e0223-bd0f-7d03-b83a-71cad1aef881",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019dde99-0ced-7a88-8177-6c3f9318ba89",
+      "destination": "019ddeb1-d64d-7eb6-a5fb-11e630810045",
+      "created": 1778152357135
+    },
+    "019e023f-0d3e-76be-8d5a-5d98e2d572d1": {
+      "id": "019e023f-0d3e-76be-8d5a-5d98e2d572d1",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019dde99-0ced-7a88-8177-6c3f9318ba89",
+      "destination": "019ddeb2-73c4-7350-a272-a7bb640d8e80",
+      "created": 1778154147134
+    },
+    "019e0253-62e9-7e66-8112-2377cc9ba977": {
+      "id": "019e0253-62e9-7e66-8112-2377cc9ba977",
+      "type": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "source": "019de296-9e16-792c-b7aa-e396d1e7d64a",
+      "destination": "019de4d5-8e8a-78e4-967b-52eef6469e06",
+      "created": 1778155479785
+    },
+    "019e0257-178e-7b27-a710-9654f2fa3a5e": {
+      "id": "019e0257-178e-7b27-a710-9654f2fa3a5e",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019de296-9e16-792c-b7aa-e396d1e7d64a",
+      "destination": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "created": 1778155722638
+    },
+    "019e025b-e18d-7353-80d6-b8d60ec7159e": {
+      "id": "019e025b-e18d-7353-80d6-b8d60ec7159e",
+      "type": "rel_E2h9UFdS53YWki3-nczo0",
+      "source": "019dde98-5839-7354-a5eb-e5e090752e0b",
+      "destination": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "created": 1778156036493
+    },
+    "019e0262-6cb8-7024-959e-00f8a0d13e80": {
+      "id": "019e0262-6cb8-7024-959e-00f8a0d13e80",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "destination": "019dde91-5288-73dc-b2d0-82cf010b6405",
+      "created": 1778156465336
+    },
+    "019e0280-3493-7cf3-bc46-88fdd8fac2f9": {
+      "id": "019e0280-3493-7cf3-bc46-88fdd8fac2f9",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019ddeb1-d64d-7eb6-a5fb-11e630810045",
+      "destination": "019df250-5c53-761f-9aca-70d2d32f8d68",
+      "created": 1778158417043
+    },
+    "019e02ac-2f5b-752d-ab9e-8629ffa4f8f5": {
+      "id": "019e02ac-2f5b-752d-ab9e-8629ffa4f8f5",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019df250-5c53-761f-9aca-70d2d32f8d68",
+      "destination": "019df250-5c71-7f76-b1f7-b533bdbb69c5",
+      "created": 1778161299291
     }
   }
 }

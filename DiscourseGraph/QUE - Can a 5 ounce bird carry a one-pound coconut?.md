@@ -25,7 +25,7 @@ nodeInstanceId: 019dde99-0ced-7a88-8177-6c3f9318ba89
 
 [[HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically]]
 
-[[HYP- loadbearing capacity of a 5 oz bird can be determined empirically]]
+[[HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g]]
 
 # WorkBench
 > [!info]- 

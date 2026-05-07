@@ -153,6 +153,14 @@
       "color": "violet",
       "created": 1776700922649,
       "modified": 1777555502990
+    },
+    {
+      "id": "rel_Ge2hTgsP6UFabvpMY45wN",
+      "label": "addresses",
+      "complement": "is addressed by",
+      "color": "black",
+      "created": 1778152245432,
+      "modified": 1778152258513
     }
   ],
   "discourseRelations": [
@@ -291,6 +299,30 @@
       "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
       "created": 1777557965263,
       "modified": 1777557972564
+    },
+    {
+      "id": "rel3_bRDFRF3TXhOC8gUfBZbq-",
+      "sourceId": "node_4SqRl5RIkaUMb9fLOpdhq",
+      "destinationId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "relationshipTypeId": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "created": 1778152218735,
+      "modified": 1778152225060
+    },
+    {
+      "id": "rel3_pumJNv0EFRv_czc9vFHX0",
+      "sourceId": "node_i7PzyKw2NfkA8asBfxeey",
+      "destinationId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0",
+      "created": 1778156003183,
+      "modified": 1778156011463
+    },
+    {
+      "id": "rel3_jkkY0h2SYwmXHEAvdfVKg",
+      "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
+      "destinationId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0",
+      "created": 1778156012683,
+      "modified": 1778156021958
     }
   ],
   "showIdsInFrontmatter": true,

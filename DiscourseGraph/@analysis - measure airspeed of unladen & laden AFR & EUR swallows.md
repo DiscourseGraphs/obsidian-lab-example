@@ -3,7 +3,7 @@ nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 project: PRJ - Passarine Songbird Cargo Capacity
 template: "[[Experiment]]"
 status: in progress
-targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
+targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]]"
 tags:
   - dg/source
 cssclasses: dg-exp
@@ -45,11 +45,11 @@ not done
 >[!info]-
 >For experiments taking place over several days/weeks, moths, you can log your observations here. 
 ### 2026-04-30
--  [[RES - The airspeed velocity of an unladen swallow is 11-17 m-s]]
+-  [[RES - The airspeed velocity of an unladen swallow is 11 m-s]]
 - #iss-candidate turkey drop experiment failed to replicate
 	- #clm-candidate as God is my witness, I thought turkeys could fly
 ### 2026-04-24
--  new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+-  #hyp-candidate velocity will fall between 11-17 m/s
 - [ ] #task when you add ToDos to your Experimental log they show up in this query 📅 2026-05-05 
 ### 2026-02-06
 - [[ISS - better weather measurements needed]]
@@ -145,4 +145,4 @@ return function NodeSetup() {
 }
 ```
 > [!info]-
-> This space will collect ToDos related to this experiment from elsewhere in your graph, as long as they are tagged with [[@analysis - Conduct air speed measurements under laden & unl]]
+> This space will collect ToDos related to this experiment from elsewhere in your graph, as long as they are tagged with [[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]]

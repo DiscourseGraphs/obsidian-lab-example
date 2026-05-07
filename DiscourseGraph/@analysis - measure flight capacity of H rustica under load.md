@@ -3,18 +3,35 @@ nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 template: "[[Experiment]]"
 newNoteFolder: DiscourseGraph
 aliases:
+  - "@analysis - determine flight capacity of H rustica under load"
 tags:
+  - dg/source
 cssclasses: dg-exp
-status:
+status: seed
 lead:
 contributors:
-targetQuestionOrHyp:
+targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut?|QUE - Can a 5 ounce bird can carry a one-pound coconut?]]"
 project:
 nodeInstanceId: 019df250-5c53-761f-9aca-70d2d32f8d68
+dg_type: Source
+keywords: ""
+rating: 3
+citekey: analysis - determine flight capacity of H rustica under load empirically
 ---
 
 # Resources
 
+### Key References
+
+[[@mardenMaximumLiftProduction1987]
+
+[@kvistCarryingLargeFuel2001]
+
+[@parkFlightKinematicsBarn2001]
+
+####  Experimental setup
+
+![[windtunnel.PNG]]
 
 # Results
 
@@ -66,6 +83,19 @@ return function AddLogEntry() {
   );
 }
 ```
+
+
+### 2026-05-07
+
+- new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+
+### 2026-05-04
+-  #res-candidate 10g at burst takeoff
+### 2026-05-01
+-  #res-candidate 3g during migratory events
+### 2026-04-30
+- [[RES - 5g max load at sustained cruising]]
+
 
 ---
 > [!log] From daily notes
