@@ -31,7 +31,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - Two options exist: Option A uses parallel sections with manual entries organized under date headings (## YYYY-MM-DD) separate from the Datacore query section; Option B makes the daily note the single source of truth for all entries, eliminating manual duplication.]]**
 
-**[[RES - Chose Option A. Restructured the # Log section in EXP templates and notes to have separate subsections: "From daily notes" (Datacore query) and "Direct entries" (manual date-organized sections). This provides ergonomic flexibility for users already in an EXP note while maintaining date organization.]]**
+**[[CON - Chose Option A. Restructured the # Log section in EXP templates and notes to have separate subsections: "From daily notes" (Datacore query) and "Direct entries" (manual date-organized sections). This provides ergonomic flexibility for users already in an EXP note while maintaining date organization.]]**
 
 ---
 
@@ -41,7 +41,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - Add the filter `description regex matches /^#/` to all tasks query blocks. This regex ensures only tasks whose text begins with # are displayed, excluding placeholder tasks like `- [ ] task 📅`.]]**
 
-**[[RES - Updated all tasks query blocks in Daily_note_template.md and existing daily notes with the regex filter. This allows users to write placeholder tasks without them appearing in filtered query results, while tagged tasks (`- [ ] #call lab 📅`) are properly captured.]]**
+**[[CON - Updated all tasks query blocks in Daily_note_template.md and existing daily notes with the regex filter. This allows users to write placeholder tasks without them appearing in filtered query results, while tagged tasks (`- [ ] #call lab 📅`) are properly captured.]]**
 
 ---
 
@@ -71,7 +71,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - RES and CON notes should contain `[[PRJ - project name]]` wikilinks in their body. The query in the project note uses `file.hasLink(this.file.name)` to find these references. This is more ergonomic because it allows RES/CON notes to reference multiple related projects without cluttering the project note itself.]]**
 
-**[[RES - Established the convention: any RES or CON note that mentions a project via wikilink will automatically appear in that project's Results & Conclusions section when the query-based base is embedded.]]**
+**[[CON - Established the convention: any RES or CON note that mentions a project via wikilink will automatically appear in that project's Results & Conclusions section when the query-based base is embedded.]]**
 
 ---
 
@@ -80,6 +80,7 @@ See CLAUDE.md for format and conventions.
 **[[QUE - Are the Discourse Graph NodeTypeIds unique to this vault or globally shared? Will downloaders inherit these IDs?]]**
 
 **[[CLM - NodeTypeIds are vault-scoped (stored in .obsidian/plugins/discourse-graphs/data.json) and are NOT globally registered. They are random nanoid-style strings generated locally when node types are created. Downloaders WILL inherit these exact IDs when they clone the vault, which is desirable for schema consistency.]]**
+**[[EVD - discourse-graphs/data.json confirms the ID format: all node types carry 22-char base62 strings prefixed with `node_` (e.g. `node_4SqRl5RIkaUMb9fLOpdhq` for Question, `node_LwROzkVH_Zck7ZxDgN91E` for Claim); relation types use a `rel_` prefix. No global registry or coordination endpoint is referenced anywhere in the file.]]**
 
 **[[RES - Confirmed NodeTypeIds are vault-portable and intentionally inherited. New node types added by downloaders will generate fresh random IDs without collision risk. The vault's discourse graph schema is fully distributed with vault downloads.]]**
 
@@ -100,6 +101,7 @@ See CLAUDE.md for format and conventions.
 **[[HYP - The vault should have a guided onboarding flow analogous to Obsidian's sandbox vault, starting from a "Start Here" page that links into a "Discourse Graph Sandbox" folder.]]**
 
 **[[CLM - Adding an entry to the Discourse Graph plugin menu or Help sidebar requires plugin code changes. Without touching plugin code, the two available hooks are: workspace.json (controls which file opens on vault launch) and bookmarks.json (pins a note in the Bookmarks panel, already visible in the left sidebar).]]**
+**[[EVD - .obsidian/workspace.json contains an `active` key pointing to a leaf ID; that leaf's `file` field is the note opened on vault launch. Setting Start Here.md as the active leaf's file and marking it `active` is sufficient to control the startup view without any plugin modification.]]**
 
 **[[RES - Start Here.md placed at vault root, set as the active leaf in workspace.json (preview mode), and pinned in bookmarks.json. The Sandbox folder will be renamed to "Discourse Graph Sandbox" and contain the branching flow content linked from Start Here.md.]]**
 
@@ -116,12 +118,13 @@ See CLAUDE.md for format and conventions.
 **[[RES - Illegal chars are a user-convention concern (don't use ? : * etc. in node titles); length truncation is handled by a Templater block in each node template. The full pre-truncation title is written to aliases for autocomplete. Templater file regex templates route each node type prefix to the correct template file; a catch-all template covers types without custom body structure.]]**
 
 **[[CLM - DG uses vault.create(fullPath) directly, bypassing Obsidian's default new note location entirely; core Templates is only used to resolve the template folder path.]]**
+**[[EVD - discourse-graphs/main.js: `const newFile = yield app.vault.create(fullPath, "")` where `fullPath` is assembled from `nodeType.folderPath || settings.nodesFolderPath` — Obsidian's default-new-note-location setting is never consulted in this code path.]]**
 **[[CLM - Intermittent duplicate at vault root is caused by tp.file.rename() emitting a create event that races with DG's concurrent vault.append, not by Obsidian's default note location.]]**
 **[[EVD - Duplicate only appeared when filename exceeded 60 chars, confirming the rename code path as the trigger.]]**
 
 **[[RES - Removed tp.file.rename() from all node templates. Aliases alone solve the autocomplete problem; filename length is addressed by user convention rather than automation.]]**
 
-**[[RES - Switched to a Datacore button in each node template for alias writing and filename truncation. Button is user-triggered (no creation race), self-hiding once aliases are populated, uses app.fileManager.processFrontMatter and app.fileManager.renameFile. Templater file regex templates disabled; DG plugin continues applying body structure via core Templates.]]**
+**[[CON - Switched to a Datacore button in each node template for alias writing and filename truncation. Button is user-triggered (no creation race), self-hiding once aliases are populated, uses app.fileManager.processFrontMatter and app.fileManager.renameFile. Templater file regex templates disabled; DG plugin continues applying body structure via core Templates.]]**
 
 ---
 
@@ -146,7 +149,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - The field should be named supported_by rather than source, because "source" is ambiguous (data provenance vs. citation), while supported_by expresses the epistemic relationship explicitly.]]**
 
-**[[RES - Added supported_by: list field to RES node template frontmatter. Values are wikilinks to EXP or @ nodes. Prose context about those sources continues to live in ## Grounding Context in the note body.]]**
+**[[CON - Added supported_by: list field to RES node template frontmatter. Values are wikilinks to EXP or @ nodes. Prose context about those sources continues to live in ## Grounding Context in the note body.]]**
 
 ---
 
@@ -157,7 +160,7 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Moving the button to the bottom of each template means the cursor lands on the first content section instead, and the button remains accessible by scrolling down.]]**
 **[[EVD - The button is self-hiding once aliases are set, so it adds no lasting clutter at the bottom.]]**
 
-**[[RES - Moved NodeSetup datacorejsx button to the bottom of Result.md, Experiment.md, and the RES instance template. _Discourse Node.md is a bare button snippet with no sections and was left unchanged.]]**
+**[[CON - Moved NodeSetup datacorejsx button to the bottom of Result.md, Experiment.md, and the RES instance template. _Discourse Node.md is a bare button snippet with no sections and was left unchanged.]]**
 
 ---
 
@@ -199,7 +202,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - This gives a clean three-level flow: daily note todo with [[EXP-X]] wikilink → EXP-X todo section; EXP/ISS todos → PRJ aggregated todo section. PRJ pages are display-only for todos, not authoring surfaces.]]**
 
-**[[RES - PRJ todo section: DatacoreJSX aggregator only (no Tasks plugin block). EXP/ISS todo section: Tasks query with OR clause — tasks in the note itself OR tasks in Daily Notes whose description includes the note filename. Template updated in Experiment.md and Issue.md.]]**
+**[[CON - PRJ todo section: DatacoreJSX aggregator only (no Tasks plugin block). EXP/ISS todo section: Tasks query with OR clause — tasks in the note itself OR tasks in Daily Notes whose description includes the note filename. Template updated in Experiment.md and Issue.md.]]**
 
 ---
 
@@ -210,7 +213,7 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Hover Reveal plugin (community, by Asrieal, added to registry early 2025) is the best option: syntax [visibleText]{tooltip}, works in both Live Preview and Reading View, no raw HTML in notes.]]**
 **[[EVD - Alternatives (abbr tag, CSS span data-tooltip) are reading-view-only and require raw HTML or a CSS snippet to look reasonable.]]**
 
-**[[RES - Use Hover Reveal plugin for inline tooltips with ℹ (U+2139, the standard Unicode information symbol) as the visible trigger glyph: [ℹ]{tooltip text here}.]]**
+**[[CON - Use Hover Reveal plugin for inline tooltips with ℹ (U+2139, the standard Unicode information symbol) as the visible trigger glyph: [ℹ]{tooltip text here}.]]**
 
 ---
 
@@ -220,7 +223,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - Meetings either belong to one project (use project: frontmatter on the meeting note) or to no project (captured by #🤝MeetingLog:: on the daily note alone). The two cases are not in conflict: all meetings flow through the daily note log; only project-affiliated ones additionally carry project: metadata.]]**
 
-**[[RES - Meeting.md template gets a project: frontmatter field. The # Project Meetings section in Project.md gets a Datacore query filtering meeting notes where project == current page name. The global 00 Meeting Log continues to aggregate from daily note MeetingLog:: entries.]]**
+**[[CON - Meeting.md template gets a project: frontmatter field. The # Project Meetings section in Project.md gets a Datacore query filtering meeting notes where project == current page name. The global 00 Meeting Log continues to aggregate from daily note MeetingLog:: entries.]]**
 
 ---
 
@@ -230,7 +233,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - An index note per series plus one note per instance gives the best of both: the index is the stable face of the series (linkable, carries project: frontmatter, holds standing agenda and zoom link); instance notes are individually linkable for citation in RES/EXP nodes.]]**
 
-**[[RES - Two templates: Meeting Series.md (index, has project: frontmatter, Datacore query collecting instances via series: field) and Meeting.md (instance, has series: and date: instead of project:). Project Meetings query on Project.md picks up series index notes only. Global Meeting Log picks up instance notes via daily note MeetingLog:: entries.]]**
+**[[CON - Two templates: Meeting Series.md (index, has project: frontmatter, Datacore query collecting instances via series: field) and Meeting.md (instance, has series: and date: instead of project:). Project Meetings query on Project.md picks up series index notes only. Global Meeting Log picks up instance notes via daily note MeetingLog:: entries.]]**
 
 ---
 
@@ -241,7 +244,7 @@ See CLAUDE.md for format and conventions.
 **[[CLM - The correct user flow is to rename the ISS node as an EXP note directly, rather than generate a new note from it.]]**
 **[[CLM - A dedicated upgrade button is premature until multiplayer graphs exist; single-user flow does not need the extra ceremony.]]**
 
-**[[RES - No claim-issue button. To upgrade an ISS to an EXP, the user renames the file (ISS prefix → EXP prefix); all backlinks and log entries follow the rename automatically.]]**
+**[[CON - No claim-issue button. To upgrade an ISS to an EXP, the user renames the file (ISS prefix → EXP prefix); all backlinks and log entries follow the rename automatically.]]**
 
 ---
 
@@ -290,6 +293,7 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Obsidian Bases has no native support for specifying a template per base; the "New +" button creates a blank note.]]**
 **[[EVD - Multiple open feature requests on the Obsidian forum confirm this is unimplemented in core Bases.]]**
 **[[CLM - The community plugin "Bases New with Template" (theol0403) fills this gap: it watches for new notes with a `template: [[TemplateName]]` frontmatter property and auto-applies the named template.]]**
+**[[EVD - bases-new-with-template/main.js registers a vault.on('create') listener that reads `template:` from the new file's frontmatter via metadataCache, resolves the named template file, and applies its content — confirming the plugin operates exactly as described.]]**
 **[[CLM - Obsidian Bases pre-fills frontmatter properties from AND-level equality filters as "implied properties" on new notes; adding `template == "[[TemplateName]]"` to a base's filter causes new notes to receive the property automatically.]]**
 **[[EVD - Backfilling `template:` into all existing nodes is required so they continue to appear in filtered views; existing notes without the property would otherwise be hidden by the new filter.]]**
 
@@ -303,7 +307,7 @@ See CLAUDE.md for format and conventions.
 
 **[[CLM - Inline hashtags (e.g. #reading, #finding) appended to each log line are searchable vault-wide via Obsidian's tag pane and `tag:` search syntax, and are queryable in Datacore via `$tags`.]]**
 
-**[[RES - Use inline hashtags at the end of each log line for entry typing. Tag vocabulary is left to user convention; no prescribed set is baked into templates.]]**
+**[[CON - Use inline hashtags at the end of each log line for entry typing. Tag vocabulary is left to user convention; no prescribed set is baked into templates.]]**
 
 ---
 
@@ -330,7 +334,7 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Guidance will be added explaining how to delete the DatacoreJSX button block for users who prefer a clean, manually-maintained log.]]**
 **[[CLM - The example QUE note in the vault will demonstrate a manually-ordered log (no button), showing that the `### yyyy-mm-dd` / bullet format works equally well without the automation.]]**
 
-**[[RES - Replaced the static `### YYYY-MM-DD` placeholder in Experiment.md, Issue.md, and Question.md with a DatacoreJSX AddLogEntry button. QUE received a `---` separator before NodeSetup. HYP, RES, and CON were left unchanged as they have no log sections. Onboarding guidance and the example QUE will communicate that the button is removable for users who prefer plain markdown logs.]]**
+**[[CON - Replaced the static `### YYYY-MM-DD` placeholder in Experiment.md, Issue.md, and Question.md with a DatacoreJSX AddLogEntry button. QUE received a `---` separator before NodeSetup. HYP, RES, and CON were left unchanged as they have no log sections. Onboarding guidance and the example QUE will communicate that the button is removable for users who prefer plain markdown logs.]]**
 
 ---
 
@@ -374,9 +378,10 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[QUE - Should Issues be collated at experiment level or project level, and can project: be auto-filled on creation via the node candidate > Issue flow?]]**
 
 **[[CLM - Auto-fill is not possible via the DG node candidate flow; it applies the template without awareness of the current project context.]]**
+**[[EVD - discourse-graphs/main.js candidate identification code only writes `nodeTypeId` to frontmatter via processFrontMatter; the createDiscourseNodeFile() path that applies templates is not invoked during candidate conversion, so no context variable (current file, project name) is available to inject into the new note's frontmatter.]]**
 **[[CLM - Adding a project-picker DatacoreJSX button would work but adds template complexity; a prompt-based Templater approach would require exact name typing.]]**
 
-**[[RES - Issues are collated at project level only, using the existing Issues in this Project view already embedded in Project.md. No auto-fill mechanism and no additional button added; project: is filled manually. The base view already covers the need.]]**
+**[[CON - Issues are collated at project level only, using the existing Issues in this Project view already embedded in Project.md. No auto-fill mechanism and no additional button added; project: is filled manually. The base view already covers the need.]]**
 
 ## 2026-04-30 — Folder placement for Base-created discourse nodes
 
@@ -385,6 +390,7 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - The bases-new-with-template plugin applies template content but does not control file placement; the vault default (root) is used.]]**
 **[[CLM - A newNoteFolder property on the template file's frontmatter, read by the plugin before the template is applied, lets each template declare its own target folder.]]**
 **[[EVD - The plugin already has access to templateFile and can call app.fileManager.renameFile after vault.modify; processFrontMatter cleans the property from the created note.]]**
+**[[EVD - bases-new-with-template/main.js (patched): reads `newNoteFolder` from `metadataCache.getFileCache(templateFile)?.frontmatter?.newNoteFolder` then calls `app.fileManager.renameFile(file, \`${newNoteFolder}/${file.name}\`)`, confirming the patch mechanism works as designed.]]**
 
 **[[RES - Patched bases-new-with-template/main.js to read newNoteFolder from the template's frontmatter and move the new file there; added newNoteFolder: DiscourseGraph to Experiment, Issue, Hypothesis, Question, Conclusion, and Result templates.]]**
 
@@ -398,7 +404,7 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - `file.backlinks.contains(this.file.name)` and `file.backlinks.contains(this.file.link)` do not work — backlinks array items are not comparable to plain strings or link objects via `.contains()`.]]**
 **[[CLM - The correct syntax is `this.file.hasLink(file.name)`, calling hasLink on the containing page with the candidate's name as the argument.]]**
 
-**[[RES - Use `this.file.hasLink(file.name)` to filter for nodes that are linked from the page containing the Base (outlinks direction). Use `file.hasLink(this.file.name)` for the reverse (nodes that link back to the containing page).]]**
+**[[CON - Use `this.file.hasLink(file.name)` to filter for nodes that are linked from the page containing the Base (outlinks direction). Use `file.hasLink(this.file.name)` for the reverse (nodes that link back to the containing page).]]**
 
 ---
 
@@ -418,6 +424,7 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[HYP - The canvas created by the button should be named after the project (e.g. "Canvas - PRJ - name.md") rather than the plugin's default timestamp name.]]**
 
 **[[CLM - `createCanvas(plugin)` takes no name parameter and always produces `Canvas-yyyy-MM-dd-HHmm.md`; the function is module-level and not accessible from outside the plugin.]]**
+**[[EVD - discourse-graphs/main.js: `var createCanvas = (plugin) => __async(...)` — single `plugin` parameter only; next line: `` const filename = `Canvas-${format2(new Date(), "yyyy-MM-dd-HHmm")}` `` — timestamp-only naming with no configurable path, confirming the function signature and output format.]]**
 **[[CLM - Registering a `vault.on("create", ...)` listener before firing the command intercepts the new file synchronously and renames it before the user sees the timestamp name.]]**
 **[[EVD - DG canvas files are `.md` (not `.canvas`) with Tldraw JSON content; replicating `createEmptyTldrawContent` in the button would require duplicating UUID generation and plugin-version embedding, making the event-intercept approach clearly preferable.]]**
 
