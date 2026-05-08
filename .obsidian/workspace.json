@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut?"
+              "title": "README"
             }
           },
           {
@@ -293,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,6 +313,10 @@
   },
   "active": "ec95d21a57540ccb",
   "lastOpenFiles": [
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Meta/Attachments/prj-canvas02.PNG",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
     "Discourse Graph Sandbox/Guides/node-properties.png",
     "Discourse Graph Sandbox/Guides/image.png",
     "Daily Notes/2026-04-06.md",
@@ -323,7 +328,6 @@
     "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
     "Discourse Graph Sandbox/Guides/Leveling up.md",
     "Discourse Graph Sandbox/Guides/The discourse graph research loop.md",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "The discourse graph research loop.md",
     "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
@@ -342,16 +346,12 @@
     "Meta/Templates/Experiment.md.tmp.29712.252af44b655c",
     "DiscourseGraph/HYP- airspeed velocity will not differ significantly between EUR & AFR swallows.md",
     "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
-    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
     "Discourse Graph Sandbox/Users/Obsidian User.md",
     "Discourse Graph Sandbox/Guides/rel03.png",
     "Discourse Graph Sandbox/Guides/dnodes01.png",
-    "Discourse Graph Sandbox/Guides/rel02.png",
-    "Discourse Graph Sandbox/Guides/rel01.png",
     "Discourse Graph Sandbox/Guides/Creating Issues.md",
     "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
-    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
     "Users",
     "Meta/Attachments/grail2.png:Zone.Identifier",
     "King Arthur",

@@ -117,7 +117,7 @@ And track recurring meetings using the Meeting Series template.
 ### The Discourse Canvas
 
 **Annotated Example**
-![alt text](Meta/Attachments/dg_canvas03.PNG)
+![A Project Canvas](Meta/Attachments/prj-canvas02.PNG)
 
 The discourse graph plugin implements a tldraw canvas (distinct from the canvas feature that ships with Obsidian) that allows you to create and manipulate discourse nodes and relations visually. 
 
