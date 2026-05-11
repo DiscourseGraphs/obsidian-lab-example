@@ -26,6 +26,696 @@
       "My Library": {
         "rows": [
           {
+            "id": "wangScienceScience2021e",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "EPZWM66P",
+              "version": 1044,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021e",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:34Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:34Z",
+              "dateModified": "2026-05-11T13:23:34Z",
+              "id": "wangScienceScience2021e",
+              "citation-key": "wangScienceScience2021e",
+              "itemKey": "EPZWM66P",
+              "zotero": "zotero://select/library/items/EPZWM66P",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "wangScienceScience2021d",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "6VLW82ZQ",
+              "version": 1042,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021d",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:28Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:28Z",
+              "dateModified": "2026-05-11T13:23:28Z",
+              "id": "wangScienceScience2021d",
+              "citation-key": "wangScienceScience2021d",
+              "itemKey": "6VLW82ZQ",
+              "zotero": "zotero://select/library/items/6VLW82ZQ",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "wangScienceScience2021c",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "HVBX9WHV",
+              "version": 1037,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021c",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:24Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:24Z",
+              "dateModified": "2026-05-11T13:23:24Z",
+              "id": "wangScienceScience2021c",
+              "citation-key": "wangScienceScience2021c",
+              "itemKey": "HVBX9WHV",
+              "zotero": "zotero://select/library/items/HVBX9WHV",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "wangScienceScience2021b",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "CW3F8Z8P",
+              "version": 1029,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021b",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:17Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:17Z",
+              "dateModified": "2026-05-11T13:23:18Z",
+              "id": "wangScienceScience2021b",
+              "citation-key": "wangScienceScience2021b",
+              "itemKey": "CW3F8Z8P",
+              "zotero": "zotero://select/library/items/CW3F8Z8P",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "wangScienceScience2021a",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "ZDEFJCQJ",
+              "version": 1023,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021a",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:10Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:10Z",
+              "dateModified": "2026-05-11T13:23:10Z",
+              "id": "wangScienceScience2021a",
+              "citation-key": "wangScienceScience2021a",
+              "itemKey": "ZDEFJCQJ",
+              "zotero": "zotero://select/library/items/ZDEFJCQJ",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "wangScienceScience2021",
+            "title": "The Science of Science",
+            "meta": "Wang (2021)",
+            "raw": {
+              "key": "K97G6DCK",
+              "version": 1019,
+              "itemType": "book",
+              "title": "The Science of Science",
+              "abstractNote": "This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.",
+              "date": "2021-03-25",
+              "DOI": "10.1017/9781108610834",
+              "citationKey": "wangScienceScience2021",
+              "url": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book",
+              "accessDate": "2026-05-11T13:23:01Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://www.cambridge.org/core/terms",
+              "publisher": "Cambridge University Press",
+              "ISBN": "978-1-108-61083-4 978-1-108-49266-9 978-1-108-71695-6",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:23:01Z",
+              "dateModified": "2026-05-11T13:23:01Z",
+              "id": "wangScienceScience2021",
+              "citation-key": "wangScienceScience2021",
+              "itemKey": "K97G6DCK",
+              "zotero": "zotero://select/library/items/K97G6DCK",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "URL": "https://www.cambridge.org/core/product/identifier/9781108610834/type/book"
+            }
+          },
+          {
+            "id": "klavansMappingBackboneScience2005",
+            "title": "Mapping the backbone of science",
+            "meta": "Klavans (2005)",
+            "raw": {
+              "key": "3RFY9A5W",
+              "version": 1017,
+              "itemType": "journalArticle",
+              "title": "Mapping the backbone of science",
+              "abstractNote": "This paper presents a new map representing the structure of all of science, based on journal articles, including both the natural and social sciences. Similar to cartographic maps of our world, the map of science provides a bird&#39;s eye view of",
+              "date": "2005/01/01",
+              "DOI": "10.1007/S11192-005-0255-6",
+              "citationKey": "klavansMappingBackboneScience2005",
+              "url": "https://www.academia.edu/12999936/Mapping_the_backbone_of_science",
+              "accessDate": "2026-05-11T13:20:03Z",
+              "libraryCatalog": "www.academia.edu",
+              "publicationTitle": "Scientometrics",
+              "creators": [
+                {
+                  "firstName": "Richard",
+                  "lastName": "Klavans",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Kevin",
+                  "lastName": "Boyack",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:20:03Z",
+              "dateModified": "2026-05-11T13:20:03Z",
+              "id": "klavansMappingBackboneScience2005",
+              "citation-key": "klavansMappingBackboneScience2005",
+              "itemKey": "3RFY9A5W",
+              "zotero": "zotero://select/library/items/3RFY9A5W",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005",
+              "container-title": "Scientometrics",
+              "URL": "https://www.academia.edu/12999936/Mapping_the_backbone_of_science"
+            }
+          },
+          {
+            "id": "bhattacharyaCapturingGrowthDynamics2016",
+            "title": "Capturing the growth dynamics of science : a publication-based analysis",
+            "meta": "Bhattacharya (2016)",
+            "raw": {
+              "key": "YRHDXR2Q",
+              "version": 1015,
+              "itemType": "journalArticle",
+              "title": "Capturing the growth dynamics of science : a publication-based analysis",
+              "abstractNote": "CURRENT SCIENCE, VOL. 110, NO. 8, 25 APRIL 2016 1419 Sujit Bhattacharya and Shilpa are in the CSIR-National Institute of Science Technology and Development Studies (NISTADS) and Academy of Scientific and Innovative Research (AcSIR) at CSIRNISTADS",
+              "date": "2016/01/01",
+              "DOI": "10.18520/CS/V110/I8/1419-1425",
+              "citationKey": "bhattacharyaCapturingGrowthDynamics2016",
+              "url": "https://www.academia.edu/70668274/Capturing_the_growth_dynamics_of_science_a_publication_based_analysis",
+              "accessDate": "2026-05-11T13:19:53Z",
+              "shortTitle": "Capturing the growth dynamics of science",
+              "libraryCatalog": "www.academia.edu",
+              "creators": [
+                {
+                  "firstName": "Sujit",
+                  "lastName": "Bhattacharya",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:19:53Z",
+              "dateModified": "2026-05-11T13:19:53Z",
+              "id": "bhattacharyaCapturingGrowthDynamics2016",
+              "citation-key": "bhattacharyaCapturingGrowthDynamics2016",
+              "itemKey": "YRHDXR2Q",
+              "zotero": "zotero://select/library/items/YRHDXR2Q",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2016
+                  ]
+                ]
+              },
+              "year": "2016",
+              "URL": "https://www.academia.edu/70668274/Capturing_the_growth_dynamics_of_science_a_publication_based_analysis"
+            }
+          },
+          {
+            "id": "wuInfrastructureScientometricsBig2021",
+            "title": "Infrastructure of Scientometrics: The Big and Network Picture",
+            "meta": "Wu (2021)",
+            "raw": {
+              "key": "TBYRLYMM",
+              "version": 1012,
+              "itemType": "journalArticle",
+              "title": "Infrastructure of Scientometrics: The Big and Network Picture",
+              "abstractNote": "A network is a set of nodes connected via edges, with possibly directions and weights on the edges. Sometimes, in a multi-layer network, the nodes can also be heterogeneous. In this perspective, based on previous studies, we argue that networks can",
+              "date": "2021-09-14",
+              "DOI": "10.2478/JDIS-2019-0017",
+              "citationKey": "wuInfrastructureScientometricsBig2021",
+              "url": "https://www.academia.edu/52274993/Infrastructure_of_Scientometrics_The_Big_and_Network_Picture",
+              "accessDate": "2026-05-11T13:19:41Z",
+              "shortTitle": "Infrastructure of Scientometrics",
+              "libraryCatalog": "www.academia.edu",
+              "publicationTitle": "Journal of Data and Information Science",
+              "creators": [
+                {
+                  "firstName": "Jinshan",
+                  "lastName": "Wu",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:19:41Z",
+              "dateModified": "2026-05-11T13:19:41Z",
+              "id": "wuInfrastructureScientometricsBig2021",
+              "citation-key": "wuInfrastructureScientometricsBig2021",
+              "itemKey": "TBYRLYMM",
+              "zotero": "zotero://select/library/items/TBYRLYMM",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "container-title": "Journal of Data and Information Science",
+              "URL": "https://www.academia.edu/52274993/Infrastructure_of_Scientometrics_The_Big_and_Network_Picture"
+            }
+          },
+          {
+            "id": "fortunatoScienceScience2018",
+            "title": "Science of science",
+            "meta": "Fortunato (2018)",
+            "raw": {
+              "key": "L4ZJ6QRA",
+              "version": 1008,
+              "itemType": "journalArticle",
+              "title": "Science of science",
+              "abstractNote": "The whys and wherefores of SciSci\n            \n              The science of science (SciSci) is based on a transdisciplinary approach that uses large data sets to study the mechanisms underlying the doing of science—from the choice of a research problem to career trajectories and progress within a field. In a Review, Fortunato\n              et al.\n              explain that the underlying rationale is that with a deeper understanding of the precursors of impactful science, it will be possible to develop systems and policies that improve each scientist's ability to succeed and enhance the prospects of science as a whole.\n            \n            \n              Science\n              , this issue p.\n              eaao0185\n            \n          , \n            \n              BACKGROUND\n              The increasing availability of digital data on scholarly inputs and outputs—from research funding, productivity, and collaboration to paper citations and scientist mobility—offers unprecedented opportunities to explore the structure and evolution of science. The science of science (SciSci) offers a quantitative understanding of the interactions among scientific agents across diverse geographic and temporal scales: It provides insights into the conditions underlying creativity and the genesis of scientific discovery, with the ultimate goal of developing tools and policies that have the potential to accelerate science. In the past decade, SciSci has benefited from an influx of natural, computational, and social scientists who together have developed big data–based capabilities for empirical analysis and generative modeling that capture the unfolding of science, its institutions, and its workforce. The value proposition of SciSci is that with a deeper understanding of the factors that drive successful science, we can more effectively address environmental, societal, and technological problems.\n            \n            \n              ADVANCES\n              Science can be described as a complex, self-organizing, and evolving network of scholars, projects, papers, and ideas. This representation has unveiled patterns characterizing the emergence of new scientific fields through the study of collaboration networks and the path of impactful discoveries through the study of citation networks. Microscopic models have traced the dynamics of citation accumulation, allowing us to predict the future impact of individual papers. SciSci has revealed choices and trade-offs that scientists face as they advance both their own careers and the scientific horizon. For example, measurements indicate that scholars are risk-averse, preferring to study topics related to their current expertise, which constrains the potential of future discoveries. Those willing to break this pattern engage in riskier careers but become more likely to make major breakthroughs. Overall, the highest-impact science is grounded in conventional combinations of prior work but features unusual combinations. Last, as the locus of research is shifting into teams, SciSci is increasingly focused on the impact of team research, finding that small teams tend to disrupt science and technology with new ideas drawing on older and less prevalent ones. In contrast, large teams tend to develop recent, popular ideas, obtaining high, but often short-lived, impact.\n            \n            \n              OUTLOOK\n              SciSci offers a deep quantitative understanding of the relational structure between scientists, institutions, and ideas because it facilitates the identification of fundamental mechanisms responsible for scientific discovery. These interdisciplinary data-driven efforts complement contributions from related fields such as scientometrics and the economics and sociology of science. Although SciSci seeks long-standing universal laws and mechanisms that apply across various fields of science, a fundamental challenge going forward is accounting for undeniable differences in culture, habits, and preferences between different fields and countries. This variation makes some cross-domain insights difficult to appreciate and associated science policies difficult to implement. The differences among the questions, data, and skills specific to each discipline suggest that further insights can be gained from domain-specific SciSci studies, which model and identify opportunities adapted to the needs of individual research fields.\n              \n                \n                  The complexity of science.\n                  Science can be seen as an expanding and evolving network of ideas, scholars, and papers. SciSci searches for universal and domain-specific laws underlying the structure and dynamics of science.\n                \n                \n                ILLUSTRATION: NICOLE SAMAY\n              \n            \n          , \n            Identifying fundamental drivers of science and developing predictive models to capture its evolution are instrumental for the design of policies that can improve the scientific enterprise—for example, through enhanced career paths for scientists, better performance evaluation for organizations hosting research, discovery of novel effective funding vehicles, and even identification of promising regions along the scientific frontier. The science of science uses large-scale data on the production of science to search for universal and domain-specific patterns. Here, we review recent developments in this transdisciplinary field.",
+              "date": "2018-03-02",
+              "DOI": "10.1126/science.aao0185",
+              "citationKey": "fortunatoScienceScience2018",
+              "url": "https://www.science.org/doi/10.1126/science.aao0185",
+              "accessDate": "2026-05-11T13:17:08Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "volume": "359",
+              "pages": "eaao0185",
+              "publicationTitle": "Science",
+              "ISSN": "0036-8075, 1095-9203",
+              "issue": "6379",
+              "journalAbbreviation": "Science",
+              "creators": [
+                {
+                  "firstName": "Santo",
+                  "lastName": "Fortunato",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Carl T.",
+                  "lastName": "Bergstrom",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Katy",
+                  "lastName": "Börner",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "James A.",
+                  "lastName": "Evans",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dirk",
+                  "lastName": "Helbing",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Staša",
+                  "lastName": "Milojević",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Alexander M.",
+                  "lastName": "Petersen",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Filippo",
+                  "lastName": "Radicchi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Roberta",
+                  "lastName": "Sinatra",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Brian",
+                  "lastName": "Uzzi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Alessandro",
+                  "lastName": "Vespignani",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Ludo",
+                  "lastName": "Waltman",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T13:17:08Z",
+              "dateModified": "2026-05-11T13:17:08Z",
+              "id": "fortunatoScienceScience2018",
+              "citation-key": "fortunatoScienceScience2018",
+              "itemKey": "L4ZJ6QRA",
+              "zotero": "zotero://select/library/items/L4ZJ6QRA",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "year": "2018",
+              "container-title": "Science",
+              "container-title-short": "Science",
+              "URL": "https://www.science.org/doi/10.1126/science.aao0185"
+            }
+          },
+          {
+            "id": "mcrtonMatthewEffect0m",
+            "title": "Matthew Effect on Science",
+            "meta": "Merton",
+            "raw": {
+              "key": "C4JDSJDD",
+              "version": 1001,
+              "itemType": "journalArticle",
+              "title": "Matthew Effect on Science",
+              "citationKey": "mcrtonMatthewEffect0m",
+              "language": "en",
+              "libraryCatalog": "Zotero",
+              "creators": [
+                {
+                  "firstName": "Robert K.",
+                  "lastName": "Merton",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T10:34:23Z",
+              "dateModified": "2026-05-11T13:14:05Z",
+              "id": "mcrtonMatthewEffect0m",
+              "citation-key": "mcrtonMatthewEffect0m",
+              "itemKey": "C4JDSJDD",
+              "zotero": "zotero://select/library/items/C4JDSJDD",
+              "type": "journalArticle"
+            }
+          },
+          {
+            "id": "mertonMatthewEffectScience1968",
+            "title": "The Matthew Effect in Science",
+            "meta": "Merton (1968)",
+            "raw": {
+              "key": "X8SDBJKQ",
+              "version": 989,
+              "itemType": "journalArticle",
+              "title": "The Matthew Effect in Science",
+              "abstractNote": "This account of the Matthew effect is another small exercise in the psychosociological analysis of the workings of science as a social institution. The initial problem is transformed by a shift in theoretical perspective. As originally identified, the Matthew effect was construed in terms of enhancement of the position of already eminent scientists who are given disproportionate credit in cases of collaboration or of independent multiple discoveries. Its significance was thus confined to its implications for the reward system of science. By shifting the angle of vision, we note other possible kinds of consequences, this time for the communication system of science. The Matthew effect may serve to heighten the visibility of contributions to science by scientists of acknowledged standing and to reduce the visibility of contributions by authors who are less well known. We examine the psychosocial conditions and mechanisms underlying this effect and find a correlation between the redundancy function of multiple discoveries and the focalizing function of eminent men of science—a function which is reinforced by the great value these men place upon finding basic problems and by their self-assurance. This self-assurance, which is partly inherent, partly the result of experiences and associations in creative scientific environments, and partly a result of later social validation of their position, encourages them to search out risky but important problems and to highlight the results of their inquiry. A macrosocial version of the Matthew principle is apparently involved in those processes of social selection that currently lead to the concentration of scientific resources and talent.",
+              "date": "1968-01-05",
+              "DOI": "10.1126/science.159.3810.56",
+              "citationKey": "mertonMatthewEffectScience1968",
+              "url": "https://www.science.org/doi/10.1126/science.159.3810.56",
+              "accessDate": "2026-05-11T10:34:11Z",
+              "libraryCatalog": "science.org (Atypon)",
+              "volume": "159",
+              "publisher": "American Association for the Advancement of Science",
+              "pages": "56-63",
+              "publicationTitle": "Science",
+              "issue": "3810",
+              "creators": [
+                {
+                  "firstName": "Robert K.",
+                  "lastName": "Merton",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-11T10:34:11Z",
+              "dateModified": "2026-05-11T10:34:11Z",
+              "id": "mertonMatthewEffectScience1968",
+              "citation-key": "mertonMatthewEffectScience1968",
+              "itemKey": "X8SDBJKQ",
+              "zotero": "zotero://select/library/items/X8SDBJKQ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1968
+                  ]
+                ]
+              },
+              "year": "1968",
+              "container-title": "Science",
+              "URL": "https://www.science.org/doi/10.1126/science.159.3810.56"
+            }
+          },
+          {
             "id": "lindReducedTakeoffAbility1999",
             "title": "Reduced take-off ability in robins (Erithacus rubecula) due to migratory fuel load",
             "meta": "LIND (1999)",
@@ -138,6 +828,10 @@
               ],
               "tags": [
                 {
+                  "tag": "Migration",
+                  "type": 1
+                },
+                {
                   "tag": "Bird flight",
                   "type": 1
                 },
@@ -147,10 +841,6 @@
                 },
                 {
                   "tag": "Energy expenditure",
-                  "type": 1
-                },
-                {
-                  "tag": "Migration",
                   "type": 1
                 },
                 {
@@ -4963,7 +5653,7 @@
             }
           }
         ],
-        "cachedAt": 1778177234036,
+        "cachedAt": 1778511257958,
         "source": "local-api"
       }
     }

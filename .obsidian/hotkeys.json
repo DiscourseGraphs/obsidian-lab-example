@@ -33,5 +33,13 @@
       ],
       "key": "J"
     }
+  ],
+  "discourse-graphs:create-discourse-node": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }

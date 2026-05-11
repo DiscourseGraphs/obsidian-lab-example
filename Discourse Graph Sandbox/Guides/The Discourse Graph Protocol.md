@@ -34,7 +34,7 @@ Some researchers prefer to make a distinction between graph nodes sources from t
 
 These nodes can replace or coexist with the base grammar described above. The only requirement is that you are consistent within your discourse graph "headcanon" and its mapping to the base grammar.
 
-![a discourse graph dialect for experimentalists](dialects.png|300)
+![a discourse graph dialect for experimentalists](dgraph-dialect02.png|300)
 
 But nodes alone don't make a graph: we also need **relations**.
 

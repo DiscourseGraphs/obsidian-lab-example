@@ -429,3 +429,16 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[EVD - DG canvas files are `.md` (not `.canvas`) with Tldraw JSON content; replicating `createEmptyTldrawContent` in the button would require duplicating UUID generation and plugin-version embedding, making the event-intercept approach clearly preferable.]]**
 
 **[[RES - Button registers a vault create listener filtered to files starting with "Canvas-" in the DG canvas folder, fires the command, then immediately renames the new file to `Canvas - <projectName>.md`. On repeat clicks, the named file is detected and reopened directly. Canvas folder path is read from `app.plugins.plugins["discourse-graphs"].settings.canvasFolderPath` so it stays in sync with plugin settings.]]**
+
+---
+
+## 2026-05-11 — File-menu "turn into discourse node" does not apply full template
+
+**[[ISS - create discourse node from file menu.md]]**
+
+**[[CLM - The file-menu conversion path writes only `nodeTypeId` to frontmatter; it does not apply the Templater template body or remaining frontmatter fields.]]**
+**[[EVD - Converted file contained only `nodeTypeId: node_2unblKFUVJkOdOnT8MstZ`; all other fields (cssclasses, status, lead, contributors, targetQuestionOrHyp, project, Issue Type, nodeInstanceId) and the full body were absent.]]**
+**[[CLM - Templater's `trigger_on_file_creation` does not fire because file-menu conversion uses `vault.rename`, not `vault.create`; the create event never emits.]]**
+**[[EVD - This matches the prior finding (2026-04-29) that the candidate-conversion path also only writes `nodeTypeId` via `processFrontMatter` and does not invoke `createDiscourseNodeFile`.]]**
+
+**[[RES - Applied Issue template content (frontmatter fields + full body) directly to the affected file as a one-time patch. Systemic fix requires either a plugin-level change or using the hotkey/text-selection creation path instead of file-menu conversion for nodes where the full template body matters.]]**
