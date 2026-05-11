@@ -13,6 +13,9 @@ nodeInstanceId: 019dde99-0ced-7a88-8177-6c3f9318ba89
 > [!info]- 
 > This should include everything needed to quickly grok the Question
 
+This question was first posed by a soldier with keen interest in birds, who did not accept [[@king_arthur]]'s assertion a migrating swallow could have dropped Patsy's coconut.
+
+
 ## Related QUE/CLM/EVD
 >[!info]- 
 >Here you can log related Claims, Questions, & Evidence as they accumulate. A Base is a good way of organizing these nodes.
@@ -33,6 +36,8 @@ nodeInstanceId: 019dde99-0ced-7a88-8177-6c3f9318ba89
 ## Papers
 
 ### Screenshots & Direct Quotes
+
+>It's not a question of where he grips it! It's a simple question of weight ratios! A five ounce bird could not carry a one pound coconut.
 
 ## Notes
 

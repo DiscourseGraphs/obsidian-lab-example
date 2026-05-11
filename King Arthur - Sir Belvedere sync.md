@@ -3,7 +3,7 @@ series: "[[Roundtable Syncs]]"
 date:
 attendees:
   - "[[@sirbelvedere]]"
-  - "[[@king arthur]]"
+  - "@king_arthur"
 ---
 # Resources
 

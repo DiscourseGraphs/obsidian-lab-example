@@ -5,14 +5,14 @@ A discourse graph orients your intellectual work around a central motivating que
 If the question has already been recorded in your notes, you can simply highlight the relevant text with your mouse, right-click
 and select _"Turn into discourse node"_ 
 
-![Creating a Question 01|400](<../../Meta/Attachments/create QUE.gif>|300)
+![[create QUE.gif|400]]
 
 
 ![dropdown node menu|300](dnode-menu.png)
 
 **or** highlight the selected text, Press `Ctrl + \` (or your configured hotkey) and open the node menu as a popup
 
-![hotkey node creation](<../../Meta/Attachments/create QUE02.gif>)
+![[create QUE02.gif]]
 
 This will create a new note using the "Question" template having the title of the text you selected.
 
@@ -20,11 +20,11 @@ This will create a new note using the "Question" template having the title of th
 
 You can also create a node _de novo_ from anywhere in your graph using the "Create discourse node" hotkey (`Ctrl +\` in this vault)
 
-![alt text](<../../Meta/Attachments/create QUE03.gif>)
+![[create QUE03.gif]]
 
 **or** by creating a new page in your graph, giving it a title appropriate for its node type, and selecting the correct template from the **Templater** menu in the left sidebar. 
 
-![alt text](<../../Meta/Attachments/create ISS.gif>)
+![[create ISS.gif]]
 
 ## Aliasing node titles
 
@@ -44,4 +44,12 @@ Node templates can be found in the **"Meta/Templates"** folder in this example v
 
 ![QUE template|300](que-template.png)
 
+## Getting started building your graph
 
+
+The initial question in the [[Canvas - PRJ - Passarine Songbird Cargo Capacity|tutorial graph]] is [[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
+
+
+![alt text](QUE-ex01.png)
+
+Your first Question node is the seed for the rest of your graph. You can begin sketching out your Hypotheses addressing the Question or adducing a few Claims from the literature. Once you have a few nodes, you're ready to begin [[Creating Relations]]
