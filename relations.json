@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "lastModified": 1778161299292,
+  "relations": {
+    "019d7372-cae5-7f83-a4dd-9394fac7757a": {
+      "id": "019d7372-cae5-7f83-a4dd-9394fac7757a",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cabd-7711-9949-64e7118e47ba",
+      "destination": "019d7372-cace-7db2-ae9a-112f98f64454",
+      "created": 1775758396133,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb03-7fe3-b4c0-b406823adc53": {
+      "id": "019d7372-cb03-7fe3-b4c0-b406823adc53",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cabd-7711-9949-64e7118e47ba",
+      "destination": "019d7372-cae5-7f83-a4dd-9395e7e52456",
+      "created": 1775758396163,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb57-780e-b858-a9b3dee2d21e": {
+      "id": "019d7372-cb57-780e-b858-a9b3dee2d21e",
+      "type": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "source": "019d7372-cb3f-7a91-a0f3-0b70e471c9bc",
+      "destination": "019d7372-ca90-75f6-a769-ec5140a5ac1f",
+      "created": 1775758396247,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb6a-75ea-9517-62cdd3c08aec": {
+      "id": "019d7372-cb6a-75ea-9517-62cdd3c08aec",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb3f-7a91-a0f3-0b70e471c9bc",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396266,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb89-7f6c-8a2d-99fb327c8013": {
+      "id": "019d7372-cb89-7f6c-8a2d-99fb327c8013",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb6a-75ea-9517-62cec49986e9",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396297,
+      "author": "174560472021996a"
+    },
+    "019d7372-cba3-7ab2-b37c-a61950be7593": {
+      "id": "019d7372-cba3-7ab2-b37c-a61950be7593",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb89-7f6c-8a2d-99fc540e93a9",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396323,
+      "author": "174560472021996a"
+    },
+    "019dde97-918c-7c81-ace9-c92da16514f7": {
+      "id": "019dde97-918c-7c81-ace9-c92da16514f7",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019dde91-5288-73dc-b2d0-82cf010b6405",
+      "destination": "019dde97-9185-7755-96e7-85dc173a60f6",
+      "created": 1777555968396,
+      "author": "268f06e9fed47ca1"
+    },
+    "019dde97-f234-7b74-9974-e4136542c496": {
+      "id": "019dde97-f234-7b74-9974-e4136542c496",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019dde91-5288-73dc-b2d0-82cf010b6405",
+      "destination": "019dde97-f22e-780d-a5d6-89cb4a1cd106",
+      "created": 1777555993140,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019dde98-583f-7a12-82c0-027c9d572cf0": {
+      "id": "019dde98-583f-7a12-82c0-027c9d572cf0",
+      "type": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "source": "019dde98-5839-7354-a5eb-e5e090752e0b",
+      "destination": "019dde98-14dc-73c5-95f9-cc15930f3058",
+      "created": 1777556019263,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019dde99-0cf2-75c8-b1e9-87e3a6bd8d30": {
+      "id": "019dde99-0cf2-75c8-b1e9-87e3a6bd8d30",
+      "type": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "source": "019dde98-6f6d-7b55-ae7c-47214b06f03e",
+      "destination": "019dde99-0ced-7a88-8177-6c3f9318ba89",
+      "created": 1777556065522,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019dde9a-0047-7334-af31-b4a005528c34": {
+      "id": "019dde9a-0047-7334-af31-b4a005528c34",
+      "type": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "source": "019dde9a-0041-7ddd-91cd-7661079553ad",
+      "destination": "019dde99-2cf6-79da-99ce-2b18280a8497",
+      "created": 1777556127815,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019dde9b-4325-74e0-8b42-fd82731c729d": {
+      "id": "019dde9b-4325-74e0-8b42-fd82731c729d",
+      "type": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "source": "019dde9a-0c94-7da3-bc76-049571535689",
+      "destination": "019dde99-2cf6-79da-99ce-2b18280a8497",
+      "created": 1777556210469,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019ddeb2-4c1a-7705-87c9-d2b0bdae9736": {
+      "id": "019ddeb2-4c1a-7705-87c9-d2b0bdae9736",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019ddeb1-d64d-7eb6-a5fb-11e630810045",
+      "destination": "019dde91-5288-73dc-b2d0-82cf010b6405",
+      "created": 1777557720090,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019ddeb2-c177-79cf-8263-81deb4507637": {
+      "id": "019ddeb2-c177-79cf-8263-81deb4507637",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019ddeb2-73c4-7350-a272-a7bb640d8e80",
+      "destination": "019ddeb2-6af8-7af8-aba8-587d1e23e64a",
+      "created": 1777557750135,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019ddeba-71c8-7955-8391-e68483e71786": {
+      "id": "019ddeba-71c8-7955-8391-e68483e71786",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019ddeba-3775-7129-adf3-dd62c2c94ad5",
+      "destination": "019dde98-5839-7354-a5eb-e5e090752e0b",
+      "created": 1777558254024,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019ddebb-5e6b-7fe5-8faa-d6352fa5905a": {
+      "id": "019ddebb-5e6b-7fe5-8faa-d6352fa5905a",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019ddeb4-2099-76ef-88a7-3280173b9a57",
+      "destination": "019dde9a-0c94-7da3-bc76-049571535689",
+      "created": 1777558314603,
+      "author": "obsidianlabexampleJCHUEZ"
+    },
+    "019e0223-bd0f-7d03-b83a-71cad1aef881": {
+      "id": "019e0223-bd0f-7d03-b83a-71cad1aef881",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019dde99-0ced-7a88-8177-6c3f9318ba89",
+      "destination": "019ddeb1-d64d-7eb6-a5fb-11e630810045",
+      "created": 1778152357135
+    },
+    "019e023f-0d3e-76be-8d5a-5d98e2d572d1": {
+      "id": "019e023f-0d3e-76be-8d5a-5d98e2d572d1",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019dde99-0ced-7a88-8177-6c3f9318ba89",
+      "destination": "019ddeb2-73c4-7350-a272-a7bb640d8e80",
+      "created": 1778154147134
+    },
+    "019e0253-62e9-7e66-8112-2377cc9ba977": {
+      "id": "019e0253-62e9-7e66-8112-2377cc9ba977",
+      "type": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "source": "019de296-9e16-792c-b7aa-e396d1e7d64a",
+      "destination": "019de4d5-8e8a-78e4-967b-52eef6469e06",
+      "created": 1778155479785
+    },
+    "019e0257-178e-7b27-a710-9654f2fa3a5e": {
+      "id": "019e0257-178e-7b27-a710-9654f2fa3a5e",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019de296-9e16-792c-b7aa-e396d1e7d64a",
+      "destination": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "created": 1778155722638
+    },
+    "019e025b-e18d-7353-80d6-b8d60ec7159e": {
+      "id": "019e025b-e18d-7353-80d6-b8d60ec7159e",
+      "type": "rel_E2h9UFdS53YWki3-nczo0",
+      "source": "019dde98-5839-7354-a5eb-e5e090752e0b",
+      "destination": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "created": 1778156036493
+    },
+    "019e0262-6cb8-7024-959e-00f8a0d13e80": {
+      "id": "019e0262-6cb8-7024-959e-00f8a0d13e80",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019df250-5c5f-75c8-8b35-36c4e1a12a9c",
+      "destination": "019dde91-5288-73dc-b2d0-82cf010b6405",
+      "created": 1778156465336
+    },
+    "019e0280-3493-7cf3-bc46-88fdd8fac2f9": {
+      "id": "019e0280-3493-7cf3-bc46-88fdd8fac2f9",
+      "type": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "source": "019ddeb1-d64d-7eb6-a5fb-11e630810045",
+      "destination": "019df250-5c53-761f-9aca-70d2d32f8d68",
+      "created": 1778158417043
+    },
+    "019e02ac-2f5b-752d-ab9e-8629ffa4f8f5": {
+      "id": "019e02ac-2f5b-752d-ab9e-8629ffa4f8f5",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019df250-5c53-761f-9aca-70d2d32f8d68",
+      "destination": "019df250-5c71-7f76-b1f7-b533bdbb69c5",
+      "created": 1778161299291
+    }
+  }
+}

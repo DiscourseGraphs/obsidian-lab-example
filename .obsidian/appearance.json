@@ -1,1 +1,12 @@
-{}
+{
+  "interfaceFontFamily": "Segoe UI,Segoe UI Emoji",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "log-callout",
+    "header-colors",
+    "dg-node-colors",
+    "image-borders",
+    "hyp-tags"
+  ]
+}

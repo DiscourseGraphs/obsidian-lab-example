@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ff6877ba1245243",
+            "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,71 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EXP - MD simulations with (GS)25-RBDSCO2 chimera"
+              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
             }
           },
           {
-            "id": "23b79ea7d7f8643b",
+            "id": "d65b6cdd58e84189",
             "type": "leaf",
             "state": {
-              "type": "tldraw-dg-preview",
+              "type": "markdown",
               "state": {
-                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md"
+                "file": "Daily Notes/2026-04-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Canvas-2025-10-08-1533"
+              "title": "2026-04-01"
+            }
+          },
+          {
+            "id": "ec95d21a57540ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30"
+            }
+          },
+          {
+            "id": "7d23fe7c22db0b10",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Experiments.base",
+                "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "Experiments"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#res-candidate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,31 +146,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "e52e294e0fa98412",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "67bfb222e956a96c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Canvas-2025-10-08-1533"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -138,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Backlinks for Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           },
           {
@@ -157,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "Daily Notes/2026-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Outgoing links from 2026-04-06"
             }
           },
           {
@@ -179,13 +206,83 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "26df08302adf7d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Canvas - PRJ - Passarine Songbird Cargo Capacity"
+            }
+          },
+          {
+            "id": "1045cadb13290c48",
+            "type": "leaf",
+            "state": {
+              "type": "ReferencesView",
+              "state": {},
+              "icon": "graduation-cap",
+              "title": "References"
+            }
+          },
+          {
+            "id": "8d14fd9faad92748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - African or European?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - African or European?"
+            }
+          },
+          {
+            "id": "d0dac6a97d235c01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "26606378d803c42f",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse context"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 541.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,51 +294,60 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
-      "discourse-graphs:Toggle Discourse Context": false
+      "discourse-graphs:Toggle discourse context": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23b79ea7d7f8643b",
+  "active": "e040d77f38866ac0",
   "lastOpenFiles": [
-    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
-    "Discourse Canvas/Canvas-2025-10-08-1533.md",
-    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "attachments",
-    "Discourse Canvas",
-    "nal canvas.json",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "DiscourseGraph/RES - maybe later we can follow up on this with another chimera variant.md",
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
-    "README.md",
-    "Projects/My awseome new projects.canvas",
-    "Projects/Molecular determinants of evolutionary conservation.canvas",
-    "Home.md",
-    "Joshua Lederberg.md",
-    "Esther Lederberg.md",
-    "Rosalind Franklin.md",
-    "Lab Meeting Notes 2025.md",
-    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
-    "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
-    "DiscourseGraph/QUE - How does the cell know to breathe?.md",
-    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
-    "Projects/PRJ - my awesome new project.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
-    "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
-    "DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md",
-    "Meta/Templates/Project.md",
-    "Projects/PRJ - my shiny new project.md",
-    "Bases/Projects.base",
-    "Bases/Questions.base",
-    "Bases/Results.base",
-    "Protocols",
     "Bases/Experiments.base",
-    "Meta",
-    "Templates/Untitled",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
+    "Discourse Graph Sandbox/Guides/create-exp02.png",
+    "Discourse Graph Sandbox/Guides/image.png",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "Discourse Graph Sandbox/Guides/create-exp01.png",
+    "Discourse Graph Sandbox/Guides/example-exp01.png",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "Meta/Attachments/discourse-relations.png",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "Meta/Attachments/rel04.png",
+    "Discourse Graph Sandbox/Guides/rel04.png",
+    "Meta/Attachments/que-template.png",
+    "Meta/Attachments/QUE-ex01.png",
+    "Meta/Attachments/node-properties.png",
+    "Meta/Attachments/Meetings.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
+    "Bases/Projects.base",
+    "Projects/Untitled.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "README.md.tmp.2298.a59d30608366",
+    "README.md.tmp.2298.996b07ec3bb2",
+    "README.md.tmp.2298.e0b363c59685",
+    "README.md.tmp.2298.538bff57265d",
+    "README.md.tmp.2298.91a2ad9bb68a",
+    "README.md.tmp.2298.4e8a53107569",
+    "Discourse Graph Sandbox/Guides/Leveling up.md",
+    "Start Here.md",
+    "Daily Notes/2026-04-01.md",
+    "Daily Notes/2026-05-04.md",
+    "Bases/Discourse Graph Nodes.base",
+    "Dashboards/Candidate Nodes.md",
+    "DECISIONS.md.tmp.3276.87f647a5ebad",
+    "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "DiscourseGraph/@king_arthur.md",
+    "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
+    "King Arthur - Sir Belvedere sync.md",
+    "DiscourseGraph/@king arthur.md",
+    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
+    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
+    "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
+    "Projects/Molecular determinants of evolutionary conservation.canvas",
+    "Projects/My awseome new projects.canvas"
   ]
 }

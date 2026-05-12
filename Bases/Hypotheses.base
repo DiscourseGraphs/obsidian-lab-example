@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Hypothesis Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_8eLgGKXiSzIWJvcrGCBFE"
+        - template == "[[Hypothesis]]"
+    order:
+      - file.name
+      - confidence

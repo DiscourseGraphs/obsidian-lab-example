@@ -5,6 +5,7 @@ views:
       and:
         - file.hasProperty("nodeTypeId")
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+        - template == "[[Result]]"
     order:
       - file.name
       - rel_5nnUOb6wBzlAwAF2Wk-ts
@@ -14,13 +15,16 @@ views:
     filters:
       and:
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
-        - file.hasLink(this.file.name)
-    sort:
-      - property: file.name
-        direction: ASC
+        - this.file.hasLink(file.name)
+        - template == "[[Result]]"
+    sort: []
   - type: table
-    name: Results from a Project
+    name: Results and Conclusions in this Project
     filters:
-      or:
-        - nodeTypeId == "node_LwROzkVH_Zck7ZxDgN91E"
-        - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+      and:
+        - file.hasLink(this.file.name)
+        - or:
+            - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+            - nodeTypeId == "node_J9JyrRTQj6nuJs6IY83Mo"
+    order:
+      - file.name

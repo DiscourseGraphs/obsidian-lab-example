@@ -1,0 +1,31 @@
+views:
+  - type: table
+    name: Issue Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+        - template == "[[Issue]]"
+    order:
+      - file.name
+  - type: table
+    name: Issues in this Project
+    filters:
+      and:
+        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+        - project == this.file.name
+        - template == "[[Issue]]"
+    order:
+      - file.name
+  - type: table
+    name: Issues in this Page
+    filters:
+      and:
+        - template == "[[Issue]]"
+        - this.file.hasLink(file.name)
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: View

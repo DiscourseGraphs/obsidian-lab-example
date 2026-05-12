@@ -3,5 +3,12 @@
   "obsidian-tasks-plugin",
   "datacore",
   "discourse-graphs",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "zotsidian",
+  "hover-reveal",
+  "bases-new-with-template",
+  "calendar",
+  "emoji-shortcodes"
 ]
