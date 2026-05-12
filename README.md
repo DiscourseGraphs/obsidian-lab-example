@@ -56,7 +56,7 @@ The graph is descriptive, not prescriptive, showcasing specific patterns you can
 
 This vault uses the _Daily Notes_ core plugin and the _Calendar_  and _Tasks_ community plugins to power a Daily Notes page that can be created by clicking on the appropriate date in the Calendar on the right sidebar.
 
-![alt text](dnp06%201.png)
+![alt text](Meta/Attachments/dnp06%201.png)
 
 
 The Daily Notes Page is intended to serve as a landing page that gives an overview of the current state of your vault and allows short-hop journeys to the most frequented nodes in your graph. 
@@ -72,7 +72,7 @@ The **Projects**, **Experiments**, and **Research Questions** Bases display data
 The _Tasks_ plugin is used to organize the tasks stored throughout your vault and present them in order or urgency.
 
 
-![alt text](dnp07%201.png)
+![alt text](Meta/Attachments/dnp07%201.png)
 
 These patterns can be copied and modified: for example, the Daily Notes Page could be updated to include a "Sources" base that tracks a literature synthesis project.
 
@@ -86,7 +86,7 @@ The Project Page is designed to
 - link to a **Project Canvas** where you can organize your research into a visual narrative 
 
 **Annotated example**
-![alt text](Meta/Attachments/prj-page-a.PNG|400)
+<img src="Meta/Attachments/prj-page-a.PNG" width="400">
 
 
 
@@ -99,7 +99,7 @@ The Experiment Page is designed to
 
 
 **Annotated example**
-![alt text](Meta/Attachments/EXP-page.PNG|400)
+<img src="Meta/Attachments/EXP-page.PNG" width="400">
 
 
 ### Meeting Notes
@@ -107,11 +107,11 @@ The Experiment Page is designed to
 You can capture insights and information from regular meetings using the Meeting template...
 
 **Annotated examples**
-![](Meta/Attachments/mtg.png|400)
+<img src="Meta/Attachments/mtg.png" width="400">
 
 And track recurring meetings using the Meeting Series template.
 
-![alt text](Meta/Attachments/mtg-series.PNG|400)
+<img src="Meta/Attachments/mtg-series.PNG" width="400">
 
 
 ### The Discourse Canvas
