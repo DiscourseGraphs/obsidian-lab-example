@@ -5,7 +5,7 @@ Relations are first-class objects on equal footing with nodes in the discourse g
 
 You can view the relations that ship with this example vault in the discourse graph plugin _Settings_ menu, under _Relation types_.
 
-![relations|500](rel01.png)
+![relations|500](rel04.png)
 
 This is not an exhaustive list of the types of relations that are possible, but it is a nice starter pack for exploring the base schema. 
 

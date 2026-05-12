@@ -86,6 +86,7 @@ The Project Page is designed to
 - link to a **Project Canvas** where you can organize your research into a visual narrative 
 
 **Annotated example**
+
 <img src="Meta/Attachments/prj-page-a.PNG" width="400">
 
 
@@ -99,6 +100,7 @@ The Experiment Page is designed to
 
 
 **Annotated example**
+
 <img src="Meta/Attachments/EXP-page.PNG" width="400">
 
 
@@ -107,6 +109,7 @@ The Experiment Page is designed to
 You can capture insights and information from regular meetings using the Meeting template...
 
 **Annotated examples**
+
 <img src="Meta/Attachments/mtg.png" width="400">
 
 And track recurring meetings using the Meeting Series template.
@@ -117,6 +120,7 @@ And track recurring meetings using the Meeting Series template.
 ### The Discourse Canvas
 
 **Annotated Example**
+
 ![A Project Canvas](Meta/Attachments/prj-canvas02.PNG)
 
 The discourse graph plugin implements a tldraw canvas (distinct from the canvas feature that ships with Obsidian) that allows you to create and manipulate discourse nodes and relations visually. 
