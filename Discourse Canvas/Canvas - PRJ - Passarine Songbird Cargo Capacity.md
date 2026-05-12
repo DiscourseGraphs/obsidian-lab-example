@@ -50,12 +50,12 @@ tldr-dg: true
 		},
 		"records": [
 			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 22.785177190664626,
-				"y": 586.9168857227555,
-				"lastActivityTimestamp": 1778524168847,
-				"meta": {}
+				"typeName": "pointer"
 			},
 			{
 				"meta": {},
@@ -364,9 +364,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1037.0580234929291,
-				"y": 940.8867489207992,
-				"z": 0.5,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -424,12 +424,12 @@ tldr-dg: true
 				"index": "a1",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 346.17288970947266,
+					"w": 400,
+					"h": 348,
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://2a40c3d9384f7e5ef4fd7042668c41e9e2b8/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://c0bed22ecdb60d7dc4e266412199a62a4ef2/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -447,8 +447,8 @@ tldr-dg: true
 				"index": "aA0wz",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 92.17288970947266,
+					"w": 400,
+					"h": 94,
 					"src": "asset:obsidian.blockref.4f9da1b3-6d5d-4b98-ac8f-322c9b55a929",
 					"title": "CLM - It could be carried by two swallows with a bit of string",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -524,11 +524,11 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 246.81140350877195,
-					"h": 319.16332244873047,
+					"h": 321,
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://2a40c3d9384f7e5ef4fd7042668c41e9e2b8/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://c0bed22ecdb60d7dc4e266412199a62a4ef2/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -616,8 +616,8 @@ tldr-dg: true
 				"index": "a47YR",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 92.17288970947266,
+					"w": 400,
+					"h": 94,
 					"src": "asset:obsidian.blockref.22e28eb5-a3d0-4a47-beee-9496ea1e47aa",
 					"title": "HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -668,9 +668,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:QOU_Ulah1LQayYaQTttpu"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -693,8 +691,8 @@ tldr-dg: true
 				"index": "aK7nb",
 				"parentId": "page:page",
 				"props": {
-					"w": 397.27001953125,
-					"h": 74.14939498901367,
+					"w": 399.4375,
+					"h": 76,
 					"src": "asset:obsidian.blockref.d4caf31a-9add-4161-a2e7-e30fd9c727bc",
 					"title": "@dorPhylogenyGenusHirundo2010",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
@@ -824,8 +822,8 @@ tldr-dg: true
 				"id": "shape:M6P0iTJAML4zVpv7SdBKj",
 				"type": "discourse-node",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 110.1450424194336,
+					"w": 400,
+					"h": 112,
 					"src": "asset:obsidian.blockref.62828673-6bb4-4114-8f91-b0a85d49c746",
 					"title": "RES - 5g max load at sustained cruising",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
@@ -904,8 +902,8 @@ tldr-dg: true
 				"id": "shape:5lw_gliswxDaYUVnMjFHe",
 				"type": "discourse-node",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 110.1450424194336,
+					"w": 400,
+					"h": 112,
 					"src": "asset:obsidian.blockref.26cdbf0a-823a-404b-b7d9-2145602eeef8",
 					"title": "@analysis - measure flight capacity of H rustica under load",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -965,12 +963,12 @@ tldr-dg: true
 				"index": "a74BM",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 346.17288970947266,
+					"w": 400,
+					"h": 348,
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://2a40c3d9384f7e5ef4fd7042668c41e9e2b8/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
+					"imageSrc": "app://c0bed22ecdb60d7dc4e266412199a62a4ef2/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1024,8 +1022,8 @@ tldr-dg: true
 				"index": "aV5Zc",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 146.14068603515625,
+					"w": 400,
+					"h": 148,
 					"src": "asset:obsidian.blockref.5470dfe1-ae88-4063-b5b7-81586a8c74b4",
 					"title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -1100,8 +1098,8 @@ tldr-dg: true
 				"index": "a663N",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 92.17288970947266,
+					"w": 400,
+					"h": 94,
 					"src": "asset:obsidian.blockref.dd510762-07cf-4d90-aa56-fe0ca6a17003",
 					"title": "CLM - European and African swallows are a single species",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1424,10 +1422,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 335.4800720214844,
-					"y": 90.5453872680664,
-					"w": 1398.6610107421875,
-					"h": 1016.7271728515625
+					"x": 335.5,
+					"y": 90.4375,
+					"w": 1246.5,
+					"h": 917.5625
 				},
 				"insets": [
 					true,
@@ -1442,9 +1440,9 @@ tldr-dg: true
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
-				"devicePixelRatio": 0.9128709435462952,
+				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1485,8 +1483,8 @@ tldr-dg: true
 				"index": "a91eO",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 110.1450424194336,
+					"w": 400,
+					"h": 112,
 					"src": "asset:obsidian.blockref.6a1161a5-58cf-4829-8788-4a3d787cb09e",
 					"title": "QUE - what is the airspeed velocity of an unladen swallow?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
@@ -1577,8 +1575,8 @@ tldr-dg: true
 				"index": "a59nT",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 92.17288970947266,
+					"w": 400,
+					"h": 94,
 					"src": "asset:obsidian.blockref.a6d39407-5e40-4578-aa65-79054c710b5f",
 					"title": "HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1596,8 +1594,8 @@ tldr-dg: true
 				"id": "shape:0C3JTvuJ4SpKCQSnLF6Ba",
 				"type": "discourse-node",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 146.14068603515625,
+					"w": 400,
+					"h": 148,
 					"src": "asset:obsidian.blockref.0e4ebd8d-3daf-492f-803e-cc54227563d5",
 					"title": "HYP- airspeed velocity will not differ significantly between EUR & AFR swallows",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1639,12 +1637,12 @@ tldr-dg: true
 				"index": "aG1bU",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 364.1450424194336,
+					"w": 400,
+					"h": 366,
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://2a40c3d9384f7e5ef4fd7042668c41e9e2b8/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://c0bed22ecdb60d7dc4e266412199a62a4ef2/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
 					"size": "m",
 					"fontFamily": "mono"
 				}
@@ -1662,8 +1660,8 @@ tldr-dg: true
 				"index": "aE4QY",
 				"parentId": "page:page",
 				"props": {
-					"w": 399.99151611328125,
-					"h": 110.1450424194336,
+					"w": 400,
+					"h": 112,
 					"src": "asset:obsidian.blockref.bcb2cd22-4543-499c-b38a-efe2fa6a3400",
 					"title": "ISS - better weather measurements needed",
 					"nodeTypeId": "node_2unblKFUVJkOdOnT8MstZ",

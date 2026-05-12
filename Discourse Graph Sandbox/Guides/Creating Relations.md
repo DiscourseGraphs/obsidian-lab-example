@@ -1,7 +1,7 @@
 
 ## What are Relations?
 
-Relations are first-class objects on equal footing with nodes in the discourse graph schema. They are graph edges that  carry necessary information about the relationship of dfferent nodes to each other.
+Relations are first-class objects on equal footing with nodes in the discourse graph schema. They are graph edges that  carry necessary information about the relationship of different nodes to each other.
 
 You can view the relations that ship with this example vault in the discourse graph plugin _Settings_ menu, under _Relation types_.
 

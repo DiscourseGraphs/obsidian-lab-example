@@ -5,6 +5,8 @@
   "enabledCssSnippets": [
     "log-callout",
     "header-colors",
-    "dg-node-colors"
+    "dg-node-colors",
+    "image-borders",
+    "hyp-tags"
   ]
 }

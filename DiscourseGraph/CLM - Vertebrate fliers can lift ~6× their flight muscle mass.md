@@ -18,7 +18,7 @@ If these birds can lift 6X their flight muscle mass at takeoff, then a 5 ounce b
 # Source of Claim
 > [!tip]-
 > If you are already aware of some Evidence supporting your Claim, link it and its Source here. It's fine to be your own source of Claims!
-![alt text](image.png)
+![alt text](image%201.png)
 >  
 
 [[EVD - Max lift per unit flight muscle mass ~ 54-63N-kg]]

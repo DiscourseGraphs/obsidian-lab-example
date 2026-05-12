@@ -55,6 +55,9 @@ return function CanvasButton() {
 }
 ```
 
+#HYP0 : A 5 oz bird cannot carry a one-pound coconut #hyp-candidate 
+
+#HYP1 : A 5 oz bird can carry about 1 oz odf additional payload [@mardenMaximumLiftProduction1987] #hyp-candidate 
 ## Aims
 - Determine by a combination of empirical and mathematical means : [[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
 

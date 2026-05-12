@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+                "file": "Daily Notes/2026-04-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@analysis - measure flight capacity of H rustica under load"
+              "title": "2026-04-01"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph Sandbox/Guides/Leveling up.md",
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,24 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leveling up"
-            }
-          },
-          {
-            "id": "30f90a86ee423fc7",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Discourse Graph Nodes.base",
-                "viewName": "By Target Question"
-              },
-              "icon": "lucide-table",
-              "title": "Discourse Graph Nodes"
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -306,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 541.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,31 +311,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "30f90a86ee423fc7",
+  "active": "7d23fe7c22db0b10",
   "lastOpenFiles": [
-    "Dashboards/Candidate Nodes.md",
+    "Discourse Graph Sandbox/Guides/Leveling up.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "Start Here.md",
+    "Daily Notes/2026-04-01.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Daily Notes/2026-05-04.md",
+    "Discourse Graph Sandbox/Guides/create-iss.png",
+    "Discourse Graph Sandbox/Guides/image.png",
+    "Bases/Discourse Graph Nodes.base",
+    "Dashboards/Candidate Nodes.md",
     "DECISIONS.md.tmp.3276.87f647a5ebad",
     "Dashboards/Candidate Nodes.md.tmp.3276.684b5b49ba47",
     "Dashboards",
-    "Bases/Discourse Graph Nodes.base",
     "Bases/Discourse Graph Nodes.base.tmp.3276.1b151ac02baf",
     "Meta/Attachments/create-node-cand.gif",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-    "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Guides/anansi.png",
-    "Discourse Graph Sandbox/Guides/image.png",
     "Meta/Attachments/create-rel02.gif",
     "Discourse Graph Sandbox/Guides/Creating Relations.md.tmp.21202.e6c4d85d7752",
     "Discourse Graph Sandbox/Guides/Creating Relations.md.tmp.21202.3b4c5cb0bb58",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.8bce76fd9e3f",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.ee058f5836ac",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.0d3078bf037f",
-    "Discourse Graph Sandbox/Guides/Leveling up.md",
     "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
     "Meta/Attachments/create-rel01.gif",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Discourse Graph Sandbox/Guides/discourse-relations.png",
     "Meta/Attachments/drag-rel.gif",
     "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
@@ -363,13 +356,9 @@
     "DiscourseGraph/CLM - European and African swallows are a single species.md",
     "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?.md",
     "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact? 1.md",
-    "Start Here.md",
     "ISS - Create discourse node from template.md",
     "DiscourseGraph/EVD - HHMI citation boost concentrated on novel and cross-disciplinary articles - @azoulayMatthewEffectFable2014.md",
     "Meta/Templates/Claim.md",
-    "DiscourseGraph/EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008.md",
-    "DiscourseGraph/EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008.md",
-    "Meta/Attachments/create QUE02.gif",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

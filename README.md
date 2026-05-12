@@ -56,7 +56,7 @@ The graph is descriptive, not prescriptive, showcasing specific patterns you can
 
 This vault uses the _Daily Notes_ core plugin and the _Calendar_  and _Tasks_ community plugins to power a Daily Notes page that can be created by clicking on the appropriate date in the Calendar on the right sidebar.
 
-![alt text](dnp06.PNG)
+![alt text](dnp06%201.png)
 
 
 The Daily Notes Page is intended to serve as a landing page that gives an overview of the current state of your vault and allows short-hop journeys to the most frequented nodes in your graph. 
@@ -72,7 +72,7 @@ The **Projects**, **Experiments**, and **Research Questions** Bases display data
 The _Tasks_ plugin is used to organize the tasks stored throughout your vault and present them in order or urgency.
 
 
-![alt text](dnp07.PNG)
+![alt text](dnp07%201.png)
 
 These patterns can be copied and modified: for example, the Daily Notes Page could be updated to include a "Sources" base that tracks a literature synthesis project.
 

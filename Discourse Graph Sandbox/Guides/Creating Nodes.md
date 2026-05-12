@@ -54,13 +54,19 @@ You may sometimes feel hesitant to immediately label an observation as a **Resul
     - `#clm-candidate` is roughly equivalent to hypothesis candidate. It can be used to differentiate your own hypotheses with claims from the literature,  where that distinction is relevant. A mature **Claim** is an assertion relevant to your research question that you intend to address in your work.
     - `#que-candidate` is roughly equivalent to the hypothesis candidate. A mature **Question** can be the origin point for a project or the branching-off point for a new project.
 
-### creating candidate nodes
+### Creating candidate nodes
 
 You can create a candidate node either by typing out the appropriate node tag (e.g. `#iss-candidate') or by using the `\` hotkey to summon the candidate node menu. The line containing your cursor will be tagged with the candidate node you choose.
 
-You can view your existing candidate nodes in the [[Candidate Nodes|Candidate Nodes]] Dashboard. You may wish to regularly review this dashboard and select nodes to promote to mature discourse nodes, after which they can be found in the [[Discourse Graph Nodes.base]]. 
 
 ![[create-node-cand.gif]]
+
+
+You can view your existing candidate nodes in the [[Candidate Nodes|Candidate Nodes]] Dashboard. You may wish to regularly review this dashboard and select nodes to promote to mature discourse nodes, after which they can be found in the [[Discourse Graph Nodes.base]]. 
+
+To promote a candidate node, hover over with it with your cursor. A "Create {Node}" button will appear which will launch the node creation dialogue.
+
+![alt text](create-iss.png)
 
 ## Getting started building your graph
 
@@ -70,4 +76,4 @@ The initial question in the [[Canvas - PRJ - Passarine Songbird Cargo Capacity|t
 
 ![alt text](QUE-ex01.png)
 
-Your first Question node is the seed for the rest of your graph. You can begin sketching out your Hypotheses addressing the Question or adducing a few Claims from the literature. Once you have a few nodes, you're ready to begin [[Creating Relations]]
+Your first Question node is the seed for the rest of your graph. You can begin sketching out your Hypotheses addressing the Question or adducing a few Claims from the literature. Once you have a few nodes, you're ready to begin [[Creating Relations]].
