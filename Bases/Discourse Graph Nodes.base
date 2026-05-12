@@ -1,0 +1,57 @@
+properties:
+  cssclasses:
+    displayName: Type
+  targetQuestionOrHyp:
+    displayName: Target Question
+views:
+  - type: table
+    name: By Target Question
+    filters:
+      or:
+        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+        - nodeTypeId == "node_8eLgGKXiSzIWJvcrGCBFE"
+        - nodeTypeId == "node_LwROzkVH_Zck7ZxDgN91E"
+        - nodeTypeId == "node_xQmEzWQFHdHy2swhrugrF"
+        - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+        - nodeTypeId == "node_J9JyrRTQj6nuJs6IY83Mo"
+        - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+    order:
+      - targetQuestionOrHyp
+      - cssclasses
+      - file.name
+      - project
+    sort:
+      - property: targetQuestionOrHyp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Project
+    filters:
+      and:
+        - file.hasProperty("nodeTypeId")
+    order:
+      - project
+      - cssclasses
+      - file.name
+      - targetQuestionOrHyp
+    sort:
+      - property: project
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Tags
+    filters:
+      and:
+        - file.hasProperty("nodeTypeId")
+    order:
+      - tags
+      - cssclasses
+      - file.name
+      - project
+    sort:
+      - property: tags
+        direction: ASC
+      - property: file.name
+        direction: ASC

@@ -442,3 +442,16 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[EVD - This matches the prior finding (2026-04-29) that the candidate-conversion path also only writes `nodeTypeId` via `processFrontMatter` and does not invoke `createDiscourseNodeFile`.]]**
 
 **[[RES - Applied Issue template content (frontmatter fields + full body) directly to the affected file as a one-time patch. Systemic fix requires either a plugin-level change or using the hotkey/text-selection creation path instead of file-menu conversion for nodes where the full template body matters.]]**
+
+---
+
+## 2026-05-12 — Discourse graph node dashboard and candidate triage dashboard
+
+**[[HYP - Two new dashboards are needed: a Bases-powered node index (all DG nodes by target question, project, tags) and a Datacore-powered candidate triage view (all *-candidate tagged list items, by page).]]**
+
+**[[CLM - The node index fits Bases because the grouping dimensions (targetQuestionOrHyp, project, tags) are frontmatter properties sortable within a table view; no computed grouping is needed.]]**
+**[[CLM - The "By Target Question" view should exclude QUE nodes (they are the anchor, not items addressing a question); the remaining seven node types are filtered via an explicit OR over their nodeTypeIds.]]**
+**[[CLM - The candidate triage view requires DatacoreJSX because the candidate tags (#iss-candidate, #res-candidate, etc.) are inline tags on individual list items, not page-level frontmatter; Bases filters only over page-level properties.]]**
+**[[CLM - Datacore's @list-item query type exposes $tags and $text per list item, enabling candidate collection and display at line granularity rather than page granularity.]]**
+
+**[[RES - Created Bases/Discourse Graph Nodes.base with three views (By Target Question, By Project, By Tags). Created Dashboards/Candidate Nodes.md as a DatacoreJSX component querying @list-item for any tag containing "-candidate", grouped by source page with colored type badges.]]**

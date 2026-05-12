@@ -44,6 +44,24 @@ Node templates can be found in the **"Meta/Templates"** folder in this example v
 
 ![QUE template|300](que-template.png)
 
+## Candidate nodes
+
+You may sometimes feel hesitant to immediately label an observation as a **Result.** If you're not ready for that level of commitment, you can use **candidate nodes** to tag ideas & observations for later review. 
+    - `#iss-candidate` can be used to tag potential problems or ideas for experiments. Maturing it into an **Issue** brings it to the attention of everyone working on the Project. This can be used to create a "Request for Experiments" within your lab group.
+    - `#res-candidate` can be used to tag observations that could be used to support/oppose a hypothesis. You can formalize your interpretation of the relevant data artefacts by creating a **Result**
+    - `#evd-candidate` can be used interchangeably with result candidate. Some users prefer this term to tag observations originating from the literature vs. their own experimental work. You can develop your own criteria (# of sources? published data?) to formalize it as **Evidence**
+    - `#hyp-candidate` can be used when you formulate an alternative hypothesis to describe your expectation or explain your results. It can also be used to denote untested claims. A formalized **Hypothesis** forms the target for a project.
+    - `#clm-candidate` is roughly equivalent to hypothesis candidate. It can be used to differentiate your own hypotheses with claims from the literature,  where that distinction is relevant. A mature **Claim** is an assertion relevant to your research question that you intend to address in your work.
+    - `#que-candidate` is roughly equivalent to the hypothesis candidate. A mature **Question** can be the origin point for a project or the branching-off point for a new project.
+
+### creating candidate nodes
+
+You can create a candidate node either by typing out the appropriate node tag (e.g. `#iss-candidate') or by using the `\` hotkey to summon the candidate node menu. The line containing your cursor will be tagged with the candidate node you choose.
+
+You can view your existing candidate nodes in the [[Candidate Nodes|Candidate Nodes]] Dashboard. You may wish to regularly review this dashboard and select nodes to promote to mature discourse nodes, after which they can be found in the [[Discourse Graph Nodes.base]]. 
+
+![[create-node-cand.gif]]
+
 ## Getting started building your graph
 
 

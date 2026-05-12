@@ -107,24 +107,13 @@
             "id": "30f90a86ee423fc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Bases/Discourse Graph Nodes.base",
+                "viewName": "By Target Question"
               },
-              "icon": "lucide-file",
-              "title": "Track your Projects and Experiments"
+              "icon": "lucide-table",
+              "title": "Discourse Graph Nodes"
             }
           }
         ],
@@ -313,12 +302,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 541.5,
-    "collapsed": true
+    "width": 541.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,18 +325,25 @@
   },
   "active": "30f90a86ee423fc7",
   "lastOpenFiles": [
+    "Dashboards/Candidate Nodes.md",
+    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
+    "Daily Notes/2026-05-04.md",
+    "DECISIONS.md.tmp.3276.87f647a5ebad",
+    "Dashboards/Candidate Nodes.md.tmp.3276.684b5b49ba47",
+    "Dashboards",
+    "Bases/Discourse Graph Nodes.base",
+    "Bases/Discourse Graph Nodes.base.tmp.3276.1b151ac02baf",
+    "Meta/Attachments/create-node-cand.gif",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
     "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Guides/anansi.png",
     "Discourse Graph Sandbox/Guides/image.png",
-    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
     "Meta/Attachments/create-rel02.gif",
     "Discourse Graph Sandbox/Guides/Creating Relations.md.tmp.21202.e6c4d85d7752",
     "Discourse Graph Sandbox/Guides/Creating Relations.md.tmp.21202.3b4c5cb0bb58",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.8bce76fd9e3f",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.ee058f5836ac",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.0d3078bf037f",
-    "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.0f8d6530de29",
-    "Discourse Graph Sandbox/Guides/Creating Nodes.md.tmp.21202.2fbdad27503d",
     "Discourse Graph Sandbox/Guides/Leveling up.md",
     "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
     "Meta/Attachments/create-rel01.gif",
@@ -374,14 +369,7 @@
     "Meta/Templates/Claim.md",
     "DiscourseGraph/EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008.md",
     "DiscourseGraph/EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008.md",
-    "DiscourseGraph/EVD - Paper assessment reversed when eminent authorship revealed (Rayleigh anecdote) - @mertonMatthewEffectScience1968.md",
-    "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-    "DiscourseGraph/EVD - HHMI citation boost limited to articles published one year before appointment - @azoulayMatthewEffectFable2014.md",
     "Meta/Attachments/create QUE02.gif",
-    "Meta/Attachments/create QUE.gif",
-    "DECISIONS.md.tmp.17392.d701a4816574",
-    "DiscourseGraph/ISS - create discourse node from file menu.md.tmp.17392.5fd8b6a01979",
-    "DECISIONS.md.tmp.14487.4b0dfc38d207",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
