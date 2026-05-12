@@ -83,28 +83,16 @@
             "id": "7d23fe7c22db0b10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Bases/Experiments.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "Experiment Tracking"
+              "icon": "lucide-table",
+              "title": "Experiments"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,8 +299,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7d23fe7c22db0b10",
+  "active": "e040d77f38866ac0",
   "lastOpenFiles": [
+    "Bases/Experiments.base",
+    "Discourse Graph Sandbox/Guides/create-exp02.png",
+    "Discourse Graph Sandbox/Guides/image.png",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "Discourse Graph Sandbox/Guides/create-exp01.png",
+    "Discourse Graph Sandbox/Guides/example-exp01.png",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "Meta/Attachments/discourse-relations.png",
     "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
@@ -322,12 +319,6 @@
     "Meta/Attachments/QUE-ex01.png",
     "Meta/Attachments/node-properties.png",
     "Meta/Attachments/Meetings.md",
-    "Meta/Attachments/create-iss.png",
-    "Meta/Attachments/anansi.png",
-    "Meta/Attachments/prj-container.png",
-    "Meta/Attachments/create-prj02.png",
-    "Meta/Attachments/create-prj01.png",
-    "Bases/Experiments.base",
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
     "Bases/Projects.base",
@@ -355,9 +346,6 @@
     "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
     "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
     "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
-    "DiscourseGraph/CLM - European and African swallows are a single species.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact? 1.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

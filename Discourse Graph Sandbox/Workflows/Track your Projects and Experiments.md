@@ -56,4 +56,10 @@ The Project is also the natural container for the **Experiment** node, which is 
 
 ![Project-as-container](prj-container.png)
 
-Learn more a
+Learn more about creating and tracking experiments [[Experiment Tracking | here]]
+
+Or you can learn how to 
+- [[Build and Utilize a Personal Knowledge Base]]
+- [[Synthesize Insights from the Literature]]
+or
+- [[Share your Ideas and Research]]
