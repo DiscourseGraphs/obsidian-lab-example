@@ -1,33 +1,63 @@
 ---
+nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
 template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
-  - avian_biomechanics
+  - "#matthew_effect"
 cssclasses: dg-que
+nodeInstanceId: 019df250-5c69-7ab1-be17-5fc22a2d42d6
 aliases:
-  - QUE - what is the airspeed velocity of an unladen swallow?
-nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
-nodeInstanceId: 019de4d5-8e8a-78e4-967b-52eef6469e06
+  - QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?
 ---
 
 # Summary
 
 ## Related QUE/CLM/EVD
 
-[[QUE - African or European?]]
+### EVD
+
+[[EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008]]
+
+[[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008]]
+
+[[EVD - Paper assessment reversed when eminent authorship revealed (Rayleigh anecdote) - @mertonMatthewEffectScience1968]]
+
+[[EVD - HHMI citation boost limited to articles published one year before appointment - @azoulayMatthewEffectFable2014]]
+
+[[EVD - HHMI citation boost falls substantially with article-level quality controls - @azoulayMatthewEffectFable2014]]
+
+[[EVD - HHMI citation boost concentrated on novel and cross-disciplinary articles - @azoulayMatthewEffectFable2014]]
+
+[[EVD - Equally productive scientists at lesser universities gain recognition less often - @mertonMatthewEffectScience1968]]
+
+### CLM
+
+
+[[CLM - Citations track genuine intellectual influence not merely social network position]]
+
+[[CLM - The true causal effect of scientist status on citation rates is small and temporally limited]]
+
+[[CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means]]
+
+[[CLM - Naive citation count comparisons substantially overstate true status effects due to conflation with article quality]]
+
+[[CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate]]
+
+[[CLM - Citations track genuine intellectual influence not merely social network position]]
 
 ## Testable Hypotheses
-
 
 # WorkBench
 
 ## Papers
 
-[@parkFlightKinematicsBarn2001]
+[[@azoulay2012Matthew]]
+[[@azoulay2012turn]]
+[[@azoulaynber]]
+[[@mertonMatthewEffectScience1968]]
+[[@wangScienceScience2021]]
 
-[@schmidt-wellenburgEnergyExpenditureWing2007]
 ## Notes
-
 
 > [!log] Log
 

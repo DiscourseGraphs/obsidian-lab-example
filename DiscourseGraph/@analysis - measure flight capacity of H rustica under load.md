@@ -5,6 +5,7 @@ newNoteFolder: DiscourseGraph
 aliases:
   - "@analysis - determine flight capacity of H rustica under load"
 tags:
+  - avian_biomechanics
   - dg/source
 cssclasses: dg-exp
 status: seed

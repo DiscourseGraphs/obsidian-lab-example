@@ -5,6 +5,7 @@ template: "[[Experiment]]"
 status: in progress
 targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]]"
 tags:
+  - avian_biomechanics
   - dg/source
 cssclasses: dg-exp
 lead: "[[@sirbelvedere]]"

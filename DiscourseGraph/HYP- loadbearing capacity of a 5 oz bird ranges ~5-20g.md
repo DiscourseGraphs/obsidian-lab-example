@@ -2,6 +2,7 @@
 nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
 template: "[[Hypothesis]]"
 tags:
+  - avian_biomechanics
 cssclasses: dg-hyp
 confidence: 0.9
 nodeInstanceId: 019ddeb1-d64d-7eb6-a5fb-11e630810045

@@ -2,6 +2,7 @@
 nodeTypeId: node_2unblKFUVJkOdOnT8MstZ
 template: "[[Issue]]"
 tags:
+  - avian_biomechanics
 cssclasses: dg-iss
 status:
 lead:

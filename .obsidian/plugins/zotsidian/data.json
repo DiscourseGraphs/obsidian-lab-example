@@ -14,7 +14,7 @@
   "zoteroDataDir": "",
   "showSourceRelatedPapers": true,
   "relatedPapersProvider": "auto",
-  "citationInsertFormat": "pandoc",
+  "citationInsertFormat": "wikilink",
   "showCitationHoverCard": false,
   "citationHoverOpenAction": "pdf-first",
   "enableDiscourseGraphsCompatibility": true,
@@ -5653,7 +5653,7 @@
             }
           }
         ],
-        "cachedAt": 1778607916721,
+        "cachedAt": 1778683444435,
         "source": "local-api"
       }
     }

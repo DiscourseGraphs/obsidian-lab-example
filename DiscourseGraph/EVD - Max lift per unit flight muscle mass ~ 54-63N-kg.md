@@ -1,10 +1,12 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
 tags:
+  - avian_biomechanics
 cssclasses: dg-evd
 aliases:
   - EVD - Maximum lift per unit flight muscle mass measured at 54–63 N per kg across birds, bats and insects.
 centrality: 0.5
+source:
 nodeInstanceId: 019dde9a-0041-7ddd-91cd-7661079553ad
 ---
 

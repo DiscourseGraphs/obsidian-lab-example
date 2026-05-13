@@ -6,6 +6,7 @@ status: in progress
 targetQuestionOrHyp: "[[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]]"
 newNoteFolder: DiscourseGraph
 tags:
+  - avian_biomechanics
   - dg/source
 cssclasses: dg-exp
 lead:

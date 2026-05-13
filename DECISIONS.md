@@ -455,3 +455,14 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - Datacore's @list-item query type exposes $tags and $text per list item, enabling candidate collection and display at line granularity rather than page granularity.]]**
 
 **[[RES - Created Bases/Discourse Graph Nodes.base with three views (By Target Question, By Project, By Tags). Created Dashboards/Candidate Nodes.md as a DatacoreJSX component querying @list-item for any tag containing "-candidate", grouped by source page with colored type badges.]]**
+
+---
+
+## 2026-05-13 — Topic tagging strategy for multi-topic discourse graphs
+
+**[[QUE - How should discourse nodes be organized when working across multiple unrelated topics?]]**
+
+**[[CLM - Topic identity belongs in frontmatter (a tags: or topic: field), not in template duplication or folder structure; templates are node-type-specific and are shared across topics.]]**
+**[[CLM - A flat DiscourseGraph/ folder with a per-node topic tag is preferable to subfolders because existing Bases/Datacore queries continue to work without path changes.]]**
+
+**[[RES - Added tag avian_biomechanics to all 19 existing discourse nodes in DiscourseGraph/ via the tags: frontmatter field. New nodes on different topics will use a different tag value in the same field; the existing node-type templates require no modification.]]**
