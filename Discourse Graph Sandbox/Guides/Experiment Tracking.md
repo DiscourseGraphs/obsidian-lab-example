@@ -32,12 +32,14 @@ This vault contains several example experiments demonstrating how the Experiment
 
 ![Example experiment](example-exp01.png)
 
-This page collects **Issues**, **Results**, and **ToDos** related to th experiment, as well as refernces to the experiment from your **Experimental Log** on your Daily Notes Page. The experiment page is the natural place to review candidate results snd issues and decide whether they should be promoted to mature Results and Issues/Experiments.
+This page collects **Issues**, **Results**, and **ToDos** related to the experiment, as well as references to the experiment from your **Experimental Log** on your Daily Notes Page. The experiment page is the natural place to review candidate results snd issues and decide whether they should be promoted to mature Results and Issues/Experiments.
 
 ## Experiment relations
 
-As a **Source** node, the **Experiment** has a special relationship to **Result** nodes: the **Experiment** produces **Results**. 
+As a **Source** node, the **Experiment** has a special relationship to **Result** nodes: the **Experiment** _produces_ **Results**. 
 
 Conversely, each Result in your graph should reference an Experiment.
 
-The Experiment also has a relationship with the **Issue** node, as Experiments generate/suggest **Issues** that may later be developed into Experiments.
+The Experiment also has a relationship with the **Issue** node, as Experiments _suggest/produce_ **Issues** that may later be developed into Experiments.
+
+![iss-exp relations](iss-exp.png)

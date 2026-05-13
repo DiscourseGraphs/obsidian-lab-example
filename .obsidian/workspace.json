@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+                "file": "Discourse Graph Sandbox/Guides/Creating Relations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
+              "title": "Creating Relations"
             }
           },
           {
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 285.5
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -301,10 +301,16 @@
   },
   "active": "e040d77f38866ac0",
   "lastOpenFiles": [
+    "Discourse Graph Sandbox/Guides/card-cat.png",
+    "Discourse Graph Sandbox/Guides/image.png",
+    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
+    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Discourse Graph Sandbox/Guides/iss-exp.png",
+    "DECISIONS.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "Bases/Experiments.base",
     "Discourse Graph Sandbox/Guides/create-exp02.png",
-    "Discourse Graph Sandbox/Guides/image.png",
-    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "Discourse Graph Sandbox/Guides/create-exp01.png",
     "Discourse Graph Sandbox/Guides/example-exp01.png",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
@@ -317,9 +323,7 @@
     "Discourse Graph Sandbox/Guides/rel04.png",
     "Meta/Attachments/que-template.png",
     "Meta/Attachments/QUE-ex01.png",
-    "Meta/Attachments/node-properties.png",
     "Meta/Attachments/Meetings.md",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
     "Bases/Projects.base",
     "Projects/Untitled.md",
@@ -343,9 +347,6 @@
     "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
     "King Arthur - Sir Belvedere sync.md",
     "DiscourseGraph/@king arthur.md",
-    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
