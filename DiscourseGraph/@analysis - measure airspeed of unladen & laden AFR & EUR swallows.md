@@ -18,6 +18,8 @@ rating: 3
 citekey: analysis - Conduct air speed measurements under laden & unl
 nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
 ---
+
+
 > [!Note]-
 > This is a Source describing an experimental observation. This example graph uses the same naming convention ("@Source") for both literature and experimental Sources. You might choose to differentiate the two, for ex. by using "EXP" as the prefix for your own experiments, for searchability.
  # Resources
@@ -28,6 +30,10 @@ nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
 Benchling: ==link to a cloud platform or electronic lab notebook==
 Protocol: ==attached protocol file==
 Github: ==link to relevant repos==
+
+
+![alt text](swallowspeed.png)
+
 #  Results
 >[!info]-
 >This section collects Results from this Experiment in a Base. To find issue 7 result candidates, use the built-in search function on the top left menu to search for e.g. "tag:#iss-candidate @analysis - Conduct air speed measurements" to find issue candidates  linked to this  Experiment page throughout your graph

@@ -1,9 +1,12 @@
 ---
 nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
+tags:
+  - "#matthew_effect"
 cssclasses: dg-clm
 NodeFormality: draft
 TruthValue: 0.65
 aliases:
+nodeInstanceId: 019e25a1-9631-77f3-939d-7ce027a38488
 ---
 ## Grounding
 > "well-known authors enjoy an early citation premium, representing better odds of their work to be noticed by the community. This leads to a leg-up in early citations. But with time, this reputation effect vanishes, and preferential attachment takes over, whose rate is driven primarily by the collective perception of the inherent value of the discovery." (Wang & Barabási 2021)

@@ -1,10 +1,13 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
+tags:
+  - "#matthew_effect"
 cssclasses: dg-evd
 NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e25a7-7992-7345-a339-8a5be04d2c69
 ---
 Analysis of citation dynamics in physics found that well-known senior physicists had a preferential attachment threshold approximately four times higher than junior faculty (cx ≈ 40 vs cx ≈ 10), meaning new papers by senior authors receive four times as many reputation-driven citations before quality dynamics take over.
 

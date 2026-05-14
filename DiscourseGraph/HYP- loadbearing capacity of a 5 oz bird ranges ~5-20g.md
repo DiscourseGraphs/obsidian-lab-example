@@ -15,15 +15,15 @@ aliases:
 >[!info]-
 >This space can be used to detail  the rationale  for the hypothesis, referencing evidence as necessary. In this example, since the HYP was surfaced in a lit review, I already have the beginnings of an evidence scaffold.
 
-- Supported by 147 spp weight-loading data from [@mardenMaximumLiftProduction1987]
-- Supported by Harris hawk loading in [@pennycuickBirdFlightPerformance1989]
-- Supported by barn swallow energetics in [@schmidt-wellenburgEnergyExpenditureWing2007]
+- Supported by 147 spp weight-loading data from [[@mardenMaximumLiftProduction1987]]
+- Supported by Harris hawk loading in [[@pennycuickBirdFlightPerformance1989]]
+- Supported by barn swallow energetics in [[@schmidt-wellenburgEnergyExpenditureWing2007]]
 
 # Context
 > [!info]-
 > Here I'll add the source of the original idea, a conversation with Sir Belvedere.
 
-- h/t convo with [[@sirbelvedere]]
+- h/t convo with [[[@sirbelvedere]]]
 
 # Requests for Experiments
 

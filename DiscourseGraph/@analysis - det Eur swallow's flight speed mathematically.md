@@ -18,10 +18,17 @@ dg_type: Source
 keywords: ""
 rating: 3
 citekey: analysis - determination of the European swallow's flight s
+cover: "[[swallow-move.png]]"
 ---
 
-# Resources
 
+
+
+
+# Resources
+![alt text](swallow-move.png)
+
+![alt text](birdmath.png)
 
 # Results
 

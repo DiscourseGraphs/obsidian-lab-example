@@ -15,7 +15,7 @@ The Superstar Extinction paper provides an oblique but powerful argument for cit
 
 **Supporting evidence:**
 - [[EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008]] — dissociation between citation and funding predictors
-- [[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008]] — real intellectual spillovers
+- [[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008 1]] — real intellectual spillovers [[@azoulaynber]]
 
 **Key caveats:**
 - The sample is the scientific *elite* by definition (top 5% of life scientists by multiple criteria). The finding that citations track spillovers among superstars does not guarantee the same holds at lower status levels.

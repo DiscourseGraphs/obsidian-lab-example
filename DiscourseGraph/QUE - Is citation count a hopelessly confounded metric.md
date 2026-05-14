@@ -18,7 +18,7 @@ aliases:
 
 [[EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008]]
 
-[[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008]]
+[[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008 1]]
 
 [[EVD - Paper assessment reversed when eminent authorship revealed (Rayleigh anecdote) - @mertonMatthewEffectScience1968]]
 

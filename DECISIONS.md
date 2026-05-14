@@ -466,3 +466,16 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - A flat DiscourseGraph/ folder with a per-node topic tag is preferable to subfolders because existing Bases/Datacore queries continue to work without path changes.]]**
 
 **[[RES - Added tag avian_biomechanics to all 19 existing discourse nodes in DiscourseGraph/ via the tags: frontmatter field. New nodes on different topics will use a different tag value in the same field; the existing node-type templates require no modification.]]**
+
+---
+
+## 2026-05-14 — Card cover image via Templater script
+
+**[[QUE - Is there any way to automatically use the first image on a page as its card image in Bases card view?]]**
+
+**[[CLM - Obsidian Bases card view reads cover images from a designated frontmatter property; there is no native mechanism to extract the first embedded image from note body content.]]**
+
+**[[CLM - A Templater command script is the lowest-friction automation: it reads the open file's content, finds the first `![[...]]` image embed, and writes the filename to a `cover:` frontmatter property — triggered manually from the command palette in one keypress.]]**
+**[[EVD - Sources.base card view uses `cover: cover` and `image: note.cover` to display the property as the card image, confirmed by linter rewrite of the base file after creation.]]**
+
+**[[RES - Created Meta/Templates/Set cover from first image.md as a Templater command script. Sources.base card view updated with `cover: cover` and `image: note.cover`. Run via command palette on any open file that contains an embedded image.]]**

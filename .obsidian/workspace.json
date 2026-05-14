@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md",
+                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions"
+              "title": "@analysis - measure flight capacity of H rustica under load"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md",
+                "file": "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions"
+              "title": "@analysis - det Eur swallow's flight speed mathematically"
             }
           },
           {
             "id": "7d23fe7c22db0b10",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Experiments.base",
-                "viewName": "All"
+                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Experiments"
+              "icon": "lucide-file",
+              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +265,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,54 +286,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b491d1cec7fbc0af",
+  "active": "d65b6cdd58e84189",
   "lastOpenFiles": [
-    "DiscourseGraph/CLM - The reputation effect on early citations is real but temporary and long-run citation accumulation tracks inherent value.md",
-    "DiscourseGraph/EVD - Female economists receive zero tenure credit for papers coauthored with male economists - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/EVD - Short CVs with only top-tier papers rated higher than identical CVs plus low-impact papers - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/EVD - Senior physicists enjoy 4x early citation premium over junior faculty from preferential attachment threshold - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/EVD - Q-factor outperforms h-index and total citations in predicting Nobel laureate careers - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/EVD - Nobel laureate major discovery boosts citations to prior unrelated papers - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/EVD - WSDM 2017 randomized experiment shows well-known authors 63pct more likely accepted under single-blind review - @wangBarabasiScienceScience2021.md",
-    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
-    "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-    "EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-    "DiscourseGraph/CLM - Naive citation count comparisons substantially overstate true status effects due to conflation with article quality.md",
-    "DiscourseGraph/CLM - Status serves as a social cue conveying the most information when product quality is uncertain.md",
-    "DiscourseGraph/EVD - HHMI treatment effect larger for high-recombinant-scope articles and zero for proximate antecedents - @azoulayMatthewEffectFable2014.md",
-    "DiscourseGraph/EVD - Less eminent HHMI investigators experience larger post-appointment citation premium - @azoulayMatthewEffectFable2014.md",
-    "DiscourseGraph/CLM - It could be carried by two swallows with a bit of string.md",
-    "DiscourseGraph/CLM - European and African swallows are a single species.md",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "Daily Notes/2026-05-08.md",
-    "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md.tmp.8232.de75e047de13",
-    "DiscourseGraph/CLM - Status serves as a social cue conveying the most information when product quality is uncertain.md.tmp.8232.2f2c10ee51fe",
-    "DiscourseGraph/CLM - The true causal effect of scientist status on citation rates is small and temporally limited.md.tmp.8232.82b1c42a0ab2",
-    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md.tmp.8232.8c814421c87b",
-    "DiscourseGraph/CLM - Naive citation count comparisons substantially overstate true status effects due to conflation with article quality.md.tmp.8232.f0ae161d6d4d",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md.tmp.8232.9c3ded6479d1",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md.tmp.8232.f41a707f6a2f",
-    "DiscourseGraph/EVD - Paper assessment reversed when eminent authorship revealed (Rayleigh anecdote) - @mertonMatthewEffectScience1968.md.tmp.8232.916dce115ff8",
-    "DiscourseGraph/EVD - HHMI citation boost limited to articles published one year before appointment - @azoulayMatthewEffectFable2014.md.tmp.8232.f2b9885c9668",
-    "DiscourseGraph/EVD - HHMI citation boost falls substantially with article-level quality controls - @azoulayMatthewEffectFable2014.md.tmp.8232.6e7ae130e653",
-    "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md",
-    "DiscourseGraph/EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008.md",
-    "DiscourseGraph/EVD - HHMI citation boost concentrated on novel and cross-disciplinary articles - @azoulayMatthewEffectFable2014.md",
-    "DiscourseGraph/CLM - umulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
+    "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
+    "Bases/Sources.base",
+    "DiscourseGraph/@directquote-that guy on the bridge.md",
+    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "DiscourseGraph/swallowspeed.png",
+    "DiscourseGraph/swallow-move.png",
+    "DiscourseGraph/image.png",
+    "DiscourseGraph/birdmath.png",
+    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
+    "DiscourseGraph/@wangScienceScience2021.md",
+    "DiscourseGraph/merton.png",
+    "DiscourseGraph/sci-sci.png",
+    "DiscourseGraph/@azoulay2012Matthew.md",
+    "DiscourseGraph/@sirLancelot.md",
+    "DiscourseGraph/@sirbelvedere.md",
+    "DiscourseGraph/@king_arthur.md",
+    "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
+    "DECISIONS.md.tmp.1133.4f5f825c8ed8",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg",
     "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
-    "DiscourseGraph/CLM - The true causal effect of scientist status on citation rates is small and temporally limited.md",
+    "Bases/Experiments.base",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md",
+    "Bases/Sources.base.tmp.1133.b22d204927e7",
+    "Bases/Sources.base.tmp.1133.0caffc283af1",
+    "Meta/Templates/Set cover from first image.md",
+    "Meta/Templates/Set cover from first image.md.tmp.1133.70cd26ab4922",
+    "DiscourseGraph/@wangScienceScience2021.md.tmp.1133.7a9353ba84ec",
+    "DiscourseGraph/@mertonMatthewEffectScience1968.md.tmp.1133.ad6a6c87d96f",
+    "DiscourseGraph/@azoulaynber.md.tmp.1133.e21c26061932",
+    "Daily Notes/2026-05-08.md",
+    "DiscourseGraph/@azoulaynber.md",
+    "Daily Notes/2026-05-07.md",
+    "Daily Notes/2026-05-06.md",
+    "Daily Notes/2026-05-05.md",
+    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
+    "relational valence analysis.md",
+    "DiscourseGraph/EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008 1.md",
+    "DiscourseGraph/relational valence analysis.md",
+    "DiscourseGraph/EVD - Equally productive scientists at lesser universities gain recognition less often - @mertonMatthewEffectScience1968.md",
     "Discourse Graph Sandbox/Guides/card-cat.png",
     "Discourse Graph Sandbox/Guides/image.png",
     "Discourse Graph Sandbox/Guides/iss-exp.png",
-    "Discourse Graph Sandbox/Guides/create-exp02.png",
-    "Discourse Graph Sandbox/Guides/create-exp01.png",
-    "Discourse Graph Sandbox/Guides/example-exp01.png",
-    "Meta/Attachments/discourse-relations.png",
-    "Meta/Attachments/rel04.png",
-    "Discourse Graph Sandbox/Guides/rel04.png",
-    "Meta/Attachments/que-template.png",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

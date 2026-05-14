@@ -1,6 +1,7 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
 tags:
+  - matthew_effect
 cssclasses: dg-evd
 centrality:
 nodeInstanceId: 019df250-5c4c-7d84-9c21-fc7671ed3ff3

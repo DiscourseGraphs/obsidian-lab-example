@@ -14,8 +14,8 @@ nodeInstanceId: 019dde98-5839-7354-a5eb-e5e090752e0b
 
 ![[swallow phylo.jpg|350]]
  
- [@dorPhylogenyGenusHirundo2010]
-[@schieldPhylogenyHistoricalBiogeography2024]
+ [[@dorPhylogenyGenusHirundo2010]]
+[[@schieldPhylogenyHistoricalBiogeography2024]]
 # Grounding Context
 
 Well-resolved phylogeny of the swallow family using genome-wide UCE data.

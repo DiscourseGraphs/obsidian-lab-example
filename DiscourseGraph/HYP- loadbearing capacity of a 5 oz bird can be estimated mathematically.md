@@ -15,14 +15,14 @@ aliases:
 >[!info]-
 > The points below can be turned into Evidence nodes later, as the Hypothesis is refined.
 
-- Supported by power curve derivation in [@pennycuickPowerRequirementsHorizontal1968]
-- Supported by [@pennycuickBirdFlightPerformance1989]
-- Supported by lift ≈ 6× muscle mass calc in  [@mardenMaximumLiftProduction1987]
-- Supported by optimal speed model in [@hedenstromOptimalFlightSpeed1995]
+- Supported by power curve derivation in [[@pennycuickPowerRequirementsHorizontal1968]]
+- Supported by [[@pennycuickBirdFlightPerformance1989]]
+- Supported by lift ≈ 6× muscle mass calc in  [[@mardenMaximumLiftProduction1987]]
+- Supported by optimal speed model in [[@hedenstromOptimalFlightSpeed1995]]
 
 # Context
 
-- h/t conversation with [[@sirLancelot]]
+- h/t conversation with [[[@sirLancelot]]]
 
 # Requests for Experiments
 

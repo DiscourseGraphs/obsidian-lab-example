@@ -1,0 +1,56 @@
+properties:
+  cssclasses:
+    displayName: Type
+  source:
+    displayName: Source
+  tags:
+    displayName: Tags
+  cover:
+    displayName: Cover
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - dg_type == "Source"
+    order:
+      - cover
+      - tags
+      - file.name
+    sort:
+      - property: tags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cover: cover
+    image: note.cover
+  - type: table
+    name: Matthew effect
+    filters:
+      and:
+        - file.hasProperty("source")
+        - file.tags.contains("#matthew_effect")
+    order:
+      - cssclasses
+      - file.name
+      - source
+    sort:
+      - property: cssclasses
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Avian biomechanics
+    filters:
+      and:
+        - file.hasProperty("source")
+        - file.tags.contains("#avian_biomechanics")
+    order:
+      - cssclasses
+      - file.name
+      - source
+    sort:
+      - property: cssclasses
+        direction: ASC
+      - property: file.name
+        direction: ASC

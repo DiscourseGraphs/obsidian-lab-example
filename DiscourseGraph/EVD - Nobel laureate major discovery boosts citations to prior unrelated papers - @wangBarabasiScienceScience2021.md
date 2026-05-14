@@ -1,5 +1,7 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
+tags:
+  - "#matthew_effect"
 cssclasses: dg-evd
 NodeFormality: draft
 aliases:

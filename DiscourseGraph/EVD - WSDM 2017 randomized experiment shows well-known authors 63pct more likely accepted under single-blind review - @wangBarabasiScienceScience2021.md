@@ -1,10 +1,13 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
+tags:
+  - "#matthew_effect"
 cssclasses: dg-evd
 NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e258d-7d75-7bc9-b320-9667246e5408
 ---
 A randomized experiment at the 2017 WSDM computer science conference found that well-known authors were 63% more likely to have papers accepted under single-blind than double-blind review; top-university authors were 58% more likely; authors from Google, Facebook, or Microsoft were 110% more likely.
 

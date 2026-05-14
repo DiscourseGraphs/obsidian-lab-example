@@ -18,17 +18,19 @@ dg_type: Source
 keywords: ""
 rating: 3
 citekey: analysis - determine flight capacity of H rustica under load empirically
+cover: "[[windtunnel.PNG]]"
 ---
 
 # Resources
 
 ### Key References
 
-[[@mardenMaximumLiftProduction1987]
+[[[@mardenMaximumLiftProduction1987]]
 
-[@kvistCarryingLargeFuel2001]
+[[@kvistCarryingLargeFuel2001]]
 
-[@parkFlightKinematicsBarn2001]
+[[@parkFlightKinematicsBarn2001]]
+
 
 ####  Experimental setup
 
@@ -97,7 +99,7 @@ return function AddLogEntry() {
 
 ### 2026-04-21
 
-- new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+- new Question from [[[@directquote-that guy on the bridge]]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
 >[!tip] This question  will eventually spawn a new research chain. Data gathered in the course of investigating this target question will bear on [[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]] - and spawn a counter-question that knocks the bridge troll off his feet
 
 ---

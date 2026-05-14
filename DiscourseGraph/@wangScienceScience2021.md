@@ -5,6 +5,7 @@ keywords: ""
 rating: 3
 tags:
   - dg/source
+  - "#matthew_effect"
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
 nodeInstanceId: 019df250-5c78-76eb-8da1-573c9373f249
 citekey: wangScienceScience2021
@@ -20,8 +21,12 @@ abstract: This is the first comprehensive overview of the 'science of science,' 
 zotero: zotero://select/library/items/K97G6DCK
 ---
 
+
+![alt text](sci-sci.png)
+
 ## Relevant Topics
 
+#matthew_effect 
 
 ## Relevant Questions
 

@@ -8,7 +8,9 @@ rating: 3
 tags:
   - dg/source
 citekey: king_arthur
+cover: "[[arthur.jpg]]"
 ---
+
 ![[arthur.jpg|200]]
 ## Relevant Topics
 
