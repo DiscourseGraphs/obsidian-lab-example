@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "d65b6cdd58e84189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@analysis - det Eur swallow's flight speed mathematically"
-            }
-          },
-          {
             "id": "7d23fe7c22db0b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
+              "title": "@biewenerBiomechanicsAvianFlight2022"
+            }
+          },
+          {
+            "id": "c4d1d99bdd26bdd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-08"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,29 +286,41 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d65b6cdd58e84189",
+  "active": "d0dac6a97d235c01",
   "lastOpenFiles": [
-    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
-    "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
-    "Bases/Sources.base",
-    "DiscourseGraph/@directquote-that guy on the bridge.md",
+    "Discourse Graph Sandbox/Workflows/zot-search2.png",
+    "Discourse Graph Sandbox/Workflows/zot-search.png",
+    "Daily Notes/2026-04-08.md",
     "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "Bases/Sources.base",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "Discourse Canvas/Canvas-2026-05-14-1723.md",
+    "Daily Notes/2026-04-15.md",
+    "attachments",
+    "Discourse Graph Sandbox/Workflows/hover.png",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
+    "Meta/Templates/Source.md",
+    "Discourse Graph Sandbox/Workflows/zotsidian-settings.png",
+    "Discourse Graph Sandbox/Workflows/image.png",
+    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
+    "Discourse Graph Sandbox/Workflows/obama.png",
+    "Callouts.md",
+    "Discourse Graph Sandbox/Workflows/biblio.png",
+    "Discourse Graph Sandbox/Workflows/explore-exploit.png",
+    "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
+    "DiscourseGraph/@directquote-that guy on the bridge.md",
     "DiscourseGraph/swallowspeed.png",
     "DiscourseGraph/swallow-move.png",
     "DiscourseGraph/image.png",
-    "DiscourseGraph/birdmath.png",
     "DiscourseGraph/@mertonMatthewEffectScience1968.md",
     "DiscourseGraph/@wangScienceScience2021.md",
-    "DiscourseGraph/merton.png",
-    "DiscourseGraph/sci-sci.png",
     "DiscourseGraph/@azoulay2012Matthew.md",
     "DiscourseGraph/@sirLancelot.md",
     "DiscourseGraph/@sirbelvedere.md",
     "DiscourseGraph/@king_arthur.md",
     "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
     "DECISIONS.md.tmp.1133.4f5f825c8ed8",
-    "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg",
     "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
     "Bases/Experiments.base",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
@@ -319,20 +331,9 @@
     "Meta/Templates/Set cover from first image.md.tmp.1133.70cd26ab4922",
     "DiscourseGraph/@wangScienceScience2021.md.tmp.1133.7a9353ba84ec",
     "DiscourseGraph/@mertonMatthewEffectScience1968.md.tmp.1133.ad6a6c87d96f",
-    "DiscourseGraph/@azoulaynber.md.tmp.1133.e21c26061932",
     "Daily Notes/2026-05-08.md",
     "DiscourseGraph/@azoulaynber.md",
     "Daily Notes/2026-05-07.md",
-    "Daily Notes/2026-05-06.md",
-    "Daily Notes/2026-05-05.md",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
-    "relational valence analysis.md",
-    "DiscourseGraph/EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008 1.md",
-    "DiscourseGraph/relational valence analysis.md",
-    "DiscourseGraph/EVD - Equally productive scientists at lesser universities gain recognition less often - @mertonMatthewEffectScience1968.md",
-    "Discourse Graph Sandbox/Guides/card-cat.png",
-    "Discourse Graph Sandbox/Guides/image.png",
-    "Discourse Graph Sandbox/Guides/iss-exp.png",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

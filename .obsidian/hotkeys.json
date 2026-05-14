@@ -41,5 +41,22 @@
       ],
       "key": "\\"
     }
+  ],
+  "discourse-graphs:create-discourse-graph-canvas": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "zotsidian:open-zotero-search-panel": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }
