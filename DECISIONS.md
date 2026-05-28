@@ -479,3 +479,14 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[EVD - Sources.base card view uses `cover: cover` and `image: note.cover` to display the property as the card image, confirmed by linter rewrite of the base file after creation.]]**
 
 **[[RES - Created Meta/Templates/Set cover from first image.md as a Templater command script. Sources.base card view updated with `cover: cover` and `image: note.cover`. Run via command palette on any open file that contains an embedded image.]]**
+
+---
+
+## 2026-05-15 — Tag Mentions Log on Source pages
+
+**[[HYP - Source pages should automatically display other vault notes that share the same topic tags listed in their frontmatter.]]**
+
+**[[CLM - A DatacoreJSX block reading `current.$frontmatter.tags` and querying `p.$tags` across all pages gives a live, per-tag index of co-tagged notes without requiring any manual upkeep.]]**
+**[[CLM - Structural tags (those starting with `dg/`) must be excluded so the log surfaces only meaningful topic tags like `#matthew_effect` or `#avian_biomechanics`.]]**
+
+**[[RES - Added a "Tag Mentions Log" section at the bottom of the Source template and all 15 existing source pages; the DatacoreJSX block groups matching notes under each topic tag heading.]]**

@@ -8,7 +8,7 @@ Discourse graphs turn literature synthesis into a **question-directed activity**
 
 There's a bit of a chicken-and-egg problem here, as engaging in question-driven analysis of the literature first requires the development of a question, which usually involves at least some loosely-directed exploration.  Discourse graphs accommodate both phases of the explore/exploit curve.
 
-![explore/exploit curve](explore-exploit.png)
+![explore/exploit curve|300](explore-exploit.png)
 
 ## Building your library of sources
 
@@ -30,22 +30,44 @@ This example vault uses [Zotsidian](https://github.com/Qiwei-Zhao/zotsidian), a 
 - [Install Zotsidian](https://github.com/Qiwei-Zhao/zotsidian#install-from-github-release) and enable the plugin 
 - check your plugin settings:
 ![alt text](zotsidian-settings.png)
--how to format citations (use `[[double brackets]]` if you want sources to be wikilinked immediately )
-- where to store newly-created source nodes
-- which template to use
-- whether to show a hover-over infobox when a citation is imported
+
+These settings control:
+	
+    -   how to format citations (use `[[double brackets]]` if you want sources to be wiki- linked immediately )
+    -   where to store newly-created source nodes
+    -   which template to use
+    -   whether to show a hover-over infobox when a citation is imported
+
 ![hover card](hover.png)
-#clm-candidate The hovercard is useful when you're creating a lot of Source pages at once but can interfere with other mouse-over operations. 
+
+>[!tip] #clm-candidate The hovercard is useful when you're creating a lot of Source pages at once but can interfere with other mouse-over operations. 
 
 In this vault the hotkey `Ctrl-Shift-Y` opens a search panel that you can use to search for references in your Zotero library.
 
-![zotsidian search](zot-search.png)
+![zotsidian search|300](zot-search.png)
 
 You can also search inline by  typing "@..." which will autocomplete with your zotero references after 2 letters.
 
-![inline search](zot-search2.png)
+![inline search|300](zot-search2.png)
 
 ## Synthesis workflows
+
+At the outset of the _exploration_ phase, you probably have a topic in mind, or an assertion vaguely in the shape of a question/hypothesis that needs further refinement. You may be reading the literature to understand prior art on the topic. At this point, before a Question or Project has coalesced,  some users like to take notes on their **Daily Notes Page**, in the **Media Log**:
+
+![alt text](merton-que.PNG)
+
+> [!info] As long as you use wikilink syntax (`[[mertonMatthewEffectScience1968]]`) the notes you make here  will be referenced at the bottom of the appropriate Source page so that you can find them later. ![alt text](merton-mentions.PNG)
+
+The Media Log provides a low-overhead way of taking quick notes that can later be converted to structured note-taking.
+
+Reflecting on your reading might inspire you to develop a  Question of your own: 
+
+![que-candidate](reader-que.PNG)
+
+After further reading, you're ready to formalize this as the Question driving your literature review:
+
+![formalize q](reader-que02.PNG)
+
 
 
 ### EVD and CLM mining

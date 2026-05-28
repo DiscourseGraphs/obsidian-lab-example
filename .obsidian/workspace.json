@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+                "file": "DiscourseGraph/CLM - European and African swallows are a single species.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@analysis - measure flight capacity of H rustica under load"
-            }
-          },
-          {
-            "id": "7d23fe7c22db0b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@biewenerBiomechanicsAvianFlight2022"
-            }
-          },
-          {
-            "id": "c4d1d99bdd26bdd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-04-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-08"
+              "title": "CLM - European and African swallows are a single species"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#res-candidate",
+                "query": "tag:#hyp-candia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,13 +214,109 @@
               "icon": "telescope",
               "title": "Discourse context"
             }
+          },
+          {
+            "id": "93afa0afb7a9b317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "@mardenMaximumLiftProduction1987"
+            }
+          },
+          {
+            "id": "85bdf6b634094365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "@analysis - measure flight capacity of H rustica under load"
+            }
+          },
+          {
+            "id": "72bd46cf9448517f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - African or European?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - African or European?"
+            }
+          },
+          {
+            "id": "c34850cf0f9c95e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - African or European?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - African or European?"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,54 +333,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0dac6a97d235c01",
+  "active": "e040d77f38866ac0",
   "lastOpenFiles": [
-    "Discourse Graph Sandbox/Workflows/zot-search2.png",
-    "Discourse Graph Sandbox/Workflows/zot-search.png",
-    "Daily Notes/2026-04-08.md",
-    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-    "Bases/Sources.base",
-    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-    "Discourse Canvas/Canvas-2026-05-14-1723.md",
-    "Daily Notes/2026-04-15.md",
-    "attachments",
-    "Discourse Graph Sandbox/Workflows/hover.png",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
-    "Meta/Templates/Source.md",
-    "Discourse Graph Sandbox/Workflows/zotsidian-settings.png",
-    "Discourse Graph Sandbox/Workflows/image.png",
-    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
-    "Discourse Graph Sandbox/Workflows/obama.png",
-    "Callouts.md",
-    "Discourse Graph Sandbox/Workflows/biblio.png",
-    "Discourse Graph Sandbox/Workflows/explore-exploit.png",
-    "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
-    "DiscourseGraph/@directquote-that guy on the bridge.md",
-    "DiscourseGraph/swallowspeed.png",
-    "DiscourseGraph/swallow-move.png",
-    "DiscourseGraph/image.png",
-    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
-    "DiscourseGraph/@wangScienceScience2021.md",
-    "DiscourseGraph/@azoulay2012Matthew.md",
-    "DiscourseGraph/@sirLancelot.md",
-    "DiscourseGraph/@sirbelvedere.md",
-    "DiscourseGraph/@king_arthur.md",
     "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
-    "DECISIONS.md.tmp.1133.4f5f825c8ed8",
-    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
-    "Bases/Experiments.base",
+    "DiscourseGraph/EVD - Equally productive scientists at lesser universities gain recognition less often - @mertonMatthewEffectScience1968.md",
+    "DiscourseGraph/CLM - Naive citation count comparisons substantially overstate true status effects due to conflation with article quality.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "King Arthur - Sir Belvedere sync.md",
+    "DiscourseGraph/QUE - African or European?.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "DiscourseGraph/QUE - what am I even doing here?.md",
+    "Daily Notes/2026-05-27.md",
+    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
+    "DiscourseGraph/@analysis - det Eur swallow's flight speed mathematically.md",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Graph Sandbox/Guides/The discourse graph research loop.md",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "DiscourseGraph/@directquote-that guy on the bridge.md",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
-    "DiscourseGraph/CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions.md",
+    "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
+    "DiscourseGraph/EVD - HHMI citation boost limited to articles published one year before appointment - @azoulayMatthewEffectFable2014.md",
+    "Discourse Graph Sandbox/Workflows/merton-que.PNG",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "DiscourseGraph/EVD - Max lift per unit flight muscle mass ~ 54-63N-kg.md",
+    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
+    "DiscourseGraph/CLM - The true causal effect of scientist status on citation rates is small and temporally limited.md",
+    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+    "DECISIONS.md.tmp.10236.93de90f16a84",
+    "Discourse Graph Sandbox/Workflows/reader-que02.PNG",
+    "Discourse Graph Sandbox/Workflows/reader-que.PNG",
+    "Bases/Conclusions.base",
+    "Discourse Graph Sandbox/Workflows/image.png",
+    "Meta/Attachments/card-cat.png",
+    "Discourse Graph Sandbox/Workflows/merton-mentions.PNG",
+    "Hotkey tips.md.tmp.875.7e89a4b6e49a",
+    "Meta/Attachments/create-exp01.png",
+    "Meta/Attachments/zot-search2.png",
+    "Meta/Attachments/zot-search.png",
+    "Bases/Sources.base",
+    "attachments",
+    "Meta/Attachments/hover.png",
+    "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
+    "DECISIONS.md.tmp.1133.4f5f825c8ed8",
+    "Bases/Experiments.base",
     "Bases/Sources.base.tmp.1133.b22d204927e7",
     "Bases/Sources.base.tmp.1133.0caffc283af1",
-    "Meta/Templates/Set cover from first image.md",
-    "Meta/Templates/Set cover from first image.md.tmp.1133.70cd26ab4922",
-    "DiscourseGraph/@wangScienceScience2021.md.tmp.1133.7a9353ba84ec",
-    "DiscourseGraph/@mertonMatthewEffectScience1968.md.tmp.1133.ad6a6c87d96f",
-    "Daily Notes/2026-05-08.md",
-    "DiscourseGraph/@azoulaynber.md",
-    "Daily Notes/2026-05-07.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

@@ -45,7 +45,8 @@
   "discourse-graphs:create-discourse-graph-canvas": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "C"
     }

@@ -26,6 +26,796 @@
       "My Library": {
         "rows": [
           {
+            "id": "cameron2014brief",
+            "title": "A brief history of synthetic biology",
+            "meta": "Cameron (2014)",
+            "raw": {
+              "key": "ARC8QCJQ",
+              "version": 1126,
+              "itemType": "journalArticle",
+              "title": "A brief history of synthetic biology",
+              "abstractNote": "In this Timeline article, Collins and colleagues chart the history of synthetic biology since its inception just over a decade ago, with a focus on both the cultural and scientific progress that has been made as well as on key breakthroughs and areas for future development.",
+              "date": "2014-05",
+              "DOI": "10.1038/nrmicro3239",
+              "citationKey": "cameron2014brief",
+              "url": "https://www.nature.com/articles/nrmicro3239",
+              "accessDate": "2026-05-18T07:47:19Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2014 Springer Nature Limited",
+              "volume": "12",
+              "publisher": "Nature Publishing Group",
+              "pages": "381-390",
+              "publicationTitle": "Nature Reviews Microbiology",
+              "ISSN": "1740-1534",
+              "issue": "5",
+              "journalAbbreviation": "Nat Rev Microbiol",
+              "creators": [
+                {
+                  "firstName": "D. Ewen",
+                  "lastName": "Cameron",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Caleb J.",
+                  "lastName": "Bashor",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "James J.",
+                  "lastName": "Collins",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Synthetic biology",
+                  "type": 1
+                },
+                {
+                  "tag": "Genetic engineering",
+                  "type": 1
+                },
+                {
+                  "tag": "Bacterial synthetic biology",
+                  "type": 1
+                },
+                {
+                  "tag": "Biobricks",
+                  "type": 1
+                },
+                {
+                  "tag": "Metabolic engineering",
+                  "type": 1
+                },
+                {
+                  "tag": "Policy and public health in microbiology",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:47:19Z",
+              "dateModified": "2026-05-18T07:47:19Z",
+              "id": "cameron2014brief",
+              "citation-key": "cameron2014brief",
+              "itemKey": "ARC8QCJQ",
+              "zotero": "zotero://select/library/items/ARC8QCJQ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2014
+                  ]
+                ]
+              },
+              "year": "2014",
+              "container-title": "Nature Reviews Microbiology",
+              "container-title-short": "Nat Rev Microbiol",
+              "URL": "https://www.nature.com/articles/nrmicro3239"
+            }
+          },
+          {
+            "id": "elowitz2000synthetic",
+            "title": "A synthetic oscillatory network of transcriptional regulators",
+            "meta": "Elowitz (2000)",
+            "raw": {
+              "key": "2RKHKKPC",
+              "version": 1125,
+              "itemType": "journalArticle",
+              "title": "A synthetic oscillatory network of transcriptional regulators",
+              "abstractNote": "Networks of interacting biomolecules carry out many essential functions in living cells1, but the ‘design principles’ underlying the functioning of such intracellular networks remain poorly understood, despite intensive efforts including quantitative analysis of relatively simple systems2. Here we present a complementary approach to this problem: the design and construction of a synthetic network to implement a particular function. We used three transcriptional repressor systems that are not part of any natural biological clock3,4,5 to build an oscillating network, termed the repressilator, in Escherichia coli. The network periodically induces the synthesis of green fluorescent protein as a readout of its state in individual cells. The resulting oscillations, with typical periods of hours, are slower than the cell-division cycle, so the state of the oscillator has to be transmitted from generation to generation. This artificial clock displays noisy behaviour, possibly because of stochastic fluctuations of its components. Such ‘rational network design’ may lead both to the engineering of new cellular behaviours and to an improved understanding of naturally occurring networks.",
+              "date": "2000-01",
+              "DOI": "10.1038/35002125",
+              "citationKey": "elowitz2000synthetic",
+              "url": "https://www.nature.com/articles/35002125",
+              "accessDate": "2026-05-18T07:47:14Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2000 Macmillan Magazines Ltd.",
+              "volume": "403",
+              "publisher": "Nature Publishing Group",
+              "pages": "335-338",
+              "publicationTitle": "Nature",
+              "ISSN": "1476-4687",
+              "issue": "6767",
+              "creators": [
+                {
+                  "firstName": "Michael B.",
+                  "lastName": "Elowitz",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Stanislas",
+                  "lastName": "Leibler",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Humanities and Social Sciences",
+                  "type": 1
+                },
+                {
+                  "tag": "multidisciplinary",
+                  "type": 1
+                },
+                {
+                  "tag": "Science",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:47:14Z",
+              "dateModified": "2026-05-18T07:47:14Z",
+              "id": "elowitz2000synthetic",
+              "citation-key": "elowitz2000synthetic",
+              "itemKey": "2RKHKKPC",
+              "zotero": "zotero://select/library/items/2RKHKKPC",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2000
+                  ]
+                ]
+              },
+              "year": "2000",
+              "container-title": "Nature",
+              "URL": "https://www.nature.com/articles/35002125"
+            }
+          },
+          {
+            "id": "zhu2022synthetic",
+            "title": "Synthetic multistability in mammalian cells",
+            "meta": "Zhu (2022)",
+            "raw": {
+              "key": "ZULM2TLZ",
+              "version": 1124,
+              "itemType": "journalArticle",
+              "title": "Synthetic multistability in mammalian cells",
+              "abstractNote": "In multicellular organisms, gene regulatory circuits generate thousands of molecularly distinct, mitotically heritable states through the property of multistability. Designing synthetic multistable circuits would provide insight into natural cell fate control circuit architectures and would allow engineering of multicellular programs that require interactions among distinct cell types. We created MultiFate, a naturally inspired, synthetic circuit that supports long-term, controllable, and expandable multistability in mammalian cells. MultiFate uses engineered zinc finger transcription factors that transcriptionally self-activate as homodimers and mutually inhibit one another through heterodimerization. Using a model-based design, we engineered MultiFate circuits that generate as many as seven states, each stable for at least 18 days. MultiFate permits controlled state switching and modulation of state stability through external inputs and can be expanded with additional transcription factors. These results provide a foundation for engineering multicellular behaviors in mammalian cells.",
+              "date": "2022-01-21",
+              "DOI": "10.1126/science.abg9765",
+              "citationKey": "zhu2022synthetic",
+              "url": "https://www.science.org/doi/10.1126/science.abg9765",
+              "accessDate": "2026-05-18T07:47:10Z",
+              "libraryCatalog": "science.org (Atypon)",
+              "volume": "375",
+              "publisher": "American Association for the Advancement of Science",
+              "pages": "eabg9765",
+              "publicationTitle": "Science",
+              "issue": "6578",
+              "creators": [
+                {
+                  "firstName": "Ronghui",
+                  "lastName": "Zhu",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jesus M.",
+                  "lastName": "del Rio-Salgado",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jordi",
+                  "lastName": "Garcia-Ojalvo",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Michael B.",
+                  "lastName": "Elowitz",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:47:10Z",
+              "dateModified": "2026-05-18T07:47:10Z",
+              "id": "zhu2022synthetic",
+              "citation-key": "zhu2022synthetic",
+              "itemKey": "ZULM2TLZ",
+              "zotero": "zotero://select/library/items/ZULM2TLZ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022",
+              "container-title": "Science",
+              "URL": "https://www.science.org/doi/10.1126/science.abg9765"
+            }
+          },
+          {
+            "id": "roybal2016engineering",
+            "title": "Engineering T Cells with Customized Therapeutic Response Programs Using Synthetic Notch Receptors",
+            "meta": "Roybal (2016)",
+            "raw": {
+              "key": "27AK4N4B",
+              "version": 1123,
+              "itemType": "journalArticle",
+              "title": "Engineering T Cells with Customized Therapeutic Response Programs Using Synthetic Notch Receptors",
+              "date": "2016-10-06",
+              "DOI": "10.1016/j.cell.2016.09.011",
+              "citationKey": "roybal2016engineering",
+              "url": "https://www.cell.com/cell/abstract/S0092-8674(16)31244-2",
+              "accessDate": "2026-05-18T07:46:41Z",
+              "language": "English",
+              "libraryCatalog": "www.cell.com",
+              "volume": "167",
+              "publisher": "Elsevier",
+              "pages": "419-432.e16",
+              "publicationTitle": "Cell",
+              "ISSN": "0092-8674, 1097-4172",
+              "issue": "2",
+              "journalAbbreviation": "Cell",
+              "PMID": "27693353",
+              "creators": [
+                {
+                  "firstName": "Kole T.",
+                  "lastName": "Roybal",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jasper Z.",
+                  "lastName": "Williams",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Leonardo",
+                  "lastName": "Morsut",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Levi J.",
+                  "lastName": "Rupp",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Isabel",
+                  "lastName": "Kolinko",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Joseph H.",
+                  "lastName": "Choe",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Whitney J.",
+                  "lastName": "Walker",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Krista A.",
+                  "lastName": "McNally",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Wendell A.",
+                  "lastName": "Lim",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "cancer",
+                  "type": 1
+                },
+                {
+                  "tag": "CARs",
+                  "type": 1
+                },
+                {
+                  "tag": "cellular engineering",
+                  "type": 1
+                },
+                {
+                  "tag": "immunotherapy",
+                  "type": 1
+                },
+                {
+                  "tag": "synthetic biology",
+                  "type": 1
+                },
+                {
+                  "tag": "synthetic Notch",
+                  "type": 1
+                },
+                {
+                  "tag": "T cells",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:46:41Z",
+              "dateModified": "2026-05-18T07:46:41Z",
+              "id": "roybal2016engineering",
+              "citation-key": "roybal2016engineering",
+              "itemKey": "27AK4N4B",
+              "zotero": "zotero://select/library/items/27AK4N4B",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2016
+                  ]
+                ]
+              },
+              "year": "2016",
+              "container-title": "Cell",
+              "container-title-short": "Cell",
+              "URL": "https://www.cell.com/cell/abstract/S0092-8674(16)31244-2"
+            }
+          },
+          {
+            "id": "stevens2023programming",
+            "title": "Programming multicellular assembly with synthetic cell adhesion molecules",
+            "meta": "Stevens (2023)",
+            "raw": {
+              "key": "E5BC9SUN",
+              "version": 1122,
+              "itemType": "journalArticle",
+              "title": "Programming multicellular assembly with synthetic cell adhesion molecules",
+              "abstractNote": "Cell adhesion molecules are ubiquitous in multicellular organisms, specifying precise cell–cell interactions in processes as diverse as tissue development, immune cell trafficking and the wiring of the nervous system1–4. Here we show that a wide array of synthetic cell adhesion molecules can be generated by combining orthogonal extracellular interactions with intracellular domains from native adhesion molecules, such as cadherins and integrins. The resulting molecules yield customized cell–cell interactions with adhesion properties that are similar to native interactions. The identity of the intracellular domain of the synthetic cell adhesion molecules specifies interface morphology and mechanics, whereas diverse homotypic or heterotypic extracellular interaction domains independently specify the connectivity between cells. This toolkit of orthogonal adhesion molecules enables the rationally programmed assembly of multicellular architectures, as well as systematic remodelling of native tissues. The modularity of synthetic cell adhesion molecules provides fundamental insights into how distinct classes of cell–cell interfaces may have evolved. Overall, these tools offer powerful abilities for cell and tissue engineering and for systematically studying multicellular organization.",
+              "date": "2023-02",
+              "DOI": "10.1038/s41586-022-05622-z",
+              "citationKey": "stevens2023programming",
+              "url": "https://www.nature.com/articles/s41586-022-05622-z",
+              "accessDate": "2026-05-18T07:46:24Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2022 The Author(s)",
+              "volume": "614",
+              "publisher": "Nature Publishing Group",
+              "pages": "144-152",
+              "publicationTitle": "Nature",
+              "ISSN": "1476-4687",
+              "issue": "7946",
+              "creators": [
+                {
+                  "firstName": "Adam J.",
+                  "lastName": "Stevens",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Andrew R.",
+                  "lastName": "Harris",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Josiah",
+                  "lastName": "Gerdts",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Ki H.",
+                  "lastName": "Kim",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Coralie",
+                  "lastName": "Trentesaux",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jonathan T.",
+                  "lastName": "Ramirez",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Wesley L.",
+                  "lastName": "McKeithan",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Faranak",
+                  "lastName": "Fattahi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Ophir D.",
+                  "lastName": "Klein",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Daniel A.",
+                  "lastName": "Fletcher",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Wendell A.",
+                  "lastName": "Lim",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Synthetic biology",
+                  "type": 1
+                },
+                {
+                  "tag": "Integrins",
+                  "type": 1
+                },
+                {
+                  "tag": "Cadherins",
+                  "type": 1
+                },
+                {
+                  "tag": "Protein engineering",
+                  "type": 1
+                },
+                {
+                  "tag": "Tissue engineering",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:46:24Z",
+              "dateModified": "2026-05-18T07:46:24Z",
+              "id": "stevens2023programming",
+              "citation-key": "stevens2023programming",
+              "itemKey": "E5BC9SUN",
+              "zotero": "zotero://select/library/items/E5BC9SUN",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2023
+                  ]
+                ]
+              },
+              "year": "2023",
+              "container-title": "Nature",
+              "URL": "https://www.nature.com/articles/s41586-022-05622-z"
+            }
+          },
+          {
+            "id": "santorelli2024control",
+            "title": "Control of spatio-temporal patterning via cell growth in a multicellular synthetic gene circuit",
+            "meta": "Santorelli (2024)",
+            "raw": {
+              "key": "X542MP2X",
+              "version": 1121,
+              "itemType": "journalArticle",
+              "title": "Control of spatio-temporal patterning via cell growth in a multicellular synthetic gene circuit",
+              "abstractNote": "A major goal in synthetic development is to build gene regulatory circuits that control patterning. In natural development, an interplay between mechanical and chemical communication shapes the dynamics of multicellular gene regulatory circuits. For synthetic circuits, how non-genetic properties of the growth environment impact circuit behavior remains poorly explored. Here, we first describe an occurrence of mechano-chemical coupling in synthetic Notch (synNotch) patterning circuits: high cell density decreases synNotch-gated gene expression in different cellular systems in vitro. We then construct, both in vitro and in silico, a synNotch-based signal propagation circuit whose outcome can be regulated by cell density. Spatial and temporal patterning outcomes of this circuit can be predicted and controlled via modulation of cell proliferation, initial cell density, and/or spatial distribution of cell density. Our work demonstrates that synthetic patterning circuit outcome can be controlled via cellular growth, providing a means for programming multicellular circuit patterning outcomes.",
+              "date": "2024-11-19",
+              "DOI": "10.1038/s41467-024-53078-8",
+              "citationKey": "santorelli2024control",
+              "url": "https://www.nature.com/articles/s41467-024-53078-8",
+              "accessDate": "2026-05-18T07:46:03Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2024 The Author(s)",
+              "volume": "15",
+              "publisher": "Nature Publishing Group",
+              "pages": "9867",
+              "publicationTitle": "Nature Communications",
+              "ISSN": "2041-1723",
+              "issue": "1",
+              "journalAbbreviation": "Nat Commun",
+              "creators": [
+                {
+                  "firstName": "Marco",
+                  "lastName": "Santorelli",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Pranav S.",
+                  "lastName": "Bhamidipati",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Josquin",
+                  "lastName": "Courte",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Benjamin",
+                  "lastName": "Swedlund",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Naisargee",
+                  "lastName": "Jain",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Kyle",
+                  "lastName": "Poon",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dominik",
+                  "lastName": "Schildknecht",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Andriu",
+                  "lastName": "Kavanagh",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Victoria A.",
+                  "lastName": "MacKrell",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Trusha",
+                  "lastName": "Sondkar",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mattias",
+                  "lastName": "Malaguti",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Giorgia",
+                  "lastName": "Quadrato",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Sally",
+                  "lastName": "Lowell",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Matt",
+                  "lastName": "Thomson",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Leonardo",
+                  "lastName": "Morsut",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Synthetic biology",
+                  "type": 1
+                },
+                {
+                  "tag": "Genetic circuit engineering",
+                  "type": 1
+                },
+                {
+                  "tag": "Pattern formation",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:46:03Z",
+              "dateModified": "2026-05-18T07:46:03Z",
+              "id": "santorelli2024control",
+              "citation-key": "santorelli2024control",
+              "itemKey": "X542MP2X",
+              "zotero": "zotero://select/library/items/X542MP2X",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "container-title": "Nature Communications",
+              "container-title-short": "Nat Commun",
+              "URL": "https://www.nature.com/articles/s41467-024-53078-8"
+            }
+          },
+          {
+            "id": "sloas2023tensiontuned",
+            "title": "Tension-tuned receptors for synthetic mechanotransduction and intercellular force detection",
+            "meta": "Sloas (2023)",
+            "raw": {
+              "key": "4CAM6V4C",
+              "version": 1120,
+              "itemType": "journalArticle",
+              "title": "Tension-tuned receptors for synthetic mechanotransduction and intercellular force detection",
+              "abstractNote": "Cells interpret mechanical stimuli from their environments and neighbors, but the ability to engineer customized mechanosensing capabilities has remained a synthetic and mechanobiology challenge. Here we introduce tension-tuned synthetic Notch (SynNotch) receptors to convert extracellular and intercellular forces into specifiable gene expression changes. By elevating the tension requirements of SynNotch activation, in combination with structure-guided mutagenesis, we designed a set of receptors with mechanical sensitivities spanning the physiologically relevant picoNewton range. Cells expressing these receptors can distinguish between varying tensile forces and respond by enacting customizable transcriptional programs. We applied these tools to design a decision-making circuit, through which fibroblasts differentiate into myoblasts upon stimulation with distinct tension magnitudes. We also characterize cell-generated forces transmitted between cells during Notch signaling. Overall, this work provides insight into how mechanically induced changes in protein structure can be used to transduce physical forces into biochemical signals. The system should facilitate the further programming and dissection of force-related phenomena in biological systems.",
+              "date": "2023-09",
+              "DOI": "10.1038/s41587-022-01638-y",
+              "citationKey": "sloas2023tensiontuned",
+              "url": "https://www.nature.com/articles/s41587-022-01638-y",
+              "accessDate": "2026-05-18T07:45:52Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2023 The Author(s), under exclusive licence to Springer Nature America, Inc.",
+              "volume": "41",
+              "publisher": "Nature Publishing Group",
+              "pages": "1287-1295",
+              "publicationTitle": "Nature Biotechnology",
+              "ISSN": "1546-1696",
+              "issue": "9",
+              "journalAbbreviation": "Nat Biotechnol",
+              "creators": [
+                {
+                  "firstName": "D. Christopher",
+                  "lastName": "Sloas",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jeremy C.",
+                  "lastName": "Tran",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Alexander M.",
+                  "lastName": "Marzilli",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "John T.",
+                  "lastName": "Ngo",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Single-molecule biophysics",
+                  "type": 1
+                },
+                {
+                  "tag": "Synthetic biology",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:45:52Z",
+              "dateModified": "2026-05-18T07:45:52Z",
+              "id": "sloas2023tensiontuned",
+              "citation-key": "sloas2023tensiontuned",
+              "itemKey": "4CAM6V4C",
+              "zotero": "zotero://select/library/items/4CAM6V4C",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2023
+                  ]
+                ]
+              },
+              "year": "2023",
+              "container-title": "Nature Biotechnology",
+              "container-title-short": "Nat Biotechnol",
+              "URL": "https://www.nature.com/articles/s41587-022-01638-y"
+            }
+          },
+          {
+            "id": "mizuno2024robust",
+            "title": "Robust tissue pattern formation by coupling morphogen signal and cell adhesion",
+            "meta": "Mizuno (2024)",
+            "raw": {
+              "key": "ESY3KTHZ",
+              "version": 1119,
+              "itemType": "journalArticle",
+              "title": "Robust tissue pattern formation by coupling morphogen signal and cell adhesion",
+              "abstractNote": "Morphogens, locally produced signaling molecules, form a concentration gradient to guide tissue patterning. Tissue patterns emerge as a collaboration between morphogen diffusion and responsive cell behaviors, but the mechanisms through which diffusing morphogens define precise spatial patterns amidst biological fluctuations remain unclear. To investigate how cells respond to diffusing proteins to generate tissue patterns, we develop SYMPLE3D, a 3D culture platform. By engineering gene expression responsive to artificial morphogens, we observe that coupling morphogen signals with cadherin-based adhesion is sufficient to convert a morphogen gradient into distinct tissue domains. Morphogen-induced cadherins gather activated cells into a single domain, removing ectopically activated cells. In addition, we reveal a switch-like induction of cadherin-mediated compaction and cell mixing, homogenizing activated cells within the morphogen gradient to form a uniformly activated domain with a sharp boundary. These findings highlight the cooperation between morphogen gradients and cell adhesion in robust tissue patterning and introduce a novel method for tissue engineering to develop new tissue domains in organoids.",
+              "date": "2024-11-01",
+              "DOI": "10.1038/s44319-024-00261-z",
+              "citationKey": "mizuno2024robust",
+              "url": "https://doi.org/10.1038/s44319-024-00261-z",
+              "accessDate": "2026-05-18T07:45:49Z",
+              "language": "en",
+              "libraryCatalog": "Springer Link",
+              "volume": "25",
+              "pages": "4803-4826",
+              "publicationTitle": "EMBO Reports",
+              "ISSN": "1469-3178",
+              "issue": "11",
+              "journalAbbreviation": "EMBO Rep",
+              "creators": [
+                {
+                  "firstName": "Kosuke",
+                  "lastName": "Mizuno",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Tsuyoshi",
+                  "lastName": "Hirashima",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Satoshi",
+                  "lastName": "Toda",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Cell Adhesion",
+                  "type": 1
+                },
+                {
+                  "tag": "Cadherin",
+                  "type": 1
+                },
+                {
+                  "tag": "Morphogen",
+                  "type": 1
+                },
+                {
+                  "tag": "Pattern Formation",
+                  "type": 1
+                },
+                {
+                  "tag": "Synthetic Biology",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "2BAPUXIT"
+              ],
+              "relations": {},
+              "dateAdded": "2026-05-18T07:45:49Z",
+              "dateModified": "2026-05-18T07:45:49Z",
+              "id": "mizuno2024robust",
+              "citation-key": "mizuno2024robust",
+              "itemKey": "ESY3KTHZ",
+              "zotero": "zotero://select/library/items/ESY3KTHZ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "container-title": "EMBO Reports",
+              "container-title-short": "EMBO Rep",
+              "URL": "https://doi.org/10.1038/s44319-024-00261-z"
+            }
+          },
+          {
             "id": "mcrtonMatthewEffect0m",
             "title": "Matthew Effect on Science",
             "meta": "Merton",
@@ -5655,7 +6445,7 @@
             }
           }
         ],
-        "cachedAt": 1778791772402,
+        "cachedAt": 1779911645843,
         "source": "local-api"
       }
     }
