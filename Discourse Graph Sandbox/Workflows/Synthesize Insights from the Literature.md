@@ -8,6 +8,7 @@ Discourse graphs turn literature synthesis into a **question-directed activity**
 
 There's a bit of a chicken-and-egg problem here, as engaging in question-driven analysis of the literature first requires the development of a question, which usually involves at least some loosely-directed exploration.  Discourse graphs accommodate both phases of the explore/exploit curve.
 
+
 ![explore/exploit curve|300](explore-exploit.png)
 
 ## Building your library of sources
@@ -23,7 +24,7 @@ This example vault uses [Zotsidian](https://github.com/Qiwei-Zhao/zotsidian), a 
 
 ### Managing literature sources with Zotsidian
 
-- Make sure you have Zotero Desktop  ≥ 8 installed and running
+- Make sure you have Zotero Desktop ≥ 8 installed and running
     - In Zotero, go to `Settings / Preferences -> Advanced` and make sure `Allow other applications on this computer to communicate with Zotero` is enabled.
 - Make sure you have citekeys for the Zotero items you want to work with
     - Install the Better BibTeX (BBT) plugin from https://retorque.re/zotero-better-bibtex/ to automatically generate citekeys 
@@ -33,10 +34,10 @@ This example vault uses [Zotsidian](https://github.com/Qiwei-Zhao/zotsidian), a 
 
 These settings control:
 	
-    -   how to format citations (use `[[double brackets]]` if you want sources to be wiki- linked immediately )
-    -   where to store newly-created source nodes
-    -   which template to use
-    -   whether to show a hover-over infobox when a citation is imported
+-   how to format citations (use `[[double brackets]]` if you want sources to be wiki- linked immediately )
+-   where to store newly-created source nodes
+-   which template to use
+-   whether to show a hover-over infobox when a citation is imported
 
 ![hover card](hover.png)
 
@@ -52,6 +53,8 @@ You can also search inline by  typing "@..." which will autocomplete with your z
 
 ## Synthesis workflows
 
+![starting out|300](explore-exploit01.png)
+
 At the outset of the _exploration_ phase, you probably have a topic in mind, or an assertion vaguely in the shape of a question/hypothesis that needs further refinement. You may be reading the literature to understand prior art on the topic. At this point, before a Question or Project has coalesced,  some users like to take notes on their **Daily Notes Page**, in the **Media Log**:
 
 ![alt text](merton-que.PNG)
@@ -60,19 +63,35 @@ At the outset of the _exploration_ phase, you probably have a topic in mind, or 
 
 The Media Log provides a low-overhead way of taking quick notes that can later be converted to structured note-taking.
 
-Reflecting on your reading might inspire you to develop a  Question of your own: 
+Reflecting on your reading might inspire you to develop a few candidate questions of your own: 
 
 ![que-candidate](reader-que.PNG)
 
-After further reading, you're ready to formalize this as the Question driving your literature review:
+After further reading, you're ready to formalize one of these candidates as the Question driving your literature review:
 
 ![formalize q](reader-que02.PNG)
 
+Now you can read and revisit articles in light of your guiding question, and search for **Claims** _adressing_ the **Question** and **Evidence** _supporting_ those **Claims**.
 
+![](new-q.png)
+
+![moving along the curve](explore-exploit02.png)
 
 ### EVD and CLM mining
 
+As you read the literature, capture claims and evidence relevant to your Question. You can track them on the Question page itself, on the relevant Source page, or anywhere else in your graph -- as long as you tag relevant items with [[QUE - {your question}]], these mentions will be linked at the bottom of your Question page.
 
+![](med-log-ex.png)
+
+![](linked-men.png)
+
+
+## Integrating findings from the literature with your research
+
+The [[Using the Canvas|Discourse Canvas]] can be used to assemble your claims and evidence into an argument
+
+
+>[!tip] We're developing an LLM-assisted workflow for extracting claims & evidence from the literature. Join us on [Slack](https://join.slack.com/t/discoursegraphs/shared_invite/zt-37xklatti-cpEjgPQC0YyKYQWPNgAkEg) to learn more.
 
 ## What else would you like to do?
 

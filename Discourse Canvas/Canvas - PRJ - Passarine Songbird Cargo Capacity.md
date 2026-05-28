@@ -50,12 +50,12 @@ tldr-dg: true
 		},
 		"records": [
 			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 238.5,
-				"y": 80.796875,
-				"lastActivityTimestamp": 1779909806877,
-				"meta": {}
+				"typeName": "pointer"
 			},
 			{
 				"meta": {},
@@ -429,7 +429,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://561baf904f755b370ff0454f7bd16cff7851/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://9c02dd61065cc03a03211f4204fd258423de/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -528,7 +528,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://561baf904f755b370ff0454f7bd16cff7851/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://9c02dd61065cc03a03211f4204fd258423de/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -669,7 +669,7 @@ tldr-dg: true
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
-				"hoveredShapeId": "shape:3kNgqvvkPz_r_JHlb3nTZ",
+				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -968,7 +968,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://561baf904f755b370ff0454f7bd16cff7851/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
+					"imageSrc": "app://9c02dd61065cc03a03211f4204fd258423de/home/karola/obsidian-lab-example/Meta/Attachments/swallow%20phylo.jpg?1777551140619",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1442,7 +1442,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": false,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1642,7 +1642,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://561baf904f755b370ff0454f7bd16cff7851/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://9c02dd61065cc03a03211f4204fd258423de/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
 					"size": "m",
 					"fontFamily": "mono"
 				}

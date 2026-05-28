@@ -14,8 +14,8 @@ nodeInstanceId: 019df250-5c20-7d07-8390-c80fc669eb2c
 The Superstar Extinction paper provides an oblique but powerful argument for citations as a partial validity signal: the spillover effects from highly-cited scientists onto their collaborators are (a) real and large, (b) scale with citation count not funding, and (c) operate through intellectual proximity not physical/social proximity. This means the scientists who accumulate the most citations are generating knowledge that genuinely propagates to others' work — not merely gatekeeping resources or conferring social legitimacy.
 
 **Supporting evidence:**
-- [[EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008]] — dissociation between citation and funding predictors
-- [[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarcExtinction2008 1]] — real intellectual spillovers [[@azoulaynber]]
+- [[EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarExtinction2008]] — dissociation between citation and funding predictors
+- [[EVD - Superstar death causes 5-10pct decline in quality-adjusted publication output of collaborators - @azoulaySuperstarExtinction2008 ]] — real intellectual spillovers [[@azoulaynber]]
 
 **Key caveats:**
 - The sample is the scientific *elite* by definition (top 5% of life scientists by multiple criteria). The finding that citations track spillovers among superstars does not guarantee the same holds at lower status levels.

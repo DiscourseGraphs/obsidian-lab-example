@@ -43,3 +43,15 @@ Conversely, each Result in your graph should reference an Experiment.
 The Experiment also has a relationship with the **Issue** node, as Experiments _suggest/produce_ **Issues** that may later be developed into Experiments.
 
 ![iss-exp relations](iss-exp.png)
+
+## Transforming an Issue into an Experiment
+
+If you decide an Issue captures something worth doing, you can easily change it into an Experiment: the **Issue** template is identical to the **Experiment** template, so you can either duplicate the node and change the name and metadata to use your preferred EXP syntax (e.g. "@measurement -") or simply edit the title of the Issue in place.
+
+![issue example](iss-ex.png)
+
+
+## What else would you like to do?
+- [[Synthesize Insights from the Literature]]
+- [[Build and Utilize a Personal Knowledge Base]]
+- [[Share your Ideas and Research]]

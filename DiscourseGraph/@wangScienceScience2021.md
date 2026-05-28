@@ -7,7 +7,7 @@ tags:
   - dg/source
   - "#matthew_effect"
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId: 019df250-5c78-76eb-8da1-573c9373f249
+nodeInstanceId: 019e7015-e9fd-7e82-b98c-e1d2de086d66
 citekey: wangScienceScience2021
 title: The Science of Science
 zotero-key: K97G6DCK

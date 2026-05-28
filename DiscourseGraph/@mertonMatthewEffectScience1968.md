@@ -7,7 +7,7 @@ tags:
   - dg/source
   - "#matthew_effect"
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId: 019df250-5c78-76eb-8da1-573c9373f249
+nodeInstanceId: 019e700d-1168-7e65-abc7-6ac4285fe47a
 citekey: mertonMatthewEffectScience1968
 title: The Matthew Effect in Science
 zotero-key: X8SDBJKQ

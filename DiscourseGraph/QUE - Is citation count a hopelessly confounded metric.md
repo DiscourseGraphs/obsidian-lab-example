@@ -12,7 +12,14 @@ aliases:
 
 # Summary
 
+ >[!info] Restate and elaborate upon the question in a way that helps you to find & formulate relevant claims
+
+Citation count suffers from [[Goodhart's Law]]  and the [[Canvas-QUE-Matthew Effect]] as well as historical and present day inconsistency in its accuracy as a measure of researcher impact & productivity. Are these deficiencies overstated? Can they be overcome?
+![merton|300](merton-pdf.png)
+
 ## Related QUE/CLM/EVD
+
+> [!info] collect nodes relevant to this question that can be used to populate your discourse canvas
 
 ### EVD
 
@@ -46,10 +53,11 @@ aliases:
 [[CLM - Citations track genuine intellectual influence not merely social network position]]
 
 ## Testable Hypotheses
+>[!info]- Restate the question in the form of a testable hypothesis or set of hypotheses
+> ![](trebek.jpg)
 
-# WorkBench
 
-## Papers
+## Key Papers
 
 [[@azoulay2012Matthew]]
 [[@azoulay2012turn]]

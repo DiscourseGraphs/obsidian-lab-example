@@ -3,6 +3,15 @@
 Append-only log. Newest entries at the bottom.
 See CLAUDE.md for format and conventions.
 
+## 2026-05-28 — Zotsidian source template body not applied
+
+**[[QUE - Can the Zotsidian hover-menu "Create Source Page" action be made to apply the chosen Source template?]]**
+
+**[[CLM - Zotsidian's sourceTemplatePath reads frontmatter-only; the template body is never written to new source pages.]]**
+**[[EVD - materializeSourcePage creates files with a bare # @citekey stub and applySourceFrontmatter only patches YAML properties.]]**
+
+**[[RES - Open an issue in the Zotsidian repo requesting full template body support, rather than patching main.js locally.]]**
+
 ---
 
 ## 2026-04-13 — Convert Dataview syntax to Datacore in Daily Note Template

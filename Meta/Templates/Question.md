@@ -4,18 +4,16 @@ template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-que
-nodeInstanceId: 019df250-5c69-7ab1-be17-5fc22a2d42d6
+nodeInstanceId:
 ---
 
-# Summary
+## Summary
 
 ## Related QUE/CLM/EVD
 
 ## Testable Hypotheses
 
-# WorkBench
-
-## Papers
+## Key Papers
 
 ## Notes
 

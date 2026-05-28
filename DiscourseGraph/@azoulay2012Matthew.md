@@ -7,7 +7,7 @@ tags:
   - dg/source
   - "#matthew_effect"
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId: 019df250-5c78-76eb-8da1-573c9373f249
+nodeInstanceId:
 citekey: azoulay2012Matthew
 zotero-key: VS2IRSIM
 year: "2014"
