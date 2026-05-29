@@ -499,3 +499,26 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - Structural tags (those starting with `dg/`) must be excluded so the log surfaces only meaningful topic tags like `#matthew_effect` or `#avian_biomechanics`.]]**
 
 **[[RES - Added a "Tag Mentions Log" section at the bottom of the Source template and all 15 existing source pages; the DatacoreJSX block groups matching notes under each topic tag heading.]]**
+
+---
+
+## 2026-05-29 — Set cover script: active file targeting and new-file cleanup
+
+**[[QUE - The Set cover from first image script creates an untitled file instead of setting the cover on the current note — how should it be fixed?]]**
+
+**[[CLM - The script was using `tp.file.path(true)` to identify the target file; when invoked via "Create new note from template", this resolves to the newly created file rather than the original.]]**
+**[[CLM - Replacing `tp.file.path(true)` with `app.workspace.getActiveFile()` at the top of the script captures the original active file before Templater's new-file creation changes context.]]**
+**[[CLM - Templater still creates the unwanted new file even after the cover is set correctly; the script must explicitly trash it and navigate back to the original.]]**
+**[[EVD - After switching to `getActiveFile()`, cover was set correctly on the original note but the untitled file persisted, confirming the two bugs are independent.]]**
+
+**[[RES - Script updated to (1) capture `originalFile` via `app.workspace.getActiveFile()`, (2) compare `tp.file.path(true)` against `originalFile.path` after doing the work, and (3) trash the created file and reopen the original if the paths differ. Works correctly under both "Create new note" and "Insert Template" invocation.]]**
+
+---
+
+## 2026-05-29 — Hide cover property text from Bases card view
+
+**[[QUE - The cover image filename appears as a text field on the card, overshadowing the source note's filename — can it be hidden?]]**
+
+**[[CLM - Listing `cover` in the card view's `order` array causes it to render as a visible field; the `cover:` and `image:` directives that drive the card image are separate and unaffected by removing it from `order`.]]**
+
+**[[RES - Removed `cover` from the `order` list in Sources.base card view. The image still renders via `cover: cover` / `image: note.cover`; the filename no longer appears as a card field.]]**

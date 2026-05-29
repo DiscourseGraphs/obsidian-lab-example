@@ -59,5 +59,14 @@
       ],
       "key": "Y"
     }
+  ],
+  "templater-obsidian:Meta/Templates/Set cover from first image.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

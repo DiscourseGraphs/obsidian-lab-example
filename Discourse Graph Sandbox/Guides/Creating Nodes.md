@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 A discourse graph orients your intellectual work around a central motivating question. So the first step in creating a graph is to identify or formulate an interesting question. 
 
 ## Creating a node from selected text

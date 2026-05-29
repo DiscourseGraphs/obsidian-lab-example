@@ -17,7 +17,9 @@ keywords: ""
 rating: 3
 citekey: analysis - Conduct air speed measurements under laden & unl
 nodeInstanceId: 019dde91-5288-73dc-b2d0-82cf010b6405
+cover: "[[swallowspeed.png]]"
 ---
+
 
 
 > [!Note]-

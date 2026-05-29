@@ -12,7 +12,7 @@ nodeInstanceId: 019dde98-5839-7354-a5eb-e5e090752e0b
 
 # Evidence Summary
 
-![[swallow phylo.jpg|350]]
+![[swallow-phylo.jpg|350]]
  
  [[@dorPhylogenyGenusHirundo2010]]
 [[@schieldPhylogenyHistoricalBiogeography2024]]

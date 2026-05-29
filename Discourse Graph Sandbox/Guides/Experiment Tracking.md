@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 
 ## How to use Experiments
 

@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Meta/Templates/_New Project.md",
-    "Meta/Templates/_New Experiment.md"
+    "Meta/Templates/_New Experiment.md",
+    "Meta/Templates/Set cover from first image.md"
   ],
   "startup_templates": [
     ""

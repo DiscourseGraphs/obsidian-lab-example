@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 ## A short primer on candidate nodes
 
 

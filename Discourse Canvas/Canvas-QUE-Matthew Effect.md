@@ -68,51 +68,11 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 198.5,
-				"y": -574.203125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019e7301-3559-7758-a1d2-e743935f58cc"
-				},
-				"id": "shape:VrkyXP3JzR0QsE8OaVTSH",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "violet",
-					"labelColor": "black",
-					"bend": 15.350177391255903,
-					"start": {
-						"x": 0,
-						"y": 47
-					},
-					"end": {
-						"x": -192.5059003140625,
-						"y": 219
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "is motivated by",
-					"labelPosition": 0.5,
-					"font": "sans",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
-				},
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"index": "aBbCF",
-				"typeName": "shape"
-			},
-			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 859.7440996859375,
-				"y": -3.8046875,
-				"lastActivityTimestamp": 1780046064480,
+				"x": -39.5,
+				"y": -138.203125,
+				"lastActivityTimestamp": 1780045675829,
 				"meta": {}
 			},
 			{
@@ -172,24 +132,6 @@ tldr-dg: true
 					"size": "m",
 					"fontFamily": "mono"
 				}
-			},
-			{
-				"meta": {},
-				"id": "binding:fx7V5SD0qnDFqq2NN3EdQ",
-				"type": "discourse-relation",
-				"fromId": "shape:VrkyXP3JzR0QsE8OaVTSH",
-				"toId": "shape:surU_ABv3ivEvVz6wsPL3",
-				"props": {
-					"isPrecise": true,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.47,
-						"y": 0.5638297872340425
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -367,24 +309,6 @@ tldr-dg: true
 				"typeName": "camera"
 			},
 			{
-				"meta": {},
-				"id": "binding:jjxZ_kNuntda7m5PHbUQY",
-				"type": "discourse-relation",
-				"fromId": "shape:MGsJyu2l7NKbfER2YX3mX",
-				"toId": "shape:yJT3dK25xyOccOuVCiteI",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
 				"x": 990.5,
 				"y": 639.296875,
 				"rotation": 0,
@@ -483,24 +407,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"meta": {},
-				"id": "binding:NnYcGCK4hKUGVhKSq_wgx",
-				"type": "discourse-relation",
-				"fromId": "shape:MGsJyu2l7NKbfER2YX3mX",
-				"toId": "shape:h4W4hxJtXObD_bcVzXD-g",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5,
-						"y": 1
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
 				"x": 979.25,
 				"y": 273.1953125,
 				"rotation": 0,
@@ -581,28 +487,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 643.7440996859375,
-				"y": -587.8046875,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:QxUnAS9xN3YL4qyGlPsj0",
-				"type": "discourse-node",
-				"props": {
-					"w": 400,
-					"h": 94,
-					"src": "asset:obsidian.blockref.67025679-0834-41ac-b2c9-73eb3d9fa737",
-					"title": "EXP - compare citation counts of replicated v non-replicated studies",
-					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
-					"size": "s",
-					"fontFamily": "mono"
-				},
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"index": "aD8DI",
-				"typeName": "shape"
-			},
-			{
 				"meta": {},
 				"id": "binding:HdDrYIIhzRHw6WaWaUCeL",
 				"type": "discourse-relation",
@@ -644,24 +528,6 @@ tldr-dg: true
 					"isExact": false,
 					"normalizedAnchor": {
 						"x": 0.5,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:8RxrayClwGBYsEesvn1N2",
-				"type": "discourse-relation",
-				"fromId": "shape:i3E7HwpRQ9ESLa46yBnKk",
-				"toId": "shape:AKLo1i9ydV6g6ZYBUpiyl",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0,
 						"y": 0.5
 					},
 					"snap": "none",
@@ -744,28 +610,6 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
-			},
-			{
-				"x": -172.0059003140625,
-				"y": -351.203125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:EAAYXCdx-rNEZm4PTEWqp",
-				"typeName": "shape",
-				"type": "discourse-node",
-				"index": "aB4iZ",
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"props": {
-					"w": 400,
-					"h": 121,
-					"src": "asset:obsidian.blockref.5ea8a3a2-26da-439c-99ab-a5f09c70cdc4",
-					"title": "HYP - the effects of real quality & status amplification on citation count can be disentangled",
-					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
-					"size": "s",
-					"fontFamily": "mono"
-				}
 			},
 			{
 				"x": 1143.5,
@@ -893,46 +737,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 571.5,
-				"y": -12.703125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019e72eb-f95b-7007-855f-53b2b443d60f"
-				},
-				"id": "shape:i3E7HwpRQ9ESLa46yBnKk",
-				"typeName": "shape",
-				"type": "discourse-relation",
-				"index": "aAATC",
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "blue",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 100,
-						"y": 0
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "informs",
-					"labelPosition": 0.5,
-					"font": "sans",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
-				}
-			},
-			{
 				"x": 7.25,
 				"y": -558.8046875,
 				"rotation": 0,
@@ -1015,9 +819,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:noFAK1xxps5jxmKgHye-8"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -1050,46 +852,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 387,
-				"y": 65.796875,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019e72b7-0809-7924-97ae-d85961a886c3"
-				},
-				"id": "shape:MGsJyu2l7NKbfER2YX3mX",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "s",
-					"fill": "none",
-					"color": "black",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": -4.5,
-						"y": 119
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "addresses",
-					"labelPosition": 0.5,
-					"font": "sans",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_Ge2hTgsP6UFabvpMY45wN"
-				},
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"index": "a34WG",
-				"typeName": "shape"
-			},
-			{
 				"meta": {},
 				"id": "binding:T7WEDYKp0aEScQyIUKWYH",
 				"type": "discourse-relation",
@@ -1108,28 +870,6 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 516.5,
-				"y": -357.203125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:AKLo1i9ydV6g6ZYBUpiyl",
-				"typeName": "shape",
-				"type": "discourse-node",
-				"index": "a9Bik",
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"props": {
-					"w": 400,
-					"h": 112,
-					"src": "asset:obsidian.blockref.eda4bffe-ef91-41f7-9ea2-6374d7e40c2d",
-					"title": "HYP - both real quality and status amplification affect citation count",
-					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
-					"size": "s",
-					"fontFamily": "mono"
-				}
-			},
-			{
 				"meta": {},
 				"id": "binding:pTmlk4bkH3_DjkHf3JVAN",
 				"type": "discourse-relation",
@@ -1144,24 +884,6 @@ tldr-dg: true
 					},
 					"snap": "none",
 					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:q77TMXXi-mTLb6G7iOE6z",
-				"type": "discourse-relation",
-				"fromId": "shape:VrkyXP3JzR0QsE8OaVTSH",
-				"toId": "shape:EAAYXCdx-rNEZm4PTEWqp",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.455,
-						"y": 0.13513513513513514
-					},
-					"snap": "none",
-					"terminal": "end"
 				},
 				"typeName": "binding"
 			},
@@ -1245,86 +967,6 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "aF7vj",
 				"typeName": "shape"
-			},
-			{
-				"meta": {},
-				"id": "binding:3mJ4UYeChexi4Rla2A9El",
-				"type": "discourse-relation",
-				"fromId": "shape:Vo8Ht-GOHiw8OUks8M0dr",
-				"toId": "shape:EAAYXCdx-rNEZm4PTEWqp",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 171.5,
-				"y": -73.203125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:h4W4hxJtXObD_bcVzXD-g",
-				"type": "discourse-node",
-				"props": {
-					"w": 400,
-					"h": 121,
-					"src": "asset:obsidian.blockref.a7c77306-fefa-4adc-8b3c-284138dd357b",
-					"title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate",
-					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
-					"size": "s",
-					"fontFamily": "mono"
-				},
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"index": "a216w",
-				"typeName": "shape"
-			},
-			{
-				"x": 571.5,
-				"y": -12.703125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019e72ec-d260-7b50-9f45-69d3f62138b6"
-				},
-				"id": "shape:Vo8Ht-GOHiw8OUks8M0dr",
-				"typeName": "shape",
-				"type": "discourse-relation",
-				"index": "aC1j5",
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "blue",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 100,
-						"y": 0
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "informs",
-					"labelPosition": 0.5,
-					"font": "sans",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
-				}
 			},
 			{
 				"x": 711.25,
@@ -1411,9 +1053,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 403.2559003140625,
-				"y": 807.3984375,
-				"z": 0.5,
+				"x": 53,
+				"y": 440,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:Goq6ttT6KeCnQf8YW87EG",
 				"typeName": "camera"
@@ -1478,24 +1120,6 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
-				"id": "binding:IFvPt4OU9cXoHBvnKXr7P",
-				"type": "discourse-relation",
-				"fromId": "shape:i3E7HwpRQ9ESLa46yBnKk",
-				"toId": "shape:h4W4hxJtXObD_bcVzXD-g",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
 				"id": "page:page",
 				"name": "Lit review",
 				"index": "a1",
@@ -1507,42 +1131,6 @@ tldr-dg: true
 				"meta": {},
 				"id": "document:document",
 				"typeName": "document"
-			},
-			{
-				"meta": {},
-				"id": "binding:7qidUBNnu61I37G4lMu2y",
-				"type": "discourse-relation",
-				"fromId": "shape:noFAK1xxps5jxmKgHye-8",
-				"toId": "shape:AKLo1i9ydV6g6ZYBUpiyl",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:23HUQ6OX9wNkRA73k8yoT",
-				"type": "discourse-relation",
-				"fromId": "shape:noFAK1xxps5jxmKgHye-8",
-				"toId": "shape:QxUnAS9xN3YL4qyGlPsj0",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
 			},
 			{
 				"x": 99.5,
@@ -1569,10 +1157,7 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {
-					"tldraw:font": "mono",
-					"tldraw:size": "l"
-				},
+				"stylesForNextShape": {},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
@@ -1584,16 +1169,16 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 329.5,
-					"y": 90.203125,
-					"w": 867.5,
-					"h": 788.796875
+					"x": 0,
+					"y": 0,
+					"w": 1,
+					"h": 1
 				},
 				"insets": [
+					false,
 					true,
 					true,
-					true,
-					true
+					false
 				],
 				"zoomBrush": null,
 				"isGridMode": false,
@@ -1604,7 +1189,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": false,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1647,64 +1232,6 @@ tldr-dg: true
 					},
 					"snap": "none",
 					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 916.5,
-				"y": -301.203125,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {
-					"relationInstanceId": "019e72f6-c142-71ce-9963-c67bf1f1fd86"
-				},
-				"id": "shape:noFAK1xxps5jxmKgHye-8",
-				"typeName": "shape",
-				"type": "discourse-relation",
-				"index": "aE8cY",
-				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "violet",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 100,
-						"y": 0
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "motivates",
-					"labelPosition": 0.5,
-					"font": "mono",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
-				}
-			},
-			{
-				"meta": {},
-				"id": "binding:9Vmj3r_SMHn2l_QmcZaPq",
-				"type": "discourse-relation",
-				"fromId": "shape:Vo8Ht-GOHiw8OUks8M0dr",
-				"toId": "shape:h4W4hxJtXObD_bcVzXD-g",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 1,
-						"y": 0.5
-					},
-					"snap": "none",
-					"terminal": "start"
 				},
 				"typeName": "binding"
 			},

@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 
 ## What are Relations?
 

@@ -14,9 +14,9 @@ views:
       and:
         - dg_type == "Source"
     order:
-      - cover
       - tags
       - file.name
+      - targetQuestionOrHyp
     sort:
       - property: tags
         direction: ASC

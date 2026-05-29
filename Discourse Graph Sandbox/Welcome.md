@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 Hi, welcome to the Discourse Graph plugin!
 
 ---

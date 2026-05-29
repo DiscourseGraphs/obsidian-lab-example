@@ -19,7 +19,9 @@ itemType: book
 DOI: 10.1017/9781108610834
 abstract: This is the first comprehensive overview of the 'science of science,' an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science. It explores the roots of scientific impact, the role of productivity and creativity, when and what kind of collaborations are effective, the impact of failure and success in a scientific career, and what metrics can tell us about the fundamental workings of science. The book relies on data to draw actionable insights, which can be applied by individuals to further their career or decision makers to enhance the role of science in society. With anecdotes and detailed, easy-to-follow explanations of the research, this book is accessible to all scientists and graduate students, policymakers, and administrators with an interest in the wider scientific enterprise.
 zotero: zotero://select/library/items/K97G6DCK
+cover: "[[sci-sci.png]]"
 ---
+
 
 
 ![alt text](sci-sci.png)
