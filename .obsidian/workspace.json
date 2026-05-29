@@ -59,12 +59,24 @@
             "id": "1bb820e3f8ff97bd",
             "type": "leaf",
             "state": {
-              "type": "tldraw-dg-preview",
+              "type": "markdown",
               "state": {
-                "file": "Discourse Canvas/Canvas-QUE-Matthew Effect.md"
+                "file": "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Canvas-QUE-Matthew Effect"
+              "title": "Synthesize Insights from the Literature"
             }
           },
           {
@@ -565,13 +577,14 @@
   },
   "active": "1bb820e3f8ff97bd",
   "lastOpenFiles": [
+    "attachments/exp-exp.png",
+    "Discourse Canvas/Canvas-QUE-Matthew Effect.md",
     "attachments/lit-rev02.png",
     "attachments/lit-rev.png",
     "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
     "DiscourseGraph/EVD - HHMI treatment effect larger for high-recombinant-scope articles and zero for proximate antecedents - @azoulayMatthewEffectFable2014.md",
     "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
     "Meta/Templates/Hypothesis.md",
-    "Discourse Canvas/Canvas-QUE-Matthew Effect.md",
     "Meta/Templates/Experiment.md",
     "Meta/Templates/Evidence.md",
     "Meta/Templates/Conclusion.md",
@@ -603,7 +616,6 @@
     "Meta/Attachments/trebek.jpg",
     "Discourse Graph Sandbox/Workflows/explore-exploit01.png",
     "Discourse Graph Sandbox/Workflows/image.png",
-    "Discourse Graph Sandbox/Workflows/explore-exploit02.png",
     "DECISIONS.md.tmp.10236.93de90f16a84",
     "Bases/Conclusions.base",
     "Hotkey tips.md.tmp.875.7e89a4b6e49a",

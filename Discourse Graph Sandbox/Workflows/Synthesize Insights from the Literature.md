@@ -88,8 +88,12 @@ As you read the literature, capture claims and evidence relevant to your Questio
 
 ## Integrating findings from the literature with your research
 
-The [[Using the Canvas|Discourse Canvas]] can be used to assemble your claims and evidence into an argument
+The [[Using the Canvas|Discourse Canvas]] can be used to assemble your claims and evidence into an overview of the state of the field in relation to your target question.
 
+![](lit-rev.png)
+
+
+![](lit-rev02.png)
 
 >[!tip] We're developing an LLM-assisted workflow for extracting claims & evidence from the literature. Join us on [Slack](https://join.slack.com/t/discoursegraphs/shared_invite/zt-37xklatti-cpEjgPQC0YyKYQWPNgAkEg) to learn more.
 
