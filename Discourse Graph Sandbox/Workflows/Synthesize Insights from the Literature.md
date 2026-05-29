@@ -71,7 +71,7 @@ At the outset of the _exploration_ phase, you probably have a topic in mind, or 
 > [!info]- As long as you use wikilink syntax (`[[mertonMatthewEffectScience1968]]`) the notes you make here  will be referenced at the bottom of the appropriate Source page so that you can find them later. 
 > ![alt text](merton-mentions.PNG)
 
-The Media Log provides a low-overhead way of taking quick notes that can later be converted to structured note-taking.
+The **Media Log** provides a low-overhead way of taking quick notes that can later be converted to structured note-taking.
 
 Reflecting on your reading might inspire you to develop a few candidate questions of your own: 
 
@@ -85,7 +85,6 @@ Now you can read and revisit articles in light of your guiding question, and sea
 
 ![new question|500](new-q.png)
 
-![moving along the curve|500](exp-exp02.png)
 
 ### EVD and CLM mining
 
@@ -108,7 +107,6 @@ As you collect and assimilate claims and evidence sourced directly from the lite
 
 This synthesis claim can be used as a springboard for more directed reading and the development of an experiment, simulation, or other test.
 
-
 Once you've metabolized the claim to find testable components, you can add those components to your graph as **Hypotheses** and begin developing **Experiments**. 
 
 The multiple layers of the tldraw discourse canvas facilitate organizing your research campaign into _literature review_ and _project planning phases_.
@@ -116,6 +114,8 @@ The multiple layers of the tldraw discourse canvas facilitate organizing your re
 ![lit synthesis|800](lit-synth-canvas.png)
 
 In the discourse graph workflow, these phases are largely simultaneous and mutually informative.
+
+![moving along the curve|500](exp-exp02.png)
 
 >[!tip] We're developing an LLM-assisted workflow for extracting claims & evidence from the literature. Join us on [Slack](https://join.slack.com/t/discoursegraphs/shared_invite/zt-37xklatti-cpEjgPQC0YyKYQWPNgAkEg) to learn more.
 

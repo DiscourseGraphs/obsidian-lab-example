@@ -522,3 +522,23 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - Listing `cover` in the card view's `order` array causes it to render as a visible field; the `cover:` and `image:` directives that drive the card image are separate and unaffected by removing it from `order`.]]**
 
 **[[RES - Removed `cover` from the `order` list in Sources.base card view. The image still renders via `cover: cover` / `image: note.cover`; the filename no longer appears as a card field.]]**
+
+---
+
+## 2026-05-29 — Sandbox-only reading view styles via cssclasses snippet
+
+**[[QUE - How can reading-view styles (image centering, text margins) be scoped only to Discourse Graph Sandbox pages without affecting the rest of the vault?]]**
+
+**[[CLM - A CSS snippet gated by `cssclasses: [sandbox-page]` frontmatter on each sandbox file is the cleanest scoping mechanism; no other vault files are affected.]]**
+
+**[[CLM - `cssclasses` adds the class to the `.markdown-preview-view` element itself, not to a parent; descendant selectors like `.sandbox-page .markdown-preview-view` never match — compound selectors (`.sandbox-page.markdown-preview-view`) are required.]]**
+**[[EVD - DevTools confirmed `.sandbox-page` is on the same DOM element as `.markdown-preview-view.markdown-rendered`; all prior `.sandbox-page .markdown-rendered X` rules were no-ops.]]**
+
+**[[CLM - Obsidian renders markdown images as `<img>` inside `<span class="image-embed">` inside `<p>`; `p:has(img)` matches but `text-align: center` on the paragraph cannot center a block-level span child.]]**
+**[[EVD - DevTools scan of visible imgs (filtered by bounding-rect width > 50px) showed parent `SPAN.internal-embed.media-embed.image-embed.is-loaded`, grandparent `P` with no class.]]**
+
+**[[CLM - Targeting `.image-embed` with `display: block; width: fit-content; margin: 0 auto` correctly centers images: `width: fit-content` shrinks the span to the image's own width so `margin: auto` has an effect.]]**
+
+**[[CLM - `padding-left/right` on the reading view container expands text margins without constraining image widths; `max-width` would resize images wider than the specified value.]]**
+
+**[[RES - Created `.obsidian/snippets/sandbox-layout.css` (enabled in appearance.json) with compound-selector rules; added `cssclasses: [sandbox-page]` frontmatter to all 14 sandbox files. Also fixed 5 broken image-size syntax instances in The Discourse Graph Protocol.md (`![alt|300](file)` not `![alt](file|300)`).]]**
