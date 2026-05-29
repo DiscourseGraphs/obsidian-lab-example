@@ -1,18 +1,20 @@
 ---
 nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
-template: "[[Hypothesis]]"
-newNoteFolder: DiscourseGraph
 tags:
-cssclasses: dg-hyp
+cssclasses:
+  - dg-hyp
 confidence:
-nodeInstanceId: 019e702d-3d48-7319-bfd1-3a1f04d97ae1
+nodeInstanceId: 019e72eb-f955-73f8-b638-1211521bc817
 ---
-
 # Rationale
 
 # Context
 
 # Requests for Experiments
+
+> [!log] Log
+
+### YYYY-MM-DD
 
 ```datacorejsx
 return function NodeSetup() {
@@ -23,7 +25,7 @@ return function NodeSetup() {
   const handleClick = async () => {
     const full = current.$name;
     const MAX = 60;
-    const slug = full.replace(/[/?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
+    const slug = full.replace(/[?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
     const file = app.vault.getAbstractFileByPath(current.$path);
     if (!file) return;
 
@@ -40,8 +42,3 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
-
-
-> [!log] Log
-
-### YYYY-MM-DD

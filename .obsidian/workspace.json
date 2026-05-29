@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "1bb820e3f8ff97bd",
+            "id": "84dac1be28fa25ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "6acdaea9b4c120b6",
+            "id": "d928cddc0b41dc2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+                "file": "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means"
+              "title": "QUE - Is citation count a hopelessly confounded metric"
+            }
+          },
+          {
+            "id": "69ca4dd380cee2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/HYP - the effects of real quality & status amplification on citation count can be disentangled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HYP - the effects of real quality & status amplification on citation count can be disentangled"
+            }
+          },
+          {
+            "id": "8476203b79ae70a5",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-dg-preview",
+              "state": {
+                "file": "Discourse Canvas/Canvas-QUE-Matthew Effect.md"
+              },
+              "icon": "lucide-file",
+              "title": "Canvas-QUE-Matthew Effect"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +159,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -543,7 +579,7 @@
             }
           },
           {
-            "id": "7db34560044829f2",
+            "id": "618d1e8dfed3fb24",
             "type": "leaf",
             "state": {
               "type": "discourse-context-view",
@@ -551,13 +587,37 @@
               "icon": "telescope",
               "title": "Discourse context"
             }
+          },
+          {
+            "id": "4a7603cd0df73e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HYP - both real quality and status amplification affect citation count"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -575,16 +635,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1bb820e3f8ff97bd",
+  "active": "8476203b79ae70a5",
   "lastOpenFiles": [
-    "attachments/exp-exp.png",
+    "attachments/lit-synth-canvas.png",
+    "DiscourseGraph/EXP - compare citation counts of replicated v non-replicated studies.md",
+    "DiscourseGraph/HYP - the effects of real quality & status amplification on citation count can be disentangled.md",
+    "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
+    "Meta/Templates/Hypothesis.md",
     "Discourse Canvas/Canvas-QUE-Matthew Effect.md",
-    "attachments/lit-rev02.png",
-    "attachments/lit-rev.png",
+    "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
+    "Meta/Attachments/new-q.PNG",
+    "Meta/Attachments/mertonMatthewEffectScience1968-clm-p1-2.png:com.dropbox.attrs",
+    "Meta/Attachments/merton-pdf.png",
+    "Meta/Attachments/med-log-ex.png",
+    "Meta/Attachments/lit-rev02.png",
+    "Meta/Attachments/lit-rev.png",
+    "Meta/Attachments/linked-men.png",
+    "Meta/Attachments/iss-ex.PNG",
+    "Meta/Attachments/exp-exp02.png",
+    "Meta/Attachments/exp-exp01.png",
+    "Meta/Attachments/exp-exp.png",
     "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+    "DiscourseGraph/@azoulaySuperstarExtinction2008.md",
     "DiscourseGraph/EVD - HHMI treatment effect larger for high-recombinant-scope articles and zero for proximate antecedents - @azoulayMatthewEffectFable2014.md",
     "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-    "Meta/Templates/Hypothesis.md",
     "Meta/Templates/Experiment.md",
     "Meta/Templates/Evidence.md",
     "Meta/Templates/Conclusion.md",
@@ -598,31 +674,15 @@
     "Meta/Templates/Project.md",
     "Meta/Templates/Personal Home Page.md",
     "Meta/Templates/Meeting.md",
-    "Meta/Templates/Issue.md",
-    "DiscourseGraph/CLM - Status serves as a social cue conveying the most information when product quality is uncertain.md",
-    "DiscourseGraph/@azoulaySuperstarExtinction2008.md",
-    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
-    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-    "DiscourseGraph/@directquote-that guy on the bridge.md",
-    "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
     "DECISIONS.md.tmp.13757.98ba021b574d",
-    "attachments/merton-pdf.png",
     "attachments/mertonMatthewEffectScience1968-clm-p1-2.png:com.dropbox.attrs",
-    "attachments/mertonMatthewEffectScience1968-clm-p1-2.png",
-    "attachments/linked-men.png",
-    "attachments/med-log-ex.png",
-    "attachments/new-q.PNG",
     "Meta/Attachments/trebek.jpg:Zone.Identifier",
-    "Meta/Attachments/trebek.jpg",
-    "Discourse Graph Sandbox/Workflows/explore-exploit01.png",
-    "Discourse Graph Sandbox/Workflows/image.png",
     "DECISIONS.md.tmp.10236.93de90f16a84",
     "Bases/Conclusions.base",
     "Hotkey tips.md.tmp.875.7e89a4b6e49a",
     "Bases/Sources.base",
     "attachments",
     "Meta/Templates/Set cover from first image.md.tmp.1133.b09749d6f473",
-    "DECISIONS.md.tmp.1133.4f5f825c8ed8",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

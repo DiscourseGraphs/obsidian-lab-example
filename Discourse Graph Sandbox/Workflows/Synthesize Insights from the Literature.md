@@ -1,4 +1,3 @@
-🚧 Under Construction 👷‍♂️
 
 ## Literature Synthesis with discourse graphs
 
@@ -9,7 +8,7 @@ Discourse graphs turn literature synthesis into a **question-directed activity**
 There's a bit of a chicken-and-egg problem here, as engaging in question-driven analysis of the literature first requires the development of a question, which usually involves at least some loosely-directed exploration.  Discourse graphs accommodate both phases of the explore/exploit curve.
 
 
-![explore/exploit curve|300](explore-exploit.png)
+![explore/exploit curve|400](exp-exp.png)
 
 ## Building your library of sources
 
@@ -53,7 +52,7 @@ You can also search inline by  typing "@..." which will autocomplete with your z
 
 ## Synthesis workflows
 
-![starting out|300](explore-exploit01.png)
+![starting out|298](exp-exp01.png)
 
 At the outset of the _exploration_ phase, you probably have a topic in mind, or an assertion vaguely in the shape of a question/hypothesis that needs further refinement. You may be reading the literature to understand prior art on the topic. At this point, before a Question or Project has coalesced,  some users like to take notes on their **Daily Notes Page**, in the **Media Log**:
 
@@ -75,7 +74,7 @@ Now you can read and revisit articles in light of your guiding question, and sea
 
 ![](new-q.png)
 
-![moving along the curve](explore-exploit02.png)
+![moving along the curve](exp-exp02.png)
 
 ### EVD and CLM mining
 
@@ -92,8 +91,21 @@ The [[Using the Canvas|Discourse Canvas]] can be used to assemble your claims an
 
 ![](lit-rev.png)
 
+As you collect and assimilate claims and evidence sourced directly from the literature, you will probably develop a few claims of your own that derive from your reading but aren't directly statewd in any of the articles. This is your **Synthesis Claim**: an initial position on the question that you'd like to test further. 
 
 ![](lit-rev02.png)
+
+This synthesis claim can be used as a springboard for more directed reading and the development of an experiment, simulation, or other test.
+
+
+Once you've metabolized the claim to find testable components, you can add those components to your graph as **Hypotheses** and begin developing **Experiments**. 
+
+The multiple layers of the tldraw discourse canvas facilitate organizing your research campaign into _literature review_ and _project planning phases_.
+
+![](lit-synth-canvas.png)
+
+In the discourse graph workflow, these phases can occur at the same time and inform each other.
+
 
 >[!tip] We're developing an LLM-assisted workflow for extracting claims & evidence from the literature. Join us on [Slack](https://join.slack.com/t/discoursegraphs/shared_invite/zt-37xklatti-cpEjgPQC0YyKYQWPNgAkEg) to learn more.
 
