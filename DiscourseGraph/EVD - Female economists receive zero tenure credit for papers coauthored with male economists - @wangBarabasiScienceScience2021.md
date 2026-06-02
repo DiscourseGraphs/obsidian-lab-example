@@ -7,6 +7,7 @@ NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e877e-7e57-7fcc-8785-94473d39ac00
 ---
 Analysis of top-30 US economics faculty found that female economists who collaborated with one or more male economists received essentially zero improvement in tenure prospects from those papers, while male economists received equal credit for solo and collaborative work.
 

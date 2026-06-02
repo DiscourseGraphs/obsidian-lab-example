@@ -7,6 +7,7 @@ NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e877e-7e68-7a0f-b59b-3710e74790ec
 ---
 In a ROC analysis predicting Nobel laureate physicists, the Q-factor achieved an AUC of 0.94, outperforming h-index (0.90), highest-impact paper citations (0.88), total citations (0.86), and raw productivity (0.65).
 

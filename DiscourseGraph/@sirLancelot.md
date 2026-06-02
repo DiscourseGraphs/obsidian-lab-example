@@ -8,7 +8,7 @@ tags:
 citekey: sirLancelot
 title: sirLancelot
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId:
+nodeInstanceId: 019e877e-7e4e-768c-9363-ae5cc350e84d
 cover: "[[lancelot.png]]"
 ---
 

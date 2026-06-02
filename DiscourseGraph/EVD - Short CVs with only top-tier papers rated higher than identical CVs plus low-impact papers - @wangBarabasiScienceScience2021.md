@@ -7,6 +7,7 @@ NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e877e-7e70-791f-9f7c-8f3eed11a6f5
 ---
 In a survey experiment, economics professors rated fabricated CVs listing only top-tier publications at 8.1 out of 10, while CVs containing the same top papers plus additional lower-tier publications received only 7.6 — showing that extra low-impact papers actively lowered expert evaluations.
 

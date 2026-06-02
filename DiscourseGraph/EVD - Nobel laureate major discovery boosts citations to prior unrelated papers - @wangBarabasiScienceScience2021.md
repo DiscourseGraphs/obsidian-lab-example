@@ -7,6 +7,7 @@ NodeFormality: draft
 aliases:
 source: "@wangBarabasiScienceScience2021"
 supports: "[[QUE - Is citation count a hopelessly confounded metric for evaluating researcher impact?]]"
+nodeInstanceId: 019e877e-7e61-7c20-8bd0-12e3a2cb39f5
 ---
 Analysis of 124 Nobel laureates showed that publication of a major discovery boosted citation rates for the author's previously published papers, including papers not topically related to the discovery.
 

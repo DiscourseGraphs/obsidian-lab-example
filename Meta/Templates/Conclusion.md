@@ -5,7 +5,7 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-con
 contributors:
-nodeInstanceId:
+nodeInstanceId: 019e877e-7e7c-778e-a713-296dc747a0aa
 ---
 
 ## Summary
