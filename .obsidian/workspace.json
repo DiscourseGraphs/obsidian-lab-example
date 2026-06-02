@@ -35,10 +35,24 @@
             "id": "84dac1be28fa25ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/CLM - Too much data can can make sensemaking &decision-making harder.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CLM - Too much data can can make sensemaking &decision-making harder"
             }
           },
           {
@@ -229,6 +243,12 @@
   },
   "active": "84dac1be28fa25ed",
   "lastOpenFiles": [
+    "attachments/img-clm02.png",
+    "attachments/img-node.PNG",
+    "Meta/Attachments/information_analysis.png",
+    "DiscourseGraph/CLM - Too much data can can make sensemaking &decision-making harder.md",
+    "Meta/Attachments/information_analysis.png:Zone.Identifier",
+    "attachments/clipping01.PNG",
     "attachments/graph-view02.PNG",
     "attachments/graph-view01.PNG",
     "DECISIONS.md",
@@ -248,7 +268,6 @@
     "Discourse Graph Sandbox/Guides/Using the Canvas.md.tmp.11171.6f080e159a66",
     "Discourse Graph Sandbox/Guides/The discourse graph research loop.md.tmp.11171.97d62df229a4",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md.tmp.11171.8cbadeb838da",
-    "Discourse Graph Sandbox/Guides/Creating Relations.md.tmp.11171.f5d30f251563",
     "attachments/source-base01.PNG",
     "DiscourseGraph/@azoulaynber.md",
     "DiscourseGraph/@azoulaySuperstarExtinction2008.md",
@@ -270,11 +289,6 @@
     "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
     "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
     "Meta/Templates/Set cover from first image.md",
-    "Meta/Attachments/marden-fig1.png",
-    "swallow.md",
-    "Meta/Attachments/swallow-phylo.jpg",
-    "attachments/lit-synth-canvas.png",
-    "Meta/Attachments/new-q.PNG",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

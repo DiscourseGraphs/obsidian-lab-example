@@ -18,7 +18,7 @@ Many researhers have established pipeline for accumulating potentially useful ev
 If you're already using Obsidian or Roam Research or another PKM platform, your first question might be _"Can is integrate discourse graphs into my existing knowledge base?"_
 
 For Obsidian (& Roam), the answer is **yes**.
- Your discourse nodes can coexist with your existing graph: the two major considerations are _organizational preferences_ and _vault size_
+Your discourse nodes can coexist with your existing graph: the two major considerations are _organizational preferences_ and _vault size_
 
 ### Vault organization
 
@@ -37,7 +37,7 @@ vault/
 │   └── Evidence/
 └── Notes/          ← regular notes land here
 
-As you convert more of your existing notes to discourse nodes via the plugin's **"Convert note to discourse node"** command they will be moved to the configured discourse folder.
+As you convert more of your existing notes to discourse nodes via the plugin's **"Convert note to discourse node"** command, move hese notes to the configured discourse folder.
 
 If you're a **"graph-centric"** vault user, following Obsidian wiki-linking and discourse graph [[Creating Relations| relation-creating]] practices will allow you to navigate a vault of arbitrary size without getting lost in unrelated material.
 
@@ -61,7 +61,22 @@ You can transform a variety of file types into discourse nodes:
 - screenshots
 - captures from the [Obsidian web clipper](https://obsidian.md/clipper). etc.
 
-As long as it can be referenced (`[filename]`) in a markdown file withthe appropriate  frontmatter, it can be part of 
+As long as it can be referenced (`[filename]`) in a markdown file with the appropriate  frontmatter, it can be part of your discourse graph.
+
+![Obsidian web clipper](clipping01.PNG)
+_this web clipping has been converted into a Source_
+
+![image to CLM](img-clm02.png)
+_this is a web screenshot that has been turned into a Claim_
+
+ ### Best practices for node conversion
+
+ The goal of transforming a **note** into a dg **node** is to preserve as much context and information as possible while orienting the content toward the questions animating your research -- or at least positioning it so that it suggests additional discourse nodes.
+
+- First, paraphrase the key insight of the note and record the source of the insight. This paraphrase is your new discourse node/filename
+- The rest of the note will become a **Source**  node
+
+
 
 ## What else would you like to do?
 - [[Synthesize Insights from the Literature]]
