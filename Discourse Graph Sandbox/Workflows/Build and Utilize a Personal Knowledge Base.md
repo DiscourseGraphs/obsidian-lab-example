@@ -8,10 +8,10 @@ cssclasses: [sandbox-page]
 ![tsundoku pile](tsundoku.png)
 _candidate for saddest short poem_\
 
-Many researhers have established pipeline for accumulating potentially useful evidence and insights, but fewer ways of managing and exploiting these resources.
+Many researchers have an established pipeline for accumulating potentially useful evidence and insights, but fewer ways of managing and exploiting these resources.
 
 
-#clm-candidate: The discourse graph protocol  can be used to drive more intentional note taking and to acceentuate serendipitous discovery within existing knowledge bases.
+#clm-candidate: The discourse graph protocol  can be used to drive more intentional note taking and to accentuate serendipitous discovery within existing knowledge bases.
 
 ## Startup
 
@@ -37,7 +37,7 @@ vault/
 │   └── Evidence/
 └── Notes/          ← regular notes land here
 
-As you convert more of your existing notes to discourse nodes via the plugin's **"Convert note to discourse node"** command, move hese notes to the configured discourse folder.
+As you convert more of your existing notes to discourse nodes via the plugin's **"Convert note to discourse node"** command, move these notes to the configured discourse folder.
 
 If you're a **"graph-centric"** vault user, following Obsidian wiki-linking and discourse graph [[Creating Relations| relation-creating]] practices will allow you to navigate a vault of arbitrary size without getting lost in unrelated material.
 
@@ -67,14 +67,44 @@ As long as it can be referenced (`[filename]`) in a markdown file with the appro
 _this web clipping has been converted into a Source_
 
 ![image to CLM](img-clm02.png)
-_this is a web screenshot that has been turned into a Claim_
+_this web screenshot has been convertedinto a Claim_
 
  ### Best practices for node conversion
 
- The goal of transforming a **note** into a dg **node** is to preserve as much context and information as possible while orienting the content toward the questions animating your research -- or at least positioning it so that it suggests additional discourse nodes.
+The goal of transforming a **note** into a dg **node** is to preserve as much context and information as possible while orienting the content toward the questions animating your research -- or at least positioning it so that it suggests additional discourse nodes.
 
-- First, paraphrase the key insight of the note and record the source of the insight. This paraphrase is your new discourse node/filename
-- The rest of the note will become a **Source**  node
+First, paraphrase the key insight of the note and record the source of the insight. This paraphrase is your new discourse node/filename. The rest of the note will become a **Source**  node where the remaining note text can be retained as additional context for the insight. You might extract several discourse nodes or [[Candidate nodes]] from a single web-clipped article, but breaking it out into a single DG node + SRC is enough to get started.
+
+![](clm-clip02.png)
+_CLM node with SRC node attributing a blog_
+
+In the above image, you can see the a second related Claim and its Source has already been extracted from the same web clipping. If you decide to purisue this topic further, you've already identified another Source node to investigate (Klein _et al._)
+
+Adding `[[wiki-links]]` to  key terms will keep your new node in conversation with the rest of your vault as you build your graph. This can help you to find appropriate [[Creating Relations|discourse  relations]] later.
+
+![](src-node-clip.png)
+_this SRC node from a web clipping is linked to the rest of the vault_
+
+As you go through your vault, you might find that certain sources  are accumulating multiple mentions in your graph. 
+
+#clm-candidate: Identifying especially productive sources can help you to decide how to allocate your attention.
+
+Of course you may be the author of many of the original notes in your vault -- in thta case, we suggest retaining the relevant contextual information on the QUE/CLM/EVD node itself -- but remember to create a Source node for yourself!
+
+![self-cite](drmanhattan.png)
+
+### Progressive formalization
+
+The goal is to gradually convert most of your existing notes  into SRC notes that link to one or more CLM, QUE, or EVD nodes.
+
+You can jumpstart the process by identifying [[Candidate nodes]] in your existing notes, and revisiting these notes to decide which nodes should be promoted to full-fledged discourse nodes. The trigger for such a promotion is identifying their relevance to one of your research questions, or finding a potential [[Creating Relations|discourse relation]] elsewhere in your graph.
+
+![](graph-view01.PNG)
+_So much room for activities!_
+
+## Creating new discourse nodes from scratch
+
+As you get more comfortable with the [[The Discourse Graph Protocol|discourse graph protocol]] you will develop a habit or reading intentionally, with an eye to capturing information relevant to your current questions or that inspires new questions.
 
 
 

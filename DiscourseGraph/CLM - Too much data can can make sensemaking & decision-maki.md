@@ -4,14 +4,18 @@ tags:
 cssclasses: dg-clm
 confidence:
 nodeInstanceId: 019e877e-7e75-7032-b846-86a9ed66cada
+aliases:
+  - CLM - Too much data can can make sensemaking & decision-making harder
 ---
 # Summary
 
 # Source of Claim
 
-@CedricChin
+[[@CedricChin - CommonCog]]
 
 # Notes
+[[CLM - performance degrades when an analyst is fed too much data]]- [[@Klein et al]]
+
 
 ```datacorejsx
 return function NodeSetup() {

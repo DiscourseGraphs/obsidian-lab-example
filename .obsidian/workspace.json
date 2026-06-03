@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Too much data can can make sensemaking &decision-making harder.md",
+                "file": "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Too much data can can make sensemaking &decision-making harder"
+              "title": "Build and Utilize a Personal Knowledge Base"
             }
           },
           {
@@ -66,6 +66,30 @@
               },
               "icon": "lucide-layout-grid",
               "title": "Sources"
+            }
+          },
+          {
+            "id": "ea884bc60528ab1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CLM - Too much data can can make sensemaking & decision-maki"
             }
           }
         ],
@@ -243,22 +267,29 @@
   },
   "active": "84dac1be28fa25ed",
   "lastOpenFiles": [
+    "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
+    "attachments/new-node01.png",
+    "attachments/drmanhattan.png",
+    "attachments/new-node02.PNG",
+    "Discourse Graph Sandbox/Workflows/new-node01.png",
+    "Discourse Graph Sandbox/Workflows/image.png",
+    "attachments/cat-meme.PNG",
+    "Discourse Graph Sandbox/Workflows/drmanhattan.png",
+    "DiscourseGraph/@CedricChin - CommonCog.md",
+    "attachments/clm-clip02.PNG",
+    "DiscourseGraph/@Klein et al.md",
+    "DiscourseGraph/CLM - performance degrades when an analyst is fed too much data.md",
+    "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
+    "Meta/Templates/Source.md",
     "attachments/img-clm02.png",
     "attachments/img-node.PNG",
-    "Meta/Attachments/information_analysis.png",
-    "DiscourseGraph/CLM - Too much data can can make sensemaking &decision-making harder.md",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
-    "attachments/clipping01.PNG",
-    "attachments/graph-view02.PNG",
-    "attachments/graph-view01.PNG",
     "DECISIONS.md",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "attachments/left-sidebar.PNG",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
     "Discourse Graph Sandbox/Guides/The discourse graph research loop.md",
     "Discourse Graph Sandbox/Guides/Using the Canvas.md",
-    "Meta/Templates/Source.md",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
     "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md.tmp.11171.f3b67fddc566",
@@ -268,14 +299,11 @@
     "Discourse Graph Sandbox/Guides/Using the Canvas.md.tmp.11171.6f080e159a66",
     "Discourse Graph Sandbox/Guides/The discourse graph research loop.md.tmp.11171.97d62df229a4",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md.tmp.11171.8cbadeb838da",
-    "attachments/source-base01.PNG",
     "DiscourseGraph/@azoulaynber.md",
     "DiscourseGraph/@azoulaySuperstarExtinction2008.md",
     "Untitled 3.md",
     "DiscourseGraph/@azoulay2012Matthew.md",
     "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
-    "attachments/meff.PNG",
-    "attachments/superstar.PNG",
     "DiscourseGraph/@wangScienceScience2021.md",
     "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "DiscourseGraph/@mertonMatthewEffectScience1968.md",
@@ -284,11 +312,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
-    "attachments/dor.png",
-    "DiscourseGraph/@schieldPhylogenyHistoricalBiogeography2024.md",
-    "DiscourseGraph/@mardenMaximumLiftProduction1987.md",
-    "DiscourseGraph/EVD - Molecular phylogeny places Eur&Afr swallows in the same species.md",
-    "Meta/Templates/Set cover from first image.md",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
