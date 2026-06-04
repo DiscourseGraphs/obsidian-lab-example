@@ -6,25 +6,24 @@ cssclasses: [sandbox-page]
 ## Turn your tsundoku pile into a knowledge base with discourse graphs
 
 ![tsundoku pile](tsundoku.png)
-_candidate for saddest short poem_\
+_candidate for saddest short poem_
 
-Many researchers have an established pipeline for accumulating potentially useful evidence and insights, but fewer ways of managing and exploiting these resources.
+Many researchers have established pipeline for accumulating potentially useful evidence and insights, but fewer ways of managing and exploiting these resources.
 
 
-#clm-candidate: The discourse graph protocol  can be used to drive more intentional note taking and to accentuate serendipitous discovery within existing knowledge bases.
+#clm-candidate: The [[The Discourse Graph Protocol|discourse graph protocol]] can be used to drive more intentional note taking and to accentuate serendipitous discovery within existing knowledge bases.
 
 ## Startup
 
-If you're already using Obsidian or Roam Research or another PKM platform, your first question might be _"Can is integrate discourse graphs into my existing knowledge base?"_
+If you're already using Obsidian or Roam Research or another PKM platform, your first question might be _"Can I integrate discourse graphs into my existing knowledge base?"_
 
-For Obsidian (& Roam), the answer is **yes**.
-Your discourse nodes can coexist with your existing graph: the two major considerations are _organizational preferences_ and _vault size_
+For Obsidian (& Roam), the answer is **yes**. Your discourse nodes can coexist with your existing graph: the two major considerations for a smooth integration are _organizational preferences_ and _vault size_.
 
 ### Vault organization
 
 If you are a **"folder-centric"** Obsidian user, we recommend keeping your discourse graph an folder within your vault.
 
-![left sidebar](left-sidebar.png)
+![left sidebar|350](left-sidebar.png)
 
 The Discourse Graph plugin lets you configure a default folder (or per-node-type folders) for discourse nodes in its settings, independent of Obsidian's own "Default location for new notes" setting.
 
@@ -43,7 +42,7 @@ If you're a **"graph-centric"** vault user, following Obsidian wiki-linking and 
 
 As you build out your graph, your discourse nodes will begin to form "paths of desire" around the central Questions in your vault.
 
-![ graph view](graph-view02)
+![ graph view|400](graph-view02)
 
 >[!tip] Graph Gardening: Add a random note picker to your vault to get in the habit of reviewing older notes for potential conversion to discourse nodes
 
@@ -59,15 +58,16 @@ You can transform a variety of file types into discourse nodes:
 - [readwise](https://readwise.io/) snippets 
 - [memex](https://memex.garden/) imports 
 - screenshots
-- captures from the [Obsidian web clipper](https://obsidian.md/clipper). etc.
+- captures from the [Obsidian web clipper](https://obsidian.md/clipper). 
+- articles from [[Synthesize Insights from the Literature#Managing literature sources with Zotsidian|Zotero]], etc.
 
 As long as it can be referenced (`[filename]`) in a markdown file with the appropriate  frontmatter, it can be part of your discourse graph.
 
-![Obsidian web clipper](clipping01.PNG)
+![Obsidian web clipper|350](clipping01.PNG)
 _this web clipping has been converted into a Source_
 
-![image to CLM](img-clm02.png)
-_this web screenshot has been convertedinto a Claim_
+![image to CLM|350](img-clm02.png)
+_this web screenshot has been converted into a Claim_
 
  ### Best practices for node conversion
 
@@ -75,14 +75,14 @@ The goal of transforming a **note** into a dg **node** is to preserve as much co
 
 First, paraphrase the key insight of the note and record the source of the insight. This paraphrase is your new discourse node/filename. The rest of the note will become a **Source**  node where the remaining note text can be retained as additional context for the insight. You might extract several discourse nodes or [[Candidate nodes]] from a single web-clipped article, but breaking it out into a single DG node + SRC is enough to get started.
 
-![](clm-clip02.png)
+![claim|350](clm-clip02.png)
 _CLM node with SRC node attributing a blog_
 
 In the above image, you can see the a second related Claim and its Source has already been extracted from the same web clipping. If you decide to purisue this topic further, you've already identified another Source node to investigate (Klein _et al._)
 
 Adding `[[wiki-links]]` to  key terms will keep your new node in conversation with the rest of your vault as you build your graph. This can help you to find appropriate [[Creating Relations|discourse  relations]] later.
 
-![](src-node-clip.png)
+![source|350](src-node-clip.png)
 _this SRC node from a web clipping is linked to the rest of the vault_
 
 As you go through your vault, you might find that certain sources  are accumulating multiple mentions in your graph. 
@@ -91,7 +91,7 @@ As you go through your vault, you might find that certain sources  are accumulat
 
 Of course you may be the author of many of the original notes in your vault -- in thta case, we suggest retaining the relevant contextual information on the QUE/CLM/EVD node itself -- but remember to create a Source node for yourself!
 
-![self-cite](drmanhattan.png)
+![self-cite|350](drmanhattan.png)
 
 ### Progressive formalization
 
@@ -99,14 +99,40 @@ The goal is to gradually convert most of your existing notes  into SRC notes tha
 
 You can jumpstart the process by identifying [[Candidate nodes]] in your existing notes, and revisiting these notes to decide which nodes should be promoted to full-fledged discourse nodes. The trigger for such a promotion is identifying their relevance to one of your research questions, or finding a potential [[Creating Relations|discourse relation]] elsewhere in your graph.
 
-![](graph-view01.PNG)
+![the graph|400](graph-view01.PNG)
 _So much room for activities!_
 
-## Creating new discourse nodes from scratch
+## Creating new discourse nodes
 
-As you get more comfortable with the [[The Discourse Graph Protocol|discourse graph protocol]] you will develop a habit or reading intentionally, with an eye to capturing information relevant to your current questions or that inspires new questions.
+Build out your discourse graph by reading with an eye to capturing information relevant to your current questions or that inspires new questions. 
 
+![web clipping|350](new-node01.png)
+_Here's a [web clipping](https://obsidian.md/clipper) captured with an eye to turning it into a CLM node - the Obsidian web clipper helpfully captures the source in the frontmatter_
 
+![claim node|350](new-node02.png)
+_... and here's the CLM node. Note that it's linked to 3 sources: one named after the article url where the full text is captured, one to the author, & one to the author's institution -- this reflects the organizational preferences of the vault owner; a single SRC node can contain all this information_ 
+
+This habit of intentional reading is a great way to nudge yourself toward [[Share your Ideas and Research|contributing to the public conversation]].
+
+![you should start a blog](cat-meme.png)
+
+If you're using a highlighter like [memex](memex.garden) or the [Obsidian web clipper](https://obsidian.md/clipper), you can 
+1. highlight the relevant text
+2. import it into your vault via the tool's import feature or copy-paste
+3. Select `Convert into` from the file window menu to turn it into a discourse node
+
+![convert menu|550](convert-menu.png)
+
+![memex highlight|450](memex-res.png)
+_Result node spotted in the wild_
+
+Similarly, plugins like [Zotsidian](https://github.com/Qiwei-Zhao/zotsidian) enable you to import items from your reference manager pre-formatted as Sources.
+
+![readymade Source|450](zot-import.png)
+
+You can use the **Bullet Journal** feature of this vault to quickly capture your own ideas and mark those that you might want to add to your graph later as [[Candidate nodes|candidate nodes]]. The _progressive formalization_ ethos of the discourse graph protocol also applies to the process of deciding how to direct your attention: you can have a number of leads on potential projects active at once, and decide which ones to curate further later.
+
+![bullet journal|450](bullet-journal.png)
 
 ## What else would you like to do?
 - [[Synthesize Insights from the Literature]]

@@ -24,7 +24,7 @@ cover: "[[sci-sci.png]]"
 
 
 
-![alt text](sci-sci.png)
+![alt text|300](sci-sci.png)
 
 ## Relevant Topics
 

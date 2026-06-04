@@ -24,3 +24,12 @@
 .sandbox-page img {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 }
+
+/* Italic text on the line after an image (same paragraph, no blank line) → caption */
+.sandbox-page .image-embed ~ em {
+  display: block;
+  text-align: center;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-top: 0.4em;
+}
