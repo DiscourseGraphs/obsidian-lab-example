@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -257,6 +256,12 @@
   },
   "active": "84dac1be28fa25ed",
   "lastOpenFiles": [
+    "attachments/group-mgmt.PNG",
+    "attachments/admin-panel02.PNG",
+    "attachments/admin-panel.PNG",
+    "Meta/Attachments/backrooms.jpg:Zone.Identifier",
+    "Meta/Attachments/backrooms.jpg",
+    "attachments/admin-backrooms.PNG",
     "attachments/dgraph-share.PNG",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
     "Meta/Attachments/bullet-journal.png",
@@ -272,11 +277,6 @@
     "Discourse Graph Sandbox/Guides/Creating Nodes.md",
     "Meta/Attachments/memex-res.png",
     "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
-    "Meta/Attachments/new-node01.png",
-    "Meta/Attachments/drmanhattan.png",
-    "Meta/Attachments/new-node02.png",
-    "Discourse Graph Sandbox/Workflows/new-node01.png",
-    "Discourse Graph Sandbox/Workflows/image.png",
     "DiscourseGraph/@CedricChin - CommonCog.md",
     "DiscourseGraph/@Klein et al.md",
     "DiscourseGraph/CLM - performance degrades when an analyst is fed too much data.md",
@@ -295,7 +295,6 @@
     "Discourse Graph Sandbox/Users/Obsidian User.md.tmp.11171.8e23a9a2c4de",
     "Discourse Graph Sandbox/Users/Blank Slate.md.tmp.11171.375d0f0c2782",
     "Discourse Graph Sandbox/Guides/Using the Canvas.md.tmp.11171.6f080e159a66",
-    "Discourse Graph Sandbox/Guides/The discourse graph research loop.md.tmp.11171.97d62df229a4",
     "DiscourseGraph/@azoulaynber.md",
     "Untitled 3.md",
     "DiscourseGraph/@azoulay2012Matthew.md",
