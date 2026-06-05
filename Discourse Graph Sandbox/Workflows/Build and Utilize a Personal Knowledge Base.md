@@ -1,12 +1,11 @@
 ---
 cssclasses: [sandbox-page]
 ---
-🚧 Under Construction 👷‍♂️
 
 ## Turn your tsundoku pile into a knowledge base with discourse graphs
 
 ![tsundoku pile](tsundoku.png)
-_candidate for saddest short poem_
+_Candidate for saddest short poem_
 
 Many researchers have established pipeline for accumulating potentially useful evidence and insights, but fewer ways of managing and exploiting these resources.
 
@@ -64,10 +63,10 @@ You can transform a variety of file types into discourse nodes:
 As long as it can be referenced (`[filename]`) in a markdown file with the appropriate  frontmatter, it can be part of your discourse graph.
 
 ![Obsidian web clipper|350](clipping01.PNG)
-_this web clipping has been converted into a Source_
+_This web clipping has been converted into a Source_
 
 ![image to CLM|350](img-clm02.png)
-_this web screenshot has been converted into a Claim_
+_This web screenshot has been converted into a Claim_
 
  ### Best practices for node conversion
 
@@ -83,7 +82,7 @@ In the above image, you can see the a second related Claim and its Source has al
 Adding `[[wiki-links]]` to  key terms will keep your new node in conversation with the rest of your vault as you build your graph. This can help you to find appropriate [[Creating Relations|discourse  relations]] later.
 
 ![source|350](src-node-clip.png)
-_this SRC node from a web clipping is linked to the rest of the vault_
+_This SRC node from a web clipping is linked to the rest of the vault_
 
 As you go through your vault, you might find that certain sources  are accumulating multiple mentions in your graph. 
 

@@ -14,7 +14,7 @@ aliases:
 
  >[!info] Restate and elaborate upon the question in a way that helps you to find & formulate relevant claims
 
-Citation count suffers from [[Goodhart's Law]]  and the [[Canvas-QUE-Matthew Effect]] as well as historical and present day inconsistency in its accuracy as a measure of researcher impact & productivity. Are these deficiencies overstated? Can they be overcome?
+Citation count suffers from [[Goodhart's Law]]  and the [[Canvas - QUE - Matthew Effect]] as well as historical and present day inconsistency in its accuracy as a measure of researcher impact & productivity. Are these deficiencies overstated? Can they be overcome?
 ![merton|300](merton-pdf.png)
 
 ## Related QUE/CLM/EVD

@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "31c6793b-954d-43c5-809f-da6b1ed242f5",
-		"plugin-version": "1.3.0",
+		"plugin-version": "1.4.1",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -70,9 +70,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": -39.5,
-				"y": -138.203125,
-				"lastActivityTimestamp": 1780045675829,
+				"x": 73.5,
+				"y": 654.65625,
+				"lastActivityTimestamp": 1780649127645,
 				"meta": {}
 			},
 			{
@@ -171,7 +171,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": -14.423277576528832,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -280,7 +280,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": -7.8379417539473755,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -301,8 +301,8 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 0,
-				"y": 0,
+				"x": 191,
+				"y": -148,
 				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
@@ -328,7 +328,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 3.2112378560128225,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -463,7 +463,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 13.146080260631845,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -507,7 +507,9 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
+				"selectedShapeIds": [
+					"shape:RCZW7MAvkCnRHCZAy-bBj"
+				],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -728,7 +730,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://d43ab85a31ead06cc7ae043cbdc702add0a1/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
+					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -793,7 +795,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 21.653610209175437,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -960,7 +962,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://d43ab85a31ead06cc7ae043cbdc702add0a1/home/karola/obsidian-lab-example/DiscourseGraph/sci-sci.png?1778763215453",
+					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/DiscourseGraph/sci-sci.png?1778763215453",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -979,12 +981,13 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 273.640625,
-					"h": 76,
+					"h": 209.791789504717,
 					"src": "asset:obsidian.blockref.ae8fd39b-430f-4b1e-990f-60e3c820d237",
 					"title": "@azoulay2012Matthew",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
-					"fontFamily": "mono"
+					"fontFamily": "mono",
+					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1780051383098"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1029,7 +1032,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": -25.464110573516898,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -1053,8 +1056,8 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 53,
-				"y": 440,
+				"x": 0,
+				"y": 0,
 				"z": 1,
 				"meta": {},
 				"id": "camera:page:Goq6ttT6KeCnQf8YW87EG",
@@ -1077,7 +1080,7 @@ tldr-dg: true
 					"fill": "none",
 					"color": "black",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": -11.431973291501357,
 					"start": {
 						"x": 0,
 						"y": 0
@@ -1169,16 +1172,16 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 0,
-					"y": 0,
-					"w": 1,
-					"h": 1
+					"x": 355.5,
+					"y": 90.34375,
+					"w": 762,
+					"h": 866.65625
 				},
 				"insets": [
-					false,
 					true,
 					true,
-					false
+					true,
+					true
 				],
 				"zoomBrush": null,
 				"isGridMode": false,
@@ -1189,14 +1192,14 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": false,
+				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"currentPageId": "page:page",
 				"typeName": "instance"
 			},
 			{
