@@ -15,7 +15,7 @@
   "showSourceRelatedPapers": true,
   "relatedPapersProvider": "auto",
   "citationInsertFormat": "wikilink",
-  "showCitationHoverCard": true,
+  "showCitationHoverCard": false,
   "citationHoverOpenAction": "pdf-first",
   "enableDiscourseGraphsCompatibility": true,
   "discourseGraphVisibleNodeTypeIds": [],

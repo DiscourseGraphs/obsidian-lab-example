@@ -68,12 +68,12 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 73.5,
-				"y": 654.65625,
-				"lastActivityTimestamp": 1780649127645,
-				"meta": {}
+				"typeName": "pointer"
 			},
 			{
 				"meta": {},
@@ -301,8 +301,8 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 191,
-				"y": -148,
+				"x": 0,
+				"y": 0,
 				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
@@ -507,9 +507,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:RCZW7MAvkCnRHCZAy-bBj"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -730,7 +728,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
+					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -962,7 +960,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/DiscourseGraph/sci-sci.png?1778763215453",
+					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/DiscourseGraph/sci-sci.png?1778763215453",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -987,7 +985,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://81f72a96acc0dc2d204641e18557ad02166e/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1780051383098"
+					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1780051383098"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1174,7 +1172,7 @@ tldr-dg: true
 				"screenBounds": {
 					"x": 355.5,
 					"y": 90.34375,
-					"w": 762,
+					"w": 1228.5,
 					"h": 866.65625
 				},
 				"insets": [
@@ -1192,7 +1190,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
