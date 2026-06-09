@@ -217,8 +217,8 @@
             "state": {
               "type": "ReferencesView",
               "state": {},
-              "icon": "graduation-cap",
-              "title": "References"
+              "icon": "lucide-ghost",
+              "title": "ReferencesView"
             }
           },
           {
@@ -227,8 +227,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -237,8 +237,8 @@
             "state": {
               "type": "discourse-context-view",
               "state": {},
-              "icon": "telescope",
-              "title": "Discourse context"
+              "icon": "lucide-ghost",
+              "title": "discourse-context-view"
             }
           },
           {
@@ -312,13 +312,24 @@
               "icon": "lucide-file",
               "title": "@analysis - measure flight capacity of H rustica under load"
             }
+          },
+          {
+            "id": "40c53fee9b9e3762",
+            "type": "leaf",
+            "state": {
+              "type": "ReferencesView",
+              "state": {},
+              "icon": "graduation-cap",
+              "title": "References"
+            }
           }
         ],
         "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,20 +340,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian42-brat:BRAT": false,
       "discourse-graphs:Toggle discourse context": false,
-      "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "34bd7902ef8d6ee1",
+  "active": "84dac1be28fa25ed",
   "lastOpenFiles": [
+    "Meta/Attachments/ms-canvas.png",
+    "Meta/Attachments/canvas-export.png",
+    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
     "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
     "Meta/Attachments/canvas-walkthru01.gif",
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
     "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
     "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "DiscourseGraph/CLM - The reputation effect on early citations is real but temporary and long-run citation accumulation tracks inherent value.md",
     "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
@@ -354,13 +369,11 @@
     "Meta/Attachments/backrooms.jpg",
     "attachments/admin-backrooms.PNG",
     "attachments/dgraph-share.PNG",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
     "Meta/Attachments/bullet-journal.png",
     "Daily Notes/2026-05-05.md",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg",
     "Meta/Templates/00 Bullet Journal Log.md",
-    "Meta/Attachments/convert-menu.png",
     "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
     "DiscourseGraph/@wangScienceScience2021.md",
     "DiscourseGraph/@azoulaySuperstarExtinction2008.md",
@@ -374,8 +387,6 @@
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
     "DECISIONS.md",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
-    "Discourse Graph Sandbox/Guides/The discourse graph research loop.md",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
     "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md.tmp.11171.f3b67fddc566",

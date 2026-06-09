@@ -26,14 +26,32 @@ _Opening the admin panel_
 
 ## Sharing your discourse canvas
 
-Your [[Using the Canvas|canvas]] can be used to give a Powerpoint- or Figma-like visual overview of your work. 
+### Presenting your Canvas
+
+Your [[Using the Canvas|canvas]] can be used to give a Powerpoint- or Figma-like visual overview of your work.
 
 You can start at your motivating Question and move through your hypothesis to your experiments and their results, opening each node in the sidebar to show your audience relevant details.
 
-![canvas walkthrough](canvas-walkthrough.png)
+    ![canvas walkthrough](canvas-walkthru01.gif)
+_Example Canvas walkthrough_
 
->[!tip] You can create a "presentation view" for your discourse nodes by adding the material/images you wish to highlight at the top of the page -- the first image on the page is automatically selected as the image that displays on the discourse canvas.
+You can create a "presentation view" for your discourse nodes by adding the material/images you wish to highlight at the top of the page -- the first image on the page is automatically selected as the image that displays on the discourse canvas.
+
+>[!tip] You can [[Creating & modifying templates|modify your discourse templates]] to customize your presentation view.
+
+### Exporting your Canvas
+
+You can export a static .png or .svg image of your discourse  canvas from the menu.
+
+![export a png or svg](canvas-export)
+_Canvas export menu_
+
+It is not possible at present to export a "live" discourse canvas to another graph. 
 
 ## Drafting a manuscript from your discourse graph
 
+You can use the discourse canvas to organize your ideas for a paper. Your canvas allows you to follow your train of thought from hypothesis formation to hypothesis testing -- including the dead ends. You can see at a glance which sources (references) were crucial to the formulation of certain claims, and which informed the design of your experiments.
 
+If you are targeting a particular journal for your submission, you might find it helpful to spatially arrange your discourse nodes according to their ms submission format.
+
+![](ms-canvas.png)

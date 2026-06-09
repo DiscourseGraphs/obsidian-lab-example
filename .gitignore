@@ -8,3 +8,166 @@ CLAUDE.md
 skills/
 .agents/
 skills-lock.json
+
+=========================================
+OS metadata & cross-platform junk
+=========================================
+Windows alternate data streams
+*:Zone.Identifier
+Dropbox extended attributes
+*:com.dropbox.attrs
+.dropbox
+.dropbox.attr
+.dropbox.cache
+Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+Linux
+~
+.fuse_hidden
+.directory
+.Trash-*
+.nfs*
+=========================================
+Editors & IDEs
+=========================================
+VS Code — keep extensions.json,
+ignore personal settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+JetBrains (IntelliJ, PyCharm, WebStorm)
+.idea/
+*.iml
+*.iws
+*.ipr
+Vim / Emacs
+*.swp
+.swo
+~
+.#
+##
+.netrwhist
+Sublime
+*.sublime-workspace
+*.sublime-project
+=========================================
+Secrets & environment
+=========================================
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+*.pem
+*.key
+secrets.json
+credentials.json
+.aws/
+.gcloud/
+=========================================
+Node / JavaScript / TypeScript
+=========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm/
+.yarn/
+.yarn-integrity
+Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+.turbo/
+.parcel-cache/
+Testing & coverage
+coverage/
+.nyc_output/
+*.lcov
+TypeScript
+*.tsbuildinfo
+=========================================
+Python
+=========================================
+pycache/
+*.py[cod]
+*$py.class
+*.so
+Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+wheels/
+pip-wheel-metadata/
+Testing
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+Type checkers
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+=========================================
+General build artifacts & logs
+=========================================
+Logs
+*.log
+logs/
+Compiled
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+*.dylib
+Archives — usually unintentional
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

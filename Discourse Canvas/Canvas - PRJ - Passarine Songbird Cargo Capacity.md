@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "5e457bec-4409-4999-b785-b845233a4e84",
-		"plugin-version": "1.4.1",
+		"plugin-version": "1.4.2-alpha",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -52,9 +52,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 526.5,
-				"y": 516.65625,
-				"lastActivityTimestamp": 1780932275208,
+				"x": 253.5,
+				"y": 41.046875,
+				"lastActivityTimestamp": 1781017339351,
 				"meta": {}
 			},
 			{
@@ -112,6 +112,14 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:Bmm66aEBq9bXTAz-huoFU",
+				"typeName": "camera"
+			},
+			{
 				"meta": {},
 				"id": "binding:JsaQEOjFyIbpNLQ411Dte",
 				"type": "discourse-relation",
@@ -160,6 +168,19 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:eOy941z4zehccl_0Efdy6",
+				"pageId": "page:eOy941z4zehccl_0Efdy6",
+				"typeName": "instance_page_state"
+			},
+			{
 				"x": 620.5,
 				"y": 749.765625,
 				"rotation": 0,
@@ -198,6 +219,13 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "aa9V8",
 				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "page:6hlWzj0i2pCiePC6yj0lc",
+				"name": "Results",
+				"index": "a81KZ",
+				"typeName": "page"
 			},
 			{
 				"meta": {},
@@ -364,9 +392,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
+				"x": 108.48765432098764,
+				"y": -356.93962191358037,
+				"z": 0.81,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -429,7 +457,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://070b862661def496de67df3f74280ea4a905/home/karola/projects/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1780994234550",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -523,12 +551,12 @@ tldr-dg: true
 				"index": "a32MR",
 				"parentId": "page:page",
 				"props": {
-					"w": 246.81140350877195,
+					"w": 296.265625,
 					"h": 321,
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://070b862661def496de67df3f74280ea4a905/home/karola/projects/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1780994234550",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -574,6 +602,13 @@ tldr-dg: true
 				}
 			},
 			{
+				"meta": {},
+				"id": "page:TqRuPlb2T0WB-DaY1MDfs",
+				"name": "Discussion",
+				"index": "a94EA",
+				"typeName": "page"
+			},
+			{
 				"x": 1248.5,
 				"y": 670.421875,
 				"rotation": 0,
@@ -604,6 +639,14 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:eOy941z4zehccl_0Efdy6",
+				"typeName": "camera"
+			},
+			{
 				"x": 566.407958984375,
 				"y": 285.2919921875,
 				"rotation": 0,
@@ -624,6 +667,20 @@ tldr-dg: true
 					"size": "s",
 					"fontFamily": "mono"
 				}
+			},
+			{
+				"meta": {},
+				"id": "page:-juai4Ww4imFeVM5nfGDE",
+				"name": "Introduction",
+				"index": "a69sd",
+				"typeName": "page"
+			},
+			{
+				"meta": {},
+				"id": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"name": "Supp Info",
+				"index": "aABqm",
+				"typeName": "page"
 			},
 			{
 				"x": 648.5,
@@ -668,7 +725,9 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
+				"selectedShapeIds": [
+					"shape:dx_kRGCnEzI92azcHOIPH"
+				],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -698,7 +757,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1780050832806"
+					"imageSrc": "app://070b862661def496de67df3f74280ea4a905/home/karola/projects/obsidian-lab-example/Meta/Attachments/dor.png?1780994590700"
 				}
 			},
 			{
@@ -814,6 +873,13 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"meta": {},
+				"id": "page:Bmm66aEBq9bXTAz-huoFU",
+				"name": "Design",
+				"index": "a74Ht",
+				"typeName": "page"
+			},
+			{
 				"x": 1356.5,
 				"y": 864.765625,
 				"rotation": 0,
@@ -904,7 +970,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 112,
+					"h": 148,
 					"src": "asset:obsidian.blockref.26cdbf0a-823a-404b-b7d9-2145602eeef8",
 					"title": "@analysis - measure flight capacity of H rustica under load",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -965,11 +1031,11 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 348,
+					"h": 375,
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1780047236542",
+					"imageSrc": "app://070b862661def496de67df3f74280ea4a905/home/karola/projects/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1780994590730",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -991,6 +1057,19 @@ tldr-dg: true
 					"terminal": "start"
 				},
 				"typeName": "binding"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:6hlWzj0i2pCiePC6yj0lc",
+				"pageId": "page:6hlWzj0i2pCiePC6yj0lc",
+				"typeName": "instance_page_state"
 			},
 			{
 				"meta": {},
@@ -1085,6 +1164,13 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "page:eOy941z4zehccl_0Efdy6",
+				"name": "Summary",
+				"index": "a5CCs",
+				"typeName": "page"
 			},
 			{
 				"x": -1065.4052369874296,
@@ -1263,6 +1349,19 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:TqRuPlb2T0WB-DaY1MDfs",
+				"pageId": "page:TqRuPlb2T0WB-DaY1MDfs",
+				"typeName": "instance_page_state"
+			},
+			{
 				"meta": {},
 				"id": "binding:J5m6fAp8qemqq0VbyflJQ",
 				"type": "discourse-relation",
@@ -1279,6 +1378,14 @@ tldr-dg: true
 					"terminal": "start"
 				},
 				"typeName": "binding"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:6hlWzj0i2pCiePC6yj0lc",
+				"typeName": "camera"
 			},
 			{
 				"meta": {},
@@ -1315,6 +1422,32 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:-juai4Ww4imFeVM5nfGDE",
+				"pageId": "page:-juai4Ww4imFeVM5nfGDE",
+				"typeName": "instance_page_state"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:mSD5xKXGQ0_HnKA1tSFeA",
+				"pageId": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"typeName": "instance_page_state"
 			},
 			{
 				"x": -26.5,
@@ -1397,7 +1530,7 @@ tldr-dg: true
 			{
 				"meta": {},
 				"id": "page:page",
-				"name": "Page 1",
+				"name": "Main",
 				"index": "a1",
 				"typeName": "page"
 			},
@@ -1424,9 +1557,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 90.34375,
-					"w": 1027,
-					"h": 866.65625
+					"y": 89.953125,
+					"w": 1070.5,
+					"h": 686.046875
 				},
 				"insets": [
 					true,
@@ -1450,8 +1583,21 @@ tldr-dg: true
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:page",
+				"currentPageId": "page:mSD5xKXGQ0_HnKA1tSFeA",
 				"typeName": "instance"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:Bmm66aEBq9bXTAz-huoFU",
+				"pageId": "page:Bmm66aEBq9bXTAz-huoFU",
+				"typeName": "instance_page_state"
 			},
 			{
 				"meta": {},
@@ -1485,7 +1631,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 112,
+					"h": 148,
 					"src": "asset:obsidian.blockref.6a1161a5-58cf-4829-8788-4a3d787cb09e",
 					"title": "QUE - what is the airspeed velocity of an unladen swallow?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
@@ -1534,6 +1680,14 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:TqRuPlb2T0WB-DaY1MDfs",
+				"typeName": "camera"
+			},
+			{
 				"x": 423.736572265625,
 				"y": 158.6519775390625,
 				"rotation": 0,
@@ -1577,7 +1731,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 94,
+					"h": 121,
 					"src": "asset:obsidian.blockref.a6d39407-5e40-4578-aa65-79054c710b5f",
 					"title": "HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1596,7 +1750,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 184,
 					"src": "asset:obsidian.blockref.0e4ebd8d-3daf-492f-803e-cc54227563d5",
 					"title": "HYP- airspeed velocity will not differ significantly between EUR & AFR swallows",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1639,11 +1793,11 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 366,
+					"h": 402,
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1777660115650",
+					"imageSrc": "app://070b862661def496de67df3f74280ea4a905/home/karola/projects/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1780994234550",
 					"size": "m",
 					"fontFamily": "mono"
 				}
@@ -1709,6 +1863,22 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "aU4OM",
 				"typeName": "shape"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:-juai4Ww4imFeVM5nfGDE",
+				"typeName": "camera"
+			},
+			{
+				"x": 0,
+				"y": 0,
+				"z": 1,
+				"meta": {},
+				"id": "camera:page:mSD5xKXGQ0_HnKA1tSFeA",
+				"typeName": "camera"
 			},
 			{
 				"x": 1264.5,
