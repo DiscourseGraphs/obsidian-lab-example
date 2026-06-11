@@ -46,12 +46,24 @@ You can export a static .png or .svg image of your discourse  canvas from the me
 ![export a png or svg](canvas-export)
 _Canvas export menu_
 
-It is not possible at present to export a "live" discourse canvas to another graph. 
+>[!info] It is not possible at present to export a "live" discourse canvas to another graph. 
 
 ## Drafting a manuscript from your discourse graph
 
+### Using the canvas as a storyboard
+
 You can use the discourse canvas to organize your ideas for a paper. Your canvas allows you to follow your train of thought from hypothesis formation to hypothesis testing -- including the dead ends. You can see at a glance which sources (references) were crucial to the formulation of certain claims, and which informed the design of your experiments.
 
-If you are targeting a particular journal for your submission, you might find it helpful to spatially arrange your discourse nodes according to their ms submission format.
+If you are targeting a particular journal, you might find it helpful to spatially arrange your discourse nodes according to their ms submission format.
 
 ![](ms-canvas.png)
+_Using canvas layers to organize article sections_
+
+The Canvas layout can also be used to spot "gaps" in your argument at a glance, before Reviewer #2 rushes in to fill them with part of their œuvre.
+
+
+![](gap-spotting.png)
+_Spotting unsupported Claims before Reviewer #2_
+
+
+### Arguing with your graph

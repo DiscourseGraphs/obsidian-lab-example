@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "31c6793b-954d-43c5-809f-da6b1ed242f5",
-		"plugin-version": "1.4.1",
+		"plugin-version": "1.4.2-alpha",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -68,12 +68,12 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"lastActivityTimestamp": 0,
-				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer"
+				"typeName": "pointer",
+				"x": -416.25,
+				"y": 542.8203125,
+				"lastActivityTimestamp": 1781185382178,
+				"meta": {}
 			},
 			{
 				"meta": {},
@@ -125,7 +125,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 184,
 					"src": "asset:obsidian.blockref.46b7f4ee-c107-4701-bb2d-5b181204de96",
 					"title": "EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
@@ -249,7 +249,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 148,
 					"src": "asset:obsidian.blockref.c6440a6a-cf65-4654-86dc-408457371e5e",
 					"title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -301,9 +301,9 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
+				"x": 1351.25,
+				"y": 173.0234375,
+				"z": 0.5,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -507,7 +507,9 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
+				"selectedShapeIds": [
+					"shape:02aIDaDHnD0xtVZTJhpNH"
+				],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -612,6 +614,63 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": -1164.25,
+				"y": 426.875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:02aIDaDHnD0xtVZTJhpNH",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "xl",
+					"w": 260,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": false,
+					"scale": 1.303078137332281,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"marks": [
+											{
+												"type": "highlight"
+											}
+										],
+										"text": "Untested"
+									},
+									{
+										"type": "text",
+										"text": " "
+									},
+									{
+										"type": "text",
+										"marks": [
+											{
+												"type": "highlight"
+											}
+										],
+										"text": "claims!!"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aL4YI",
+				"typeName": "shape"
+			},
+			{
 				"x": 1143.5,
 				"y": 162.79687499999997,
 				"rotation": 0,
@@ -665,7 +724,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 94,
+					"h": 121,
 					"src": "asset:obsidian.blockref.c8da151e-791b-44a4-a71e-26b0ada7b647",
 					"title": "CLM - Citations track genuine intellectual influence not merely social network position",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -728,7 +787,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
+					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -840,7 +899,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 148,
 					"src": "asset:obsidian.blockref.f4ac52a2-00a5-4fd6-b362-ed852dc7950c",
 					"title": "CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -937,7 +996,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 148,
 					"src": "asset:obsidian.blockref.3b68afac-dce0-456d-b1bb-12de5233245e",
 					"title": "CLM - The reputation effect on early citations is real but temporary and long-run citation accumulation tracks inherent value",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -955,12 +1014,12 @@ tldr-dg: true
 				"id": "shape:8jwTFw-yjL1gJmHUHBKUF",
 				"type": "discourse-node",
 				"props": {
-					"w": 314.234375,
+					"w": 390.375,
 					"h": 330,
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/DiscourseGraph/sci-sci.png?1778763215453",
+					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -978,14 +1037,14 @@ tldr-dg: true
 				"id": "shape:GJul1KkxAITu844sYQzug",
 				"type": "discourse-node",
 				"props": {
-					"w": 273.640625,
-					"h": 209.791789504717,
+					"w": 333.59375,
+					"h": 236.6575766509434,
 					"src": "asset:obsidian.blockref.ae8fd39b-430f-4b1e-990f-60e3c820d237",
 					"title": "@azoulay2012Matthew",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://9530744e5e0c24b7961e2672ba92a91688de/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1780051383098"
+					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1002,7 +1061,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 148,
 					"src": "asset:obsidian.blockref.ed97e9a5-7546-41c8-9e2c-864d1b111814",
 					"title": "CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1158,11 +1217,13 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {},
+				"stylesForNextShape": {
+					"tldraw:size": "xl"
+				},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
-					"type": "default",
+					"type": "cross",
 					"rotation": 0
 				},
 				"isFocusMode": false,
@@ -1171,9 +1232,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 90.34375,
-					"w": 1228.5,
-					"h": 866.65625
+					"y": 90.078125,
+					"w": 1187.5,
+					"h": 736.921875
 				},
 				"insets": [
 					true,
@@ -1190,7 +1251,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": null,
+				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1359,11 +1420,11 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 366,
+					"h": 402,
 					"src": "asset:obsidian.blockref.1d15eca7-b18c-4775-873a-6aac5b086592",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://d43ab85a31ead06cc7ae043cbdc702add0a1/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
+					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "m",
 					"fontFamily": "mono"
 				},
