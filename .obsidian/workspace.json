@@ -32,37 +32,12 @@
             }
           },
           {
-            "id": "84dac1be28fa25ed",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-dg-preview",
-              "state": {
-                "file": "Discourse Canvas/Canvas - QUE - Matthew Effect.md"
-              },
-              "icon": "lucide-file",
-              "title": "Canvas - QUE - Matthew Effect"
-            }
-          },
-          {
             "id": "45cc7a07f8509fee",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Sources.base",
-                "viewName": "All"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Sources"
-            }
-          },
-          {
-            "id": "ea884bc60528ab1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
+                "file": "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Too much data can can make sensemaking & decision-maki"
+              "title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate"
+            }
+          },
+          {
+            "id": "ea884bc60528ab1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Synthesize Insights from the Literature"
+            }
+          },
+          {
+            "id": "52a6157ff66a58c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -346,18 +369,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84dac1be28fa25ed",
+  "active": "52a6157ff66a58c2",
   "lastOpenFiles": [
+    "Meta/Attachments/node-log.png",
+    "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
+    "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
+    "DiscourseGraph/HYP - the effects of real quality & status amplification on citation count can be disentangled.md",
+    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
+    "DiscourseGraph/HYP- airspeed velocity will not differ significantly between EUR & AFR swallows.md",
+    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
+    "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
+    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "Meta/Attachments/birdmath.png",
+    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
+    "Meta/Templates/Source.md",
+    "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
+    "Bases/Sources.base",
     "DiscourseGraph/@CedricChin - CommonCog.md",
     "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
     "DiscourseGraph/QUE - what am I even doing here?.md",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
-    "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
     "DiscourseGraph/QUE - What are the culinary implications of differences in avian musculature?.md",
     "DiscourseGraph/QUE - African or European?.md",
-    "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
     "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
     "Meta/Attachments/graph-argument-evd.png",
     "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
@@ -367,25 +401,15 @@
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/ms-canvas.png",
     "Meta/Attachments/canvas-export.png",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
     "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
     "Meta/Attachments/canvas-walkthru01.gif",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
-    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-    "DiscourseGraph/CLM - The reputation effect on early citations is real but temporary and long-run citation accumulation tracks inherent value.md",
     "attachments/group-mgmt.PNG",
     "attachments/admin-panel02.PNG",
     "attachments/admin-panel.PNG",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
-    "Meta/Attachments/backrooms.jpg",
-    "Daily Notes/2026-05-05.md",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
-    "Meta/Templates/00 Bullet Journal Log.md",
-    "DiscourseGraph/@dorPhylogenyGenusHirundo2010.md",
-    "DiscourseGraph/@wangScienceScience2021.md",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
@@ -393,7 +417,6 @@
     "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md.tmp.11171.002c19fa6b33",
     "Discourse Graph Sandbox/Users/Obsidian User.md.tmp.11171.8e23a9a2c4de",
     "Discourse Graph Sandbox/Users/Blank Slate.md.tmp.11171.375d0f0c2782",
-    "Discourse Graph Sandbox/Guides/Using the Canvas.md.tmp.11171.6f080e159a66",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

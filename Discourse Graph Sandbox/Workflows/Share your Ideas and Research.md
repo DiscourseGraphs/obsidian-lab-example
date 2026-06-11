@@ -54,7 +54,7 @@ _Canvas export menu_
 
 You can use the discourse canvas to organize your ideas for a paper. Your canvas allows you to follow your train of thought from hypothesis formation to hypothesis testing -- including the dead ends. You can see at a glance which sources (references) were crucial to the formulation of certain claims, and which informed the design of your experiments.
 
-If you are targeting a particular journal, you might find it helpful to spatially arrange your discourse nodes according to their ms submission format.
+If you are targeting a particular journal, you might find it helpful to spatially arrange your discourse nodes according to their ms submission format. This can give you a head start on the drafting stage.
 
 ![](ms-canvas.png)
 _Using canvas layers to organize article sections_
@@ -67,3 +67,21 @@ _Spotting unsupported Claims before Reviewer #2_
 
 
 ### Arguing with your graph
+
+Your discourse nodes should be formulated as concisely as possible (remember node = filename). But the rest of the page can be used to construct and elaborate your broader point. The example below links both **Evidence** and **Caveats** related to a **Claim**. In this discourse context, a _Caveat_ is an observation that weakens the claim without necessarily opposing it. Some caveats may be promoted to Evidence that _opposes_ a Claim after further investigation, others may become **Issues**: requests for additional analyses to clarify a point. Anticipating the most salient caveats to each of your claims is a useful preparation for the review stage of your ms submission.
+
+![](graph-argument.png)
+_An example of a claim with caveats_
+
+You can [[Creating & modifying templates| modify your discourse graph templates]] to structure key information in a way that facilitates article writing later.
+
+![](graph-argument-evd.png)
+_An example of an Evidence node with methods context_
+
+Discourse nodes are modular and composable and can be re-used in multiple projects. One strategy to maximize composability is to capture "'evergreen" information in the node template and add additional project-specific context in the "log" section.
+
+![](node-log.png)
+_In this vault CLM, HYP, ISS, EXP, & QUE node templates have a "log" section_
+
+## Exporting your graph
+

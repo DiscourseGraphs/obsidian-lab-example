@@ -363,6 +363,14 @@
       "relationshipTypeId": "rel_M4xTO_--Zo4nsjQGab9bz",
       "created": 1780045209115,
       "modified": 1780045225619
+    },
+    {
+      "id": "rel3_SNRqEfedRtDmIiabwEV6G",
+      "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
+      "destinationId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "created": 1781200335319,
+      "modified": 1781200349067
     }
   ],
   "showIdsInFrontmatter": true,

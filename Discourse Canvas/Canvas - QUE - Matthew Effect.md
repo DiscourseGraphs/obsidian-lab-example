@@ -70,10 +70,50 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 130.5,
-				"y": 42.40625,
-				"lastActivityTimestamp": 1781194173707,
+				"x": 473.25,
+				"y": 668.328125,
+				"lastActivityTimestamp": 1781201303885,
 				"meta": {}
+			},
+			{
+				"x": 529.5,
+				"y": -318.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:5OSA0Jo4oBipZNjb6neIb",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 148,
+					"src": "asset:obsidian.blockref.e48902eb-d0f3-4071-bf47-2604581edb98",
+					"title": "HYP - both real quality and status amplification affect citation count",
+					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aB0lc",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:_sigTG9eUFYfU3b4mkkAI",
+				"type": "discourse-relation",
+				"fromId": "shape:596Gj7kLSH3qb7Nvvvw8r",
+				"toId": "shape:cdUPA5V5IE0trbhOBc5du",
+				"props": {
+					"isPrecise": true,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.725,
+						"y": 0.768595041322314
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -193,6 +233,42 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
+				"id": "binding:WH2LAdidrWazuV2FAHlcr",
+				"type": "discourse-relation",
+				"fromId": "shape:egyr0FFgPtC4W9E8ZV329",
+				"toId": "shape:uxAWdPGUfl86iL8gpzHG8",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.605,
+						"y": 0.5
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:RQ2kn9BbTbEZxQrLndEQS",
+				"type": "discourse-relation",
+				"fromId": "shape:YffqgQcweb4FzEKDAefIc",
+				"toId": "shape:MHfL1MToX0tZvTPbAnqTD",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.535,
+						"y": 0.9680851063829787
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
 				"id": "page:Goq6ttT6KeCnQf8YW87EG",
 				"name": "Lit synthesis",
 				"index": "a245y",
@@ -261,6 +337,24 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"meta": {},
+				"id": "binding:uAhsyEoX47UQIoiskVPHx",
+				"type": "discourse-relation",
+				"fromId": "shape:B-ecT5rEdQ1XSFPSeZdzY",
+				"toId": "shape:uxAWdPGUfl86iL8gpzHG8",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.7025,
+						"y": 0.05405405405405406
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
 				"x": 957.5,
 				"y": 201.796875,
 				"rotation": 0,
@@ -309,6 +403,46 @@ tldr-dg: true
 				"typeName": "camera"
 			},
 			{
+				"x": 263.5,
+				"y": -19.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e72ec-d260-7b50-9f45-69d3f62138b6"
+				},
+				"id": "shape:596Gj7kLSH3qb7Nvvvw8r",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "blue",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -45,
+						"y": -138
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "informs",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aF5WU",
+				"typeName": "shape"
+			},
+			{
 				"x": 990.5,
 				"y": 639.296875,
 				"rotation": 0,
@@ -349,6 +483,28 @@ tldr-dg: true
 				}
 			},
 			{
+				"x": -90.5,
+				"y": -328.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:cdUPA5V5IE0trbhOBc5du",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 184,
+					"src": "asset:obsidian.blockref.97db12aa-df9f-4250-a1e6-0251f3f732a6",
+					"title": "HYP - the effects of real quality & status amplification on citation count can be disentangled",
+					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aA7nT",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:XZceUfGA97mw65TvCNTWA",
 				"type": "discourse-relation",
@@ -385,8 +541,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 10.5,
-				"y": -580.203125,
+				"x": -1.5,
+				"y": -657.203125,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -395,11 +551,11 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 94,
+					"h": 148,
 					"src": "asset:obsidian.blockref.d4f8b255-27b7-4ee3-a840-9d25eec13958",
 					"title": "EXP - compare citation trajectory  in preprint vs journal stage",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
-					"size": "s",
+					"size": "m",
 					"fontFamily": "mono"
 				},
 				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
@@ -487,6 +643,46 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 424.5,
+				"y": 31.53125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e72b7-0809-7924-97ae-d85961a886c3"
+				},
+				"id": "shape:egyr0FFgPtC4W9E8ZV329",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "black",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 100,
+						"y": 0
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "addresses",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_Ge2hTgsP6UFabvpMY45wN"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aD7xT",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:HdDrYIIhzRHw6WaWaUCeL",
 				"type": "discourse-relation",
@@ -503,6 +699,46 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
+			},
+			{
+				"x": 184.5,
+				"y": -255.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e7301-3559-7758-a1d2-e743935f58cc"
+				},
+				"id": "shape:4MEW-iSU66iJniRaUgwRd",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -71,
+						"y": -433
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aAixz",
+				"typeName": "shape"
 			},
 			{
 				"editingShapeId": null,
@@ -612,6 +848,28 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": 182.5,
+				"y": -42.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:uxAWdPGUfl86iL8gpzHG8",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 220,
+					"src": "asset:obsidian.blockref.8871afb3-4c48-466f-b975-e67a51d80cdb",
+					"title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate",
+					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aC8hN",
+				"typeName": "shape"
+			},
+			{
 				"x": -1164.25,
 				"y": 426.875,
 				"rotation": 0,
@@ -669,6 +927,46 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 463.5,
+				"y": -34.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e72eb-f95b-7007-855f-53b2b443d60f"
+				},
+				"id": "shape:B-ecT5rEdQ1XSFPSeZdzY",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "blue",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 115,
+						"y": -148
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "informs",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aE37w",
+				"typeName": "shape"
+			},
+			{
 				"x": 1143.5,
 				"y": 162.79687499999997,
 				"rotation": 0,
@@ -709,6 +1007,24 @@ tldr-dg: true
 				}
 			},
 			{
+				"meta": {},
+				"id": "binding:JVuf0DpkUNE6qC85guXV5",
+				"type": "discourse-relation",
+				"fromId": "shape:4MEW-iSU66iJniRaUgwRd",
+				"toId": "shape:surU_ABv3ivEvVz6wsPL3",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.2425,
+						"y": 0.5078125
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
 				"x": -694.5,
 				"y": 235.796875,
 				"rotation": 0,
@@ -729,6 +1045,24 @@ tldr-dg: true
 					"size": "s",
 					"fontFamily": "mono"
 				}
+			},
+			{
+				"meta": {},
+				"id": "binding:7TlFB-qio7AzAm8DgdONT",
+				"type": "discourse-relation",
+				"fromId": "shape:B-ecT5rEdQ1XSFPSeZdzY",
+				"toId": "shape:5OSA0Jo4oBipZNjb6neIb",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.3125,
+						"y": 0.43617021276595747
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
 			},
 			{
 				"x": 867.25,
@@ -785,7 +1119,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -876,8 +1210,10 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
-				"hoveredShapeId": null,
+				"selectedShapeIds": [
+					"shape:yJT3dK25xyOccOuVCiteI"
+				],
+				"hoveredShapeId": "shape:yJT3dK25xyOccOuVCiteI",
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -907,6 +1243,24 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "a27tu",
 				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:W7HexHstVieqemOxGuX1l",
+				"type": "discourse-relation",
+				"fromId": "shape:4MEW-iSU66iJniRaUgwRd",
+				"toId": "shape:cdUPA5V5IE0trbhOBc5du",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6875,
+						"y": 0.6033057851239669
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -1017,12 +1371,34 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
+					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
 					"size": "m",
 					"fontFamily": "mono"
 				},
 				"parentId": "page:page",
 				"index": "aF7vj",
+				"typeName": "shape"
+			},
+			{
+				"x": 593.5,
+				"y": -606.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:MHfL1MToX0tZvTPbAnqTD",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 148,
+					"src": "asset:obsidian.blockref.6e072eb3-be47-4cb3-b33e-1bbe36a2991b",
+					"title": "EXP - compare citation counts of replicated v non-replicated studies",
+					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+					"size": "m",
+					"fontFamily": "mono"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "a90F6",
 				"typeName": "shape"
 			},
 			{
@@ -1042,7 +1418,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
+					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1111,9 +1487,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
+				"x": 1824.75,
+				"y": 1413.796875,
+				"z": 0.25,
 				"meta": {},
 				"id": "camera:page:Goq6ttT6KeCnQf8YW87EG",
 				"typeName": "camera"
@@ -1178,6 +1554,64 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
+				"id": "binding:syZVAA6TjPkU0hoK4s1Qq",
+				"type": "discourse-relation",
+				"fromId": "shape:egyr0FFgPtC4W9E8ZV329",
+				"toId": "shape:yJT3dK25xyOccOuVCiteI",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.5325,
+						"y": 0.25307058457711445
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"x": 743.5,
+				"y": -306.46875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019e72f6-c142-71ce-9963-c67bf1f1fd86"
+				},
+				"id": "shape:YffqgQcweb4FzEKDAefIc",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "violet",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": 63,
+						"y": -204
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "motivates",
+					"labelPosition": 0.5,
+					"font": "mono",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_M4xTO_--Zo4nsjQGab9bz"
+				},
+				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
+				"index": "aBity",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
 				"id": "page:page",
 				"name": "Lit review",
 				"index": "a1",
@@ -1228,9 +1662,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 90.59375,
-					"w": 1552.5,
-					"h": 1037.40625
+					"y": 90.46875,
+					"w": 1216.5,
+					"h": 942.53125
 				},
 				"insets": [
 					true,
@@ -1247,7 +1681,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": false,
+				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1406,8 +1840,8 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 183.5,
-				"y": 187.796875,
+				"x": 179.5,
+				"y": 459.796875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1420,13 +1854,49 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.1d15eca7-b18c-4775-873a-6aac5b086592",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "m",
 					"fontFamily": "mono"
 				},
 				"parentId": "page:Goq6ttT6KeCnQf8YW87EG",
 				"index": "a1",
 				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:7BG4qzF0fdHExP2J29Tt0",
+				"type": "discourse-relation",
+				"fromId": "shape:YffqgQcweb4FzEKDAefIc",
+				"toId": "shape:5OSA0Jo4oBipZNjb6neIb",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.535,
+						"y": 0.1276595744680851
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:u5orU0aboLm8Cp4NqOvfO",
+				"type": "discourse-relation",
+				"fromId": "shape:596Gj7kLSH3qb7Nvvvw8r",
+				"toId": "shape:uxAWdPGUfl86iL8gpzHG8",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.2025,
+						"y": 0.1554054054054054
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -1588,3 +2058,15 @@ tldr-dg: true
 
 [[EXP - compare citation counts of replicated v non-replicated studies]]
 ^67025679-0834-41ac-b2c9-73eb3d9fa737
+
+[[EXP - compare citation counts of replicated v non-replicated studies]]
+^6e072eb3-be47-4cb3-b33e-1bbe36a2991b
+
+[[HYP - the effects of real quality & status amplification on citation count can be disentangled]]
+^97db12aa-df9f-4250-a1e6-0251f3f732a6
+
+[[HYP - both real quality and status amplification affect citation count]]
+^e48902eb-d0f3-4071-bf47-2604581edb98
+
+[[CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate]]
+^8871afb3-4c48-466f-b975-e67a51d80cdb
