@@ -70,9 +70,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": -416.25,
-				"y": 542.8203125,
-				"lastActivityTimestamp": 1781185382178,
+				"x": 130.5,
+				"y": 42.40625,
+				"lastActivityTimestamp": 1781194173707,
 				"meta": {}
 			},
 			{
@@ -301,9 +301,9 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": 1351.25,
-				"y": 173.0234375,
-				"z": 0.5,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -507,9 +507,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:02aIDaDHnD0xtVZTJhpNH"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -787,7 +785,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -1019,7 +1017,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
+					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -1044,7 +1042,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
+					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1217,13 +1215,11 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {
-					"tldraw:size": "xl"
-				},
+				"stylesForNextShape": {},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
-					"type": "cross",
+					"type": "default",
 					"rotation": 0
 				},
 				"isFocusMode": false,
@@ -1232,9 +1228,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 90.078125,
-					"w": 1187.5,
-					"h": 736.921875
+					"y": 90.59375,
+					"w": 1552.5,
+					"h": 1037.40625
 				},
 				"insets": [
 					true,
@@ -1251,14 +1247,14 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": false,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:page",
+				"currentPageId": "page:Goq6ttT6KeCnQf8YW87EG",
 				"typeName": "instance"
 			},
 			{
@@ -1424,7 +1420,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.1d15eca7-b18c-4775-873a-6aac5b086592",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://9265654e2978724e011c0b16392745051b84/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
 					"size": "m",
 					"fontFamily": "mono"
 				},
