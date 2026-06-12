@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+                "file": "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means"
+              "title": "Track your Projects and Experiments"
             }
           }
         ],
@@ -371,6 +371,11 @@
   },
   "active": "52a6157ff66a58c2",
   "lastOpenFiles": [
+    "DiscourseGraph/EVD - Short CVs with only top-tier papers rated higher than identical CVs plus low-impact papers - @wangBarabasiScienceScience2021.md",
+    "ISS - Create discourse node from template.md",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
+    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
+    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
     "Meta/Attachments/node-log.png",
     "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
     "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
@@ -383,7 +388,6 @@
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
     "Meta/Attachments/birdmath.png",
     "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
     "Meta/Templates/Source.md",
     "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
     "Bases/Sources.base",
@@ -401,13 +405,9 @@
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/ms-canvas.png",
     "Meta/Attachments/canvas-export.png",
-    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
-    "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
     "Meta/Attachments/canvas-walkthru01.gif",
     "attachments/group-mgmt.PNG",
     "attachments/admin-panel02.PNG",
-    "attachments/admin-panel.PNG",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",

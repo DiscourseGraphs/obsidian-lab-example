@@ -70,9 +70,9 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 473.25,
-				"y": 668.328125,
-				"lastActivityTimestamp": 1781201303885,
+				"x": 129.5,
+				"y": 41.65625,
+				"lastActivityTimestamp": 1781276508709,
 				"meta": {}
 			},
 			{
@@ -86,7 +86,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 112,
 					"src": "asset:obsidian.blockref.e48902eb-d0f3-4071-bf47-2604581edb98",
 					"title": "HYP - both real quality and status amplification affect citation count",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -165,7 +165,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 184,
+					"h": 148,
 					"src": "asset:obsidian.blockref.46b7f4ee-c107-4701-bb2d-5b181204de96",
 					"title": "EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
@@ -325,7 +325,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 121,
 					"src": "asset:obsidian.blockref.c6440a6a-cf65-4654-86dc-408457371e5e",
 					"title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -493,7 +493,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 184,
+					"h": 148,
 					"src": "asset:obsidian.blockref.97db12aa-df9f-4250-a1e6-0251f3f732a6",
 					"title": "HYP - the effects of real quality & status amplification on citation count can be disentangled",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -551,7 +551,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 112,
 					"src": "asset:obsidian.blockref.d4f8b255-27b7-4ee3-a840-9d25eec13958",
 					"title": "EXP - compare citation trajectory  in preprint vs journal stage",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -1038,7 +1038,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 94,
 					"src": "asset:obsidian.blockref.c8da151e-791b-44a4-a71e-26b0ada7b647",
 					"title": "CLM - Citations track genuine intellectual influence not merely social network position",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1119,7 +1119,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://bab9cd8cfba7354e75db8c32a5260e30d409/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -1210,10 +1210,8 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:yJT3dK25xyOccOuVCiteI"
-				],
-				"hoveredShapeId": "shape:yJT3dK25xyOccOuVCiteI",
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -1233,7 +1231,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 121,
 					"src": "asset:obsidian.blockref.f4ac52a2-00a5-4fd6-b362-ed852dc7950c",
 					"title": "CLM - Team size and collaboration patterns inflate citation counts independent of individual scientific contributions",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1348,7 +1346,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 121,
 					"src": "asset:obsidian.blockref.3b68afac-dce0-456d-b1bb-12de5233245e",
 					"title": "CLM - The reputation effect on early citations is real but temporary and long-run citation accumulation tracks inherent value",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1366,12 +1364,12 @@ tldr-dg: true
 				"id": "shape:8jwTFw-yjL1gJmHUHBKUF",
 				"type": "discourse-node",
 				"props": {
-					"w": 390.375,
+					"w": 314.234375,
 					"h": 330,
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/DiscourseGraph/sci-sci.png?1780994590700",
+					"imageSrc": "app://bab9cd8cfba7354e75db8c32a5260e30d409/home/karola/obsidian-lab-example/Meta/Attachments/sci-sci.png?1781276058486",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -1390,7 +1388,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 112,
 					"src": "asset:obsidian.blockref.6e072eb3-be47-4cb3-b33e-1bbe36a2991b",
 					"title": "EXP - compare citation counts of replicated v non-replicated studies",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -1411,14 +1409,14 @@ tldr-dg: true
 				"id": "shape:GJul1KkxAITu844sYQzug",
 				"type": "discourse-node",
 				"props": {
-					"w": 333.59375,
-					"h": 236.6575766509434,
+					"w": 273.640625,
+					"h": 209.791789504717,
 					"src": "asset:obsidian.blockref.ae8fd39b-430f-4b1e-990f-60e3c820d237",
 					"title": "@azoulay2012Matthew",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/meff.png?1780994590710"
+					"imageSrc": "app://bab9cd8cfba7354e75db8c32a5260e30d409/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1780051383098"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1435,7 +1433,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 121,
 					"src": "asset:obsidian.blockref.ed97e9a5-7546-41c8-9e2c-864d1b111814",
 					"title": "CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means",
 					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -1487,9 +1485,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1824.75,
-				"y": 1413.796875,
-				"z": 0.25,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:Goq6ttT6KeCnQf8YW87EG",
 				"typeName": "camera"
@@ -1662,9 +1660,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 90.46875,
-					"w": 1216.5,
-					"h": 942.53125
+					"y": 90.34375,
+					"w": 1266.5,
+					"h": 866.65625
 				},
 				"insets": [
 					true,
@@ -1681,7 +1679,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": false,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1850,11 +1848,11 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 402,
+					"h": 366,
 					"src": "asset:obsidian.blockref.1d15eca7-b18c-4775-873a-6aac5b086592",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://896354dc540e95ccf9412c411bbce40926d0/home/karola/projects/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1780994590710",
+					"imageSrc": "app://bab9cd8cfba7354e75db8c32a5260e30d409/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
 					"size": "m",
 					"fontFamily": "mono"
 				},

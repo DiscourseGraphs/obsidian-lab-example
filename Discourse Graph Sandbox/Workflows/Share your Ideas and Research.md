@@ -4,7 +4,6 @@ cssclasses: [sandbox-page]
 
 ---
 
-🚧 Under Construction 👷‍♂️
 
 You've built your graph, it's a work of beauty and insight -- now you're ready to share what you've learned.
 
@@ -65,6 +64,8 @@ The Canvas layout can also be used to spot "gaps" in your argument at a glance, 
 ![](gap-spotting.png)
 _Spotting unsupported Claims before Reviewer #2_
 
+The Canvas is also useful for designing figure panels.
+
 
 ### Arguing with your graph
 
@@ -85,3 +86,13 @@ _In this vault CLM, HYP, ISS, EXP, & QUE node templates have a "log" section_
 
 ## Exporting your graph
 
+Your discourse nodes are markdoewn notes, and they can be copied, printed, & exported in different formats. 
+
+While the **Discourse Node Sync** feature mentioned above is  the only fully-supported way of sharing functional discourse nodes, you can get a quick-and-dirt approximation using copy/paste. Importing a "foreign" discourse node into your graph strips it of its relation data, but it can still be recognized as a discourse node if its NodeTypeId exists in your graph. Open the 3-dot menu  in the file pane: if the option "Convert Into" exists, it is not recognized as a node, and you can select the type of node you'd like to turn it into.
+
+## What else would you like to do?
+
+- [[Build and Utilize a Personal Knowledge Base]]
+- [[Synthesize Insights from the Literature]]
+or
+- [[Track your Projects and Experiments]]
