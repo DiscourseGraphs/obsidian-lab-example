@@ -27,11 +27,11 @@ _Opening the admin panel_
 
 ### Presenting your Canvas
 
-Your [[Using the Canvas|canvas]] can be used to give a Powerpoint- or Figma-like visual overview of your work.
+Your [[Using the Canvas|canvas]] can be used to give a PowerPoint- or Figma-like visual overview of your work.
 
 You can start at your motivating Question and move through your hypothesis to your experiments and their results, opening each node in the sidebar to show your audience relevant details.
 
-    ![canvas walkthrough](canvas-walkthru01.gif)
+![canvas walkthrough](canvas-walkthru01.gif)
 _Example Canvas walkthrough_
 
 You can create a "presentation view" for your discourse nodes by adding the material/images you wish to highlight at the top of the page -- the first image on the page is automatically selected as the image that displays on the discourse canvas.
@@ -42,7 +42,7 @@ You can create a "presentation view" for your discourse nodes by adding the mate
 
 You can export a static .png or .svg image of your discourse  canvas from the menu.
 
-![export a png or svg](canvas-export)
+![export a png or svg](canvas-export.png)
 _Canvas export menu_
 
 >[!info] It is not possible at present to export a "live" discourse canvas to another graph. 
@@ -86,9 +86,9 @@ _In this vault CLM, HYP, ISS, EXP, & QUE node templates have a "log" section_
 
 ## Exporting your graph
 
-Your discourse nodes are markdoewn notes, and they can be copied, printed, & exported in different formats. 
+Your discourse nodes are markdown notes, and they can be copied, printed, & exported in different formats. 
 
-While the **Discourse Node Sync** feature mentioned above is  the only fully-supported way of sharing functional discourse nodes, you can get a quick-and-dirt approximation using copy/paste. Importing a "foreign" discourse node into your graph strips it of its relation data, but it can still be recognized as a discourse node if its NodeTypeId exists in your graph. Open the 3-dot menu  in the file pane: if the option "Convert Into" exists, it is not recognized as a node, and you can select the type of node you'd like to turn it into.
+While the **Discourse Node Sync** feature mentioned above is  the only fully-supported way of sharing functional discourse nodes, you can get a quick-and-dirty approximation using copy/paste. Importing a "foreign" discourse node into your graph strips it of its relation data, but it can still be recognized as a discourse node if its NodeTypeId exists in your graph. Open the 3-dot menu  in the file pane: if the option "Convert Into" exists, it is not recognized as a node, and you can select the type of node you'd like to turn it into.
 
 ## What else would you like to do?
 

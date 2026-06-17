@@ -41,7 +41,7 @@ If you're a **"graph-centric"** vault user, following Obsidian wiki-linking and 
 
 As you build out your graph, your discourse nodes will begin to form "paths of desire" around the central Questions in your vault.
 
-![ graph view|400](graph-view02)
+![ graph view|400](graph-view02.png)
 
 >[!tip] Graph Gardening: Add a random note picker to your vault to get in the habit of reviewing older notes for potential conversion to discourse nodes
 
@@ -94,7 +94,7 @@ Of course you may be the author of many of the original notes in your vault -- i
 
 ### Progressive formalization
 
-The goal is to gradually convert most of your existing notes  into SRC notes that link to one or more CLM, QUE, or EVD nodes.
+The goal is to gradually convert most of your existing notes into a graph of interlinked CLM, QUE, or EVD nodes.
 
 You can jumpstart the process by identifying [[Candidate nodes]] in your existing notes, and revisiting these notes to decide which nodes should be promoted to full-fledged discourse nodes. The trigger for such a promotion is identifying their relevance to one of your research questions, or finding a potential [[Creating Relations|discourse relation]] elsewhere in your graph.
 
