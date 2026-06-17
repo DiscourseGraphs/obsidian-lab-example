@@ -41,7 +41,7 @@ If you're a **"graph-centric"** vault user, following Obsidian wiki-linking and 
 
 As you build out your graph, your discourse nodes will begin to form "paths of desire" around the central Questions in your vault.
 
-![ graph view|400](graph-view02)
+![ graph view|400](graph-view02.png)
 
 >[!tip] Graph Gardening: Add a random note picker to your vault to get in the habit of reviewing older notes for potential conversion to discourse nodes
 
