@@ -1,0 +1,35 @@
+/* Styles scoped to Discourse Graph Sandbox pages via cssclasses: [sandbox-page] */
+/* .sandbox-page is on the same element as .markdown-preview-view, so use
+   compound selectors (.sandbox-page.x) or descendant from .sandbox-page directly */
+
+/* Expand text margins — adds to Obsidian's default reading view padding */
+.sandbox-page.markdown-preview-view {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+/* Center image embeds: shrink span to image width, then auto-margin */
+.sandbox-page .image-embed {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+/* Vertical breathing room around image paragraphs */
+.sandbox-page p:has(.image-embed) {
+  margin: 1.5em 0;
+}
+
+/* Drop shadow to lift screenshots off the page */
+.sandbox-page img {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+/* Italic text on the line after an image (same paragraph, no blank line) → caption */
+.sandbox-page .image-embed ~ em {
+  display: block;
+  text-align: center;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-top: 0.4em;
+}

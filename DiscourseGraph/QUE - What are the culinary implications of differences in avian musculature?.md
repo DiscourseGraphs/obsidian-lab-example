@@ -3,6 +3,7 @@ nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
 template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
+  - avian_biomechanics
 cssclasses: dg-que
 nodeInstanceId: 019df250-5c69-7ab1-be17-5fc22a2d42d6
 ---

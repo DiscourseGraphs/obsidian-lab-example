@@ -8,7 +8,21 @@ tags:
 citekey: sirLancelot
 title: sirLancelot
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId: 019df250-5bff-785e-a8bb-0fa1cf3fc730
+nodeInstanceId: 019e877e-7e4e-768c-9363-ae5cc350e84d
+cover: "[[lancelot.png]]"
 ---
+
+
+## Relevant Topics
+
+
+## Relevant Questions
+
+
+## Quotes, Figures, Evidence
+
+
+
+
 ![[lancelot.png|300]]
 

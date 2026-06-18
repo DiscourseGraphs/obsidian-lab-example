@@ -3,8 +3,10 @@ nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
 template: "[[Result]]"
 newNoteFolder: DiscourseGraph
 tags:
+  - avian_biomechanics
 cssclasses: dg-res
 contributors:
+source:
 aliases:
   - RES - The airspeed velocity of an unladen swallow is 11-17 meters per second
 nodeInstanceId: 019dde97-f22e-780d-a5d6-89cb4a1cd106

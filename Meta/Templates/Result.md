@@ -5,7 +5,8 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-res
 contributors:
-nodeInstanceId: 019df250-5c71-7f76-b1f7-b533bdbb69c5
+source:
+nodeInstanceId: 019e877e-7e96-7a3d-baf8-57f3264b376c
 ---
 
 ## Summary

@@ -41,5 +41,32 @@
       ],
       "key": "\\"
     }
+  ],
+  "discourse-graphs:create-discourse-graph-canvas": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "zotsidian:open-zotero-search-panel": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "templater-obsidian:Meta/Templates/Set cover from first image.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

@@ -22,7 +22,9 @@ cssclasses: ""
 zotero_key: ""
 reading_status: ""
 nodeInstanceId: 019ddeb4-2099-76ef-88a7-3280173b9a57
+cover: "[[1-s2.0-S0960982222010843-gr2_lrg.jpg]]"
 ---
+
 
 
 > [!info]-

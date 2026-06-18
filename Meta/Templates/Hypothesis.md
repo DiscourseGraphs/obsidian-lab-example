@@ -5,7 +5,7 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-hyp
 confidence:
-nodeInstanceId: 019df250-5c5f-75c8-8b35-36c4e1a12a9c
+nodeInstanceId: 019e702d-3d48-7319-bfd1-3a1f04d97ae1
 ---
 
 # Rationale
@@ -41,3 +41,7 @@ return function NodeSetup() {
 }
 ```
 
+
+> [!log] Log
+
+### YYYY-MM-DD

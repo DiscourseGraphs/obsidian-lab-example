@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 
 ## How to use Projects 
 
@@ -58,7 +61,8 @@ The Project is also the natural container for the **Experiment** node, which is 
 
 Learn more about creating and tracking experiments [[Experiment Tracking | here]]
 
-Or you can learn how to 
+## What else would you like to do?
+
 - [[Build and Utilize a Personal Knowledge Base]]
 - [[Synthesize Insights from the Literature]]
 or

@@ -3,6 +3,15 @@
 Append-only log. Newest entries at the bottom.
 See CLAUDE.md for format and conventions.
 
+## 2026-05-28 — Zotsidian source template body not applied
+
+**[[QUE - Can the Zotsidian hover-menu "Create Source Page" action be made to apply the chosen Source template?]]**
+
+**[[CLM - Zotsidian's sourceTemplatePath reads frontmatter-only; the template body is never written to new source pages.]]**
+**[[EVD - materializeSourcePage creates files with a bare # @citekey stub and applySourceFrontmatter only patches YAML properties.]]**
+
+**[[RES - Open an issue in the Zotsidian repo requesting full template body support, rather than patching main.js locally.]]**
+
 ---
 
 ## 2026-04-13 — Convert Dataview syntax to Datacore in Daily Note Template
@@ -455,3 +464,81 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - Datacore's @list-item query type exposes $tags and $text per list item, enabling candidate collection and display at line granularity rather than page granularity.]]**
 
 **[[RES - Created Bases/Discourse Graph Nodes.base with three views (By Target Question, By Project, By Tags). Created Dashboards/Candidate Nodes.md as a DatacoreJSX component querying @list-item for any tag containing "-candidate", grouped by source page with colored type badges.]]**
+
+---
+
+## 2026-05-13 — Topic tagging strategy for multi-topic discourse graphs
+
+**[[QUE - How should discourse nodes be organized when working across multiple unrelated topics?]]**
+
+**[[CLM - Topic identity belongs in frontmatter (a tags: or topic: field), not in template duplication or folder structure; templates are node-type-specific and are shared across topics.]]**
+**[[CLM - A flat DiscourseGraph/ folder with a per-node topic tag is preferable to subfolders because existing Bases/Datacore queries continue to work without path changes.]]**
+
+**[[RES - Added tag avian_biomechanics to all 19 existing discourse nodes in DiscourseGraph/ via the tags: frontmatter field. New nodes on different topics will use a different tag value in the same field; the existing node-type templates require no modification.]]**
+
+---
+
+## 2026-05-14 — Card cover image via Templater script
+
+**[[QUE - Is there any way to automatically use the first image on a page as its card image in Bases card view?]]**
+
+**[[CLM - Obsidian Bases card view reads cover images from a designated frontmatter property; there is no native mechanism to extract the first embedded image from note body content.]]**
+
+**[[CLM - A Templater command script is the lowest-friction automation: it reads the open file's content, finds the first `![[...]]` image embed, and writes the filename to a `cover:` frontmatter property — triggered manually from the command palette in one keypress.]]**
+**[[EVD - Sources.base card view uses `cover: cover` and `image: note.cover` to display the property as the card image, confirmed by linter rewrite of the base file after creation.]]**
+
+**[[RES - Created Meta/Templates/Set cover from first image.md as a Templater command script. Sources.base card view updated with `cover: cover` and `image: note.cover`. Run via command palette on any open file that contains an embedded image.]]**
+
+---
+
+## 2026-05-15 — Tag Mentions Log on Source pages
+
+**[[HYP - Source pages should automatically display other vault notes that share the same topic tags listed in their frontmatter.]]**
+
+**[[CLM - A DatacoreJSX block reading `current.$frontmatter.tags` and querying `p.$tags` across all pages gives a live, per-tag index of co-tagged notes without requiring any manual upkeep.]]**
+**[[CLM - Structural tags (those starting with `dg/`) must be excluded so the log surfaces only meaningful topic tags like `#matthew_effect` or `#avian_biomechanics`.]]**
+
+**[[RES - Added a "Tag Mentions Log" section at the bottom of the Source template and all 15 existing source pages; the DatacoreJSX block groups matching notes under each topic tag heading.]]**
+
+---
+
+## 2026-05-29 — Set cover script: active file targeting and new-file cleanup
+
+**[[QUE - The Set cover from first image script creates an untitled file instead of setting the cover on the current note — how should it be fixed?]]**
+
+**[[CLM - The script was using `tp.file.path(true)` to identify the target file; when invoked via "Create new note from template", this resolves to the newly created file rather than the original.]]**
+**[[CLM - Replacing `tp.file.path(true)` with `app.workspace.getActiveFile()` at the top of the script captures the original active file before Templater's new-file creation changes context.]]**
+**[[CLM - Templater still creates the unwanted new file even after the cover is set correctly; the script must explicitly trash it and navigate back to the original.]]**
+**[[EVD - After switching to `getActiveFile()`, cover was set correctly on the original note but the untitled file persisted, confirming the two bugs are independent.]]**
+
+**[[RES - Script updated to (1) capture `originalFile` via `app.workspace.getActiveFile()`, (2) compare `tp.file.path(true)` against `originalFile.path` after doing the work, and (3) trash the created file and reopen the original if the paths differ. Works correctly under both "Create new note" and "Insert Template" invocation.]]**
+
+---
+
+## 2026-05-29 — Hide cover property text from Bases card view
+
+**[[QUE - The cover image filename appears as a text field on the card, overshadowing the source note's filename — can it be hidden?]]**
+
+**[[CLM - Listing `cover` in the card view's `order` array causes it to render as a visible field; the `cover:` and `image:` directives that drive the card image are separate and unaffected by removing it from `order`.]]**
+
+**[[RES - Removed `cover` from the `order` list in Sources.base card view. The image still renders via `cover: cover` / `image: note.cover`; the filename no longer appears as a card field.]]**
+
+---
+
+## 2026-05-29 — Sandbox-only reading view styles via cssclasses snippet
+
+**[[QUE - How can reading-view styles (image centering, text margins) be scoped only to Discourse Graph Sandbox pages without affecting the rest of the vault?]]**
+
+**[[CLM - A CSS snippet gated by `cssclasses: [sandbox-page]` frontmatter on each sandbox file is the cleanest scoping mechanism; no other vault files are affected.]]**
+
+**[[CLM - `cssclasses` adds the class to the `.markdown-preview-view` element itself, not to a parent; descendant selectors like `.sandbox-page .markdown-preview-view` never match — compound selectors (`.sandbox-page.markdown-preview-view`) are required.]]**
+**[[EVD - DevTools confirmed `.sandbox-page` is on the same DOM element as `.markdown-preview-view.markdown-rendered`; all prior `.sandbox-page .markdown-rendered X` rules were no-ops.]]**
+
+**[[CLM - Obsidian renders markdown images as `<img>` inside `<span class="image-embed">` inside `<p>`; `p:has(img)` matches but `text-align: center` on the paragraph cannot center a block-level span child.]]**
+**[[EVD - DevTools scan of visible imgs (filtered by bounding-rect width > 50px) showed parent `SPAN.internal-embed.media-embed.image-embed.is-loaded`, grandparent `P` with no class.]]**
+
+**[[CLM - Targeting `.image-embed` with `display: block; width: fit-content; margin: 0 auto` correctly centers images: `width: fit-content` shrinks the span to the image's own width so `margin: auto` has an effect.]]**
+
+**[[CLM - `padding-left/right` on the reading view container expands text margins without constraining image widths; `max-width` would resize images wider than the specified value.]]**
+
+**[[RES - Created `.obsidian/snippets/sandbox-layout.css` (enabled in appearance.json) with compound-selector rules; added `cssclasses: [sandbox-page]` frontmatter to all 14 sandbox files. Also fixed 5 broken image-size syntax instances in The Discourse Graph Protocol.md (`![alt|300](file)` not `![alt](file|300)`).]]**

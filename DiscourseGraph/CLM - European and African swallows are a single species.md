@@ -1,6 +1,7 @@
 ---
 nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
 tags:
+  - avian_biomechanics
 cssclasses: dg-clm
 confidence:
 aliases:
@@ -11,7 +12,7 @@ nodeInstanceId: 019dde98-14dc-73c5-95f9-cc15930f3058
 **Evidence statement:** [[EVD - Molecular phylogeny places Eur&Afr swallows in the same species]]
 # Source of Claim
 
-[@dorPhylogenyGenusHirundo2010]
+[[@dorPhylogenyGenusHirundo2010]]
 
 # Notes
 

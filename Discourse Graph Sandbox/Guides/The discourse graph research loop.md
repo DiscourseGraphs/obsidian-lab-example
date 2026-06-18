@@ -1,5 +1,9 @@
 
 
+---
+cssclasses: [sandbox-page]
+---
+
 - First, find and refine a research **question** 
     - Search the literature for  **evidence** that informs the **question**, and add those to your notes
     - list **claims** from the literature that are relevant to the **question**

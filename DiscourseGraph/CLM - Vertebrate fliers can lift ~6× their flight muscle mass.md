@@ -1,6 +1,7 @@
 ---
 nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
 tags:
+  - avian_biomechanics
 cssclasses: dg-clm
 confidence: 0.7
 aliases:
@@ -23,7 +24,7 @@ If these birds can lift 6X their flight muscle mass at takeoff, then a 5 ounce b
 
 [[EVD - Max lift per unit flight muscle mass ~ 54-63N-kg]]
 	SupportedBy
-		 [@mardenMaximumLiftProduction1987]
+		 [[@mardenMaximumLiftProduction1987]]
 
 
 # Notes

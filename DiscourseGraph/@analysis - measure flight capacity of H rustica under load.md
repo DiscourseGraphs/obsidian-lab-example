@@ -5,6 +5,7 @@ newNoteFolder: DiscourseGraph
 aliases:
   - "@analysis - determine flight capacity of H rustica under load"
 tags:
+  - avian_biomechanics
   - dg/source
 cssclasses: dg-exp
 status: seed
@@ -17,17 +18,19 @@ dg_type: Source
 keywords: ""
 rating: 3
 citekey: analysis - determine flight capacity of H rustica under load empirically
+cover: "[[windtunnel.PNG]]"
 ---
 
 # Resources
 
 ### Key References
 
-[[@mardenMaximumLiftProduction1987]
+[[[@mardenMaximumLiftProduction1987]]
 
-[@kvistCarryingLargeFuel2001]
+[[@kvistCarryingLargeFuel2001]]
 
-[@parkFlightKinematicsBarn2001]
+[[@parkFlightKinematicsBarn2001]]
+
 
 ####  Experimental setup
 
@@ -96,7 +99,7 @@ return function AddLogEntry() {
 
 ### 2026-04-21
 
-- new Question from [[@directquote-that guy on the bridge]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
+- new Question from [[[@directquote-that guy on the bridge]]]: [[QUE - What is the airspeed velocity of an unladen swallow?]]
 >[!tip] This question  will eventually spawn a new research chain. Data gathered in the course of investigating this target question will bear on [[QUE - what is the airspeed velocity of an unladen swallow?|QUE - what is the airspeed velocity of an unladen swallow?]] - and spawn a counter-question that knocks the bridge troll off his feet
 
 ---
@@ -105,52 +108,83 @@ return function AddLogEntry() {
 ```datacorejsx
 return function View() {
   const current = dc.useCurrentFile();
-  const FIELD = "🧪ExperimentLog";
-  const ALT = "ExperimentLog";
+  const [mentions, setMentions] = React.useState(null);
 
-  const pages = dc.useQuery('@page and path("Daily Notes")');
+  React.useEffect(() => {
+    if (!current) return;
+    const topicTags = (current.$tags ?? [])
+      .map(t => String(t).replace(/^#+/, "").trim())
+      .filter(t => t && !t.startsWith("dg/"));
+    if (!topicTags.length) { setMentions({}); return; }
+    let live = true;
+    (async () => {
+      const vault = dc.app.vault;
+      const mcache = dc.app.metadataCache;
+      const byTag = {};
+      for (const tag of topicTags) byTag[tag] = [];
+      for (const file of vault.getMarkdownFiles()) {
+        if (file.path === String(current.$path)) continue;
+        const cache = mcache.getFileCache(file);
+        const hits = (cache?.tags ?? []).filter(
+          tc => topicTags.includes(tc.tag.replace(/^#/, "").trim())
+        );
+        if (!hits.length) continue;
+        const text = await vault.cachedRead(file);
+        if (!live) return;
+        const lines = text.split('\n');
+        for (const tc of hits) {
+          const tag = tc.tag.replace(/^#/, "").trim();
+          byTag[tag].push({
+            path: file.path,
+            name: file.basename,
+            line: (lines[tc.position.start.line] ?? "").trim()
+          });
+        }
+      }
+      if (live) setMentions(byTag);
+    })();
+    return () => { live = false; };
+  }, [String(current?.$path)]);
 
-  const rows = dc.useMemo(() =>
-    pages
-      .filter(p => {
-        const v = p.value(FIELD) || p.value(ALT);
-        if (!v) return false;
-        return String(v).includes(current.$name);
-      })
-      .sort((a, b) =>
-        String(b.$name).localeCompare(String(a.$name))
-      ),
-    [pages, current]
-  );
-
-  if (rows.length === 0)
-    return (
-      <p>
-        <em>
-          No entries yet. In your daily note write:
-          {" "}<code>{"#🧪ExperimentLog:: [[" + current.$name + "]] your note here"}</code>
-        </em>
-      </p>
-    );
-
+  if (!current || mentions === null)
+    return <p><em>Scanning…</em></p>;
+  const topicTags = (current.$tags ?? [])
+    .map(t => String(t).replace(/^#+/, "").trim())
+    .filter(t => t && !t.startsWith("dg/"));
+  if (!topicTags.length)
+    return <p><em>No topic tags in frontmatter.</em></p>;
   return (
-    <ul>
-      {rows.map((p, i) => {
-        const v = String(p.value(FIELD) || p.value(ALT));
-        const href = String(p.$path).replace(/\.md$/, "");
+    <div>
+      {topicTags.map((tag, i) => {
+        const items = mentions[tag] ?? [];
         return (
-          <li key={i}>
-            <strong>
-              <a href={href} className="internal-link" data-href={href}>
-                {p.$name}
-              </a>
-            </strong>
-            {" — "}
-            {v.replace("[[" + current.$name + "]]", "").trim()}
-          </li>
+          <div key={i}>
+            <strong>#{tag}</strong>
+            {!items.length
+              ? <p style={{marginLeft:"1em"}}><em>No mentions.</em></p>
+              : <ul>
+                  {items.map((m, j) => {
+                    const href = m.path.replace(/\.md$/, "");
+                    const text = m.line
+                      .replace(/#\S+/g, "")
+                      .replace(/^[-*>\s]+/, "")
+                      .trim();
+                    return (
+                      <li key={j}>
+                        <a href={href}
+                          className="internal-link"
+                          data-href={href}
+                        >{m.name}</a>
+                        {text ? ` — ${text}` : ""}
+                      </li>
+                    );
+                  })}
+                </ul>
+            }
+          </div>
         );
       })}
-    </ul>
+    </div>
   );
 }
 ```

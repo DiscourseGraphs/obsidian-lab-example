@@ -18,6 +18,15 @@ abstract: Maximum lift production during takeoff in still air was determined for
 zotero: zotero://select/library/items/42AL3YRF
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
 nodeInstanceId: 019ddeb9-df52-7e42-85ac-72f594bdcdb6
+cover: "[[marden-fig1.png]]"
 ---
 
-# @mardenMaximumLiftProduction1987
+## Relevant Topics
+
+
+## Relevant Questions
+
+
+## Quotes, Figures, Evidence
+
+![marden|400](marden-fig1.png)

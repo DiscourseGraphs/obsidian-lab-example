@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 
 ## What are Relations?
 
@@ -32,11 +35,17 @@ To create a relation, open the source node that you'd like to create a relation 
 
 ## Building out your graph
 
+As the edges of your graph, relations are especially useful in graph traversal and the discovery/resurfacing of other nodes. This is especially true in large vaults, where the informational distance between two nodes can seem large.
+
+![graph traversal](card-cat.png)
+
 Creating relations between your nodes is a good way to discover what's missing from your project/knowledge base/argument. 
 
 ![mind the gap|300](anansi.png)
 
+
 [[Creating Nodes]] and [[Creating Relations]] are the basic discourse moves. Now you're ready to embed them in a sensemaking activity:
+
 - [[Build and Utilize a Personal Knowledge Base]]
 - [[Synthesize Insights from the Literature]]
 - [[Track your Projects and Experiments]]

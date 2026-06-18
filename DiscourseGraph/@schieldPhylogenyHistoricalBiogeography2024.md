@@ -23,6 +23,15 @@ abstract: Swallows (Hirundinidae) are a globally distributed family of passerine
 zotero: zotero://select/library/items/IWIZRT8B
 nodeTypeId: node_-PIYSmr5icSFMACYAUobE
 nodeInstanceId: 019de296-9e22-7b13-a160-76b3236f20c9
+cover: "[[swallow-phylo.jpg]]"
 ---
 
-# @schieldPhylogenyHistoricalBiogeography2024
+## Relevant Topics
+
+
+## Relevant Questions
+
+
+## Quotes, Figures, Evidence
+
+![](swallow-phylo.jpg)

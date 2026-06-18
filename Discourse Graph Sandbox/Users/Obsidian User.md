@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 ## Creating a Vault
 
 Your discourse graph can live

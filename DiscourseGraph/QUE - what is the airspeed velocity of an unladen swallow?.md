@@ -2,6 +2,7 @@
 template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
+  - avian_biomechanics
 cssclasses: dg-que
 aliases:
   - QUE - what is the airspeed velocity of an unladen swallow?
@@ -22,9 +23,9 @@ nodeInstanceId: 019de4d5-8e8a-78e4-967b-52eef6469e06
 
 ## Papers
 
-[@parkFlightKinematicsBarn2001]
+[[@parkFlightKinematicsBarn2001]]
 
-[@schmidt-wellenburgEnergyExpenditureWing2007]
+[[@schmidt-wellenburgEnergyExpenditureWing2007]]
 ## Notes
 
 

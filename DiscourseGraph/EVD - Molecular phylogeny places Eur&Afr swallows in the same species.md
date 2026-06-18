@@ -1,8 +1,10 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
 tags:
+  - avian_biomechanics
 cssclasses: dg-evd
 centrality:
+source:
 aliases:
   - EVD - Molecular phylogeny places European and African barn swallow populations as intermixed-sister subspecies, with additional African endemic lineages elsewhere in the family.
 nodeInstanceId: 019dde98-5839-7354-a5eb-e5e090752e0b
@@ -10,10 +12,10 @@ nodeInstanceId: 019dde98-5839-7354-a5eb-e5e090752e0b
 
 # Evidence Summary
 
-![[swallow phylo.jpg|350]]
+![[swallow-phylo.jpg|350]]
  
- [@dorPhylogenyGenusHirundo2010]
-[@schieldPhylogenyHistoricalBiogeography2024]
+ [[@dorPhylogenyGenusHirundo2010]]
+[[@schieldPhylogenyHistoricalBiogeography2024]]
 # Grounding Context
 
 Well-resolved phylogeny of the swallow family using genome-wide UCE data.

@@ -1,3 +1,6 @@
+---
+cssclasses: [sandbox-page]
+---
 
 ## How to use Experiments
 
@@ -32,12 +35,26 @@ This vault contains several example experiments demonstrating how the Experiment
 
 ![Example experiment](example-exp01.png)
 
-This page collects **Issues**, **Results**, and **ToDos** related to th experiment, as well as refernces to the experiment from your **Experimental Log** on your Daily Notes Page. The experiment page is the natural place to review candidate results snd issues and decide whether they should be promoted to mature Results and Issues/Experiments.
+This page collects **Issues**, **Results**, and **ToDos** related to the experiment, as well as references to the experiment from your **Experimental Log** on your Daily Notes Page. The experiment page is the natural place to review candidate results snd issues and decide whether they should be promoted to mature Results and Issues/Experiments.
 
 ## Experiment relations
 
-As a **Source** node, the **Experiment** has a special relationship to **Result** nodes: the **Experiment** produces **Results**. 
+As a **Source** node, the **Experiment** has a special relationship to **Result** nodes: the **Experiment** _produces_ **Results**. 
 
 Conversely, each Result in your graph should reference an Experiment.
 
-The Experiment also has a relationship with the **Issue** node, as Experiments generate/suggest **Issues** that may later be developed into Experiments.
+The Experiment also has a relationship with the **Issue** node, as Experiments _suggest/produce_ **Issues** that may later be developed into Experiments.
+
+![iss-exp relations](iss-exp.png)
+
+## Transforming an Issue into an Experiment
+
+If you decide an Issue captures something worth doing, you can easily change it into an Experiment: the **Issue** template is identical to the **Experiment** template, so you can either duplicate the node and change the name and metadata to use your preferred EXP syntax (e.g. "@measurement -") or simply edit the title of the Issue in place.
+
+![issue example](iss-ex.png)
+
+
+## What else would you like to do?
+- [[Synthesize Insights from the Literature]]
+- [[Build and Utilize a Personal Knowledge Base]]
+- [[Share your Ideas and Research]]
