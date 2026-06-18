@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Track your Projects and Experiments"
+              "title": "README"
             }
           }
         ],
@@ -371,9 +371,15 @@
   },
   "active": "52a6157ff66a58c2",
   "lastOpenFiles": [
+    "attachments/call-template.PNG",
+    "relational valence analysis.md",
+    "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
+    "Meta/Templates/Question.md",
+    "attachments/example-template01.PNG",
+    "Meta/Templates/Conclusion.md",
+    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
     "DiscourseGraph/EVD - Short CVs with only top-tier papers rated higher than identical CVs plus low-impact papers - @wangBarabasiScienceScience2021.md",
     "ISS - Create discourse node from template.md",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
     "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
     "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
     "Meta/Attachments/node-log.png",
@@ -395,19 +401,13 @@
     "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
     "DiscourseGraph/QUE - what am I even doing here?.md",
     "DiscourseGraph/QUE - What are the culinary implications of differences in avian musculature?.md",
-    "DiscourseGraph/QUE - African or European?.md",
-    "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
     "Meta/Attachments/graph-argument-evd.png",
-    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
     "Meta/Attachments/graph-argument.png",
     "Meta/Attachments/gap-spotting.png",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/ms-canvas.png",
     "Meta/Attachments/canvas-export.png",
     "Meta/Attachments/canvas-walkthru01.gif",
     "attachments/group-mgmt.PNG",
-    "attachments/admin-panel02.PNG",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
