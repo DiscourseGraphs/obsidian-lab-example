@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Meta/Templates/Test template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Test template"
+            }
+          },
+          {
+            "id": "f46425cab80f6487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/TEST - Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TEST - Untitled"
+            }
+          },
+          {
+            "id": "d03857cc3d2c9c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/EVD - testing templates 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EVD - testing templates 2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -345,9 +393,33 @@
               "icon": "graduation-cap",
               "title": "References"
             }
+          },
+          {
+            "id": "60d2a1e5217c0dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RES - The airspeed velocity of an unladen swallow is 11 m-s"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -369,18 +441,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52a6157ff66a58c2",
+  "active": "d03857cc3d2c9c20",
   "lastOpenFiles": [
-    "attachments/call-template.PNG",
-    "relational valence analysis.md",
-    "DiscourseGraph/QUE - what is the airspeed velocity of an unladen swallow?.md",
-    "Meta/Templates/Question.md",
+    "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
+    "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
+    "Meta/Templates/Evidence.md.tmp.1936.9c10e5e268d5",
+    "Meta/Templates/Evidence.md",
+    "DiscourseGraph/EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008.md",
+    "DiscourseGraph/EVD - testing templates 2.md",
+    "DiscourseGraph/TEST - Untitled.md",
+    "Meta/Templates/Test template.md",
+    "Meta/Templates/Claim.md",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
+    "Meta/Attachments/create-new-node-type.png",
+    "Meta/Attachments/pres-view01.png",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Meta/Attachments/Pasted image 20260618175027.png",
     "attachments/example-template01.PNG",
-    "Meta/Templates/Conclusion.md",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-    "DiscourseGraph/EVD - Short CVs with only top-tier papers rated higher than identical CVs plus low-impact papers - @wangBarabasiScienceScience2021.md",
-    "ISS - Create discourse node from template.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
+    "attachments/call-template.PNG",
     "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
     "Meta/Attachments/node-log.png",
     "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
@@ -394,20 +472,16 @@
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
     "Meta/Attachments/birdmath.png",
     "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
     "Meta/Templates/Source.md",
     "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
     "Bases/Sources.base",
     "DiscourseGraph/@CedricChin - CommonCog.md",
     "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
     "DiscourseGraph/QUE - what am I even doing here?.md",
-    "DiscourseGraph/QUE - What are the culinary implications of differences in avian musculature?.md",
     "Meta/Attachments/graph-argument-evd.png",
     "Meta/Attachments/graph-argument.png",
     "Meta/Attachments/gap-spotting.png",
-    "Meta/Attachments/ms-canvas.png",
-    "Meta/Attachments/canvas-export.png",
-    "Meta/Attachments/canvas-walkthru01.gif",
-    "attachments/group-mgmt.PNG",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
@@ -415,8 +489,6 @@
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
     "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md.tmp.11171.f3b67fddc566",
     "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md.tmp.11171.002c19fa6b33",
-    "Discourse Graph Sandbox/Users/Obsidian User.md.tmp.11171.8e23a9a2c4de",
-    "Discourse Graph Sandbox/Users/Blank Slate.md.tmp.11171.375d0f0c2782",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

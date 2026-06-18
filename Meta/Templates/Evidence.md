@@ -1,5 +1,6 @@
 ---
 nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
+template: "[[Evidence]]"
 tags:
 cssclasses: dg-evd
 centrality:
