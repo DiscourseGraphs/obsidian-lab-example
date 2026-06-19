@@ -1,10 +1,9 @@
 ---
-nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
+
 template: "[[Question]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-que
-nodeInstanceId: 019e877e-7e88-7591-bd65-abc5ff53b4a6
 ---
 
 ## Summary

@@ -542,3 +542,14 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - `padding-left/right` on the reading view container expands text margins without constraining image widths; `max-width` would resize images wider than the specified value.]]**
 
 **[[RES - Created `.obsidian/snippets/sandbox-layout.css` (enabled in appearance.json) with compound-selector rules; added `cssclasses: [sandbox-page]` frontmatter to all 14 sandbox files. Also fixed 5 broken image-size syntax instances in The Discourse Graph Protocol.md (`![alt|300](file)` not `![alt](file|300)`).]]**
+
+---
+
+## 🐞 2026-06-19 — "Convert Into" did not apply node type template
+
+**[[QUE - Has the "Convert Into" template-application fix been applied in this vault?]]**
+
+**[[CLM - convertPageToDiscourseNode in main.js only wrote nodeTypeId to frontmatter and never called applyTemplate, unlike createDiscourseNodeFile (the Cmd+\ new-node flow) which did.]]**
+**[[EVD - Only one applyTemplate() call existed in main.js (in createDiscourseNodeFile, ~line 66416); convertPageToDiscourseNode stopped after processFrontMatter at ~line 66525.]]**
+
+**[[RES - Added an applyTemplate() call in convertPageToDiscourseNode immediately after the processFrontMatter call that sets nodeTypeId, mirroring the create-node flow.]]**

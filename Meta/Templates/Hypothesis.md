@@ -1,11 +1,11 @@
 ---
-nodeTypeId: node_8eLgGKXiSzIWJvcrGCBFE
+
 template: "[[Hypothesis]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-hyp
 confidence:
-nodeInstanceId: 019e702d-3d48-7319-bfd1-3a1f04d97ae1
+
 ---
 
 # Rationale

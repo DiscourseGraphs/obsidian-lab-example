@@ -13,8 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Source.md",
-                "mode": "preview",
+                "file": "Meta/Templates/Claim.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Claim"
+            }
+          },
+          {
+            "id": "51d36cb583a3626f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/CLM - test node 009.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +52,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Source"
+              "title": "CLM - test node 009"
+            }
+          },
+          {
+            "id": "1a59409c6e9e8723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/EVD - test node 010.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EVD - test node 010"
+            }
+          },
+          {
+            "id": "f46735119945fa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - test node 22 yy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - test node 22 yy"
+            }
+          },
+          {
+            "id": "86e5d68f6aab051b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Result.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Result"
+            }
+          },
+          {
+            "id": "043a45b79a3dda67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Claim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Claim"
+            }
+          },
+          {
+            "id": "2c94d9039368e63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Hypothesis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hypothesis"
             }
           },
           {
@@ -133,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/EVD - testing templates 2.md",
+                "file": "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EVD - testing templates 2"
+              "title": "Creating & modifying templates"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -441,44 +585,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d03857cc3d2c9c20",
+  "active": "45cc7a07f8509fee",
   "lastOpenFiles": [
+    "DiscourseGraph/EVD - test node 010.md",
+    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "DiscourseGraph/TEST - Untitled.md",
+    "DiscourseGraph/CON - test conclusion.md",
+    "DiscourseGraph/QUE - test node 22 yy.md",
+    "Meta/Templates/Hypothesis.md",
+    "Meta/Templates/Conclusion.md",
+    "DiscourseGraph/CLM - test node 009.md",
+    "DiscourseGraph/CLM - test node qq 99 ll.md",
+    "DiscourseGraph/CLM - test claim convert.md",
+    "Meta/Templates/Claim.md",
+    "Meta/Templates/_Discourse Node.md",
+    "Meta/Templates/Meeting Series.md",
+    "Meta/Templates/_New Experiment.md",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/Evidence.md",
+    "DiscourseGraph/@testing conversion 777.md",
+    "DiscourseGraph/EVD - testing conversion ll.md",
+    "Meta/Templates/Result.md",
+    "Meta/Templates/Question.md",
+    "Meta/Templates/Issue.md",
+    "Meta/Templates/Experiment.md",
+    "DiscourseGraph/EVD - test node qq 888.md",
+    "DECISIONS.md.tmp.10608.afee524897b9",
+    "Meta/Templates/Set cover from first image.md",
+    "Meta/Templates/Source.md",
+    "Meta/Templates/Test template.md",
+    "Meta/Attachments/call-template.png",
     "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
     "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
     "Meta/Templates/Evidence.md.tmp.1936.9c10e5e268d5",
-    "Meta/Templates/Evidence.md",
-    "DiscourseGraph/EVD - Superstar extinction effect scales with citation count not NIH funding - @azoulaySuperstarcExtinction2008.md",
-    "DiscourseGraph/EVD - testing templates 2.md",
-    "DiscourseGraph/TEST - Untitled.md",
-    "Meta/Templates/Test template.md",
-    "Meta/Templates/Claim.md",
-    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
     "Meta/Attachments/create-new-node-type.png",
     "Meta/Attachments/pres-view01.png",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/Pasted image 20260618175027.png",
-    "attachments/example-template01.PNG",
-    "attachments/call-template.PNG",
-    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
+    "Meta/Attachments/example-template01.png",
     "Meta/Attachments/node-log.png",
-    "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
-    "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
-    "DiscourseGraph/HYP - the effects of real quality & status amplification on citation count can be disentangled.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
-    "DiscourseGraph/HYP- airspeed velocity will not differ significantly between EUR & AFR swallows.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
-    "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
     "Meta/Attachments/birdmath.png",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
-    "Meta/Templates/Source.md",
-    "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
     "Bases/Sources.base",
-    "DiscourseGraph/@CedricChin - CommonCog.md",
-    "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
-    "DiscourseGraph/QUE - what am I even doing here?.md",
     "Meta/Attachments/graph-argument-evd.png",
     "Meta/Attachments/graph-argument.png",
     "Meta/Attachments/gap-spotting.png",
@@ -487,8 +633,6 @@
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
     "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
     "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md.tmp.11171.f3b67fddc566",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md.tmp.11171.002c19fa6b33",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

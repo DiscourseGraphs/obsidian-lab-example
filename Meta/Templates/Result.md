@@ -1,12 +1,11 @@
 ---
-nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
+
 template: "[[Result]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-res
 contributors:
 source:
-nodeInstanceId: 019e877e-7e96-7a3d-baf8-57f3264b376c
 ---
 
 ## Summary

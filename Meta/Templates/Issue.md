@@ -1,5 +1,5 @@
 ---
-nodeTypeId: node_2unblKFUVJkOdOnT8MstZ
+
 template: "[[Issue]]"
 newNoteFolder: DiscourseGraph
 tags:
@@ -10,7 +10,7 @@ contributors:
 targetQuestionOrHyp:
 project:
 Issue Type:
-nodeInstanceId: "019"
+
 ---
 ### Description 
 ### Purpose 
