@@ -4,5 +4,5 @@
   "readableLineLength": false,
   "newFileLocation": "root",
   "newFileFolderPath": "DiscourseGraph",
-  "promptDelete": true
+  "promptDelete": false
 }

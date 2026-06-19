@@ -1,11 +1,11 @@
 ---
-nodeTypeId: node_J9JyrRTQj6nuJs6IY83Mo
+
 template: "[[Conclusion]]"
 newNoteFolder: DiscourseGraph
 tags:
 cssclasses: dg-con
 contributors:
-nodeInstanceId: 019e877e-7e7c-778e-a713-296dc747a0aa
+
 ---
 
 ## Summary

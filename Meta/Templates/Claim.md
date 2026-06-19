@@ -1,9 +1,8 @@
 ---
-nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
+template: "[[Claim]]"
 tags:
 cssclasses: dg-clm
 confidence:
-nodeInstanceId: 019e877e-7e75-7032-b846-86a9ed66cada
 ---
 # Summary
 

@@ -1,5 +1,5 @@
 ---
-nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
+
 template: "[[Experiment]]"
 newNoteFolder: DiscourseGraph
 aliases:
@@ -10,7 +10,7 @@ lead:
 contributors:
 targetQuestionOrHyp:
 project:
-nodeInstanceId: 019e702c-9bf1-7102-8bfa-08ae56ba41bf
+
 ---
 
 # Resources

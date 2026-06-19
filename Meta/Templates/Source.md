@@ -1,6 +1,8 @@
 ---
-nodeTypeId: node_-PIYSmr5icSFMACYAUobE
-nodeInstanceId: 019e7312-e9a1-7107-b3a3-c470df6852e4
+
+template: "[[Source]]"
+tags:
+cssclasses: dg-src
 ---
 
 ## Relevant Topics
