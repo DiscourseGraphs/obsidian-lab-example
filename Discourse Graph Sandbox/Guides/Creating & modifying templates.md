@@ -4,11 +4,9 @@ cssclasses: [sandbox-page]
 
 ---
 
-🚧 Under Construction 👷‍♂️
-
 ## Using Templates
 
-The [[Meta/Templates]] folder in this vault contains templates for every discourse node type in this vault as well as Experiments, Projects, the Personal Home Page, and the various Logs.
+The **Meta/Templates** folder in this vault contains templates for every discourse node type in this vault as well as Experiments, Projects, the Personal Home Page, and the various Logs.
 
 ![](example-template01.png)
 _Question template_
@@ -34,19 +32,24 @@ _The summary & properties sections can be collapsed for easy sidebar slideshow v
 
 ## Creating New Templates
 
-1. Create the template file by modifying an existing template in [[Meta/Templates]]. The frontmatter should include:
+1. Create the template file by modifying an existing template in **Meta/Templates**. The frontmatter should include:
 
----
-nodeTypeId: <see step 2>
+
 template: "[[YourTemplateName]]"
 newNoteFolder: DiscourseGraph
 tags:
-cssclasses: dg-xyz {copy an existing css style or create a new one}
-nodeInstanceId: <leave as-is from the copy>
----
+cssclasses: `dg-xyz` (copy an existing css style or create a new one)
+
+>[!tip] The properties you add to the frontmatter can be used to construct Bases and Queries to organize and search your nodes 
 
 2. Go to Settings → Discourse Graphs → Node Types and add a new node type, entering the name of the template you just added to the templates folder.
 
-![](create-new-node-type.png)
+![create a new node type](create-new-node-type.png)
 
-The plugin auto-generates a unique id like node_XxXxXxXxX.
+
+The plugin auto-generates a unique id like node_XxXxXxXxX that will be used to fill in __nodeTypeId__
+
+3. Now you can call your new template using either 
+    - `Cmd+\` → select the node type → enter title → new file created with full template applied, or
+   - "Convert Into" on an existing file → applies the full template, merging frontmatter and appending body content without overwriting existing data.
+
