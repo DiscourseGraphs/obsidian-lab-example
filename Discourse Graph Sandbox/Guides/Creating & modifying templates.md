@@ -1,8 +1,4 @@
----
-
-cssclasses: [sandbox-page]
-
----
+🚧 Under Construction 👷‍♂️
 
 ## Using Templates
 
@@ -11,7 +7,9 @@ The **Meta/Templates** folder in this vault contains templates for every discour
 ![](example-template01.png)
 _Question template_
 
-Using the "Convert Into" option from the 3-dot menu or selecting text and pressing "Turn into discourse node" on the popup menu applies the selected Template to the file/text in question.
+Selecting text and pressing "Turn into discourse node" on the popup menu applies the selected Template to the file/text in question.
+
+Using the "Convert Into" option from the 3-dot menu on an _existing_ file will cause the plugin to recognize the file as the node type that you select, but it does not apply the selected template. You can copy the desired template from your Templates folder.
 
 ![](call-template.png)
 
@@ -40,7 +38,6 @@ newNoteFolder: DiscourseGraph
 tags:
 cssclasses: `dg-xyz` (copy an existing css style or create a new one)
 
->[!tip] The properties you add to the frontmatter can be used to construct Bases and Queries to organize and search your nodes 
 
 2. Go to Settings → Discourse Graphs → Node Types and add a new node type, entering the name of the template you just added to the templates folder.
 
@@ -51,5 +48,4 @@ The plugin auto-generates a unique id like node_XxXxXxXxX that will be used to f
 
 3. Now you can call your new template using either 
     - `Cmd+\` → select the node type → enter title → new file created with full template applied, or
-   - "Convert Into" on an existing file → applies the full template, merging frontmatter and appending body content without overwriting existing data.
-
+   - "Convert Into" on an existing file → inserts the correct nodeTypeId; selected template can  be applied manually

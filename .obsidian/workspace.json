@@ -447,16 +447,6 @@
             }
           },
           {
-            "id": "17f512fe5976c89b",
-            "type": "leaf",
-            "state": {
-              "type": "discourse-context-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "discourse-context-view"
-            }
-          },
-          {
             "id": "6b46287332d5a4a7",
             "type": "leaf",
             "state": {
@@ -563,7 +553,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
