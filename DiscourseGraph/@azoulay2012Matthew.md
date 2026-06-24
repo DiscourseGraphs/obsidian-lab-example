@@ -23,6 +23,7 @@ abstract: |-
               This paper was accepted by David Hsu, entrepreneurship and innovation.
 zotero: zotero://select/library/items/VS2IRSIM
 cover: "[[meff.png]]"
+template: "[[Source]]"
 ---
 ## Relevant Topics
 

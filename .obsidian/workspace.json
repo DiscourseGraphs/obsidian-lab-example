@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Claim.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Claim"
-            }
-          },
-          {
-            "id": "51d36cb583a3626f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/CLM - test node 009.md",
+                "file": "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - test node 009"
+              "title": "Experiment Tracking"
             }
           },
           {
-            "id": "1a59409c6e9e8723",
+            "id": "e33656f92bfa7775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/EVD - test node 010.md",
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,227 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EVD - test node 010"
-            }
-          },
-          {
-            "id": "f46735119945fa07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/QUE - test node 22 yy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "QUE - test node 22 yy"
-            }
-          },
-          {
-            "id": "86e5d68f6aab051b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Templates/Result.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Result"
-            }
-          },
-          {
-            "id": "043a45b79a3dda67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Templates/Claim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Claim"
-            }
-          },
-          {
-            "id": "2c94d9039368e63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Templates/Hypothesis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hypothesis"
-            }
-          },
-          {
-            "id": "45cc7a07f8509fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate"
-            }
-          },
-          {
-            "id": "ea884bc60528ab1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Synthesize Insights from the Literature"
-            }
-          },
-          {
-            "id": "52a6157ff66a58c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Templates/Test template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Test template"
-            }
-          },
-          {
-            "id": "f46425cab80f6487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/TEST - Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TEST - Untitled"
-            }
-          },
-          {
-            "id": "d03857cc3d2c9c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Creating & modifying templates"
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -551,9 +310,57 @@
               "icon": "lucide-file",
               "title": "RES - The airspeed velocity of an unladen swallow is 11 m-s"
             }
+          },
+          {
+            "id": "866db5a85b4bef08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut?"
+            }
+          },
+          {
+            "id": "050f413db35058fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -575,8 +382,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45cc7a07f8509fee",
+  "active": "e040d77f38866ac0",
   "lastOpenFiles": [
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Users/Obsidian User.md",
+    "Discourse Graph Sandbox/Users/Blank Slate.md",
+    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
+    "DiscourseGraph/@azoulay2012Matthew.md",
+    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
+    "DECISIONS.md",
+    "README.md",
+    "CLAUDE.md",
+    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
+    "Meta/Templates/Claim.md",
+    "Meta/Templates/Result.md",
+    "Meta/Templates/Hypothesis.md",
+    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+    "Meta/Templates/Test template.md",
+    "DiscourseGraph/TEST - Untitled.md",
+    "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
     "attachments/group-mgmt.PNG",
     "attachments/example-template01.PNG",
     "attachments/dgraph-share.PNG",
@@ -584,39 +417,13 @@
     "attachments/admin-panel02.PNG",
     "attachments/admin-panel.PNG",
     "attachments/admin-backrooms.PNG",
-    "DiscourseGraph/TEST - Untitled.md",
-    "DiscourseGraph/EVD - test node 010.md",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "DiscourseGraph/CON - test conclusion.md",
-    "DiscourseGraph/QUE - test node 22 yy.md",
-    "Meta/Templates/Hypothesis.md",
-    "Meta/Templates/Conclusion.md",
-    "DiscourseGraph/CLM - test node 009.md",
-    "DiscourseGraph/CLM - test node qq 99 ll.md",
-    "DiscourseGraph/CLM - test claim convert.md",
-    "Meta/Templates/Claim.md",
-    "Meta/Templates/_Discourse Node.md",
-    "Meta/Templates/Meeting Series.md",
-    "Meta/Templates/_New Experiment.md",
-    "Meta/Templates/Project.md",
-    "Meta/Templates/Evidence.md",
-    "DiscourseGraph/@testing conversion 777.md",
-    "DiscourseGraph/EVD - testing conversion ll.md",
-    "Meta/Templates/Result.md",
-    "Meta/Templates/Question.md",
-    "Meta/Templates/Issue.md",
-    "Meta/Templates/Experiment.md",
-    "DiscourseGraph/EVD - test node qq 888.md",
     "DECISIONS.md.tmp.10608.afee524897b9",
-    "Meta/Templates/Set cover from first image.md",
-    "Meta/Templates/Source.md",
     "Meta/Attachments/call-template.png",
     "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
     "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
     "Meta/Templates/Evidence.md.tmp.1936.9c10e5e268d5",
     "Meta/Attachments/create-new-node-type.png",
     "Meta/Attachments/pres-view01.png",
-    "Meta/Attachments/Pasted image 20260618175027.png",
     "Bases/Sources.base",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",

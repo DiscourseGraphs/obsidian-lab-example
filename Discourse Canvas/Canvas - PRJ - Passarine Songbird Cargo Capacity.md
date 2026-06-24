@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "5e457bec-4409-4999-b785-b845233a4e84",
-		"plugin-version": "1.4.2-alpha",
+		"plugin-version": "1.4.4",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -457,7 +457,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1780994234550",
+					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -551,12 +551,12 @@ tldr-dg: true
 				"index": "a32MR",
 				"parentId": "page:page",
 				"props": {
-					"w": 296.265625,
+					"w": 246.81140350877195,
 					"h": 321,
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1780994234550",
+					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -755,7 +755,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/dor.png?1780994590700"
+					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1781706583504"
 				}
 			},
 			{
@@ -968,7 +968,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 112,
 					"src": "asset:obsidian.blockref.26cdbf0a-823a-404b-b7d9-2145602eeef8",
 					"title": "@analysis - measure flight capacity of H rustica under load",
 					"nodeTypeId": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -1029,11 +1029,11 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 375,
+					"h": 348,
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1780994590730",
+					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1781706583563",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1555,9 +1555,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 355.5,
-					"y": 89.953125,
-					"w": 1070.5,
-					"h": 686.046875
+					"y": 89.828125,
+					"w": 771.5,
+					"h": 639.171875
 				},
 				"insets": [
 					true,
@@ -1574,7 +1574,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1629,7 +1629,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 148,
+					"h": 112,
 					"src": "asset:obsidian.blockref.6a1161a5-58cf-4829-8788-4a3d787cb09e",
 					"title": "QUE - what is the airspeed velocity of an unladen swallow?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
@@ -1729,7 +1729,7 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 121,
+					"h": 94,
 					"src": "asset:obsidian.blockref.a6d39407-5e40-4578-aa65-79054c710b5f",
 					"title": "HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1748,7 +1748,7 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 184,
+					"h": 148,
 					"src": "asset:obsidian.blockref.0e4ebd8d-3daf-492f-803e-cc54227563d5",
 					"title": "HYP- airspeed velocity will not differ significantly between EUR & AFR swallows",
 					"nodeTypeId": "node_8eLgGKXiSzIWJvcrGCBFE",
@@ -1791,11 +1791,11 @@ tldr-dg: true
 				"parentId": "page:page",
 				"props": {
 					"w": 400,
-					"h": 402,
+					"h": 366,
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://98663be1bdaa64351316f459fa74232bc361/home/karola/projects/obsidian-lab-example/Meta/Attachments/bird_wind_tunnel_b-1150.jpg?1780994234550",
+					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1781854108608",
 					"size": "m",
 					"fontFamily": "mono"
 				}
