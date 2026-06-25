@@ -11,12 +11,12 @@
             "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "Meta/Attachments/canvas-export 1.png"
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
               },
-              "icon": "lucide-image",
-              "title": "canvas-export 1"
+              "icon": "lucide-file",
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Question.md",
+                "file": "Discourse Graph Sandbox/Guides/Discourse Context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,10 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question"
+              "title": "Discourse Context"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,8 +204,8 @@
             "state": {
               "type": "ReferencesView",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "ReferencesView"
+              "icon": "graduation-cap",
+              "title": "References"
             }
           },
           {
@@ -213,171 +214,26 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "6b46287332d5a4a7",
+            "id": "f3865b4328bd3a25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut?"
-            }
-          },
-          {
-            "id": "56b36e0657910dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g"
-            }
-          },
-          {
-            "id": "34bd7902ef8d6ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@analysis - measure flight capacity of H rustica under load"
-            }
-          },
-          {
-            "id": "40c53fee9b9e3762",
-            "type": "leaf",
-            "state": {
-              "type": "ReferencesView",
+              "type": "discourse-context-view",
               "state": {},
-              "icon": "graduation-cap",
-              "title": "References"
-            }
-          },
-          {
-            "id": "60d2a1e5217c0dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RES - The airspeed velocity of an unladen swallow is 11 m-s"
-            }
-          },
-          {
-            "id": "866db5a85b4bef08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut?"
-            }
-          },
-          {
-            "id": "050f413db35058fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@analysis - measure airspeed of unladen & laden AFR & EUR swallows"
+              "icon": "telescope",
+              "title": "Discourse context"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,23 +252,32 @@
   },
   "active": "a69ad3d5a19a22d0",
   "lastOpenFiles": [
-    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
+    "Meta/Attachments/discourse-context.png",
+    "DiscourseGraph/@azoulay2012Matthew.md",
+    "DiscourseGraph/EVD - testing templates 2.md",
+    "DiscourseGraph/EVD - HHMI citation boost concentrated on novel and cross-disciplinary articles - @azoulayMatthewEffectFable2014 (Roam).md",
+    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
+    "DiscourseGraph/CLM - It's all a matter of weight ratios.md",
+    "Meta/Templates/Question.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/canvas-export 1.png",
     "Discourse Graph Sandbox/Guides/Using the Canvas.md",
+    "Discourse Graph Sandbox/Guides/Discourse Context.md",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
     "Meta/Attachments/key-img-setting.png",
     "Meta/Attachments/annotate-canvas.png",
     "Discourse Graph Sandbox/Guides/Candidate nodes.md",
     "Meta/Attachments/existing-relations-canvas.gif",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/relation-error.webp",
     "Meta/Attachments/create-node-canvas.gif",
     "Meta/Attachments/drag-relation.gif",
     "Discourse Graph Sandbox/Guides/drag-relation.gif",
     "Meta/Attachments/create-relation-canvas.gif",
-    "Meta/Attachments/editor-drag-node.gif",
-    "DiscourseGraph/CLM - It's all a matter of weight ratios.md",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
-    "Meta/Templates/Question.md",
     "DECISIONS.md.tmp.758.5a1d06aaec0e",
     "Meta/Templates/Project.md",
     "Meta/Templates/Experiment.md",
@@ -424,15 +289,6 @@
     "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Users/Obsidian User.md",
     "Discourse Graph Sandbox/Users/Blank Slate.md",
-    "Discourse Graph Sandbox/Guides/Creating Nodes.md",
-    "DiscourseGraph/@azoulay2012Matthew.md",
-    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
-    "DECISIONS.md",
-    "README.md",
-    "CLAUDE.md",
-    "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
-    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "DECISIONS.md.tmp.10608.afee524897b9",
     "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
     "Meta/Templates/Claim.md.tmp.1936.bed458e50119",

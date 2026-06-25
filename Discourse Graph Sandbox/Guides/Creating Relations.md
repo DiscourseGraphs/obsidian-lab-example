@@ -25,7 +25,7 @@ Relations carry semantic information, but they also help to orient your graph in
 ## Creating relations
 
 To create a relation, open the source node that you'd like to create a relation from and then open the _Discourse Context_ by clicking the telescope icon on the left sidebar.
-(The Discourse Context can also be accessed via hotkey or the Command Palette, `Ctrl-P` in this vault)
+(The [[Discourse Context]] can also be accessed via hotkey or the Command Palette, `Ctrl-P` in this vault)
 1. Select "Add a new relation"
 2. Choose the relationship type from the dropdown. The options here are those you created in the _Discourse Relations_ tab from the relation types you defined in the _Relation Types_ tab.
 3. Search for the target node by its title.
