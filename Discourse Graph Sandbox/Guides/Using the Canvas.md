@@ -5,6 +5,23 @@ cssclasses: [sandbox-page]
 
 
 
+## Creating a Canvas
+
+## Creating a discourse node
+
+## Connecting discourse nodes with relations
+
+## Managing Canvas content
+
+## Synchronizing your canvas and graph
+
+
+## Annotating your Canvas
+
+## Sharing your Canvas
+
+ 
+
 
 
 

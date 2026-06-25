@@ -542,3 +542,19 @@ Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
 **[[CLM - `padding-left/right` on the reading view container expands text margins without constraining image widths; `max-width` would resize images wider than the specified value.]]**
 
 **[[RES - Created `.obsidian/snippets/sandbox-layout.css` (enabled in appearance.json) with compound-selector rules; added `cssclasses: [sandbox-page]` frontmatter to all 14 sandbox files. Also fixed 5 broken image-size syntax instances in The Discourse Graph Protocol.md (`![alt|300](file)` not `![alt](file|300)`).]]**
+
+---
+
+## 2026-06-09 — Cross-platform filename sanitization tooling for vault sharing (backfilled)
+
+**[[RES - Added `find-unsafe.sh` to scan the vault for Windows-unsafe filenames (colons, reserved characters, trailing dots/spaces, reserved device names) and overhauled `.gitignore` to exclude OS metadata (Zone.Identifier, Thumbs.db, .DS_Store), editor/IDE junk, and per-language build artifacts. Inferred rationale: prepares the vault to be cloned and shared across OSes ahead of the graphshare branch's publication work, where a single bad filename or stray local-tool artifact could break checkout on a contributor's machine.]]**
+
+Backfilled from commit e3c2eb7 ("saring canvas"); no recorded dialogue.
+
+---
+
+## 2026-06-18 — Self-referencing `template` frontmatter field on node templates (backfilled)
+
+**[[RES - Added `template: "[[OwnName]]"` to the frontmatter of every file in `Meta/Templates/` (Claim, Evidence, Hypothesis, Conclusion, Experiment, Question, Result, Issue, Source, Project) and documented it as a required field when authoring a new template in the "Creating & modifying templates" guide. Inferred rationale: gives Templater an explicit self-reference so template-driven file creation can resolve "which template populated this file" from the file's own frontmatter, rather than relying on filename or folder convention.]]**
+
+Backfilled from commit a0a4620 ("update templates"); no recorded dialogue.
