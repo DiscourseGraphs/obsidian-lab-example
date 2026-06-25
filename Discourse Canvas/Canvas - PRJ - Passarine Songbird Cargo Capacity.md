@@ -50,12 +50,12 @@ tldr-dg: true
 		},
 		"records": [
 			{
-				"x": 0,
-				"y": 0,
-				"lastActivityTimestamp": 0,
-				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer"
+				"typeName": "pointer",
+				"x": 434,
+				"y": 387.71875,
+				"lastActivityTimestamp": 1782377409386,
+				"meta": {}
 			},
 			{
 				"meta": {},
@@ -170,10 +170,14 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [],
-				"hoveredShapeId": null,
+				"selectedShapeIds": [
+					"shape:WAQLYVdyR6VVMz8dwdQEG"
+				],
+				"hoveredShapeId": "shape:fMTV6KlkeU0GATRULPQtd",
 				"erasingShapeIds": [],
-				"hintingShapeIds": [],
+				"hintingShapeIds": [
+					"shape:fMTV6KlkeU0GATRULPQtd"
+				],
 				"focusedGroupId": null,
 				"meta": {},
 				"id": "instance_page_state:page:eOy941z4zehccl_0Efdy6",
@@ -392,9 +396,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"z": 1,
+				"x": 1070.25,
+				"y": 1244.578125,
+				"z": 0.25,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -457,7 +461,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -556,7 +560,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -723,6 +727,29 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 54.5,
+				"y": 124.71875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:fMTV6KlkeU0GATRULPQtd",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 348,
+					"src": "asset:obsidian.blockref.af0d7154-3712-4eb6-a246-f3b5384a6302",
+					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
+					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"size": "m",
+					"fontFamily": "sans"
+				},
+				"parentId": "page:eOy941z4zehccl_0Efdy6",
+				"index": "a24wi",
+				"typeName": "shape"
+			},
+			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
@@ -755,7 +782,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1781706583504"
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1781706583504"
 				}
 			},
 			{
@@ -999,6 +1026,24 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
+				"id": "binding:BDuHnT3SQ4w-bgIqJh5Xe",
+				"type": "discourse-relation",
+				"fromId": "shape:WAQLYVdyR6VVMz8dwdQEG",
+				"toId": "shape:fMTV6KlkeU0GATRULPQtd",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.94875,
+						"y": 0.7557471264367817
+					},
+					"snap": "none",
+					"terminal": "end"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
 				"id": "binding:jaaSd0VQe4ztBV0fUsMUM",
 				"type": "discourse-relation",
 				"fromId": "shape:JvcPE5t-zGIUqt0kbFY5N",
@@ -1033,7 +1078,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1781706583563",
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1781706583563",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1050,6 +1095,24 @@ tldr-dg: true
 					"normalizedAnchor": {
 						"x": 0.4585971722118067,
 						"y": 0.4706396180149922
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
+			},
+			{
+				"meta": {},
+				"id": "binding:QL5r3-eKdx5Zoka0VFAbT",
+				"type": "discourse-relation",
+				"fromId": "shape:WAQLYVdyR6VVMz8dwdQEG",
+				"toId": "shape:FevgWZRo7vn-ppYvhGf9R",
+				"props": {
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.43875,
+						"y": 0.017857142857142856
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -1488,6 +1551,46 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 647,
+				"y": 627.71875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {
+					"relationInstanceId": "019efdf7-4a6d-7c0b-a7c6-ee57522964a3"
+				},
+				"id": "shape:WAQLYVdyR6VVMz8dwdQEG",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "m",
+					"fill": "none",
+					"color": "black",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": 0,
+						"y": 0
+					},
+					"end": {
+						"x": -191,
+						"y": -204
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "addresses",
+					"labelPosition": 0.5,
+					"font": "sans",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "rel_Ge2hTgsP6UFabvpMY45wN"
+				},
+				"parentId": "page:eOy941z4zehccl_0Efdy6",
+				"index": "a3060",
+				"typeName": "shape"
+			},
+			{
 				"x": -902.3254822632457,
 				"y": 167.81016540527344,
 				"rotation": 0,
@@ -1542,7 +1645,9 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {},
+				"stylesForNextShape": {
+					"tldraw:font": "sans"
+				},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
@@ -1554,10 +1659,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 355.5,
-					"y": 89.828125,
-					"w": 771.5,
-					"h": 639.171875
+					"x": 56,
+					"y": 90.28125,
+					"w": 1208,
+					"h": 829.71875
 				},
 				"insets": [
 					true,
@@ -1574,14 +1679,14 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": null,
+				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:page",
+				"currentPageId": "page:eOy941z4zehccl_0Efdy6",
 				"typeName": "instance"
 			},
 			{
@@ -1636,6 +1741,28 @@ tldr-dg: true
 					"size": "m",
 					"fontFamily": "sans"
 				}
+			},
+			{
+				"x": 471.5,
+				"y": 625.71875,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:FevgWZRo7vn-ppYvhGf9R",
+				"type": "discourse-node",
+				"props": {
+					"w": 400,
+					"h": 112,
+					"src": "asset:obsidian.blockref.a4f4b17a-36fd-4ba5-b06a-f1a7b5a7272b",
+					"title": "CLM - It's all a matter of weight ratios",
+					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
+					"size": "m",
+					"fontFamily": "sans"
+				},
+				"parentId": "page:eOy941z4zehccl_0Efdy6",
+				"index": "a1",
+				"typeName": "shape"
 			},
 			{
 				"x": -755.5,
@@ -1795,7 +1922,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1781854108608",
+					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1781854108608",
 					"size": "m",
 					"fontFamily": "mono"
 				}
@@ -1984,3 +2111,9 @@ tldr-dg: true
 
 [[RES - 5g max load at sustained cruising]]
 ^62828673-6bb4-4114-8f91-b0a85d49c746
+
+[[CLM - It's all a matter of weight ratios]]
+^a4f4b17a-36fd-4ba5-b06a-f1a7b5a7272b
+
+[[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
+^af0d7154-3712-4eb6-a246-f3b5384a6302

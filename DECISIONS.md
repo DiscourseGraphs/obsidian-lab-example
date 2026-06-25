@@ -558,3 +558,11 @@ Backfilled from commit e3c2eb7 ("saring canvas"); no recorded dialogue.
 **[[RES - Added `template: "[[OwnName]]"` to the frontmatter of every file in `Meta/Templates/` (Claim, Evidence, Hypothesis, Conclusion, Experiment, Question, Result, Issue, Source, Project) and documented it as a required field when authoring a new template in the "Creating & modifying templates" guide. Inferred rationale: gives Templater an explicit self-reference so template-driven file creation can resolve "which template populated this file" from the file's own frontmatter, rather than relying on filename or folder convention.]]**
 
 Backfilled from commit a0a4620 ("update templates"); no recorded dialogue.
+
+---
+
+## 2026-06-25 — Extend Discourse Canvas button to the Question template
+
+**[[HYP - The "Create Discourse Graph Canvas" button, previously only on the Project template, should also be added to the Question (QUE) template so individual questions can get their own canvas the same way projects do.]]**
+
+**[[RES - Copied the canvas-creation Datacore JSX button verbatim from Project.md into Question.md, under a new "## Canvas" section. Reuses the existing event-intercept rename pattern and `canvasFolderPath` settings lookup from [[RES - Name DG canvas after project, not timestamp]], so QUE canvases follow the same naming and idempotency behavior as PRJ canvases.]]**

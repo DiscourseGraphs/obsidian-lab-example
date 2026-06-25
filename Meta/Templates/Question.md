@@ -6,7 +6,53 @@ tags:
 cssclasses: dg-que
 nodeInstanceId: 019e877e-7e88-7591-bd65-abc5ff53b4a6
 ---
+## Canvas
 
+```datacorejsx
+return function CanvasButton() {
+  const current = dc.useCurrentFile();
+  const [status, setStatus] = dc.useState("");
+
+  const handleClick = async () => {
+    const name = current.$name;
+    const dgPlugin = app.plugins.plugins["discourse-graphs"];
+    const folder = dgPlugin?.settings?.canvasFolderPath ?? "Discourse Canvas";
+    const targetPath = `${folder}/Canvas - ${name}.md`;
+
+    const existing = app.vault.getAbstractFileByPath(targetPath);
+    if (existing) {
+      setStatus("Opening existing canvas…");
+      const leaf = app.workspace.getLeaf(false);
+      await leaf.openFile(existing);
+      await leaf.setViewState({ type: "tldraw-dg-preview", state: { file: existing.path } });
+      setStatus("");
+      return;
+    }
+
+    const ref = app.vault.on("create", async (file) => {
+      if (file.parent?.path === folder && file.name.startsWith("Canvas-")) {
+        app.vault.offref(ref);
+        await app.fileManager.renameFile(file, targetPath);
+      }
+    });
+
+    const ok = app.commands.executeCommandById("discourse-graphs:create-discourse-graph-canvas");
+    if (!ok) {
+      app.vault.offref(ref);
+      setStatus("Command not found — is the Discourse Graph plugin enabled?");
+    }
+  };
+
+  return (
+    <span>
+      <button onClick={handleClick}>
+        🗺 Create Discourse Graph Canvas
+      </button>
+      {status && <span style={{ marginLeft: "0.5em", opacity: 0.7 }}>{status}</span>}
+    </span>
+  );
+}
+```
 ## Summary
 
 ## Related QUE/CLM/EVD

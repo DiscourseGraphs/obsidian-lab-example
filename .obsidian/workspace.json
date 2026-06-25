@@ -11,24 +11,12 @@
             "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Meta/Attachments/canvas-export 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Experiment Tracking"
+              "icon": "lucide-image",
+              "title": "canvas-export 1"
             }
           },
           {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+                "file": "Discourse Graph Sandbox/Guides/Using the Canvas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +40,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
+              "title": "Using the Canvas"
+            }
+          },
+          {
+            "id": "30e0b7ed95777569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Question.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question"
             }
           }
         ]
@@ -112,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -382,15 +394,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e040d77f38866ac0",
+  "active": "a69ad3d5a19a22d0",
   "lastOpenFiles": [
-    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "Meta/Attachments/canvas-export 1.png",
+    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
+    "Meta/Attachments/key-img-setting.png",
+    "Meta/Attachments/annotate-canvas.png",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "Meta/Attachments/existing-relations-canvas.gif",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "Meta/Attachments/relation-error.webp",
+    "Meta/Attachments/create-node-canvas.gif",
+    "Meta/Attachments/drag-relation.gif",
+    "Discourse Graph Sandbox/Guides/drag-relation.gif",
+    "Meta/Attachments/create-relation-canvas.gif",
+    "Meta/Attachments/editor-drag-node.gif",
+    "DiscourseGraph/CLM - It's all a matter of weight ratios.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "Meta/Templates/Question.md",
+    "DECISIONS.md.tmp.758.5a1d06aaec0e",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/Hypothesis.md",
+    "Bases/Questions.base",
+    "Projects/PRJ - Horizontal Dashboard test.md",
+    "DiscourseGraph/QUE - test long node conversion.md",
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Users/Obsidian User.md",
     "Discourse Graph Sandbox/Users/Blank Slate.md",
     "Discourse Graph Sandbox/Guides/Creating Nodes.md",
-    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
-    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
     "DiscourseGraph/@azoulay2012Matthew.md",
     "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
     "DiscourseGraph/@mertonMatthewEffectScience1968.md",
@@ -398,38 +432,15 @@
     "README.md",
     "CLAUDE.md",
     "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
-    "Meta/Templates/Claim.md",
-    "Meta/Templates/Result.md",
-    "Meta/Templates/Hypothesis.md",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Meta/Templates/Test template.md",
-    "DiscourseGraph/TEST - Untitled.md",
-    "Discourse Graph Sandbox/Guides/Creating & modifying templates.md",
-    "attachments/group-mgmt.PNG",
-    "attachments/example-template01.PNG",
-    "attachments/dgraph-share.PNG",
-    "attachments/call-template.PNG",
-    "attachments/admin-panel02.PNG",
-    "attachments/admin-panel.PNG",
-    "attachments/admin-backrooms.PNG",
     "DECISIONS.md.tmp.10608.afee524897b9",
-    "Meta/Attachments/call-template.png",
     "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
     "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
     "Meta/Templates/Evidence.md.tmp.1936.9c10e5e268d5",
-    "Meta/Attachments/create-new-node-type.png",
-    "Meta/Attachments/pres-view01.png",
     "Bases/Sources.base",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

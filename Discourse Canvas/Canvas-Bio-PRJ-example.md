@@ -19,8 +19,8 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "6e407314-7327-45e6-851b-5b019e36774a",
-		"plugin-version": "0.1.2-alpha-tldraw",
-		"tldraw-version": "3.14.1"
+		"plugin-version": "1.4.4",
+		"tldraw-version": "3.14.2"
 	},
 	"raw": {
 		"tldrawFileFormatVersion": 1,
@@ -56,16 +56,17 @@ tldr-dg: true
 				"com.tldraw.shape.discourse-node": 0,
 				"com.tldraw.shape.discourse-relation": 0,
 				"com.tldraw.binding.arrow": 1,
-				"com.tldraw.binding.discourse-relation": 0
+				"com.tldraw.binding.discourse-relation": 0,
+				"com.discourse-graph.obsidian.discourse-node": 1
 			}
 		},
 		"records": [
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 31.395123600499346,
-				"y": 1148.1777492776723,
-				"lastActivityTimestamp": 1774443395061,
+				"x": 428.75,
+				"y": 1366.578125,
+				"lastActivityTimestamp": 1782379565477,
 				"meta": {}
 			},
 			{
@@ -150,6 +151,131 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 362.75,
+				"y": 986.578125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:L7HcfcfWyerwFlXcXSknq",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": 0.5
+								},
+								{
+									"x": 2,
+									"y": 0,
+									"z": 0.5
+								},
+								{
+									"x": 4,
+									"y": 2,
+									"z": 0.5
+								},
+								{
+									"x": 6,
+									"y": 4,
+									"z": 0.5
+								},
+								{
+									"x": 8,
+									"y": 6,
+									"z": 0.5
+								},
+								{
+									"x": 16,
+									"y": 14,
+									"z": 0.5
+								},
+								{
+									"x": 24,
+									"y": 18,
+									"z": 0.5
+								},
+								{
+									"x": 36,
+									"y": 26,
+									"z": 0.5
+								},
+								{
+									"x": 46,
+									"y": 34,
+									"z": 0.5
+								},
+								{
+									"x": 58,
+									"y": 42,
+									"z": 0.5
+								},
+								{
+									"x": 66,
+									"y": 50,
+									"z": 0.5
+								},
+								{
+									"x": 68,
+									"y": 52,
+									"z": 0.5
+								},
+								{
+									"x": 70,
+									"y": 52,
+									"z": 0.5
+								},
+								{
+									"x": 70,
+									"y": 54,
+									"z": 0.5
+								},
+								{
+									"x": 66,
+									"y": 58,
+									"z": 0.5
+								},
+								{
+									"x": 46,
+									"y": 68,
+									"z": 0.5
+								},
+								{
+									"x": 26,
+									"y": 76,
+									"z": 0.5
+								},
+								{
+									"x": 4,
+									"y": 86,
+									"z": 0.5
+								},
+								{
+									"x": -12,
+									"y": 92,
+									"z": 0.5
+								}
+							]
+						}
+					],
+					"color": "light-red",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": false,
+					"scale": 1
+				},
+				"parentId": "page:page",
+				"index": "aOAmH",
+				"typeName": "shape"
+			},
+			{
 				"x": 31.395123600499346,
 				"y": 1148.1777492776723,
 				"rotation": 0,
@@ -163,16 +289,18 @@ tldr-dg: true
 					"h": 100,
 					"src": "asset:obsidian.blockref.6502c0f2-d13d-4ff9-8a49-dade25f52662",
 					"title": "CLM - test claim",
-					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E"
+					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
+					"size": "s",
+					"fontFamily": "draw"
 				},
 				"parentId": "page:page",
 				"index": "aM9B9",
 				"typeName": "shape"
 			},
 			{
-				"x": 419.20034796223376,
-				"y": 119.18049047531338,
-				"z": 0.42787821884740496,
+				"x": 454.25,
+				"y": 174.859375,
+				"z": 0.5,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -311,7 +439,9 @@ tldr-dg: true
 					"h": 161.11867919272132,
 					"src": "asset:obsidian.blockref.6e41deb6-a013-47b1-809c-8f875b2b4f98",
 					"title": "RES - cells emitted xyz measures over the time course of the simulation",
-					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey"
+					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
+					"size": "s",
+					"fontFamily": "draw"
 				},
 				"parentId": "page:page",
 				"index": "a90ep",
@@ -320,9 +450,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:jyZbYdJKJibVjXRkLGad8"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -532,7 +660,9 @@ tldr-dg: true
 					"h": 97.59042480851951,
 					"src": "asset:obsidian.blockref.9171a0bf-0e1b-47ff-b526-d592da6822af",
 					"title": "CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding",
-					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E"
+					"nodeTypeId": "node_LwROzkVH_Zck7ZxDgN91E",
+					"size": "s",
+					"fontFamily": "draw"
 				},
 				"parentId": "page:page",
 				"index": "a1",
@@ -1601,11 +1731,13 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {},
+				"stylesForNextShape": {
+					"tldraw:color": "light-red"
+				},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
-					"type": "default",
+					"type": "cross",
 					"rotation": 0
 				},
 				"isFocusMode": false,
@@ -1613,10 +1745,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 356,
-					"y": 90.5250015258789,
-					"w": 913.6000366210938,
-					"h": 989.4750366210938
+					"x": 355.5,
+					"y": 90.28125,
+					"w": 908.5,
+					"h": 829.71875
 				},
 				"insets": [
 					true,
@@ -1631,9 +1763,9 @@ tldr-dg: true
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
-				"devicePixelRatio": 1.25,
+				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": false,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
@@ -1657,7 +1789,9 @@ tldr-dg: true
 					"h": 100,
 					"src": "asset:obsidian.blockref.76d26f75-4203-4fed-9edb-6d693af9ac95",
 					"title": "RES - cells died after 15 days in the lab",
-					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey"
+					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
+					"size": "s",
+					"fontFamily": "draw"
 				},
 				"parentId": "page:page",
 				"index": "aKBig",
@@ -1760,6 +1894,116 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
+			},
+			{
+				"x": 172.75,
+				"y": 974.578125,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:kY_mUkhHwLT8zZ8iwYT5T",
+				"type": "draw",
+				"props": {
+					"segments": [
+						{
+							"type": "free",
+							"points": [
+								{
+									"x": 0,
+									"y": 0,
+									"z": 0.5
+								},
+								{
+									"x": 2,
+									"y": 0,
+									"z": 0.5
+								},
+								{
+									"x": 2,
+									"y": 2,
+									"z": 0.5
+								},
+								{
+									"x": 4,
+									"y": 2,
+									"z": 0.5
+								},
+								{
+									"x": 6,
+									"y": 2,
+									"z": 0.5
+								},
+								{
+									"x": 10,
+									"y": 2,
+									"z": 0.5
+								},
+								{
+									"x": 20,
+									"y": 8,
+									"z": 0.5
+								},
+								{
+									"x": 48,
+									"y": 18,
+									"z": 0.5
+								},
+								{
+									"x": 74,
+									"y": 26,
+									"z": 0.5
+								},
+								{
+									"x": 114,
+									"y": 36,
+									"z": 0.5
+								},
+								{
+									"x": 138,
+									"y": 38,
+									"z": 0.5
+								},
+								{
+									"x": 150,
+									"y": 42,
+									"z": 0.5
+								},
+								{
+									"x": 162,
+									"y": 46,
+									"z": 0.5
+								},
+								{
+									"x": 168,
+									"y": 48,
+									"z": 0.5
+								},
+								{
+									"x": 172,
+									"y": 48,
+									"z": 0.5
+								},
+								{
+									"x": 176,
+									"y": 50,
+									"z": 0.5
+								}
+							]
+						}
+					],
+					"color": "light-red",
+					"fill": "none",
+					"dash": "draw",
+					"size": "m",
+					"isComplete": true,
+					"isClosed": false,
+					"isPen": false,
+					"scale": 1
+				},
+				"parentId": "page:page",
+				"index": "aN6Al",
+				"typeName": "shape"
 			},
 			{
 				"x": 1702.9107577755728,
