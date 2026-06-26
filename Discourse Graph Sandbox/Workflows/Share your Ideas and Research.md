@@ -42,7 +42,7 @@ You can create a "presentation view" for your discourse nodes by adding the mate
 
 You can export a static .png or .svg image of your discourse  canvas from the menu.
 
-![export a png or svg](canvas-export.png)
+![export a png or svg](canvas-export%201.png)
 _Canvas export menu_
 
 >[!info] It is not possible at present to export a "live" discourse canvas to another graph. 

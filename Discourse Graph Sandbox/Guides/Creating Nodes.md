@@ -80,3 +80,9 @@ The initial question in the [[Canvas - PRJ - Passarine Songbird Cargo Capacity|t
 ![alt text](QUE-ex01.png)
 
 Your first Question node is the seed for the rest of your graph. You can begin sketching out your Hypotheses addressing the Question or adducing a few Claims from the literature. Once you have a few nodes, you're ready to begin [[Creating Relations]].
+
+[[Creating Nodes]] and [[Creating Relations]] are the basic discourse moves. Once you're familiar with both discourse moves you can embed them in a sensemaking activity:
+
+- [[Build and Utilize a Personal Knowledge Base]]
+- [[Synthesize Insights from the Literature]]
+- [[Track your Projects and Experiments]]

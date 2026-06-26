@@ -11,33 +11,21 @@
             "id": "e040d77f38866ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "Meta/Templates/Source.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
               },
               "icon": "lucide-file",
-              "title": "Source"
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           },
           {
-            "id": "45cc7a07f8509fee",
+            "id": "e33656f92bfa7775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
+                "file": "Discourse Graph Sandbox/Guides/Using the Canvas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +40,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate"
+              "title": "Using the Canvas"
             }
           },
           {
-            "id": "ea884bc60528ab1a",
+            "id": "30e0b7ed95777569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
+                "file": "Discourse Graph Sandbox/Guides/Discourse Context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Synthesize Insights from the Literature"
-            }
-          },
-          {
-            "id": "52a6157ff66a58c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Track your Projects and Experiments"
+              "title": "Discourse Context"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "a582dba13686c1bb",
@@ -240,8 +204,8 @@
             "state": {
               "type": "ReferencesView",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "ReferencesView"
+              "icon": "graduation-cap",
+              "title": "References"
             }
           },
           {
@@ -250,109 +214,26 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "17f512fe5976c89b",
+            "id": "f3865b4328bd3a25",
             "type": "leaf",
             "state": {
               "type": "discourse-context-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "discourse-context-view"
-            }
-          },
-          {
-            "id": "6b46287332d5a4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut?"
-            }
-          },
-          {
-            "id": "56b36e0657910dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g"
-            }
-          },
-          {
-            "id": "34bd7902ef8d6ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@analysis - measure flight capacity of H rustica under load"
-            }
-          },
-          {
-            "id": "40c53fee9b9e3762",
-            "type": "leaf",
-            "state": {
-              "type": "ReferencesView",
-              "state": {},
-              "icon": "graduation-cap",
-              "title": "References"
+              "icon": "telescope",
+              "title": "Discourse context"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,54 +250,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52a6157ff66a58c2",
+  "active": "a69ad3d5a19a22d0",
   "lastOpenFiles": [
-    "DiscourseGraph/EVD - Short CVs with only top-tier papers rated higher than identical CVs plus low-impact papers - @wangBarabasiScienceScience2021.md",
-    "ISS - Create discourse node from template.md",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md",
-    "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
-    "DiscourseGraph/CLM - Status-based citation inflation is largest for novel and cross-disciplinary work - the work hardest to evaluate by other means.md",
-    "Meta/Attachments/node-log.png",
-    "DiscourseGraph/EXP - compare citation trajectory  in preprint vs journal stage.md",
-    "DiscourseGraph/HYP - both real quality and status amplification affect citation count.md",
-    "DiscourseGraph/HYP - the effects of real quality & status amplification on citation count can be disentangled.md",
-    "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird can be estimated mathematically.md",
-    "DiscourseGraph/HYP- airspeed velocity will not differ significantly between EUR & AFR swallows.md",
-    "DiscourseGraph/QUE - Is citation count a hopelessly confounded metric.md",
-    "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md",
-    "Meta/Attachments/birdmath.png",
-    "DiscourseGraph/CLM - Cumulative citation advantage reflects both real quality and status amplification making the two difficult to separate.md",
-    "Meta/Templates/Source.md",
-    "DiscourseGraph/CLM - Too much data can can make sensemaking & decision-maki.md",
-    "Bases/Sources.base",
-    "DiscourseGraph/@CedricChin - CommonCog.md",
-    "DiscourseGraph/QUE - culinary implications of heterogeneity in avian musculature.md",
-    "DiscourseGraph/QUE - what am I even doing here?.md",
-    "DiscourseGraph/QUE - What are the culinary implications of differences in avian musculature?.md",
-    "DiscourseGraph/QUE - African or European?.md",
-    "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-    "Meta/Attachments/graph-argument-evd.png",
-    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
-    "DiscourseGraph/CLM - Citations track genuine intellectual influence not merely social network position.md",
-    "Meta/Attachments/graph-argument.png",
-    "Meta/Attachments/gap-spotting.png",
+    "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
+    "Meta/Attachments/discourse-context.png",
+    "DiscourseGraph/@azoulay2012Matthew.md",
+    "DiscourseGraph/EVD - testing templates 2.md",
+    "DiscourseGraph/EVD - HHMI citation boost concentrated on novel and cross-disciplinary articles - @azoulayMatthewEffectFable2014 (Roam).md",
+    "DiscourseGraph/@mertonMatthewEffectScience1968.md",
+    "DiscourseGraph/CLM - It's all a matter of weight ratios.md",
+    "Meta/Templates/Question.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
+    "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
+    "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
-    "Meta/Attachments/ms-canvas.png",
-    "Meta/Attachments/canvas-export.png",
-    "Meta/Attachments/canvas-walkthru01.gif",
-    "attachments/group-mgmt.PNG",
-    "attachments/admin-panel02.PNG",
+    "Meta/Attachments/canvas-export 1.png",
+    "Discourse Graph Sandbox/Guides/Using the Canvas.md",
+    "Discourse Graph Sandbox/Guides/Discourse Context.md",
+    "Discourse Canvas/Canvas-Bio-PRJ-example.md",
+    "Meta/Attachments/key-img-setting.png",
+    "Meta/Attachments/annotate-canvas.png",
+    "Discourse Graph Sandbox/Guides/Candidate nodes.md",
+    "Meta/Attachments/existing-relations-canvas.gif",
+    "Meta/Attachments/relation-error.webp",
+    "Meta/Attachments/create-node-canvas.gif",
+    "Meta/Attachments/drag-relation.gif",
+    "Discourse Graph Sandbox/Guides/drag-relation.gif",
+    "Meta/Attachments/create-relation-canvas.gif",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "DECISIONS.md.tmp.758.5a1d06aaec0e",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/Hypothesis.md",
+    "Bases/Questions.base",
+    "Projects/PRJ - Horizontal Dashboard test.md",
+    "DiscourseGraph/QUE - test long node conversion.md",
+    "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
+    "Discourse Graph Sandbox/Guides/Creating Relations.md",
+    "Discourse Graph Sandbox/Users/Obsidian User.md",
+    "Discourse Graph Sandbox/Users/Blank Slate.md",
+    "DECISIONS.md.tmp.10608.afee524897b9",
+    "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
+    "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
+    "Meta/Templates/Evidence.md.tmp.1936.9c10e5e268d5",
+    "Bases/Sources.base",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
     "Meta/Attachments/information_analysis.png:Zone.Identifier",
-    "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md.tmp.11171.4692e84e2249",
-    "Discourse Graph Sandbox/Workflows/Synthesize Insights from the Literature.md.tmp.11171.f19d14eaa633",
-    "Discourse Graph Sandbox/Workflows/Track your Projects and Experiments.md.tmp.11171.f3b67fddc566",
-    "Discourse Graph Sandbox/Workflows/Share your Ideas and Research.md.tmp.11171.002c19fa6b33",
-    "Discourse Graph Sandbox/Users/Obsidian User.md.tmp.11171.8e23a9a2c4de",
-    "Discourse Graph Sandbox/Users/Blank Slate.md.tmp.11171.375d0f0c2782",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"

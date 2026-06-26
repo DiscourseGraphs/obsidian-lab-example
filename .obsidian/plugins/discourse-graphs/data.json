@@ -103,6 +103,16 @@
       "modified": 1777371361833,
       "description": "An untested claim posed for discussion",
       "keyImage": true
+    },
+    {
+      "id": "node_kAWsJzpPKx62Ys03qh289",
+      "name": "test",
+      "format": "TEST - {content}",
+      "template": "Test template",
+      "tag": "",
+      "color": "#808080",
+      "created": 1781800050362,
+      "modified": 1781800071284
     }
   ],
   "relationTypes": [

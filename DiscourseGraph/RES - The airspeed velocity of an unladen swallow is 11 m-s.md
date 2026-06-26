@@ -11,11 +11,17 @@ aliases:
   - RES - The airspeed velocity of an unladen swallow is 11-17 meters per second
 nodeInstanceId: 019dde97-f22e-780d-a5d6-89cb4a1cd106
 ---
-
 ## Summary
-- The first empirical result in  [[PRJ - Passarine Songbird Cargo Capacity]], from [[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]]
+African & European swallows both flew at 11m/s in the windtunnel
+![[Pasted image 20260618175027.png]]
+
 
 ## Grounding Context
+
+- The first empirical result in  [[PRJ - Passarine Songbird Cargo Capacity]], from [[@analysis - measure airspeed of unladen & laden AFR & EUR swallows]]
+
+## Finding
+
  wind tunnel measurements of AFR & EUR swallows show no significant differences between subtypes, converge on ~11m/s
 ![[bird_wind_tunnel_b-1150.jpg|400]]
 ## Snippets

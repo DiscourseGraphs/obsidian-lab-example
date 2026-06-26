@@ -1,0 +1,98 @@
+---
+nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
+template: "[[Question]]"
+newNoteFolder: DiscourseGraph
+tags:
+cssclasses: dg-que
+nodeInstanceId: 019ef57a-7169-7492-b5d1-dbcf9dcad384
+---
+
+# Using Templates
+
+The **Meta/Templates** folder in this vault contains templates for every discourse node type in this vault as well as Experiments, Projects, the Personal Home Page, and the various Logs.
+
+_Question template_
+
+Using the "Convert Into" option from the 3-dot menu or selecting text and pressing "Turn into discourse node" on the popup menu applies the selected Template to the file/text in question.
+
+The discourse graph plugin handles the discourse node templates, while the [Templater](https://obsidian.md/plugins?id=templater-obsidian) plugin is used to style and inject dynamic content into the Daily Notes Page, Project Pages, Experiment Pages, & Logs. It also handles certain scripted file creation workflows.
+
+These templates are markdown files, some of which contain [Datacore](https://github.com/blacksmithgu/datacore) js to add enhanced scripting/querying functionality. The main Datacore uses at present are to support the daily log entry functionality and the button used to alias filenames to prevent import/export issues across OSes. 
+
+## Summary
+
+## Related QUE/CLM/EVD
+
+## Testable Hypotheses
+
+## Key Papers
+
+## Notes
+
+> [!log] Log
+
+```datacorejsx
+return function AddLogEntry() {
+  const current = dc.useCurrentFile();
+  const [msg, setMsg] = dc.useState("");
+
+  const handleClick = async () => {
+    const file = app.vault.getAbstractFileByPath(current.$path);
+    if (!file) return;
+
+    const today = new Date().toISOString().slice(0, 10);
+    const content = await app.vault.read(file);
+
+    if (content.includes(`### ${today}`)) {
+      setMsg(`${today} already exists`);
+      return;
+    }
+
+    const sep = "\n---\n";
+    const sepIdx = content.indexOf(sep);
+    const insertAt = sepIdx !== -1 ? sepIdx : content.length;
+    const newEntry = `\n\n### ${today}\n\n- \n`;
+    await app.vault.modify(
+      file,
+      content.slice(0, insertAt) + newEntry + content.slice(insertAt)
+    );
+    setMsg(`Added ${today}`);
+  };
+
+  return (
+    <span>
+      <button onClick={handleClick}>+ New log entry</button>
+      {msg && <span style={{ marginLeft: "0.7em", opacity: 0.55, fontSize: "0.85em" }}>{msg}</span>}
+    </span>
+  );
+}
+```
+
+---
+
+```datacorejsx
+return function NodeSetup() {
+  const current = dc.useCurrentFile();
+  const aliases = current.value("aliases");
+  if (aliases && aliases.length > 0) return null;
+
+  const handleClick = async () => {
+    const full = current.$name;
+    const MAX = 60;
+    const slug = full.replace(/[/?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
+    const file = app.vault.getAbstractFileByPath(current.$path);
+    if (!file) return;
+
+    await app.fileManager.processFrontMatter(file, fm => {
+      fm.aliases = [full];
+    });
+
+    if (slug !== full) {
+      const newPath = `${file.parent.path}/${slug}.md`;
+      await app.fileManager.renameFile(file, newPath);
+    }
+  };
+
+  return <button onClick={handleClick}>Save full title as alias</button>;
+}
+```

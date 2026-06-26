@@ -1,5 +1,6 @@
 ---
 nodeTypeId: node_LwROzkVH_Zck7ZxDgN91E
+template: "[[Claim]]"
 tags:
 cssclasses: dg-clm
 confidence:
