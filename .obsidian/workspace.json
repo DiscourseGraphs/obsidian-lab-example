@@ -47,24 +47,12 @@
             "id": "30e0b7ed95777569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Discourse Canvas/Canvas - QUE - Matthew Effect.md"
               },
               "icon": "lucide-file",
-              "title": "EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014"
+              "title": "Canvas - QUE - Matthew Effect"
             }
           }
         ],
@@ -255,6 +243,8 @@
   },
   "active": "30e0b7ed95777569",
   "lastOpenFiles": [
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
+    "DiscourseGraph/EVD - HHMI citation premium twice as large for low-JIF journals - @azoulayMatthewEffectFable2014.md",
     "DiscourseGraph/ISS - better weather measurements needed.md",
     "DiscourseGraph/HYP- loadbearing capacity of a 5 oz bird ranges ~5-20g.md",
     "DiscourseGraph/QUE - Is there an optimal amount of data to inform a decision.md",
@@ -262,7 +252,6 @@
     "DiscourseGraph/QUE - What are the culinary implications of differences in avian musculature?.md",
     "DiscourseGraph/RES - 5g max load at sustained cruising.md",
     "Discourse Canvas/Canvas - QUE - Matthew Effect.md",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Discourse Canvas/Canvas-Bio-PRJ-example.md",
     "Discourse Graph Sandbox/Guides/The Discourse Graph Protocol.md",
     "Discourse Graph Sandbox/Guides/The discourse graph research loop.md",
@@ -288,7 +277,6 @@
     "Meta/Attachments/lit-synth-canvas.png",
     "Meta/Attachments/biblio.png",
     "Home.md",
-    "Start Here.md",
     "Bases/Hypotheses.base",
     "Bases/Discourse Graph Nodes.base",
     "Bases/Sources.base",
