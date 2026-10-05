@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "31c6793b-954d-43c5-809f-da6b1ed242f5",
-		"plugin-version": "1.5.3",
+		"plugin-version": "1.7.0-alpha-export-import-schema",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -68,12 +68,12 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 0,
-				"y": 0,
-				"lastActivityTimestamp": 0,
-				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer"
+				"typeName": "pointer",
+				"x": 376,
+				"y": 330.015625,
+				"lastActivityTimestamp": 1787739642264,
+				"meta": {}
 			},
 			{
 				"x": 529.5,
@@ -744,7 +744,7 @@ tldr-dg: true
 				"editingShapeId": null,
 				"croppingShapeId": null,
 				"selectedShapeIds": [],
-				"hoveredShapeId": null,
+				"hoveredShapeId": "shape:q5CgoMmuADxk7D2Z4XHtR",
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -1119,7 +1119,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1783414941790",
+					"imageSrc": "app://d9529004f306a0b7c3bdef908dc3f1bbc024/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1783414941790",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -1369,7 +1369,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/sci-sci.png?1783414941808",
+					"imageSrc": "app://d9529004f306a0b7c3bdef908dc3f1bbc024/home/karola/obsidian-lab-example/Meta/Attachments/sci-sci.png?1783414941808",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -1416,7 +1416,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1783414941787"
+					"imageSrc": "app://d9529004f306a0b7c3bdef908dc3f1bbc024/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1783414941787"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1660,9 +1660,9 @@ tldr-dg: true
 				"isToolLocked": false,
 				"screenBounds": {
 					"x": 256,
-					"y": 90.4375,
-					"w": 898,
-					"h": 921.5625
+					"y": 89.984375,
+					"w": 919,
+					"h": 694.015625
 				},
 				"insets": [
 					true,
@@ -1679,7 +1679,7 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": null,
+				"isHoveringCanvas": true,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,

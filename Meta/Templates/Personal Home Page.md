@@ -3,7 +3,9 @@ return function NewItemButtons() {
   const [status, setStatus] = dc.useState("");
 
   const createFrom = async (templatePath, namePrefix, folder, promptLabel) => {
-    const name = window.prompt(promptLabel);
+    const raw = window.prompt(promptLabel);
+    if (!raw) return;
+    const name = raw.replace(/[/?:*"<>|\\]/g, '').trim();
     if (!name) return;
     const path = `${folder}/${namePrefix}${name}.md`;
     if (app.vault.getAbstractFileByPath(path)) {

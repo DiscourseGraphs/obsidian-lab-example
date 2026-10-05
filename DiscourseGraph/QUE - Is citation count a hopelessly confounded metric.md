@@ -87,7 +87,8 @@ return function AddLogEntry() {
     }
 
     const sep = "\n---\n";
-    const sepIdx = content.indexOf(sep);
+    const fmEnd = content.indexOf(sep, 3);
+    const sepIdx = content.indexOf(sep, fmEnd + 5);
     const insertAt = sepIdx !== -1 ? sepIdx : content.length;
     const newEntry = `\n\n### ${today}\n\n- \n`;
     await app.vault.modify(
