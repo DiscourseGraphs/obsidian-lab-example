@@ -9,17 +9,17 @@ skills/
 .agents/
 skills-lock.json
 
-=========================================
-OS metadata & cross-platform junk
-=========================================
-Windows alternate data streams
+# =========================================
+# OS metadata & cross-platform junk
+# =========================================
+# Windows alternate data streams
 *:Zone.Identifier
-Dropbox extended attributes
+# Dropbox extended attributes
 *:com.dropbox.attrs
 .dropbox
 .dropbox.attr
 .dropbox.cache
-Windows
+# Windows
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
@@ -28,7 +28,7 @@ Desktop.ini
 desktop.ini
 $RECYCLE.BIN/
 *.lnk
-macOS
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -37,40 +37,39 @@ macOS
 .Trashes
 .fseventsd
 .TemporaryItems
-Linux
-~
+# Linux
+*~
 .fuse_hidden
 .directory
 .Trash-*
 .nfs*
-=========================================
-Editors & IDEs
-=========================================
-VS Code — keep extensions.json,
-ignore personal settings
+# =========================================
+# Editors & IDEs
+# =========================================
+# VS Code — keep extensions.json,
+# ignore personal settings
 .vscode/*
 !.vscode/extensions.json
 !.vscode/tasks.json
 !.vscode/launch.json
 *.code-workspace
-JetBrains (IntelliJ, PyCharm, WebStorm)
+# JetBrains (IntelliJ, PyCharm, WebStorm)
 .idea/
 *.iml
 *.iws
 *.ipr
-Vim / Emacs
+# Vim / Emacs
 *.swp
-.swo
-~
-.#
-##
+*.swo
+.#*
+#*#
 .netrwhist
-Sublime
+# Sublime
 *.sublime-workspace
 *.sublime-project
-=========================================
-Secrets & environment
-=========================================
+# =========================================
+# Secrets & environment
+# =========================================
 .env
 .env.local
 .env.*.local
@@ -83,9 +82,9 @@ secrets.json
 credentials.json
 .aws/
 .gcloud/
-=========================================
-Node / JavaScript / TypeScript
-=========================================
+# =========================================
+# Node / JavaScript / TypeScript
+# =========================================
 node_modules/
 npm-debug.log*
 yarn-debug.log*
@@ -95,7 +94,7 @@ pnpm-debug.log*
 .npm/
 .yarn/
 .yarn-integrity
-Build outputs
+# Build outputs
 dist/
 build/
 out/
@@ -104,27 +103,27 @@ out/
 .svelte-kit/
 .turbo/
 .parcel-cache/
-Testing & coverage
+# Testing & coverage
 coverage/
 .nyc_output/
 *.lcov
-TypeScript
+# TypeScript
 *.tsbuildinfo
-=========================================
-Python
-=========================================
-pycache/
+# =========================================
+# Python
+# =========================================
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
-Virtual environments
+# Virtual environments
 venv/
 .venv/
 env/
 ENV/
 env.bak/
 venv.bak/
-Distribution / packaging
+# Distribution / packaging
 *.egg-info/
 *.egg
 dist/
@@ -132,28 +131,28 @@ build/
 .eggs/
 wheels/
 pip-wheel-metadata/
-Testing
+# Testing
 .pytest_cache/
 .tox/
 .coverage
 .coverage.*
 htmlcov/
 .hypothesis/
-Type checkers
+# Type checkers
 .mypy_cache/
 .pyre/
 .pytype/
 .ruff_cache/
-Jupyter
+# Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
-=========================================
-General build artifacts & logs
-=========================================
-Logs
+# =========================================
+# General build artifacts & logs
+# =========================================
+# Logs
 *.log
 logs/
-Compiled
+# Compiled
 *.com
 *.class
 *.dll
@@ -162,7 +161,7 @@ Compiled
 *.obj
 *.so
 *.dylib
-Archives — usually unintentional
+# Archives — usually unintentional
 *.7z
 *.dmg
 *.gz
