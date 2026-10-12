@@ -1,6 +1,3 @@
-# Start Here
-> [!tip] Check out the Obsidian Sandbox vault first by clicking on the ❔ next to the gear icon in the lower left panel
-> 
-Welcome to the Discourse Graph example vault.
+> [!tip] Check out the Obsidian Sandbox vault by clicking on the ❔ next to the gear icon in the lower left panel.
 
--> [[Discourse Graph Sandbox/Introduction|What is a Discourse Graph?]]
+-> [[Discourse Graph Sandbox/Welcome|👋 Welcome to the Discourse Graph example vault! Let's get you started!]]
